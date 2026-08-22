@@ -99,7 +99,9 @@ categoria já existe.
 │   ├── 2.2.07 Serviço de Limpeza                NOVA (diferente de "Material de limpeza", que é insumo)
 │   ├── 2.2.08 Controle de Pragas                id 945327 [R$ -250,00] MOVER
 │   ├── 2.2.09 Detetização                       NOVA (Oka trata separado de Controle de Pragas)
-│   ├── 2.2.10 Reformas                          NOVA (padronização)
+│   ├── 2.2.10 Reformas                          id 998256 [R$0] MOVER + RENOMEAR (era "Reformas/Estrutura",
+│   │                                            filha de "Investimentos em bens materiais". Nome real, meu
+│   │                                            levantamento original tinha cortado errado em "Estrutura")
 │   ├── 2.2.11 Gás                               id 968777 [R$ -2.014,49] MOVER (posição específica Geburger)
 │   ├── 2.2.12 IPTU                              id 945270 [R$ -662,98] MOVER (posição específica Geburger)
 │   ├── 2.2.13 Seguro                            id 945345 [R$0] MOVER (posição específica Geburger)
@@ -204,7 +206,6 @@ Saldo Inicial [P]           já existe id 939326, MANTÉM
 |---|---|---|
 | Social Meida | 1074976 | Duplicata de digitação de "Social Midia", zero lançamento |
 | Vale transporte | 945318 | Zero lançamento, redundante com "Transporte Funcionários" |
-| Estrutura | 998256 | Zero lançamento, escopo vago |
 | Mídias | 945340 | Zero lançamento, virou redundante com as categorias específicas por plataforma |
 | Pagamento de dívidas passadas | 945354 | CONFIRMADO: é empréstimo/financiamento, mesma coisa que "Pagamento de empréstimos" (id 945352, vira `5.2.03 Empréstimos`). Zero lançamento, duplicata |
 | Receita de Vendas (raiz) e as 5 filhas: Receita em Ifood Online, Receita em crédito, Receita em dinheiro, Receita em débito, Receita em pix | 964541, 964576, 964543, 1027402, 964545, 964542 | CONFIRMADO: o Saipos já lança a receita automaticamente, tanto no relatório `Vendas por período` quanto na linha `(+) Receita Operacional Bruta` do `DRE Gerencial` (é automática, não depende de vínculo de categoria, ver `../operacao/02-plano-de-contas.md`). Essa árvore de categorias em `Lançamentos financeiros` nunca foi o lugar certo pra registrar venda, por isso só tem R$ 7,00 lançado no período inteiro (provável lançamento avulso/teste). Nenhum lançamento futuro de venda precisa passar por aqui |
