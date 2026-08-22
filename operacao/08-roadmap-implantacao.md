@@ -31,11 +31,16 @@ Onde estamos e o que falta. Este é o arquivo que responde "por onde eu continuo
 
 - [x] Levantar as seções do DRE disponíveis no Saipos (7 seções)
 - [x] Levantar quais categorias estão de fato vinculadas: só 6 de 97
-- [ ] **Vincular as 91 categorias que faltam.** Isso é trabalho de tela, não
-      de leitura: entrar em `DRE Gerencial > Vincular` e escolher a seção de
-      cada categoria com lançamento
-- [ ] Decidir onde entram as categorias de marketing (Facebook, Google Ads,
-      Ifood Ads, Social Midia, hoje dentro de `Investimentos`, sem seção)
+- [x] Montar a proposta de árvore padronizada com o Oka Guaraná, ver
+      `../decisoes/2026-08-22-padronizar-categorias-financeiras-com-oka.md`
+- [ ] **Jonas responder as 7 pendências da proposta** (o que é "Comissão
+      entregadores" vs "Entregadores" vs "Delivery compras", o que é
+      "Descartáveis", por que Pró-labore está zerado, etc.)
+- [ ] **Executar a migração no Saipos** depois das pendências resolvidas:
+      renomear, mover, criar e excluir categoria conforme a proposta
+- [ ] **Vincular as 91 categorias que faltam ao DRE.** Isso vem depois da
+      migração estrutural, é trabalho de tela: entrar em `DRE Gerencial >
+      Vincular` e escolher a seção de cada categoria com lançamento
 - [ ] Decidir se `Fiado`, `Frente de Caixa`, `Fornecedores` e `Saldo Inicial`
       ficam propositalmente sem vínculo (como no Oka) ou se o Geburger quer
       outro critério
