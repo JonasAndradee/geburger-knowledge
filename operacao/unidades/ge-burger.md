@@ -9,7 +9,7 @@
 | Dia | Horário |
 |---|---|
 | Domingo | 17:30 às 23:30 |
-| Segunda-feira | fechado (não informado, confirmar) |
+| Segunda-feira | fechado |
 | Terça-feira | 17:30 às 23:00 |
 | Quarta-feira | 17:30 às 23:00 |
 | Quinta-feira | 17:30 às 23:00 |
@@ -65,8 +65,6 @@ vincular as categorias.
 
 ## Pendências
 
-- Confirmar se segunda-feira é mesmo fechado (ausente da lista de horário
-  que o Jonas passou, tratado como fechado até confirmação)
 - Vincular as 91 categorias financeiras sem seção do DRE
 - Entender por que quase metade do estoque está negativo (falta de compra
   com nota lançada? falta de contagem física?)

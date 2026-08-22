@@ -12,8 +12,7 @@ Onde estamos e o que falta. Este é o arquivo que responde "por onde eu continuo
       confirmado com o Jonas
 - [x] Confirmar CNPJ, endereço, horário de funcionamento: CNPJ
       41.861.038/0001-36, R. Alexandre Magno nº 497, Parque 10 de Novembro,
-      Manaus/AM. Horário em `unidades/ge-burger.md` (segunda-feira parece
-      fechado, a confirmar)
+      Manaus/AM. Horário em `unidades/ge-burger.md` (segunda-feira fechado)
 - [x] Puxar ingredientes e insumos completos (149 ingredientes, 16
       beneficiados, 53 fichas técnicas)
 - [x] Puxar composição de todas as 53 fichas técnicas
