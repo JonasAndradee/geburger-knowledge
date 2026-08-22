@@ -1,16 +1,18 @@
 # 04, Categorias financeiras
 
-**Versão 1, 22/08/2026.** Levantado da tela `Categorias financeiras` da loja
-Ge Burger (62061) via API do Saipos. Divergência entre o que está aqui e o
-que está na tela é bug do documento, corrija o documento.
+**Versão 2, 22/08/2026.** Levantado originalmente da tela `Categorias
+financeiras` da loja Ge Burger (62061) via API do Saipos, depois migrado
+pro padrão de codificação numérica do Oka Guaraná no mesmo dia.
 
-**Proposta de reestruturação em aberto:** ver
-`../decisoes/2026-08-22-padronizar-categorias-financeiras-com-oka.md`, que
-reaproveita o padrão de codificação do Oka Guaraná. Ainda não executada no
-Saipos, esperando o Jonas responder as pendências listadas lá. Este arquivo
-continua sendo a árvore **real** até a migração acontecer.
+**A árvore abaixo é a de ANTES da migração**, mantida como registro
+histórico. A árvore real e atual está em execução no Saipos, documentada
+com todo o detalhe (o que mudou, os 2 ajustes feitos em cima do plano
+original, e o que ficou pendente) em
+`../decisoes/2026-08-22-padronizar-categorias-financeiras-com-oka.md`,
+seção "Execução". Puxar um novo extrato bruto e substituir este arquivo
+inteiro é a próxima tarefa de levantamento, ainda não feita.
 
-Fonte bruta: `dados/categorias-financeiras-62061-2026-08-22.csv`.
+Fonte bruta (pré-migração): `dados/categorias-financeiras-62061-2026-08-22.csv`.
 
 ## Árvore
 

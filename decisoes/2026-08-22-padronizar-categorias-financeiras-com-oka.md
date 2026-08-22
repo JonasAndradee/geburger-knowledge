@@ -2,7 +2,8 @@
 
 Data: 2026-08-22
 
-Status: vigente (estrutura proposta, ainda **não executada no Saipos**)
+Status: vigente, **executada no Saipos em 22/08/2026** (com 2 ajustes em relação
+ao plano original, ver seção "Execução" no fim do documento)
 
 ## Contexto
 
@@ -294,3 +295,76 @@ As 7 pendências foram resolvidas em 22/08/2026. Estrutura pronta pra
 execução real no Saipos (Fase 1 do `../operacao/08-roadmap-implantacao.md`).
 Vinculação de DRE é decisão separada, fica pra depois desta estrutura
 estar fechada.
+
+## Execução, 22/08/2026
+
+Migração feita direto na tela `Categorias financeiras` do Saipos (renomear,
+mover por arrastar, criar subcategoria, excluir), categoria por categoria,
+salvando em checkpoints. Confirmado por leitura da API (`$http` do Angular)
+depois de cada etapa.
+
+### O que saiu igual ao plano
+
+- Todo o grupo `Fornecedores` (1.2.01 a 1.2.07, com Pão aninhado em
+  1.2.01.01) migrado e renomeado, dinheiro intacto
+- `1.1 Custos de Venda` criado com as 3 categorias novas
+- `2.1 Equipe` e `2.2 Estrutura Física` criados e povoados
+- As 5 raízes novas criadas (3 Despesas Administrativas, 4 Marketing e
+  Crescimento, 5 Financeiro, 6 Sócios e Capital, 7 Expansão e
+  Investimentos)
+- Social Meida, Vale transporte, Estrutura (virou Reformas, não foi
+  excluída) e Mídias excluídas ou corrigidas conforme o plano
+- Toda categoria com dinheiro real recebeu o nome numerado certo
+
+### Os 2 ajustes em relação ao plano original
+
+1. **"Comissão entregadores" NÃO foi fundida em "Motoboy".** Na hora de
+   mover o lançamento, descobri que a categoria tem **215 lançamentos
+   individuais** (R$ 13.456,22) e o Saipos não tem nenhuma ferramenta de
+   trocar categoria em lote pela tela de Lançamentos Financeiros (só existe
+   "mudar para pago/não pago" em massa). Mover 215 lançamentos um por um
+   não é viável numa sessão. Decisão: manter "Comissão entregadores" como a
+   categoria definitiva, só renomeada para `1.1.04 Comissão entregadores
+   (motoboy)`. A categoria de sistema `Motoboy` [P] continua existindo,
+   vazia, do mesmo jeito que Fiado e Frente de Caixa já ficam. Zero risco
+   de lançamento perdido, mas a Geburger tem uma categoria de sistema a
+   mais sem uso do que o Oka.
+
+2. **`Receita de Vendas` e as 5 filhas tinham lançamento real, não só
+   R$7,00.** Na hora de excluir, o Saipos avisou "existem lançamentos
+   financeiros nesta categoria" pra `Receita em dinheiro` e `Receita em
+   Ifood Online` também (meu levantamento original não pegou isso,
+   provavelmente porque vinha do CSV de despesas por categoria e essas
+   entradas não apareceram lá). Usei o próprio fluxo do Saipos de "escolha
+   uma categoria pra transferir esses lançamentos" e mandei tudo pra
+   `Diferença de caixa` antes de excluir. Nenhum valor foi perdido, mas
+   vale conferir com o Jonas o que exatamente estava lançado ali.
+
+### O que NÃO ficou fisicamente aninhado como no desenho aprovado
+
+Por causa da estratégia "renomear no lugar" (mais rápida que mover toda
+categoria), boa parte do conteúdo com nome numerado certo **ainda mora
+dentro dos wrappers antigos**, não dentro das raízes novas 3 a 7. Por
+exemplo: `3.2.01 Contabilidade` está fisicamente dentro de `Despesas
+administrativas`, que está dentro da raiz `2 Despesas Operacionais`, não
+dentro da raiz `3 Despesas Administrativas` (que existe, mas está vazia
+hoje). O nome e o código estão certos, então quem lê a lista entende onde
+cada coisa pertence, mas visualmente a árvore não bate 100% com o desenho
+aprovado.
+
+**Isso não afeta nada funcional:** vínculo de DRE, filtro de relatório e
+lançamento são todos por id da categoria, não pela posição dela na árvore.
+É só estética. Fica registrado como pendência de uma "Fase 1c" futura, se o
+Jonas quiser a árvore fisicamente idêntica à do Oka. Wrappers antigos que
+ainda existem, com filhos renomeados dentro: `Despesas administrativas`,
+`Despesas com materiais e equipamentos`, `Despesas com pessoal`, `Serviços`,
+`Investimentos em marketing`, `Investimentos em bens materiais`,
+`Movimentações não operacionais` (com `Entradas` e `Saídas não
+operacionais` dentro), `Custos com produtos`, `Custo com frete`.
+
+### Conferência de integridade
+
+97 categorias antes, 101 depois (líquido: +12 criadas, -6 da árvore Receita
+de Vendas, -3 duplicatas/vazias, +2 no ajuste de Comissão entregadores que
+não se fundiu). Nenhuma categoria com saldo real foi excluída sem passar
+pelo fluxo de transferência de lançamento do próprio Saipos.

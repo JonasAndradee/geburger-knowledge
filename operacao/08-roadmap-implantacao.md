@@ -37,11 +37,24 @@ Onde estamos e o que falta. Este é o arquivo que responde "por onde eu continuo
       entregadores/Entregadores/Delivery compras, Descartáveis, Pró-labore,
       Recursos Humanos, Receita de Vendas, Pagamento de dívidas passadas,
       Garçom). Estrutura fechada, pronta pra execução
-- [ ] **Executar a migração no Saipos**: renomear, mover, criar e excluir
-      categoria conforme a proposta. Único caso que exige mover lançamento
-      na mão é "Comissão entregadores" (R$ 13.456,22) pra dentro de
-      "Motoboy"
-- [ ] **Vincular as 91 categorias que faltam ao DRE.** Isso vem depois da
+- [x] **Migração executada no Saipos em 22/08/2026.** 97 categorias
+      viraram 101, renomeadas com o código numérico, `Receita de Vendas`
+      excluída (com transferência de lançamento real pro Saipos), 4
+      categorias vazias/duplicadas excluídas. Único ajuste em relação ao
+      plano: "Comissão entregadores" tinha 215 lançamentos individuais e o
+      Saipos não tem troca de categoria em lote, então ficou como categoria
+      própria renomeada em vez de fundir em "Motoboy". Detalhe completo em
+      `../decisoes/2026-08-22-padronizar-categorias-financeiras-com-oka.md`
+- [ ] **Fase 1c, opcional:** boa parte do conteúdo renomeado ainda mora
+      fisicamente dentro dos wrappers antigos (ex: `3.2.01 Contabilidade`
+      dentro de `Despesas administrativas`, que é filha da raiz `2`, não da
+      raiz `3`), não dentro das raízes numeradas novas. Não afeta DRE nem
+      relatório (que são por id, não por posição na árvore), é só estética.
+      Arrastar pra posição final se o Jonas quiser a árvore idêntica à do
+      Oka
+- [ ] **Puxar novo extrato de `04-categorias-financeiras.md`** pós-migração
+      (o arquivo hoje ainda mostra a árvore de antes)
+- [ ] **Vincular as categorias que faltam ao DRE.** Isso vem depois da
       migração estrutural, é trabalho de tela: entrar em `DRE Gerencial >
       Vincular` e escolher a seção de cada categoria com lançamento
 - [ ] Decidir se `Fiado`, `Frente de Caixa`, `Fornecedores` e `Saldo Inicial`
