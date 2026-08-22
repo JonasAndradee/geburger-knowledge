@@ -15,7 +15,7 @@ agora:
 
 | Unidade | Papel | ID no PDV | CNPJ |
 |---|---|---|---|
-| Ge Burger | única confirmada | 62061 | [preencher] |
+| Ge Burger | única, confirmado com o Jonas em 22/08/2026 | 62061 | 41.861.038/0001-36 |
 
 Regime tributário: [preencher]. Contabilidade: [preencher]. Gerente de
 operação: [preencher].

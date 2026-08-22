@@ -14,10 +14,12 @@ o dado é do Oka e que precisa ser validado no Geburger antes de virar decisão.
 
 Geburger, hamburgueria em Manaus/AM.
 
-Unidades: 1 confirmada até 22/08/2026, "Ge Burger", ID 62061 no Saipos.
-Não confirmado se existe mais alguma unidade.
+Unidades: 1, "Ge Burger", ID 62061 no Saipos. Confirmado com o Jonas em
+22/08/2026 que é loja única, não existe outra unidade Geburger.
 
-Endereços: [preencher]
+Endereços: R. Alexandre Magno, nº 497, Parque 10 de Novembro, Manaus, AM,
+69054-723. CNPJ 41.861.038/0001-36. Horário em
+`operacao/unidades/ge-burger.md`.
 
 WhatsApp de atendimento: [preencher]. Site de pedido: [preencher, delivery
 próprio aparece como canal "Site Delivery (SAIPOS)" nos relatórios]
@@ -27,7 +29,8 @@ R$ 70.937,61), site/delivery próprio via Saipos (822 pedidos,
 R$ 74.266,70), telefone (285 pedidos, R$ 22.571,11), 99Food (66 pedidos,
 R$ 4.283,92, só a partir de abril/2026), além de balcão, mesa e ficha
 vendidos direto no PDV. Facebook e WhatsApp como canal de venda registrado:
-0 pedidos no período. Ver `operacao/unidades/ge-burger.md`.
+0 pedidos no período. Jonas confirmou em 22/08/2026 que esse retrato bate
+com a percepção dele do negócio. Ver `operacao/unidades/ge-burger.md`.
 
 Sócios e papéis: [preencher]
 

@@ -1,10 +1,21 @@
 # Ge Burger
 
 **ID no PDV (Saipos):** 62061
-**CNPJ:** [preencher]
-**Papel:** única unidade confirmada até 22/08/2026
-**Endereço:** [preencher]
-**Horário:** [preencher]
+**CNPJ:** 41.861.038/0001-36
+**Papel:** única unidade do Geburger, confirmado com o Jonas em 22/08/2026
+**Endereço:** R. Alexandre Magno, nº 497, Parque 10 de Novembro, Manaus, AM, 69054-723
+**Horário:**
+
+| Dia | Horário |
+|---|---|
+| Domingo | 17:30 às 23:30 |
+| Segunda-feira | fechado (não informado, confirmar) |
+| Terça-feira | 17:30 às 23:00 |
+| Quarta-feira | 17:30 às 23:00 |
+| Quinta-feira | 17:30 às 23:00 |
+| Sexta-feira | 17:30 às 23:30 |
+| Sábado | 17:30 às 23:30 |
+
 **WhatsApp:** [preencher]
 **Atualizado em:** 22/08/2026
 
@@ -54,8 +65,16 @@ vincular as categorias.
 
 ## Pendências
 
-- CNPJ, endereço e horário de funcionamento
-- Confirmar se existe mais de uma unidade Geburger ou se é loja única
+- Confirmar se segunda-feira é mesmo fechado (ausente da lista de horário
+  que o Jonas passou, tratado como fechado até confirmação)
 - Vincular as 91 categorias financeiras sem seção do DRE
 - Entender por que quase metade do estoque está negativo (falta de compra
   com nota lançada? falta de contagem física?)
+
+## Confirmações do Jonas em 22/08/2026
+
+- Loja única, sem outra unidade Geburger
+- CNPJ, endereço e horário acima, informados diretamente
+- Canais de venda do período (iFood líder em pedidos, Site Delivery líder em
+  faturamento, Facebook/WhatsApp com zero pedidos como canal) batem com a
+  percepção dele do negócio
