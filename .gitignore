@@ -1,0 +1,26 @@
+# Dado pessoal de cliente NUNCA entra neste repositório.
+# Telefone, nome, endereço e qualquer exportação bruta com esses campos
+# ficam no sistema de origem, nunca aqui. Se algum arquivo desses aparecer
+# no `git status`, ele está no lugar errado, não é para ignorar e depois
+# versionar de outro jeito.
+
+# Exportações brutas com dado pessoal
+*clientes*.csv
+*telefones*
+*contatos*
+*leads*.csv
+
+# Credenciais e segredos
+.env
+.env.*
+*.pem
+*.key
+credenciais*
+secrets*
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Config local do Claude Code
+.claude/settings.local.json
