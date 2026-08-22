@@ -58,7 +58,9 @@ categoria já existe.
 │   ├── 1.1.02 Taxas iFood                      NOVA (comissão do iFood ainda não tem categoria própria aqui)
 │   ├── 1.1.03 Taxas 99food                     NOVA
 │   ├── Despesas Financeiras (Taxas de cartão + Aluguel Máquinas) [P]   já existe id 939324, MANTÉM
-│   └── Motoboy [P]                              já existe id 939315, MANTÉM (ver PENDÊNCIA 1)
+│   └── Motoboy [P]                              já existe id 939315, RECEBE FUSÃO de "Comissão entregadores"
+│                                                  (id 965890, R$ -13.456,22, taxa de entrega paga por pedido).
+│                                                  Mover lançamento na mão, depois excluir id 965890 vazia
 └── Fornecedores [P]                             já existe id 939307, hoje vazia, VIRA PAI de baixo
     ├── 1.2.01 Insumos                           id 945362 [R$ -67.417,04] MOVER (era filha de "Custos com produtos")
     │   └── 1.2.01.01 Pão                        id 1665263 [R$ -1.114,00] MOVER, mantém aninhado
@@ -67,7 +69,8 @@ categoria já existe.
     ├── 1.2.04 Salgados                          NOVA (padronização, Geburger pode nunca usar)
     ├── 1.2.05 Congelados                        id 945361 [R$ -4.846,80] MOVER (posição específica Geburger)
     ├── 1.2.06 Hortifruti                        id 945364 [R$ -2.216,07] MOVER (posição específica Geburger)
-    └── 1.2.07 Descartáveis (embalagem de pedido) id 945367 [R$ -1.972,22] MOVER, ver PENDÊNCIA 2
+    └── 1.2.07 Descartáveis (embalagem de pedido) id 945367 [R$ -1.972,22] MOVER. CONFIRMADO pelo Jonas: é copo
+                                                  de refri e guardanapo que vão pro cliente, não é consumo interno
 
 2 Despesas Operacionais
 ├── 2.1 Equipe
@@ -79,7 +82,10 @@ categoria já existe.
 │   │   ├── 2.1.05.01 Alimentação                id 945323 [R$ -8.762,48] MOVER
 │   │   │   └── Água (item específico)           id 1665262 [R$0] MOVER, mantém aninhado
 │   │   └── 2.1.05.02 Transporte Funcionários    id 967269 [R$ -6.722,27] MOVER
-│   └── Garçom [P]                                já existe id 939316, sem uso hoje, ver PENDÊNCIA 7
+│   ├── 2.1.06 Entregadores (diária fixa)       id 945324 [R$ -6.310,00] MOVER (era "Entregadores", raiz solta).
+│   │                                            CONFIRMADO: taxa fixa de R$30/dia paga ao entregador, diferente
+│   │                                            da comissão por pedido que vai pro "Motoboy"
+│   └── Garçom [P]                                já existe id 939316, sem uso hoje, ver pendência em aberto 4
 ├── 2.2 Estrutura Física
 │   ├── 2.2.01 Aluguel                           id 945268 [R$ -24.500,00] MOVER
 │   ├── 2.2.02 Condomínio                        NOVA (padronização)
@@ -98,10 +104,11 @@ categoria já existe.
 │   ├── 2.2.15 Manutenção ar condicionado        id 945331 [R$ -1.150,00] MOVER (posição específica Geburger)
 │   └── 2.2.16 Manutenção elétrica               id 1040044 [R$ -230,00] MOVER (era "Manutenção de Rede Elétrica", raiz solta)
 ├── 2.3 Logística
-│   ├── 2.3.01 Fretes                            NOVA, ver PENDÊNCIA 1 (pode receber "Delivery compras")
+│   ├── 2.3.01 Fretes                            NOVA (padronização)
 │   └── 2.3.02 Transporte
 │       ├── 2.3.02.01 Gasolina                   NOVA (padronização)
-│       └── 2.3.02.02 Uber/99                    NOVA (padronização)
+│       └── 2.3.02.02 Uber/99                    id 945369 [R$ -3.923,03] MOVER (era "Delivery compras", raiz solta).
+│                                                CONFIRMADO: gasto com Uber/motoboy pra buscar insumo, não é entrega ao cliente
 ├── 2.4 Operação
 │   ├── 2.4.01 Material de Cozinha               id 945329 [R$ -822,80] RENOMEAR (era "Materiais de Copa e Cozinha")
 │   ├── 2.4.02 Material de Limpeza               id 945328 [R$ -1.269,86] MOVER
@@ -119,7 +126,7 @@ categoria já existe.
 ├── 3.2 Serviços Profissionais
 │   ├── 3.2.01 Contabilidade                     id 945271 [R$ -3.500,00] RENOMEAR (era "Contador")
 │   ├── 3.2.02 Jurídico                          NOVA (padronização)
-│   └── 3.2.03 Consultorias                      NOVA, ver PENDÊNCIA 3 (pode receber "Recursos Humanos")
+│   └── 3.2.03 Consultorias                      NOVA, ver pendência em aberto 1 (pode receber "Recursos Humanos")
 ├── 3.3 Serviços Terceirizados
 │   ├── 3.3.01 Gestão financeira                 id 945277 [R$ -2.100,00] RENOMEAR (era "Assessoria financeira")
 │   ├── 3.3.02 Gestão de tráfego                 id 945276 [R$ -5.600,00] RENOMEAR (era "Gestor de tráfego")
@@ -164,9 +171,10 @@ categoria já existe.
     └── 5.2.06 Empréstimos obtidos               id 945348 [R$0] MOVER (entrada de empréstimo, não saída, posição específica Geburger)
 
 6 Sócios e Capital
-├── 6.1 Pró-labore                               id 945320 [R$0] RENOMEAR, ver PENDÊNCIA 4
+├── 6.1 Pró-labore                               id 945320 [R$0] RENOMEAR. CONFIRMADO pelo Jonas: os sócios não tiram
+│                                                pró-labore hoje, R$0 é real, não é lacuna de lançamento
 ├── 6.2 Distribuição de lucros                   id 945355 [R$ -5.355,00] RENOMEAR
-├── 6.3 Retirada extraordinária                  NOVA, ver PENDÊNCIA 6 (pode receber "Pagamento de dívidas passadas")
+├── 6.3 Retirada extraordinária                  NOVA, ver pendência em aberto 3 (pode receber "Pagamento de dívidas passadas")
 └── 6.4 Aportes dos sócios                       id 945349 [R$0] RENOMEAR (era "Capitalização dos sócios")
 
 7 Expansão e Investimentos
@@ -211,39 +219,51 @@ subcategorias. Não confirmamos se o Saipos remove raiz vazia do mesmo jeito
 que remove subcategoria vazia. Verificar na tela depois de mover os filhos,
 e se não sumir sozinha, excluir na mão (sem risco, já está vazia).
 
-## Pendências, decisão do Jonas antes de eu executar
+## Pendências
 
-1. **Comissão entregadores (R$ -13.456,22) + Entregadores (R$ -6.310,00) +
-   Delivery compras (R$ -3.923,03).** Três categorias diferentes de custo
-   de entrega, R$ 23.689,25 no total. Preciso saber o que cada uma
-   representa pra decidir se viram uma coisa só dentro de "Motoboy" [P]
-   (que hoje existe e está vazia) ou se ficam separadas: por exemplo,
-   comissão por entrega variável vs. salário fixo de entregador CLT vs.
-   outra coisa em "Delivery compras". Isso também decide se precisa mover
-   lançamento na mão (fundir) ou só mover a categoria (reposicionar).
-2. **Descartáveis (R$ -1.972,22).** É embalagem que vai no pedido do
-   cliente (aí é `1.2.07`, custo de venda, entra no CMV) ou é copo e
-   guardanapo de uso interno da equipe (aí é `3.1.01 Consumo`, e nunca
-   deveria ter sido lançado como custo de produto)? Isso muda a seção do
-   DRE também, então melhor decidir agora.
-3. **Recursos Humanos (R$ -107,27).** Valor pequeno, mas quero confirmar se
+### Resolvidas pelo Jonas em 22/08/2026
+
+1. ~~Comissão entregadores + Entregadores + Delivery compras~~. São três
+   coisas diferentes: **Comissão entregadores** (R$ -13.456,22) é a taxa de
+   entrega paga por pedido, vai fundida em `Motoboy` [P]. **Entregadores**
+   (R$ -6.310,00) é a diária fixa de R$30/dia paga ao entregador, vira
+   `2.1.06 Entregadores (diária fixa)`. **Delivery compras** (R$ -3.923,03)
+   é gasto com Uber/motoboy pra buscar insumo, não tem nada a ver com
+   entrega ao cliente, vira `2.3.02.02 Uber/99`.
+2. ~~Descartáveis~~ (R$ -1.972,22). Confirmado: é copo de refri e
+   guardanapo que vão pro cliente. Fica em `1.2.07`, custo de venda, entra
+   no CMV. Não é `3.1.01 Consumo`.
+3. ~~Pró-labore zerado~~. Confirmado: os sócios não tiram pró-labore hoje.
+   R$0 é o número real, não é lançamento faltando.
+
+### Em aberto, decisão do Jonas antes de eu executar
+
+1. **Recursos Humanos (R$ -107,27).** Valor pequeno, mas quero confirmar se
    é taxa de serviço de RH/recrutamento antes de jogar em `3.2.03
    Consultorias`.
-4. **Pró-labore está com R$ 0,00 lançado no período inteiro.** Estranho pra
-   um negócio rodando há meses. O sócio retira por fora do Saipos
-   (transferência direta sem lançamento) ou isso não foi lançado ainda?
-5. **Receita de Vendas e as 5 subcategorias** (Ifood Online, crédito,
+2. **Receita de Vendas e as 5 subcategorias** (Ifood Online, crédito,
    dinheiro, débito, pix) têm só R$ 7,00 de lançamento no período inteiro.
    A receita real está no relatório "Vendas por período", não em
    lançamento financeiro. Posso excluir essa árvore inteira, ou você usa
    isso pra algum controle manual que eu não vi?
-6. **Pagamento de dívidas passadas (R$ 0,00).** Dívida de quê? Se for
+3. **Pagamento de dívidas passadas (R$ 0,00).** Dívida de quê? Se for
    empréstimo, entra em `5.2.03 Empréstimos`. Se for outra coisa (fornecedor
    em atraso, por exemplo), crio uma posição própria em `6.3 Retirada
    extraordinária` ou mantenho separada.
-7. **Garçom [P] existe mas nunca recebeu lançamento.** A Geburger tem
+4. **Garçom [P] existe mas nunca recebeu lançamento.** A Geburger tem
    atendimento de salão com garçom, ou essa categoria pode ficar sem uso
    mesmo (ela é padrão do sistema, não dá pra excluir)?
+
+### Fusão que precisa mover lançamento na mão
+
+Só um caso na proposta inteira: **"Comissão entregadores" (id 965890) para
+dentro de "Motoboy" [P] (id 939315).** R$ 13.456,22 em lançamentos.
+"Motoboy" já existe e está vazia, então não dá pra só renomear "Comissão
+entregadores" e virar "Motoboy": tem que editar cada lançamento e trocar a
+categoria pra "Motoboy", um por um (ou em lote, se o Saipos tiver essa
+opção, ainda não testamos). Depois de tudo migrado, excluir "Comissão
+entregadores" vazia. Todo o resto da proposta é renomear ou mover
+categoria, sem tocar em lançamento individual.
 
 ## Motivo
 
