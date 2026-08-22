@@ -2,24 +2,27 @@
 
 Instruções para qualquer agente ou pessoa trabalhando dentro desta pasta.
 
-**Versão 1, 21/08/2026.** Estrutura criada vazia, espelhando o repositório
-`oka-guarana`. Nada aqui foi levantado ainda: todo `[preencher]` é lacuna
-conhecida.
+**Versão 2, 22/08/2026.** Primeiro levantamento real feito via Saipos
+(loja Ge Burger, ID 62061). Ainda restam vários `[preencher]`: são lacuna
+conhecida, não suposição.
 
 ---
 
 ## Contexto
 
-Geburger, hamburgueria em Manaus. Unidades operando no PDV:
+Geburger, hamburgueria em Manaus. PDV é o Saipos. Unidade confirmada até
+agora:
 
 | Unidade | Papel | ID no PDV | CNPJ |
 |---|---|---|---|
-| [preencher] | matriz | [preencher] | [preencher] |
+| Ge Burger | única confirmada | 62061 | [preencher] |
 
 Regime tributário: [preencher]. Contabilidade: [preencher]. Gerente de
 operação: [preencher].
 
 Modelo de compras e estoque: [preencher, centralizado ou por unidade]
+
+Ver `unidades/ge-burger.md` para o estado de configuração detalhado.
 
 ---
 
@@ -65,7 +68,11 @@ Definir aqui depois de montar `04-categorias-financeiras.md`.]
 
 Nunca dê orientação que quebre alguma destas.
 
-[preencher a partir do que for confirmado na tela do PDV do Geburger.]
+**[NOVA, 22/08/2026]** Não usar o `DRE Gerencial` do Saipos para decisão
+de negócio até vincular as categorias financeiras. Hoje só 6 de 97 estão
+vinculadas a uma seção, então o "Lucro operacional" que a tela mostra está
+subestimando o gasto real. Ver `02-plano-de-contas.md` e
+`04-categorias-financeiras.md`.
 
 Candidatas herdadas do Oka Guaraná, que valem para qualquer operação de
 alimentação com controle de estoque e ficha técnica. **Revalidar cada uma no

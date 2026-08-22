@@ -7,21 +7,22 @@ espere eu pedir.
 
 ## Conta de anúncios
 
-**Atenção antes de qualquer leitura ou alteração:** a BM é compartilhada com o
-Oka Guaraná e existe uma conta de anúncios nomeada "Ge burger" que, até
-21/08/2026, rodava só campanha do Oka (ID `1791673788120226`, registrada no
-repo `oka-guarana`). Nome de conta aqui não é garantia de dono.
-
-Conta de anúncios do Geburger: [preencher o ID depois de confirmar na tela]
+**Confirmada em 22/08/2026:** `708536560751820`, "Gê Burger -> Digital
+Livre". A BM é compartilhada com o Oka Guaraná (BM "Ge burger",
+`584310666620290`) e existe uma conta chamada "Ge burger"
+(`1791673788120226`) que na verdade roda campanha do Oka, não do Geburger.
+Nome de conta não é garantia de dono, sempre confira o ID.
 
 Sempre liste as contas e as páginas disponíveis e confirme comigo qual é a
 certa antes da primeira análise da sessão.
 
 ## Baseline
 
-Leia [baseline.md](baseline.md) antes de qualquer análise. Enquanto ele estiver
-vazio, não existe referência de comparação: diga isso em vez de chamar qualquer
-número de bom ou ruim.
+Leia [baseline.md](baseline.md) antes de qualquer análise. Baseline
+preenchido em 22/08/2026 com os últimos 90 dias: R$ 7.200,73 investidos,
+CPM R$ 5,38, CTR de link 0,35%, 210 compras atribuídas pelo pixel, ROAS 1,3.
+O pixel tem qualidade de correspondência baixa (ver `00-descoberta.md`),
+então esse ROAS provavelmente está subestimado.
 
 ## Diagnóstico em cascata
 

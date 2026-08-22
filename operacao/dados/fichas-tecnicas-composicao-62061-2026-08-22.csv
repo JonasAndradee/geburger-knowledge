@@ -1,0 +1,244 @@
+ficha_id,ficha_nome,ficha_tipo,ficha_custo_medio,ficha_yield,ingrediente_id,ingrediente_nome,qtd_base,variacoes
+3825272,Cebola Caramelizada,benefited,12.33,1.17,3811947,Cebola Branca,1.648,
+3825272,Cebola Caramelizada,benefited,12.33,1.17,3811982,Açúcar,0.15,
+3825272,Cebola Caramelizada,benefited,12.33,1.17,3811986,Shoyu,0.15,
+3825282,Molho Maionese Caseira,benefited,8.20422222222222,1.8,3811978,Leite Integral,0.5,
+3825282,Molho Maionese Caseira,benefited,8.20422222222222,1.8,3812001,Mostarda Cepera,0.15,
+3825282,Molho Maionese Caseira,benefited,8.20422222222222,1.8,3811992,Oléo Soja,0.85,
+3825282,Molho Maionese Caseira,benefited,8.20422222222222,1.8,3845223,Orégano,0.01,
+3825282,Molho Maionese Caseira,benefited,8.20422222222222,1.8,3811982,Açúcar,0.02,
+3825282,Molho Maionese Caseira,benefited,8.20422222222222,1.8,3812011,Sal,0.02,
+3825282,Molho Maionese Caseira,benefited,8.20422222222222,1.8,3811960,Cebolinha (Cheiro Verde),0.1,
+3825287,Catupiry Empanado,benefited,5.32,18,3811980,Catupiry Original,1.5,
+3825287,Catupiry Empanado,benefited,5.32,18,3811914,Ovo,5,
+3825287,Catupiry Empanado,benefited,5.32,18,3811978,Leite Integral,1,
+3825287,Catupiry Empanado,benefited,5.32,18,3812030,Farinha Panko,0.6,
+3825287,Catupiry Empanado,benefited,5.32,18,3812025,Trigo,0.5,
+3825294,Batata Frita,datasheet,4.3469999999999995,1,3811923,Batata Palito,0,98:0.12-0.23
+3825297,Onion Rings,datasheet,2.625,1,3811926,Onion Rings,0,63:0.04-0.105
+3825318,FRANGO EMPANADO,benefited,2.73,12,3811911,Peito de Frango,1,
+3825318,FRANGO EMPANADO,benefited,2.73,12,3811914,Ovo,3,
+3825318,FRANGO EMPANADO,benefited,2.73,12,3812030,Farinha Panko,0.25,
+3825318,FRANGO EMPANADO,benefited,2.73,12,3812025,Trigo,0.2,
+3825318,FRANGO EMPANADO,benefited,2.73,12,3811978,Leite Integral,0.5,
+3825321,Molho Rosé,benefited,12.55,1.5,3811995,Maionese Vigor,1,
+3825321,Molho Rosé,benefited,12.55,1.5,3812016,Ketchup Cepera,0.4,
+3825321,Molho Rosé,benefited,12.55,1.5,3812018,Páprica Picante,0.005,
+3825321,Molho Rosé,benefited,12.55,1.5,3812001,Mostarda Cepera,0.1,
+3825324,Molho Honey Mustard,benefited,14.38,1.21,3811995,Maionese Vigor,1,
+3825324,Molho Honey Mustard,benefited,14.38,1.21,3812023,Mel,0.06,
+3825324,Molho Honey Mustard,benefited,14.38,1.21,3812001,Mostarda Cepera,0.15,
+3825328,Blend 130g,benefited,4.41,1,3912412,Carne Bovina Moída,0.13,
+3825331,Blend 100g,benefited,3.4,1,3912412,Carne Bovina Moída,0.1,
+3825333,Blend 40g,benefited,1.36,1,3912412,Carne Bovina Moída,0.04,
+3825341,Creme de Cheddar,benefited,31.24,1,3811972,Catupiry Sabor Cheddar,0.3,
+3825341,Creme de Cheddar,benefited,31.24,1,6204826,Queijo Cheddar Schreiber,24,
+3825341,Creme de Cheddar,benefited,31.24,1,3811978,Leite Integral,0.5,
+3825342,Costela Desfiada,benefited,2.05,65,3811906,Costela Bovina,2,
+3825349,Geleia de Cupuaçu,benefited,14.33,1.8,3811966,Cupuaçu,1,
+3825349,Geleia de Cupuaçu,benefited,14.33,1.8,3811982,Açúcar,1,
+3825349,Geleia de Cupuaçu,benefited,14.33,1.8,3825348,Pimenta Malagueta,0.02,
+3825352,Gê Kids,datasheet,4.800078888888889,1,3812024,Brioche 70g,0,4:1-1
+3825352,Gê Kids,datasheet,4.800078888888889,1,3811976,Queijo Cheddar Vigor,0,4:1-1
+3825352,Gê Kids,datasheet,4.800078888888889,1,3825328,Blend 130g,0,4:0.5-0.5
+3825352,Gê Kids,datasheet,4.800078888888889,1,3825321,Molho Rosé,0,4:0.015-0.015
+3825359,Ge Burger,datasheet,7.411967777777778,1,3812024,Brioche 70g,0,24:1-1
+3825359,Ge Burger,datasheet,7.411967777777778,1,3811976,Queijo Cheddar Vigor,0,24:2-2
+3825359,Ge Burger,datasheet,7.411967777777778,1,3825328,Blend 130g,0,24:1-1
+3825359,Ge Burger,datasheet,7.411967777777778,1,3825321,Molho Rosé,0,24:0.015-0.015
+3825364,Milk-Shake Ovomaltine,datasheet,8.03468,1,3812048,Sorvete de Creme,0,1:0.24-0.24
+3825364,Milk-Shake Ovomaltine,datasheet,8.03468,1,3812046,Ovomaltine,0,1:0.01-0.01
+3825364,Milk-Shake Ovomaltine,datasheet,8.03468,1,3812042,Nutella,0,1:0.02-0.02
+3825364,Milk-Shake Ovomaltine,datasheet,8.03468,1,3812051,Calda de Chocolate,0,1:0.006-0.006
+3825370,Ge Bacon,datasheet,9.869492653810836,1,3812024,Brioche 70g,0,27:1-1
+3825370,Ge Bacon,datasheet,9.869492653810836,1,3811976,Queijo Cheddar Vigor,0,27:2-2
+3825370,Ge Bacon,datasheet,9.869492653810836,1,3825328,Blend 130g,0,27:1-1
+3825370,Ge Bacon,datasheet,9.869492653810836,1,3811905,Bacon Fatiado,0,27:0.054-0.054
+3825376,Ge Chicken,datasheet,6.306866433333333,1,3812024,Brioche 70g,0,18:1-1
+3825376,Ge Chicken,datasheet,6.306866433333333,1,3825318,FRANGO EMPANADO,0,18:1-1
+3825376,Ge Chicken,datasheet,6.306866433333333,1,3825341,Creme de Cheddar,0,18:0.03-0.03
+3825376,Ge Chicken,datasheet,6.306866433333333,1,3811951,Alface,0,18:1-1
+3825376,Ge Chicken,datasheet,6.306866433333333,1,3811955,Tomate,0,18:0.03-0.03
+3825376,Ge Chicken,datasheet,6.306866433333333,1,3825282,Molho Maionese Caseira,0,18:0.015-0.015
+3825379,Ultra Egg Bacon,datasheet,8.8913331,1,3812024,Brioche 70g,0,24:1-1
+3825379,Ultra Egg Bacon,datasheet,8.8913331,1,3825341,Creme de Cheddar,0,24:0.03-0.03
+3825379,Ultra Egg Bacon,datasheet,8.8913331,1,3825331,Blend 100g,0,24:1-1
+3825379,Ultra Egg Bacon,datasheet,8.8913331,1,3811905,Bacon Fatiado,0,24:0.04-0.04
+3825379,Ultra Egg Bacon,datasheet,8.8913331,1,3811914,Ovo,0,24:1-1
+3825379,Ultra Egg Bacon,datasheet,8.8913331,1,3825282,Molho Maionese Caseira,0,24:0.015-0.015
+3825381,Ge Salad,datasheet,8.026517777777778,1,3812024,Brioche 70g,0,27:1-1
+3825381,Ge Salad,datasheet,8.026517777777778,1,3811976,Queijo Cheddar Vigor,0,27:2-2
+3825381,Ge Salad,datasheet,8.026517777777778,1,3825328,Blend 130g,0,27:1-1
+3825381,Ge Salad,datasheet,8.026517777777778,1,3811951,Alface,0,27:1-1
+3825381,Ge Salad,datasheet,8.026517777777778,1,3811955,Tomate,0,27:0.03-0.03
+3825381,Ge Salad,datasheet,8.026517777777778,1,3811959,Cebola Roxa,0,27:0.015-0.015
+3825381,Ge Salad,datasheet,8.026517777777778,1,3825321,Molho Rosé,0,27:0.015-0.015
+3825382,Ge Cream,datasheet,13.174534211111112,1,3812024,Brioche 70g,0,11:1-1
+3825382,Ge Cream,datasheet,13.174534211111112,1,3811976,Queijo Cheddar Vigor,0,11:2-2
+3825382,Ge Cream,datasheet,13.174534211111112,1,3825328,Blend 130g,0,11:1-1
+3825382,Ge Cream,datasheet,13.174534211111112,1,3811951,Alface,0,11:1-1
+3825382,Ge Cream,datasheet,13.174534211111112,1,3811955,Tomate,0,11:0.03-0.03
+3825382,Ge Cream,datasheet,13.174534211111112,1,3825287,Catupiry Empanado,0,11:1-1
+3825382,Ge Cream,datasheet,13.174534211111112,1,3825282,Molho Maionese Caseira,0,11:0.015-0.015
+3825384,Ge Onion,datasheet,10.22477777777778,1,3812024,Brioche 70g,0,15:1-1
+3825384,Ge Onion,datasheet,10.22477777777778,1,3811976,Queijo Cheddar Vigor,0,15:2-2
+3825384,Ge Onion,datasheet,10.22477777777778,1,3825328,Blend 130g,0,15:1-1
+3825384,Ge Onion,datasheet,10.22477777777778,1,3811905,Bacon Fatiado,0,15:0.04-0.04
+3825384,Ge Onion,datasheet,10.22477777777778,1,3811926,Onion Rings,0,15:0.04-0.04
+3825384,Ge Onion,datasheet,10.22477777777778,1,3812057,Barbecue,0,15:0.015-0.015
+3825385,Ge Rib,datasheet,9.953470416239316,1,3812024,Brioche 70g,0,26:1-1
+3825385,Ge Rib,datasheet,9.953470416239316,1,3811975,Queijo Mussarela,0,26:0.025-0.025
+3825385,Ge Rib,datasheet,9.953470416239316,1,3825328,Blend 130g,0,26:1-1
+3825385,Ge Rib,datasheet,9.953470416239316,1,3825342,Costela Desfiada,0,26:1-1
+3825385,Ge Rib,datasheet,9.953470416239316,1,3825272,Cebola Caramelizada,0,26:0.034-0.034
+3825385,Ge Rib,datasheet,9.953470416239316,1,3825282,Molho Maionese Caseira,0,26:0.015-0.015
+3825386,Ultra Burger,datasheet,6.32,1,3812024,Brioche 70g,0,21:1-1
+3825386,Ultra Burger,datasheet,6.32,1,3825341,Creme de Cheddar,0,21:0.03-0.03
+3825386,Ultra Burger,datasheet,6.32,1,3825331,Blend 100g,0,21:1-1
+3825386,Ultra Burger,datasheet,6.32,1,3825321,Molho Rosé,0,21:0.015-0.015
+3825392,Ge Box,datasheet,17.834863645263827,1,3812034,Brioche 20g,0,7:6-6
+3825392,Ge Box,datasheet,17.834863645263827,1,3825341,Creme de Cheddar,0,7:0.048-0.048
+3825392,Ge Box,datasheet,17.834863645263827,1,3811951,Alface,0,7:0.5-0.5
+3825392,Ge Box,datasheet,17.834863645263827,1,3825333,Blend 40g,0,7:6-6
+3825392,Ge Box,datasheet,17.834863645263827,1,3811955,Tomate,0,7:0.01-0.01
+3825392,Ge Box,datasheet,17.834863645263827,1,3825272,Cebola Caramelizada,0,7:0.009-0.009
+3825392,Ge Box,datasheet,17.834863645263827,1,3811905,Bacon Fatiado,0,7:0.04-0.04
+3825392,Ge Box,datasheet,17.834863645263827,1,3825324,Molho Honey Mustard,0,7:0.015-0.015
+3825392,Ge Box,datasheet,17.834863645263827,1,3825321,Molho Rosé,0,7:0.028-0.028
+3825392,Ge Box,datasheet,17.834863645263827,1,3811946,Caixa Box,0,7:1-1
+3825443,Suco Morango,datasheet,1.8919266666666663,1,3861922,Suco de Morango Receita,0,73:0.3-0.3
+3825789,Ge Balls,datasheet,0,1,3861891,Ge Balls Receita,0,2:1-1
+3825791,Ultra Salad,datasheet,6.93885,1,3812024,Brioche 70g,0,20:1-1
+3825791,Ultra Salad,datasheet,6.93885,1,3825341,Creme de Cheddar,0,20:0.03-0.03
+3825791,Ultra Salad,datasheet,6.93885,1,3825331,Blend 100g,0,20:1-1
+3825791,Ultra Salad,datasheet,6.93885,1,3811951,Alface,0,20:1-1
+3825791,Ultra Salad,datasheet,6.93885,1,3811955,Tomate,0,20:0.03-0.03
+3825791,Ultra Salad,datasheet,6.93885,1,3811959,Cebola Roxa,0,20:0.015-0.015
+3825791,Ultra Salad,datasheet,6.93885,1,3825321,Molho Rosé,0,20:0.015-0.015
+3825792,Batata de Carinhas,datasheet,2.87,1,3811925,Batata de Carinhas,0,2:0.115-0.115
+3825795,Fristas Melted,datasheet,6.1625,1,3811923,Batata Palito,0,31:0.12-0.23
+3825795,Fristas Melted,datasheet,6.1625,1,3811972,Catupiry Sabor Cheddar,0,31:0.05-0.08
+3825795,Fristas Melted,datasheet,6.1625,1,3811907,Bacon em cubos,0,31:0.03-0.05
+3825815,Gê Classic,datasheet,9.433937316239318,1,3812024,Brioche 70g,0,21:1-1
+3825815,Gê Classic,datasheet,9.433937316239318,1,3811976,Queijo Cheddar Vigor,0,21:2-2
+3825815,Gê Classic,datasheet,9.433937316239318,1,3825328,Blend 130g,0,21:1-1
+3825815,Gê Classic,datasheet,9.433937316239318,1,3811905,Bacon Fatiado,0,21:0.04-0.04
+3825815,Gê Classic,datasheet,9.433937316239318,1,3825272,Cebola Caramelizada,0,21:0.034-0.034
+3825815,Gê Classic,datasheet,9.433937316239318,1,3825321,Molho Rosé,0,21:0.015-0.015
+3825824,Ge Amazonico,datasheet,11.130225877777779,1,3812024,Brioche 70g,0,21:1-1
+3825824,Ge Amazonico,datasheet,11.130225877777779,1,3811973,Queijo Coalho,0,21:0.05-0.05
+3825824,Ge Amazonico,datasheet,11.130225877777779,1,3825328,Blend 130g,0,21:1-1
+3825824,Ge Amazonico,datasheet,11.130225877777779,1,3825349,Geleia de Cupuaçu,0,21:0.032-0.032
+3825824,Ge Amazonico,datasheet,11.130225877777779,1,3811907,Bacon em cubos,0,21:0.04-0.04
+3825824,Ge Amazonico,datasheet,11.130225877777779,1,3825282,Molho Maionese Caseira,0,21:0.015-0.015
+3831315,Milk-Shake Sabor,datasheet,0,1,3812048,Sorvete de Creme,0,1:0.26-0.26
+3831315,Milk-Shake Sabor,datasheet,0,1,3812051,Calda de Chocolate,0,1:0.006-0.006
+3831330,Milk-Shake Sabor,datasheet,0,1,3812048,Sorvete de Creme,0,1:0.24-0.24
+3831330,Milk-Shake Sabor,datasheet,0,1,3812042,Nutella,0,1:0.006-0.006
+3831330,Milk-Shake Sabor,datasheet,0,1,3831690,Oreo,0,1:0.036-0.036
+3831974,Disco de Catupiry Empanado,datasheet,5.32,1,3825287,Catupiry Empanado,0,7:1-1
+3831993,Rosé,datasheet,0.37638000000000005,1,3825321,Molho Rosé,0,7:0.03-0.03
+3831993,Rosé,datasheet,0.37638000000000005,1,3832648,Colherzinha,0,7:1-1
+3831993,Rosé,datasheet,0.37638000000000005,1,3831991,Molheira,0,7:1-1
+3832000,Honey Mustard,datasheet,0,1,3825324,Molho Honey Mustard,0,11:0.015-0.03
+3832000,Honey Mustard,datasheet,0,1,3831991,Molheira,0,11:0-1
+3832000,Honey Mustard,datasheet,0,1,3832648,Colherzinha,0,11:0-1
+3832010,Maionese Caseira,datasheet,0,1,3825282,Molho Maionese Caseira,0,65:0.03-0.06
+3832010,Maionese Caseira,datasheet,0,1,3831991,Molheira,0,65:1-2
+3832087,Blend 65g,datasheet,2.0793500000000003,1,3825328,Blend 130g,0,51:0.5-0.5
+3832135,Porção Cebola Caramelizada,datasheet,0.22196953846153847,1,3825272,Cebola Caramelizada,0,67:0.034-0.034
+3832212,Porção Adc Costela Desfiada,datasheet,2.6,1,3825342,Costela Desfiada,0,7:1-1
+3832266,Porção Salada,datasheet,0.61455,1,3811951,Alface,0,67:1-1
+3832266,Porção Salada,datasheet,0.61455,1,3811955,Tomate,0,67:0.03-0.03
+3832266,Porção Salada,datasheet,0.61455,1,3811959,Cebola Roxa,0,67:0.015-0.015
+3832341,Adicional Queijo Mussarela,datasheet,1.225,1,3811975,Queijo Mussarela,0,116:0.025-0.025
+3832343,Adicional Queijo Coalho,datasheet,0,1,3811973,Queijo Coalho,0,9:0.05-0.05
+3832378,Molho Barbecue,datasheet,0.20099999999999998,1,3812057,Barbecue,0,13:0.015-0.03
+3832378,Molho Barbecue,datasheet,0.20099999999999998,1,3832648,Colherzinha,0,13:0-1
+3832378,Molho Barbecue,datasheet,0.20099999999999998,1,3831991,Molheira,0,13:0-1
+3832673,Kit Sachê Ketchup,datasheet,0.4,1,3832634,Ketchup Heinz 7g,0,58:2-2
+3832679,Kit Sachê Mostarda,datasheet,0,1,3832637,Mostarda Heinz 7g,0,58:2-2
+3832789,Suco Maracujá,datasheet,32.1,1,3861913,Suco de Maracujá Receita,0,47:0.3-0.3
+3832893,Adicional Bacon Fatia,datasheet,1.8,1,3811905,Bacon Fatiado,0,64:0.04-0.04
+3861891,Ge Balls Receita,benefited,4.05,36,3811911,Peito de Frango,2.5,
+3861891,Ge Balls Receita,benefited,4.05,36,3811980,Catupiry Original,1.5,
+3861891,Ge Balls Receita,benefited,4.05,36,3811960,Cebolinha (Cheiro Verde),0.5,
+3861891,Ge Balls Receita,benefited,4.05,36,3812025,Trigo,0.6,
+3861891,Ge Balls Receita,benefited,4.05,36,3812030,Farinha Panko,0.5,
+3861891,Ge Balls Receita,benefited,4.05,36,3811914,Ovo,6,
+3861891,Ge Balls Receita,benefited,4.05,36,3811978,Leite Integral,0.8,
+3861913,Suco de Maracujá Receita,benefited,8.92,3.6,3811904,Maracujá Polpa,1,
+3861913,Suco de Maracujá Receita,benefited,8.92,3.6,3812055,Água Mineral 20L,2,
+3861922,Suco de Morango Receita,benefited,6.761333333333334,0.3,3811903,Morango Congelado,0.09,
+3861922,Suco de Morango Receita,benefited,6.761333333333334,0.3,3812055,Água Mineral 20L,0.16,
+3893886,Combo Ge da Galera,datasheet,45.73524999999999,1,3812024,Brioche 70g,0,2:5-5
+3893886,Combo Ge da Galera,datasheet,45.73524999999999,1,3811976,Queijo Cheddar Vigor,0,2:10-10
+3893886,Combo Ge da Galera,datasheet,45.73524999999999,1,3825328,Blend 130g,0,2:5-5
+3893886,Combo Ge da Galera,datasheet,45.73524999999999,1,3825321,Molho Rosé,0,2:0.075-0.075
+3893886,Combo Ge da Galera,datasheet,45.73524999999999,1,3811923,Batata Palito,0,2:0.46-0.46
+3893911,Combo Ge Família,datasheet,33.2781,1,3812024,Brioche 70g,0,3:4-4
+3893911,Combo Ge Família,datasheet,33.2781,1,3825328,Blend 130g,0,3:4-4
+3893911,Combo Ge Família,datasheet,33.2781,1,3825321,Molho Rosé,0,3:0.06-0.06
+3893911,Combo Ge Família,datasheet,33.2781,1,3811951,Alface,0,3:2-2
+3893911,Combo Ge Família,datasheet,33.2781,1,3811955,Tomate,0,3:0.06-0.06
+3893911,Combo Ge Família,datasheet,33.2781,1,3811959,Cebola Roxa,0,3:0.03-0.03
+3893911,Combo Ge Família,datasheet,33.2781,1,3811976,Queijo Cheddar Vigor,0,3:8-8
+3893911,Combo Ge Família,datasheet,33.2781,1,3811923,Batata Palito,0,3:0.24-0.24
+3912438,Blend 50g,datasheet,0,1,3825331,Blend 100g,0,12:0.5-0.5
+4037284,Frango Empanado -,datasheet,2.73,1,3825318,FRANGO EMPANADO,0,1:1-1
+4037301,Geleia de Cupuaçu -,datasheet,0.45856,1,3825349,Geleia de Cupuaçu,0,1:0.032-0.032
+4220136,Milk-Shake Sabor,datasheet,0,1,3812048,Sorvete de Creme,0.26,1:0.26-0.26
+4220136,Milk-Shake Sabor,datasheet,0,1,4220132,Biscoff,0.026,1:0.026-0.026
+4321722,Oklahoma,datasheet,4.3697,1,3825328,Blend 130g,1,7:1-1
+4321722,Oklahoma,datasheet,4.3697,1,3811947,Cebola Branca,0.03,7:0.03-0.03
+4321722,Oklahoma,datasheet,4.3697,1,4321723,Pão Brioche de Forma,1,7:1-1
+4321722,Oklahoma,datasheet,4.3697,1,3825341,Creme de Cheddar,0.03,7:0.03-0.03
+4321722,Oklahoma,datasheet,4.3697,1,3825321,Molho Rosé,0.015,7:0.015-0.015
+4589343,Ge Tropical,datasheet,10.953800000000001,1,3812024,Brioche 70g,0,9:1-1
+4589343,Ge Tropical,datasheet,10.953800000000001,1,3825328,Blend 130g,0,9:1-1
+4589343,Ge Tropical,datasheet,10.953800000000001,1,3811975,Queijo Mussarela,0,9:0.025-0.025
+4589343,Ge Tropical,datasheet,10.953800000000001,1,4588774,Banana Pacovã,0,9:0.1-0.1
+4589343,Ge Tropical,datasheet,10.953800000000001,1,3811905,Bacon Fatiado,0,9:0.04-0.04
+4589343,Ge Tropical,datasheet,10.953800000000001,1,3811955,Tomate,0,9:0.03-0.03
+4589343,Ge Tropical,datasheet,10.953800000000001,1,3811951,Alface,0,9:1-1
+4589343,Ge Tropical,datasheet,10.953800000000001,1,3811959,Cebola Roxa,0,9:0.015-0.015
+4589343,Ge Tropical,datasheet,10.953800000000001,1,3825282,Molho Maionese Caseira,0,9:0.015-0.015
+4589454,Toscana,datasheet,8.0257,1,3812024,Brioche 70g,1,
+4589454,Toscana,datasheet,8.0257,1,3825328,Blend 130g,1,
+4589454,Toscana,datasheet,8.0257,1,3825324,Molho Honey Mustard,0.015,
+4589454,Toscana,datasheet,8.0257,1,4588766,Linguiça Toscana,0.06,
+4589454,Toscana,datasheet,8.0257,1,4589465,Vinagrete de Manga,1,
+4589454,Toscana,datasheet,8.0257,1,3811975,Queijo Mussarela,0.025,
+4589465,Vinagrete de Manga,benefited,0.24575,1,4588977,Manga,0.015,
+4589465,Vinagrete de Manga,benefited,0.24575,1,3811955,Tomate,0.007,
+4589465,Vinagrete de Manga,benefited,0.24575,1,3811959,Cebola Roxa,0.003,
+5068391,Ge American,datasheet,10.975100000000001,1,3812024,Brioche 70g,1,1:1-1
+5068391,Ge American,datasheet,10.975100000000001,1,3825328,Blend 130g,1,1:1-1
+5068391,Ge American,datasheet,10.975100000000001,1,3811975,Queijo Mussarela,0.025,1:0.025-0.025
+5068391,Ge American,datasheet,10.975100000000001,1,3811905,Bacon Fatiado,0.04,1:0.04-0.04
+5068391,Ge American,datasheet,10.975100000000001,1,3811959,Cebola Roxa,0.015,1:0.015-0.015
+5068391,Ge American,datasheet,10.975100000000001,1,3825282,Molho Maionese Caseira,0.015,1:0.015-0.015
+5068391,Ge American,datasheet,10.975100000000001,1,5068384,Picles,0.015,1:0.015-0.015
+5259862,Q. Coalho com Cupuaçu,datasheet,5.0732,0,3811973,Queijo Coalho,0.09,1:0.09-0.09
+5259862,Q. Coalho com Cupuaçu,datasheet,5.0732,0,3825349,Geleia de Cupuaçu,0.04,1:0.04-0.04
+5563575,Ge Box - Encomendas,datasheet,0,1,3812034,Brioche 20g,30,
+5563575,Ge Box - Encomendas,datasheet,0,1,3825341,Creme de Cheddar,0.24,
+5563575,Ge Box - Encomendas,datasheet,0,1,3811951,Alface,0,
+5563575,Ge Box - Encomendas,datasheet,0,1,3825333,Blend 40g,30,
+5563575,Ge Box - Encomendas,datasheet,0,1,3811955,Tomate,0,
+5563575,Ge Box - Encomendas,datasheet,0,1,3825272,Cebola Caramelizada,0,
+5563575,Ge Box - Encomendas,datasheet,0,1,3811905,Bacon Fatiado,0,
+5563575,Ge Box - Encomendas,datasheet,0,1,3825324,Molho Honey Mustard,0,
+5563575,Ge Box - Encomendas,datasheet,0,1,3825321,Molho Rosé,0.215,
+5563575,Ge Box - Encomendas,datasheet,0,1,3811946,Caixa Box,2,
+6218382,Hot Dog Prensado,datasheet,3.76825,1,3825282,Molho Maionese Caseira,0.015,1:0.015-0.015
+6218382,Hot Dog Prensado,datasheet,3.76825,1,3811980,Catupiry Original,0.05,1:0.05-0.05
+6218382,Hot Dog Prensado,datasheet,3.76825,1,3811907,Bacon em cubos,0.03,1:0.03-0.03
+6218382,Hot Dog Prensado,datasheet,3.76825,1,6240442,Pão Hot Dog,1,1:1-1
+6218382,Hot Dog Prensado,datasheet,3.76825,1,6240438,Molho de Tomate,0.02,1:0.02-0.02
+6218382,Hot Dog Prensado,datasheet,3.76825,1,6240435,Batata Palha,0.015,1:0.015-0.015
+6218382,Hot Dog Prensado,datasheet,3.76825,1,6240431,Salsicha,2,1:2-2
+6420952,Ge Box Prime,datasheet,7.991999999999999,1,3861891,Ge Balls Receita,0.9,
+6420952,Ge Box Prime,datasheet,7.991999999999999,1,3811923,Batata Palito,0.23,
+6420952,Ge Box Prime,datasheet,7.991999999999999,1,3811946,Caixa Box,0,
+6541531,Ge balls-Box Prime,datasheet,3.24,1,3861891,Ge Balls Receita,0.8,2:0.8-0.8

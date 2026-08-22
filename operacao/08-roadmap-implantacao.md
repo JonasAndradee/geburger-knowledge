@@ -1,33 +1,72 @@
 # 08, Roadmap de implantação
 
-**Versão 0, 21/08/2026.** Esqueleto.
+**Versão 1, 22/08/2026.** Fase 0 concluída para a loja Ge Burger (62061).
 
 Onde estamos e o que falta. Este é o arquivo que responde "por onde eu continuo".
 
 ## Fase 0: levantamento
 
-- [ ] Confirmar unidades, CNPJs e IDs no PDV
-- [ ] Confirmar qual PDV, quais permissões e quais relatórios existem
-- [ ] Confirmar canais de venda ativos e a participação de cada um
-- [ ] Puxar o primeiro export de vendas e de despesas por categoria
-- [ ] Preencher `../CLAUDE.md` e `CLAUDE.md` desta pasta com o que foi confirmado
+- [x] Confirmar qual PDV: Saipos, mesma plataforma do Oka Guaraná
+- [x] Confirmar ao menos uma unidade e ID no PDV: Ge Burger, loja 62061
+- [ ] Confirmar se existe mais de uma unidade Geburger (só uma foi encontrada
+      até agora)
+- [ ] Confirmar CNPJ, endereço, horário de funcionamento
+- [x] Puxar ingredientes e insumos completos (149 ingredientes, 16
+      beneficiados, 53 fichas técnicas)
+- [x] Puxar composição de todas as 53 fichas técnicas
+- [x] Puxar árvore completa de categorias financeiras (97 raízes, 252 nós)
+- [x] Puxar cardápio completo (183 produtos)
+- [x] Puxar despesas por categoria, jan a 22/08/2026
+- [x] Puxar vendas por período, jan a 22/08/2026 (em 3 janelas de 3 meses,
+      limite da tela)
+- [ ] Confirmar canais de venda ativos e a participação de cada um: dado já
+      puxado (ver `unidades/ge-burger.md`), falta só confirmar com o Jonas
+      se bate com a percepção dele
+- [x] Preencher `../CLAUDE.md` e `CLAUDE.md` desta pasta com o que foi
+      confirmado (parcial, ainda restam campos de negócio como sócios e
+      ticket médio por canal)
 
 ## Fase 1: plano de contas
 
-- [ ] [preencher]
+- [x] Levantar as seções do DRE disponíveis no Saipos (7 seções)
+- [x] Levantar quais categorias estão de fato vinculadas: só 6 de 97
+- [ ] **Vincular as 91 categorias que faltam.** Isso é trabalho de tela, não
+      de leitura: entrar em `DRE Gerencial > Vincular` e escolher a seção de
+      cada categoria com lançamento
+- [ ] Decidir onde entram as categorias de marketing (Facebook, Google Ads,
+      Ifood Ads, Social Midia, hoje dentro de `Investimentos`, sem seção)
+- [ ] Decidir se `Fiado`, `Frente de Caixa`, `Fornecedores` e `Saldo Inicial`
+      ficam propositalmente sem vínculo (como no Oka) ou se o Geburger quer
+      outro critério
 
 ## Fase 2: cadastro de estoque e fichas
 
-- [ ] [preencher]
+- [x] Estoque e fichas já estão cadastrados no Saipos (218 itens, 53 fichas)
+- [ ] **Investigar por que 44% dos itens (96 de 218) estão com saldo
+      negativo**, incluindo os ingredientes-base de quase todo hambúrguer
+      (queijo cheddar, brioche, blend). Ver `06-estoque-ingredientes-e-fichas.md`
+- [ ] Confirmar se existe rotina de lançamento de compra com nota e entrada
+      manual de estoque sem nota
 
 ## Fase 3: conferência física
 
-- [ ] [preencher]
+- [ ] Nenhuma conferência física registrada ainda. Primeira conferência
+      destrava a correção do estoque negativo acima
 
 ## Fase 4: DRE fechando
 
-- [ ] [preencher]
+- [ ] Bloqueado pela Fase 1 (vinculação de categorias). O `DRE Gerencial`
+      de hoje mostra lucro líquido de R$ 77.130,40 em jun-ago/2026, mas esse
+      número está incompleto porque quase nenhum custo real está
+      classificado numa seção. Não é o resultado real do negócio
 
 ## Onde paramos
 
-21/08/2026: repositório criado, estrutura vazia. Nenhum dado levantado.
+22/08/2026: primeiro levantamento completo da loja Ge Burger (62061) feito
+via API do Saipos. Dados brutos salvos em `dados/`. Documentos 02, 04 e 06
+atualizados com número real. Achado mais importante da sessão: **o DRE
+Gerencial do Saipos não pode ser usado para decisão ainda**, porque 91 das
+97 categorias financeiras não estão vinculadas a nenhuma seção. Próximo
+passo natural: sentar com o Jonas pra vincular categoria por categoria, e
+investigar a causa do estoque negativo generalizado antes de confiar no CMV
+calculado.

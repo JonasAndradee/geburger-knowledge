@@ -1,0 +1,6473 @@
+[
+ {
+  "id": "120233532885890690",
+  "name": "[MP][VENDAS][ABO] — WPP",
+  "objective": "OUTCOME_SALES",
+  "status": "PAUSED",
+  "effective_status": "PAUSED",
+  "delivery": {
+   "status": "off",
+   "substatuses": [
+    "off"
+   ]
+  },
+  "buying_type": "AUCTION",
+  "start_time": "2025-10-08T15:47:07-0300",
+  "stop_time": "2026-06-28T23:02:00-0300",
+  "created_time": "2025-10-08T15:43:13-0300",
+  "updated_time": "2026-06-01T18:51:56-0300",
+  "amount_spent": "R$11.976,52 BRL",
+  "impressions": "1459421",
+  "reach": "399628",
+  "frequency": "3.651949",
+  "cpm": "R$8,21 BRL",
+  "cpp": "R$29,97 BRL",
+  "clicks": "20577",
+  "ctr": "1,41%",
+  "website_ctr": "0.710967",
+  "actions:link_click": "10376",
+  "cost_per_link_click": "R$1,15 BRL",
+  "outbound_clicks": "4111",
+  "outbound_clicks_ctr": "0.281687",
+  "landing_page_view": "708",
+  "results": {
+   "indicator": "actions:onsite_conversion.messaging_conversation_started_7d",
+   "values": [
+    {
+     "attribution_windows": [
+      "default"
+     ],
+     "value": "2328"
+    }
+   ]
+  },
+  "cost_per_result": {
+   "value": "R$5,14 BRL (Messaging conversations started)"
+  },
+  "actions:omni_purchase": "134",
+  "omni_purchase_values": "R$5.244,20 BRL",
+  "purchase_roas": "0.437873",
+  "omni_add_to_cart": "316",
+  "omni_initiated_checkout": "162",
+  "omni_view_content": "1431",
+  "post_engagement": "44027",
+  "video_thruplay_watched_actions": "4966"
+ },
+ {
+  "id": "120205274749610690",
+  "name": "[MAGOS-MP][ENGAJAMENTO][MENSAGEM]",
+  "objective": "OUTCOME_ENGAGEMENT",
+  "status": "PAUSED",
+  "effective_status": "PAUSED",
+  "delivery": {
+   "status": "off",
+   "substatuses": [
+    "off"
+   ]
+  },
+  "buying_type": "AUCTION",
+  "start_time": "2024-02-10T12:22:44-0300",
+  "created_time": "2024-02-10T12:22:44-0300",
+  "updated_time": "2025-02-06T00:07:17-0300",
+  "amount_spent": "R$7.927,89 BRL",
+  "impressions": "1378897",
+  "reach": "184860",
+  "frequency": "7.459142",
+  "cpm": "R$5,75 BRL",
+  "cpp": "R$42,89 BRL",
+  "clicks": "17479",
+  "ctr": "1,27%",
+  "website_ctr": "0.486838",
+  "actions:link_click": "6713",
+  "cost_per_link_click": "R$1,18 BRL",
+  "outbound_clicks": "2616",
+  "outbound_clicks_ctr": "0.189717",
+  "landing_page_view": "470",
+  "results": {
+   "indicator": "actions:onsite_conversion.messaging_conversation_started_7d",
+   "values": [
+    {
+     "attribution_windows": [
+      "default"
+     ],
+     "value": "1743"
+    }
+   ]
+  },
+  "cost_per_result": {
+   "value": "R$4,55 BRL (Messaging conversations started)"
+  },
+  "actions:omni_purchase": "251",
+  "omni_purchase_values": "R$634.253,51 BRL",
+  "purchase_roas": "80.002814",
+  "omni_add_to_cart": null,
+  "omni_initiated_checkout": "722",
+  "omni_view_content": null,
+  "post_engagement": "58060",
+  "video_thruplay_watched_actions": "7617"
+ },
+ {
+  "id": "120212332355730690",
+  "name": "01- GÊ BURGER - CONVERSÃO 21/10/24",
+  "objective": "OUTCOME_SALES",
+  "status": "PAUSED",
+  "effective_status": "PAUSED",
+  "delivery": {
+   "status": "off",
+   "substatuses": [
+    "off"
+   ]
+  },
+  "buying_type": "AUCTION",
+  "start_time": "2024-10-21T09:55:45-0300",
+  "stop_time": "2025-06-30T23:55:00-0300",
+  "created_time": "2024-10-21T09:55:44-0300",
+  "updated_time": "2025-05-21T19:03:36-0300",
+  "amount_spent": "R$5.553,86 BRL",
+  "impressions": "731187",
+  "reach": "161037",
+  "frequency": "4.540491",
+  "cpm": "R$7,60 BRL",
+  "cpp": "R$34,49 BRL",
+  "clicks": "12703",
+  "ctr": "1,74%",
+  "website_ctr": "0.700368",
+  "actions:link_click": "5121",
+  "cost_per_link_click": "R$1,08 BRL",
+  "outbound_clicks": "5108",
+  "outbound_clicks_ctr": "0.69859",
+  "landing_page_view": "3881",
+  "results": {
+   "indicator": "actions:offsite_conversion.fb_pixel_purchase",
+   "values": [
+    {
+     "attribution_windows": [
+      "default"
+     ],
+     "value": "753"
+    }
+   ]
+  },
+  "cost_per_result": {
+   "value": "R$7,38 BRL (Website purchases)"
+  },
+  "actions:omni_purchase": "753",
+  "omni_purchase_values": "R$2.439.410,80 BRL",
+  "purchase_roas": "439.227996",
+  "omni_add_to_cart": null,
+  "omni_initiated_checkout": "2300",
+  "omni_view_content": null,
+  "post_engagement": "131913",
+  "video_thruplay_watched_actions": "35041"
+ },
+ {
+  "id": "120229845840390690",
+  "name": "[MP][CBO] - Engajamento — Whats — [05.08]",
+  "objective": "OUTCOME_SALES",
+  "status": "PAUSED",
+  "effective_status": "PAUSED",
+  "delivery": {
+   "status": "off",
+   "substatuses": [
+    "off"
+   ]
+  },
+  "buying_type": "AUCTION",
+  "bid_strategy": "Highest volume",
+  "lifetime_budget": "R$5.000,00 BRL",
+  "start_time": "2025-08-05T14:27:24-0300",
+  "stop_time": "2025-11-02T23:30:00-0300",
+  "created_time": "2025-08-05T14:27:23-0300",
+  "updated_time": "2025-11-03T22:49:13-0300",
+  "amount_spent": "R$4.998,27 BRL",
+  "impressions": "354088",
+  "reach": "107084",
+  "frequency": "3.306638",
+  "cpm": "R$14,12 BRL",
+  "cpp": "R$46,68 BRL",
+  "clicks": "5504",
+  "ctr": "1,55%",
+  "website_ctr": "0.648709",
+  "actions:link_click": "2297",
+  "cost_per_link_click": "R$2,18 BRL",
+  "outbound_clicks": "1536",
+  "outbound_clicks_ctr": "0.43379",
+  "landing_page_view": "244",
+  "results": {
+   "indicator": "actions:onsite_conversion.messaging_conversation_started_7d",
+   "values": [
+    {
+     "attribution_windows": [
+      "default"
+     ],
+     "value": "961"
+    }
+   ]
+  },
+  "cost_per_result": {
+   "value": "R$5,20 BRL (Messaging conversations started)"
+  },
+  "actions:omni_purchase": "60",
+  "omni_purchase_values": "R$4.414,80 BRL",
+  "purchase_roas": "0.883266",
+  "omni_add_to_cart": "183",
+  "omni_initiated_checkout": "96",
+  "omni_view_content": "709",
+  "post_engagement": "72998",
+  "video_thruplay_watched_actions": "11179"
+ },
+ {
+  "id": "120211840808940690",
+  "name": "[MAGOS] [VENDAS] [CARDÁPIO]",
+  "objective": "OUTCOME_SALES",
+  "status": "PAUSED",
+  "effective_status": "PAUSED",
+  "delivery": {
+   "status": "off",
+   "substatuses": [
+    "off"
+   ]
+  },
+  "buying_type": "AUCTION",
+  "start_time": "2024-09-17T17:30:00-0300",
+  "created_time": "2024-09-17T12:55:38-0300",
+  "updated_time": "2025-02-06T00:07:17-0300",
+  "amount_spent": "R$4.649,30 BRL",
+  "impressions": "753755",
+  "reach": "167877",
+  "frequency": "4.489924",
+  "cpm": "R$6,17 BRL",
+  "cpp": "R$27,69 BRL",
+  "clicks": "14495",
+  "ctr": "1,92%",
+  "website_ctr": "0.686032",
+  "actions:link_click": "5171",
+  "cost_per_link_click": "R$0,90 BRL",
+  "outbound_clicks": "5148",
+  "outbound_clicks_ctr": "0.682981",
+  "landing_page_view": "3832",
+  "results": {
+   "indicator": "actions:offsite_conversion.fb_pixel_purchase",
+   "values": [
+    {
+     "attribution_windows": [
+      "default"
+     ],
+     "value": "716"
+    }
+   ]
+  },
+  "cost_per_result": {
+   "value": "R$6,49 BRL (Website purchases)"
+  },
+  "actions:omni_purchase": "716",
+  "omni_purchase_values": "R$2.275.219,95 BRL",
+  "purchase_roas": "489.368281",
+  "omni_add_to_cart": null,
+  "omni_initiated_checkout": "2499",
+  "omni_view_content": null,
+  "post_engagement": "165507",
+  "video_thruplay_watched_actions": "26435"
+ },
+ {
+  "id": "120212327930110690",
+  "name": "00 - GÊ BURGER - PÚBLICO - ESTÁTICO",
+  "objective": "OUTCOME_ENGAGEMENT",
+  "status": "PAUSED",
+  "effective_status": "PAUSED",
+  "delivery": {
+   "status": "off",
+   "substatuses": [
+    "off"
+   ]
+  },
+  "buying_type": "AUCTION",
+  "start_time": "2024-10-04T15:44:07-0300",
+  "created_time": "2024-10-04T15:44:06-0300",
+  "updated_time": "2025-05-22T17:55:03-0300",
+  "amount_spent": "R$4.484,67 BRL",
+  "impressions": "1579725",
+  "reach": "469821",
+  "frequency": "3.362398",
+  "cpm": "R$2,84 BRL",
+  "cpp": "R$9,55 BRL",
+  "clicks": "49269",
+  "ctr": "3,12%",
+  "website_ctr": "0.083875",
+  "actions:link_click": "1325",
+  "cost_per_link_click": "R$3,38 BRL",
+  "outbound_clicks": "1240",
+  "outbound_clicks_ctr": "0.078495",
+  "landing_page_view": "225",
+  "results": {
+   "indicator": "actions:post_engagement",
+   "values": [
+    {
+     "attribution_windows": [
+      "default"
+     ],
+     "value": "283679"
+    }
+   ]
+  },
+  "cost_per_result": {
+   "value": "R$0,02 BRL (Post engagements)"
+  },
+  "actions:omni_purchase": null,
+  "omni_purchase_values": null,
+  "purchase_roas": null,
+  "omni_add_to_cart": null,
+  "omni_initiated_checkout": null,
+  "omni_view_content": null,
+  "post_engagement": "283679",
+  "video_thruplay_watched_actions": "56394"
+ },
+ {
+  "id": "120212330723240690",
+  "name": "00 - GÊ BURGER - PERSEGUIÇÃO",
+  "objective": "OUTCOME_AWARENESS",
+  "status": "PAUSED",
+  "effective_status": "PAUSED",
+  "delivery": {
+   "status": "off",
+   "substatuses": [
+    "off"
+   ]
+  },
+  "buying_type": "AUCTION",
+  "start_time": "2024-10-04T16:27:45-0300",
+  "created_time": "2024-10-04T16:27:44-0300",
+  "updated_time": "2025-05-19T11:22:32-0300",
+  "amount_spent": "R$4.315,72 BRL",
+  "impressions": "4645935",
+  "reach": "550962",
+  "frequency": "8.432406",
+  "cpm": "R$0,93 BRL",
+  "cpp": "R$7,83 BRL",
+  "clicks": "7739",
+  "ctr": "0,17%",
+  "website_ctr": "0.075485",
+  "actions:link_click": "3507",
+  "cost_per_link_click": "R$1,23 BRL",
+  "outbound_clicks": "3504",
+  "outbound_clicks_ctr": "0.075421",
+  "landing_page_view": "1042",
+  "results": {
+   "indicator": "reach",
+   "values": [
+    {
+     "attribution_windows": [
+      "default"
+     ],
+     "value": "550962"
+    }
+   ]
+  },
+  "cost_per_result": {
+   "value": "R$7,83 BRL (Reach)"
+  },
+  "actions:omni_purchase": "9",
+  "omni_purchase_values": "R$22.024,80 BRL",
+  "purchase_roas": "5.103389",
+  "omni_add_to_cart": null,
+  "omni_initiated_checkout": "33",
+  "omni_view_content": null,
+  "post_engagement": "105307",
+  "video_thruplay_watched_actions": "12016"
+ },
+ {
+  "id": "120212792744250690",
+  "name": "02 - GEBURGER - CAPTAÇÃO",
+  "objective": "OUTCOME_ENGAGEMENT",
+  "status": "PAUSED",
+  "effective_status": "PAUSED",
+  "delivery": {
+   "status": "off",
+   "substatuses": [
+    "off"
+   ]
+  },
+  "buying_type": "AUCTION",
+  "start_time": "2024-10-21T13:25:19-0300",
+  "stop_time": "2025-06-30T23:30:00-0300",
+  "created_time": "2024-10-21T13:25:18-0300",
+  "updated_time": "2025-05-19T11:23:54-0300",
+  "amount_spent": "R$4.089,62 BRL",
+  "impressions": "474322",
+  "reach": "117692",
+  "frequency": "4.030197",
+  "cpm": "R$8,62 BRL",
+  "cpp": "R$34,75 BRL",
+  "clicks": "5288",
+  "ctr": "1,11%",
+  "website_ctr": "0.487643",
+  "actions:link_click": "2313",
+  "cost_per_link_click": "R$1,77 BRL",
+  "outbound_clicks": "1237",
+  "outbound_clicks_ctr": "0.260793",
+  "landing_page_view": "308",
+  "results": {
+   "indicator": "actions:onsite_conversion.messaging_conversation_started_7d",
+   "values": [
+    {
+     "attribution_windows": [
+      "default"
+     ],
+     "value": "981"
+    }
+   ]
+  },
+  "cost_per_result": {
+   "value": "R$4,17 BRL (Messaging conversations started)"
+  },
+  "actions:omni_purchase": "88",
+  "omni_purchase_values": "R$240.684,94 BRL",
+  "purchase_roas": "58.852642",
+  "omni_add_to_cart": null,
+  "omni_initiated_checkout": "295",
+  "omni_view_content": null,
+  "post_engagement": "47920",
+  "video_thruplay_watched_actions": "15486"
+ },
+ {
+  "id": "120239568773420690",
+  "name": "[MP][Conversão] - [Site] [23.01]",
+  "objective": "OUTCOME_SALES",
+  "status": "PAUSED",
+  "effective_status": "PAUSED",
+  "delivery": {
+   "status": "off",
+   "substatuses": [
+    "off"
+   ]
+  },
+  "buying_type": "AUCTION",
+  "bid_strategy": "Highest volume",
+  "lifetime_budget": "R$3.600,00 BRL",
+  "start_time": "2026-01-23T12:57:41-0300",
+  "stop_time": "2026-05-03T23:45:00-0300",
+  "created_time": "2026-01-23T12:57:40-0300",
+  "updated_time": "2026-05-05T10:11:30-0300",
+  "amount_spent": "R$3.597,66 BRL",
+  "impressions": "519282",
+  "reach": "89041",
+  "frequency": "5.831943",
+  "cpm": "R$6,93 BRL",
+  "cpp": "R$40,40 BRL",
+  "clicks": "5968",
+  "ctr": "1,15%",
+  "website_ctr": "0.543828",
+  "actions:link_click": "2824",
+  "cost_per_link_click": "R$1,27 BRL",
+  "outbound_clicks": "2822",
+  "outbound_clicks_ctr": "0.543443",
+  "landing_page_view": "2234",
+  "results": {
+   "indicator": "actions:offsite_conversion.fb_pixel_purchase",
+   "values": [
+    {
+     "attribution_windows": [
+      "default"
+     ],
+     "value": "362"
+    }
+   ]
+  },
+  "cost_per_result": {
+   "value": "R$9,94 BRL (Website purchases)"
+  },
+  "actions:omni_purchase": "362",
+  "omni_purchase_values": "R$16.232,87 BRL",
+  "purchase_roas": "4.512063",
+  "omni_add_to_cart": "796",
+  "omni_initiated_checkout": "346",
+  "omni_view_content": "1948",
+  "post_engagement": "54687",
+  "video_thruplay_watched_actions": "8410"
+ },
+ {
+  "id": "120225170496270690",
+  "name": "[MP][ALCANCE] - Promoções",
+  "objective": "OUTCOME_AWARENESS",
+  "status": "PAUSED",
+  "effective_status": "PAUSED",
+  "delivery": {
+   "status": "off",
+   "substatuses": [
+    "off"
+   ]
+  },
+  "buying_type": "AUCTION",
+  "start_time": "2025-06-03T16:09:07-0300",
+  "created_time": "2025-06-03T16:08:25-0300",
+  "updated_time": "2026-04-22T15:41:03-0300",
+  "amount_spent": "R$3.228,28 BRL",
+  "impressions": "2628897",
+  "reach": "626880",
+  "frequency": "4.193621",
+  "cpm": "R$1,23 BRL",
+  "cpp": "R$5,15 BRL",
+  "clicks": "5359",
+  "ctr": "0,20%",
+  "website_ctr": "0.139488",
+  "actions:link_click": "3667",
+  "cost_per_link_click": "R$0,88 BRL",
+  "outbound_clicks": "3602",
+  "outbound_clicks_ctr": "0.137016",
+  "landing_page_view": "1014",
+  "results": {
+   "indicator": "mixed",
+   "value": "Not available"
+  },
+  "cost_per_result": {
+   "value": "Not available (mixed)"
+  },
+  "actions:omni_purchase": "2",
+  "omni_purchase_values": "R$92,00 BRL",
+  "purchase_roas": "0.028498",
+  "omni_add_to_cart": "9",
+  "omni_initiated_checkout": "1",
+  "omni_view_content": "87",
+  "post_engagement": "8955",
+  "video_thruplay_watched_actions": "737"
+ },
+ {
+  "id": "120224523597420690",
+  "name": "[MP][CBO] - Vendas — Whats",
+  "objective": "OUTCOME_SALES",
+  "status": "PAUSED",
+  "effective_status": "PAUSED",
+  "delivery": {
+   "status": "off",
+   "substatuses": [
+    "off"
+   ]
+  },
+  "buying_type": "AUCTION",
+  "bid_strategy": "Highest volume",
+  "lifetime_budget": "R$3.000,00 BRL",
+  "start_time": "2025-05-23T17:49:26-0300",
+  "stop_time": "2025-07-31T23:00:00-0300",
+  "created_time": "2025-05-23T17:49:25-0300",
+  "updated_time": "2025-08-05T14:29:06-0300",
+  "amount_spent": "R$2.998,53 BRL",
+  "impressions": "195240",
+  "reach": "70812",
+  "frequency": "2.75716",
+  "cpm": "R$15,36 BRL",
+  "cpp": "R$42,34 BRL",
+  "clicks": "2946",
+  "ctr": "1,51%",
+  "website_ctr": "0.581848",
+  "actions:link_click": "1136",
+  "cost_per_link_click": "R$2,64 BRL",
+  "outbound_clicks": "649",
+  "outbound_clicks_ctr": "0.332411",
+  "landing_page_view": "166",
+  "results": {
+   "indicator": "actions:onsite_conversion.messaging_conversation_started_7d",
+   "values": [
+    {
+     "attribution_windows": [
+      "default"
+     ],
+     "value": "583"
+    }
+   ]
+  },
+  "cost_per_result": {
+   "value": "R$5,14 BRL (Messaging conversations started)"
+  },
+  "actions:omni_purchase": "25",
+  "omni_purchase_values": "R$10.397,80 BRL",
+  "purchase_roas": "3.467632",
+  "omni_add_to_cart": "82",
+  "omni_initiated_checkout": "33",
+  "omni_view_content": "474",
+  "post_engagement": "38416",
+  "video_thruplay_watched_actions": "5133"
+ },
+ {
+  "id": "120215485413360690",
+  "name": "02 - GÊ BURGER - CONVERSÃO 06/02/25",
+  "objective": "OUTCOME_SALES",
+  "status": "PAUSED",
+  "effective_status": "PAUSED",
+  "delivery": {
+   "status": "off",
+   "substatuses": [
+    "off"
+   ]
+  },
+  "buying_type": "AUCTION",
+  "start_time": "2025-02-06T19:37:14-0300",
+  "stop_time": "2025-05-13T17:25:00-0300",
+  "created_time": "2025-02-06T19:37:14-0300",
+  "updated_time": "2025-03-21T14:25:44-0300",
+  "amount_spent": "R$2.868,86 BRL",
+  "impressions": "381781",
+  "reach": "69277",
+  "frequency": "5.510934",
+  "cpm": "R$7,51 BRL",
+  "cpp": "R$41,41 BRL",
+  "clicks": "4289",
+  "ctr": "1,12%",
+  "website_ctr": "0.457854",
+  "actions:link_click": "1748",
+  "cost_per_link_click": "R$1,64 BRL",
+  "outbound_clicks": "1743",
+  "outbound_clicks_ctr": "0.456544",
+  "landing_page_view": "1103",
+  "results": {
+   "indicator": "actions:offsite_conversion.fb_pixel_purchase",
+   "values": [
+    {
+     "attribution_windows": [
+      "default"
+     ],
+     "value": "194"
+    }
+   ]
+  },
+  "cost_per_result": {
+   "value": "R$14,79 BRL (Website purchases)"
+  },
+  "actions:omni_purchase": "194",
+  "omni_purchase_values": "R$640.796,91 BRL",
+  "purchase_roas": "223.362907",
+  "omni_add_to_cart": null,
+  "omni_initiated_checkout": "683",
+  "omni_view_content": null,
+  "post_engagement": "29097",
+  "video_thruplay_watched_actions": "15786"
+ },
+ {
+  "id": "120203967962960690",
+  "name": "[MAGOS-MP][RECONHECIMENTO][IMPRESSÕES][WAR]",
+  "objective": "OUTCOME_AWARENESS",
+  "status": "PAUSED",
+  "effective_status": "PAUSED",
+  "delivery": {
+   "status": "off",
+   "substatuses": [
+    "off"
+   ]
+  },
+  "buying_type": "AUCTION",
+  "start_time": "2024-01-10T17:59:50-0300",
+  "created_time": "2024-01-10T17:59:50-0300",
+  "updated_time": "2024-08-27T00:06:15-0300",
+  "amount_spent": "R$2.832,05 BRL",
+  "impressions": "1904363",
+  "reach": "183724",
+  "frequency": "10.365347",
+  "cpm": "R$1,49 BRL",
+  "cpp": "R$15,41 BRL",
+  "clicks": "3018",
+  "ctr": "0,16%",
+  "website_ctr": "0.078189",
+  "actions:link_click": "1489",
+  "cost_per_link_click": "R$1,90 BRL",
+  "outbound_clicks": "978",
+  "outbound_clicks_ctr": "0.051356",
+  "landing_page_view": "267",
+  "results": {
+   "indicator": "mixed",
+   "value": "Not available"
+  },
+  "cost_per_result": {
+   "value": "Not available (mixed)"
+  },
+  "actions:omni_purchase": "24",
+  "omni_purchase_values": "R$43.338,30 BRL",
+  "purchase_roas": "15.302802",
+  "omni_add_to_cart": null,
+  "omni_initiated_checkout": "70",
+  "omni_view_content": null,
+  "post_engagement": "44003",
+  "video_thruplay_watched_actions": "29231"
+ },
+ {
+  "id": "120227813792370690",
+  "name": "[MP][VideoView]",
+  "objective": "OUTCOME_ENGAGEMENT",
+  "status": "PAUSED",
+  "effective_status": "PAUSED",
+  "delivery": {
+   "status": "off",
+   "substatuses": [
+    "off"
+   ]
+  },
+  "buying_type": "AUCTION",
+  "start_time": "2025-07-09T15:36:54-0300",
+  "created_time": "2025-07-09T15:36:53-0300",
+  "updated_time": "2025-12-13T21:45:54-0300",
+  "amount_spent": "R$2.627,16 BRL",
+  "impressions": "558664",
+  "reach": "232256",
+  "frequency": "2.40538",
+  "cpm": "R$4,70 BRL",
+  "cpp": "R$11,31 BRL",
+  "clicks": "2912",
+  "ctr": "0,52%",
+  "website_ctr": "0.12333",
+  "actions:link_click": "689",
+  "cost_per_link_click": "R$3,81 BRL",
+  "outbound_clicks": "3",
+  "outbound_clicks_ctr": "0.000537",
+  "landing_page_view": "35",
+  "results": {
+   "indicator": "video_thruplay_watched_actions",
+   "values": [
+    {
+     "attribution_windows": [
+      "default"
+     ],
+     "value": "68264"
+    }
+   ]
+  },
+  "cost_per_result": {
+   "value": "R$0,04 BRL (video_thruplay_watched_actions)"
+  },
+  "actions:omni_purchase": "3",
+  "omni_purchase_values": "R$218,20 BRL",
+  "purchase_roas": "0.083055",
+  "omni_add_to_cart": "28",
+  "omni_initiated_checkout": "6",
+  "omni_view_content": "221",
+  "post_engagement": "194375",
+  "video_thruplay_watched_actions": "68264"
+ },
+ {
+  "id": "120227744207810690",
+  "name": "[MP][VENDAS][CBO] — Cupom",
+  "objective": "OUTCOME_SALES",
+  "status": "PAUSED",
+  "effective_status": "PAUSED",
+  "delivery": {
+   "status": "off",
+   "substatuses": [
+    "off"
+   ]
+  },
+  "buying_type": "AUCTION",
+  "bid_strategy": "Highest volume",
+  "lifetime_budget": "R$3.500,00 BRL",
+  "start_time": "2025-07-08T16:33:50-0300",
+  "stop_time": "2025-09-30T23:01:00-0300",
+  "created_time": "2025-07-08T16:33:49-0300",
+  "updated_time": "2025-09-12T15:22:55-0300",
+  "amount_spent": "R$2.448,02 BRL",
+  "impressions": "495307",
+  "reach": "76418",
+  "frequency": "6.481549",
+  "cpm": "R$4,94 BRL",
+  "cpp": "R$32,03 BRL",
+  "clicks": "5827",
+  "ctr": "1,18%",
+  "website_ctr": "0.526138",
+  "actions:link_click": "2606",
+  "cost_per_link_click": "R$0,94 BRL",
+  "outbound_clicks": "2601",
+  "outbound_clicks_ctr": "0.525129",
+  "landing_page_view": "2125",
+  "results": {
+   "indicator": "actions:offsite_conversion.fb_pixel_purchase",
+   "values": [
+    {
+     "attribution_windows": [
+      "default"
+     ],
+     "value": "148"
+    }
+   ]
+  },
+  "cost_per_result": {
+   "value": "R$16,54 BRL (Website purchases)"
+  },
+  "actions:omni_purchase": "148",
+  "omni_purchase_values": "R$12.097,01 BRL",
+  "purchase_roas": "4.941549",
+  "omni_add_to_cart": "841",
+  "omni_initiated_checkout": "328",
+  "omni_view_content": "2070",
+  "post_engagement": "12043",
+  "video_thruplay_watched_actions": "1149"
+ },
+ {
+  "id": "120233757591140690",
+  "name": "[MP][Conversão] - [Site] [11.10]",
+  "objective": "OUTCOME_SALES",
+  "status": "PAUSED",
+  "effective_status": "PAUSED",
+  "delivery": {
+   "status": "off",
+   "substatuses": [
+    "off"
+   ]
+  },
+  "buying_type": "AUCTION",
+  "bid_strategy": "Highest volume",
+  "lifetime_budget": "R$3.650,00 BRL",
+  "start_time": "2025-10-11T23:12:56-0300",
+  "stop_time": "2026-01-04T23:50:00-0300",
+  "created_time": "2025-10-11T23:12:55-0300",
+  "updated_time": "2025-12-02T23:47:16-0300",
+  "amount_spent": "R$2.247,74 BRL",
+  "impressions": "297046",
+  "reach": "62059",
+  "frequency": "4.78651",
+  "cpm": "R$7,57 BRL",
+  "cpp": "R$36,22 BRL",
+  "clicks": "3283",
+  "ctr": "1,11%",
+  "website_ctr": "0.450772",
+  "actions:link_click": "1339",
+  "cost_per_link_click": "R$1,68 BRL",
+  "outbound_clicks": "1338",
+  "outbound_clicks_ctr": "0.450435",
+  "landing_page_view": "1022",
+  "results": {
+   "indicator": "actions:offsite_conversion.fb_pixel_purchase",
+   "values": [
+    {
+     "attribution_windows": [
+      "default"
+     ],
+     "value": "198"
+    }
+   ]
+  },
+  "cost_per_result": {
+   "value": "R$11,35 BRL (Website purchases)"
+  },
+  "actions:omni_purchase": "198",
+  "omni_purchase_values": "R$8.961,92 BRL",
+  "purchase_roas": "3.98708",
+  "omni_add_to_cart": "427",
+  "omni_initiated_checkout": "184",
+  "omni_view_content": "1171",
+  "post_engagement": "28446",
+  "video_thruplay_watched_actions": "3679"
+ },
+ {
+  "id": "120247411302050690",
+  "name": "[MP][Engajamento] - WhatsApp [05.06]",
+  "objective": "OUTCOME_ENGAGEMENT",
+  "status": "ACTIVE",
+  "effective_status": "ACTIVE",
+  "delivery": {
+   "status": "active",
+   "substatuses": [
+    "active"
+   ]
+  },
+  "buying_type": "AUCTION",
+  "bid_strategy": "Highest volume",
+  "lifetime_budget": "R$2.200,00 BRL",
+  "start_time": "2026-06-04T19:57:52-0300",
+  "stop_time": "2026-08-30T23:30:00-0300",
+  "created_time": "2026-06-04T19:57:51-0300",
+  "updated_time": "2026-08-21T17:00:17-0300",
+  "amount_spent": "R$1.948,35 BRL",
+  "impressions": "210907",
+  "reach": "91157",
+  "frequency": "2.313668",
+  "cpm": "R$9,24 BRL",
+  "cpp": "R$21,37 BRL",
+  "clicks": "3450",
+  "ctr": "1,64%",
+  "website_ctr": "0.850138",
+  "actions:link_click": "1793",
+  "cost_per_link_click": "R$1,09 BRL",
+  "outbound_clicks": "427",
+  "outbound_clicks_ctr": "0.202459",
+  "landing_page_view": "100",
+  "results": {
+   "indicator": "actions:onsite_conversion.messaging_conversation_started_7d",
+   "values": [
+    {
+     "attribution_windows": [
+      "default"
+     ],
+     "value": "587"
+    }
+   ]
+  },
+  "cost_per_result": {
+   "value": "R$3,32 BRL (Messaging conversations started)"
+  },
+  "actions:omni_purchase": "23",
+  "omni_purchase_values": "R$887,40 BRL",
+  "purchase_roas": "0.455462",
+  "omni_add_to_cart": "64",
+  "omni_initiated_checkout": "31",
+  "omni_view_content": "277",
+  "post_engagement": "6715",
+  "video_thruplay_watched_actions": "1180"
+ },
+ {
+  "id": "120237983806670690",
+  "name": "[MP][Conversão] - [Site] [19.12]",
+  "objective": "OUTCOME_SALES",
+  "status": "PAUSED",
+  "effective_status": "PAUSED",
+  "delivery": {
+   "status": "off",
+   "substatuses": [
+    "off"
+   ]
+  },
+  "buying_type": "AUCTION",
+  "bid_strategy": "Highest volume",
+  "lifetime_budget": "R$2.510,00 BRL",
+  "start_time": "2025-12-19T15:02:44-0300",
+  "stop_time": "2026-02-22T23:45:00-0300",
+  "created_time": "2025-12-19T15:02:43-0300",
+  "updated_time": "2026-02-05T22:40:59-0300",
+  "amount_spent": "R$1.933,90 BRL",
+  "impressions": "339418",
+  "reach": "78819",
+  "frequency": "4.306297",
+  "cpm": "R$5,70 BRL",
+  "cpp": "R$24,54 BRL",
+  "clicks": "3963",
+  "ctr": "1,17%",
+  "website_ctr": "0.522365",
+  "actions:link_click": "1773",
+  "cost_per_link_click": "R$1,09 BRL",
+  "outbound_clicks": "1773",
+  "outbound_clicks_ctr": "0.522365",
+  "landing_page_view": "1380",
+  "results": {
+   "indicator": "actions:offsite_conversion.fb_pixel_purchase",
+   "values": [
+    {
+     "attribution_windows": [
+      "default"
+     ],
+     "value": "141"
+    }
+   ]
+  },
+  "cost_per_result": {
+   "value": "R$13,72 BRL (Website purchases)"
+  },
+  "actions:omni_purchase": "141",
+  "omni_purchase_values": "R$6.291,00 BRL",
+  "purchase_roas": "3.253012",
+  "omni_add_to_cart": "308",
+  "omni_initiated_checkout": "128",
+  "omni_view_content": "1168",
+  "post_engagement": "55054",
+  "video_thruplay_watched_actions": "7890"
+ },
+ {
+  "id": "120246128288360690",
+  "name": "[MP][Conversão] - ADV [20.05] + Adicional Reels",
+  "objective": "OUTCOME_SALES",
+  "status": "ACTIVE",
+  "effective_status": "ACTIVE",
+  "delivery": {
+   "status": "active",
+   "substatuses": [
+    "active"
+   ]
+  },
+  "buying_type": "AUCTION",
+  "bid_strategy": "Highest volume",
+  "lifetime_budget": "R$2.050,00 BRL",
+  "start_time": "2026-05-20T20:35:48-0300",
+  "stop_time": "2026-08-31T23:27:00-0300",
+  "created_time": "2026-05-20T20:35:48-0300",
+  "updated_time": "2026-08-12T19:17:11-0300",
+  "amount_spent": "R$1.911,67 BRL",
+  "impressions": "192507",
+  "reach": "29223",
+  "frequency": "6.587517",
+  "cpm": "R$9,93 BRL",
+  "cpp": "R$65,42 BRL",
+  "clicks": "1407",
+  "ctr": "0,73%",
+  "website_ctr": "0.406738",
+  "actions:link_click": "783",
+  "cost_per_link_click": "R$2,44 BRL",
+  "outbound_clicks": "782",
+  "outbound_clicks_ctr": "0.406219",
+  "landing_page_view": "505",
+  "results": {
+   "indicator": "actions:offsite_conversion.fb_pixel_purchase",
+   "values": [
+    {
+     "attribution_windows": [
+      "default"
+     ],
+     "value": "129"
+    }
+   ]
+  },
+  "cost_per_result": {
+   "value": "R$14,82 BRL (Website purchases)"
+  },
+  "actions:omni_purchase": "129",
+  "omni_purchase_values": "R$5.617,73 BRL",
+  "purchase_roas": "2.938651",
+  "omni_add_to_cart": "209",
+  "omni_initiated_checkout": "95",
+  "omni_view_content": "610",
+  "post_engagement": "17265",
+  "video_thruplay_watched_actions": "2474"
+ },
+ {
+  "id": "120245243455420690",
+  "name": "[MP][Reconhecimento] - Estratégia WAR [08.05]",
+  "objective": "OUTCOME_AWARENESS",
+  "status": "PAUSED",
+  "effective_status": "PAUSED",
+  "delivery": {
+   "status": "off",
+   "substatuses": [
+    "off"
+   ]
+  },
+  "buying_type": "AUCTION",
+  "bid_strategy": "Highest volume",
+  "daily_budget": "R$20,00 BRL",
+  "start_time": "2026-05-09T00:01:00-0300",
+  "created_time": "2026-05-08T20:14:14-0300",
+  "updated_time": "2026-06-19T09:29:53-0300",
+  "amount_spent": "R$1.539,53 BRL",
+  "impressions": "1282650",
+  "reach": "393428",
+  "frequency": "3.26019",
+  "cpm": "R$1,20 BRL",
+  "cpp": "R$3,91 BRL",
+  "clicks": "3483",
+  "ctr": "0,27%",
+  "website_ctr": "0.141972",
+  "actions:link_click": "1821",
+  "cost_per_link_click": "R$0,85 BRL",
+  "outbound_clicks": "348",
+  "outbound_clicks_ctr": "0.027131",
+  "landing_page_view": "4",
+  "results": {
+   "indicator": "reach",
+   "values": [
+    {
+     "attribution_windows": [
+      "default"
+     ],
+     "value": "393428"
+    }
+   ]
+  },
+  "cost_per_result": {
+   "value": "R$3,91 BRL (Reach)"
+  },
+  "actions:omni_purchase": null,
+  "omni_purchase_values": null,
+  "purchase_roas": null,
+  "omni_add_to_cart": null,
+  "omni_initiated_checkout": null,
+  "omni_view_content": "11",
+  "post_engagement": "36763",
+  "video_thruplay_watched_actions": "3222"
+ },
+ {
+  "id": "120241299170800690",
+  "name": "[Manaus em Dobro]",
+  "objective": "OUTCOME_ENGAGEMENT",
+  "status": "PAUSED",
+  "effective_status": "PAUSED",
+  "delivery": {
+   "status": "off",
+   "substatuses": [
+    "off"
+   ]
+  },
+  "buying_type": "AUCTION",
+  "bid_strategy": "Highest volume",
+  "daily_budget": "R$25,00 BRL",
+  "start_time": "2026-02-25T17:21:42-0300",
+  "created_time": "2026-02-25T17:21:41-0300",
+  "updated_time": "2026-04-20T22:01:55-0300",
+  "amount_spent": "R$1.356,14 BRL",
+  "impressions": "1187340",
+  "reach": "336917",
+  "frequency": "3.524132",
+  "cpm": "R$1,14 BRL",
+  "cpp": "R$4,03 BRL",
+  "clicks": "3297",
+  "ctr": "0,28%",
+  "website_ctr": "0.047754",
+  "actions:link_click": "567",
+  "cost_per_link_click": "R$2,39 BRL",
+  "outbound_clicks": null,
+  "outbound_clicks_ctr": null,
+  "landing_page_view": "4",
+  "results": {
+   "indicator": "actions:post_engagement",
+   "values": [
+    {
+     "attribution_windows": [
+      "default"
+     ],
+     "value": "103168"
+    }
+   ]
+  },
+  "cost_per_result": {
+   "value": "R$0,01 BRL (Post engagements)"
+  },
+  "actions:omni_purchase": null,
+  "omni_purchase_values": null,
+  "purchase_roas": null,
+  "omni_add_to_cart": null,
+  "omni_initiated_checkout": "1",
+  "omni_view_content": "19",
+  "post_engagement": "103168",
+  "video_thruplay_watched_actions": "9927"
+ },
+ {
+  "id": "120209501188780690",
+  "name": "[MAGOS-MP][IMPRESSÕES][OFERTAS DO DIA]",
+  "objective": "OUTCOME_AWARENESS",
+  "status": "PAUSED",
+  "effective_status": "PAUSED",
+  "delivery": {
+   "status": "off",
+   "substatuses": [
+    "off"
+   ]
+  },
+  "buying_type": "AUCTION",
+  "start_time": "2024-05-22T13:37:45-0300",
+  "created_time": "2024-05-22T13:37:45-0300",
+  "updated_time": "2024-09-06T18:54:48-0300",
+  "amount_spent": "R$1.172,27 BRL",
+  "impressions": "1027179",
+  "reach": "287717",
+  "frequency": "3.570102",
+  "cpm": "R$1,14 BRL",
+  "cpp": "R$4,07 BRL",
+  "clicks": "1146",
+  "ctr": "0,11%",
+  "website_ctr": "0.06143",
+  "actions:link_click": "631",
+  "cost_per_link_click": "R$1,86 BRL",
+  "outbound_clicks": "627",
+  "outbound_clicks_ctr": "0.061041",
+  "landing_page_view": "175",
+  "results": {
+   "indicator": "reach",
+   "values": [
+    {
+     "attribution_windows": [
+      "default"
+     ],
+     "value": "287717"
+    }
+   ]
+  },
+  "cost_per_result": {
+   "value": "R$4,07 BRL (Reach)"
+  },
+  "actions:omni_purchase": "5",
+  "omni_purchase_values": "R$443,90 BRL",
+  "purchase_roas": "0.378667",
+  "omni_add_to_cart": null,
+  "omni_initiated_checkout": "19",
+  "omni_view_content": null,
+  "post_engagement": "1014",
+  "video_thruplay_watched_actions": "19"
+ },
+ {
+  "id": "120210345926650690",
+  "name": "[MAGOS-MP][VENDAS][ABO]",
+  "objective": "OUTCOME_SALES",
+  "status": "PAUSED",
+  "effective_status": "PAUSED",
+  "delivery": {
+   "status": "off",
+   "substatuses": [
+    "off"
+   ]
+  },
+  "buying_type": "AUCTION",
+  "start_time": "2024-07-06T12:15:05-0300",
+  "stop_time": "2024-08-31T23:23:00-0300",
+  "created_time": "2024-07-06T12:15:04-0300",
+  "updated_time": "2024-09-06T18:54:40-0300",
+  "amount_spent": "R$1.078,13 BRL",
+  "impressions": "194142",
+  "reach": "53533",
+  "frequency": "3.626585",
+  "cpm": "R$5,55 BRL",
+  "cpp": "R$20,14 BRL",
+  "clicks": "3421",
+  "ctr": "1,76%",
+  "website_ctr": "0.555779",
+  "actions:link_click": "1079",
+  "cost_per_link_click": "R$1,00 BRL",
+  "outbound_clicks": "1065",
+  "outbound_clicks_ctr": "0.548568",
+  "landing_page_view": "746",
+  "results": {
+   "indicator": "actions:offsite_conversion.fb_pixel_purchase",
+   "values": [
+    {
+     "attribution_windows": [
+      "default"
+     ],
+     "value": "171"
+    }
+   ]
+  },
+  "cost_per_result": {
+   "value": "R$6,30 BRL (Website purchases)"
+  },
+  "actions:omni_purchase": "171",
+  "omni_purchase_values": "R$417.467,50 BRL",
+  "purchase_roas": "387.214436",
+  "omni_add_to_cart": null,
+  "omni_initiated_checkout": "573",
+  "omni_view_content": null,
+  "post_engagement": "39213",
+  "video_thruplay_watched_actions": "6026"
+ },
+ {
+  "id": "120200283214200690",
+  "name": "[MAGOS-MP][TRÁFEGO][CARDÁPIO][TESTE]",
+  "objective": "OUTCOME_TRAFFIC",
+  "status": "PAUSED",
+  "effective_status": "PAUSED",
+  "delivery": {
+   "status": "off",
+   "substatuses": [
+    "off"
+   ]
+  },
+  "buying_type": "AUCTION",
+  "start_time": "2023-11-02T00:14:40-0300",
+  "stop_time": "2024-01-31T23:00:56-0300",
+  "created_time": "2023-11-02T00:14:40-0300",
+  "updated_time": "2024-02-03T00:59:15-0300",
+  "amount_spent": "R$900,00 BRL",
+  "impressions": "249130",
+  "reach": "62412",
+  "frequency": "3.9917",
+  "cpm": "R$3,61 BRL",
+  "cpp": "R$14,42 BRL",
+  "clicks": "2920",
+  "ctr": "1,17%",
+  "website_ctr": "0.743788",
+  "actions:link_click": "1853",
+  "cost_per_link_click": "R$0,49 BRL",
+  "outbound_clicks": "1852",
+  "outbound_clicks_ctr": "0.743387",
+  "landing_page_view": "951",
+  "results": {
+   "indicator": "actions:omni_landing_page_view",
+   "values": [
+    {
+     "attribution_windows": [
+      "default"
+     ],
+     "value": "951"
+    }
+   ]
+  },
+  "cost_per_result": {
+   "value": "R$0,95 BRL (Landing page views)"
+  },
+  "actions:omni_purchase": "34",
+  "omni_purchase_values": "R$1.024,45 BRL",
+  "purchase_roas": "1.138278",
+  "omni_add_to_cart": null,
+  "omni_initiated_checkout": "110",
+  "omni_view_content": null,
+  "post_engagement": "2091",
+  "video_thruplay_watched_actions": null
+ },
+ {
+  "id": "120232081996780690",
+  "name": "[MP][VENDAS][ABO] — Cupom",
+  "objective": "OUTCOME_SALES",
+  "status": "PAUSED",
+  "effective_status": "PAUSED",
+  "delivery": {
+   "status": "off",
+   "substatuses": [
+    "off"
+   ]
+  },
+  "buying_type": "AUCTION",
+  "start_time": "2025-09-12T17:00:00-0300",
+  "stop_time": "2025-10-05T23:30:00-0300",
+  "created_time": "2025-09-12T15:48:09-0300",
+  "updated_time": "2025-10-08T15:47:41-0300",
+  "amount_spent": "R$874,77 BRL",
+  "impressions": "92356",
+  "reach": "33892",
+  "frequency": "2.725009",
+  "cpm": "R$9,47 BRL",
+  "cpp": "R$25,81 BRL",
+  "clicks": "1162",
+  "ctr": "1,26%",
+  "website_ctr": "0.453679",
+  "actions:link_click": "419",
+  "cost_per_link_click": "R$2,09 BRL",
+  "outbound_clicks": "209",
+  "outbound_clicks_ctr": "0.226298",
+  "landing_page_view": "125",
+  "results": {
+   "indicator": "mixed",
+   "value": "Not available"
+  },
+  "cost_per_result": {
+   "value": "Not available (mixed)"
+  },
+  "actions:omni_purchase": "2",
+  "omni_purchase_values": "R$220,90 BRL",
+  "purchase_roas": "0.252524",
+  "omni_add_to_cart": "20",
+  "omni_initiated_checkout": "5",
+  "omni_view_content": "90",
+  "post_engagement": "9475",
+  "video_thruplay_watched_actions": "2777"
+ },
+ {
+  "id": "120236955146140690",
+  "name": "[MP][Conversão] - [Site] [02.12]",
+  "objective": "OUTCOME_SALES",
+  "status": "PAUSED",
+  "effective_status": "PAUSED",
+  "delivery": {
+   "status": "off",
+   "substatuses": [
+    "off"
+   ]
+  },
+  "buying_type": "AUCTION",
+  "bid_strategy": "Highest volume",
+  "lifetime_budget": "R$1.800,00 BRL",
+  "start_time": "2025-12-02T23:47:09-0300",
+  "stop_time": "2026-01-04T23:50:00-0300",
+  "created_time": "2025-12-02T23:47:08-0300",
+  "updated_time": "2025-12-19T12:20:30-0300",
+  "amount_spent": "R$845,20 BRL",
+  "impressions": "126778",
+  "reach": "34851",
+  "frequency": "3.637715",
+  "cpm": "R$6,67 BRL",
+  "cpp": "R$24,25 BRL",
+  "clicks": "1189",
+  "ctr": "0,94%",
+  "website_ctr": "0.344697",
+  "actions:link_click": "437",
+  "cost_per_link_click": "R$1,93 BRL",
+  "outbound_clicks": "437",
+  "outbound_clicks_ctr": "0.344697",
+  "landing_page_view": "338",
+  "results": {
+   "indicator": "actions:offsite_conversion.fb_pixel_purchase",
+   "values": [
+    {
+     "attribution_windows": [
+      "default"
+     ],
+     "value": "48"
+    }
+   ]
+  },
+  "cost_per_result": {
+   "value": "R$17,61 BRL (Website purchases)"
+  },
+  "actions:omni_purchase": "48",
+  "omni_purchase_values": "R$2.070,00 BRL",
+  "purchase_roas": "2.449124",
+  "omni_add_to_cart": "170",
+  "omni_initiated_checkout": "48",
+  "omni_view_content": "371",
+  "post_engagement": "10572",
+  "video_thruplay_watched_actions": "1109"
+ },
+ {
+  "id": "120240345524780690",
+  "name": "[MP][Conversão] - [Site] [05.02]",
+  "objective": "OUTCOME_SALES",
+  "status": "PAUSED",
+  "effective_status": "PAUSED",
+  "delivery": {
+   "status": "off",
+   "substatuses": [
+    "off"
+   ]
+  },
+  "buying_type": "AUCTION",
+  "bid_strategy": "Highest volume",
+  "lifetime_budget": "R$1.200,00 BRL",
+  "start_time": "2026-02-05T22:59:03-0300",
+  "stop_time": "2026-04-05T23:45:00-0300",
+  "created_time": "2026-02-05T22:59:03-0300",
+  "updated_time": "2026-03-12T12:19:26-0300",
+  "amount_spent": "R$832,65 BRL",
+  "impressions": "120810",
+  "reach": "24259",
+  "frequency": "4.980007",
+  "cpm": "R$6,89 BRL",
+  "cpp": "R$34,32 BRL",
+  "clicks": "1063",
+  "ctr": "0,88%",
+  "website_ctr": "0.408079",
+  "actions:link_click": "493",
+  "cost_per_link_click": "R$1,69 BRL",
+  "outbound_clicks": "493",
+  "outbound_clicks_ctr": "0.408079",
+  "landing_page_view": "338",
+  "results": {
+   "indicator": "actions:offsite_conversion.fb_pixel_purchase",
+   "values": [
+    {
+     "attribution_windows": [
+      "default"
+     ],
+     "value": "66"
+    }
+   ]
+  },
+  "cost_per_result": {
+   "value": "R$12,62 BRL (Website purchases)"
+  },
+  "actions:omni_purchase": "66",
+  "omni_purchase_values": "R$2.968,90 BRL",
+  "purchase_roas": "3.565604",
+  "omni_add_to_cart": "133",
+  "omni_initiated_checkout": "60",
+  "omni_view_content": "331",
+  "post_engagement": "12192",
+  "video_thruplay_watched_actions": "1614"
+ },
+ {
+  "id": "120225007386020690",
+  "name": "[MP][CBO] - Vendas",
+  "objective": "OUTCOME_SALES",
+  "status": "PAUSED",
+  "effective_status": "PAUSED",
+  "delivery": {
+   "status": "off",
+   "substatuses": [
+    "off"
+   ]
+  },
+  "buying_type": "AUCTION",
+  "bid_strategy": "Highest volume",
+  "lifetime_budget": "R$700,00 BRL",
+  "start_time": "2025-05-31T17:00:00-0300",
+  "stop_time": "2025-06-29T23:15:00-0300",
+  "created_time": "2025-05-31T09:18:35-0300",
+  "updated_time": "2025-07-01T16:38:53-0300",
+  "amount_spent": "R$700,00 BRL",
+  "impressions": "86890",
+  "reach": "33128",
+  "frequency": "2.622857",
+  "cpm": "R$8,06 BRL",
+  "cpp": "R$21,13 BRL",
+  "clicks": "1043",
+  "ctr": "1,20%",
+  "website_ctr": "0.461503",
+  "actions:link_click": "401",
+  "cost_per_link_click": "R$1,75 BRL",
+  "outbound_clicks": "401",
+  "outbound_clicks_ctr": "0.461503",
+  "landing_page_view": "332",
+  "results": {
+   "indicator": "actions:offsite_conversion.fb_pixel_purchase",
+   "values": [
+    {
+     "attribution_windows": [
+      "default"
+     ],
+     "value": "53"
+    }
+   ]
+  },
+  "cost_per_result": {
+   "value": "R$13,21 BRL (Website purchases)"
+  },
+  "actions:omni_purchase": "53",
+  "omni_purchase_values": "R$21.502,22 BRL",
+  "purchase_roas": "30.717457",
+  "omni_add_to_cart": "114",
+  "omni_initiated_checkout": "44",
+  "omni_view_content": "446",
+  "post_engagement": "11254",
+  "video_thruplay_watched_actions": "1335"
+ },
+ {
+  "id": "120209223227360690",
+  "name": "[MAGOS-MP][VENDAS][CARDÁPIO][CBO]",
+  "objective": "OUTCOME_SALES",
+  "status": "PAUSED",
+  "effective_status": "PAUSED",
+  "delivery": {
+   "status": "off",
+   "substatuses": [
+    "off"
+   ]
+  },
+  "buying_type": "AUCTION",
+  "bid_strategy": "Highest volume",
+  "lifetime_budget": "R$900,00 BRL",
+  "start_time": "2024-05-15T14:28:11-0300",
+  "stop_time": "2024-07-04T23:52:00-0300",
+  "created_time": "2024-05-15T14:28:11-0300",
+  "updated_time": "2024-06-19T16:49:33-0300",
+  "amount_spent": "R$663,32 BRL",
+  "impressions": "114198",
+  "reach": "31446",
+  "frequency": "3.631559",
+  "cpm": "R$5,81 BRL",
+  "cpp": "R$21,09 BRL",
+  "clicks": "1375",
+  "ctr": "1,20%",
+  "website_ctr": "0.436085",
+  "actions:link_click": "498",
+  "cost_per_link_click": "R$1,33 BRL",
+  "outbound_clicks": "490",
+  "outbound_clicks_ctr": "0.429079",
+  "landing_page_view": "374",
+  "results": {
+   "indicator": "actions:offsite_conversion.fb_pixel_purchase",
+   "values": [
+    {
+     "attribution_windows": [
+      "default"
+     ],
+     "value": "84"
+    }
+   ]
+  },
+  "cost_per_result": {
+   "value": "R$7,90 BRL (Website purchases)"
+  },
+  "actions:omni_purchase": "84",
+  "omni_purchase_values": "R$176.016,38 BRL",
+  "purchase_roas": "265.35666",
+  "omni_add_to_cart": null,
+  "omni_initiated_checkout": "209",
+  "omni_view_content": null,
+  "post_engagement": "13108",
+  "video_thruplay_watched_actions": "8872"
+ },
+ {
+  "id": "23862126496550689",
+  "name": "[MAGOS-MP][ENGAJAMENTO][JANEIRO]",
+  "objective": "OUTCOME_ENGAGEMENT",
+  "status": "PAUSED",
+  "effective_status": "PAUSED",
+  "delivery": {
+   "status": "off",
+   "substatuses": [
+    "off"
+   ]
+  },
+  "buying_type": "AUCTION",
+  "start_time": "2023-10-17T16:16:35-0300",
+  "stop_time": "2024-01-31T23:00:00-0300",
+  "created_time": "2023-10-17T16:16:35-0300",
+  "updated_time": "2024-02-03T00:59:12-0300",
+  "amount_spent": "R$569,11 BRL",
+  "impressions": "272671",
+  "reach": "153113",
+  "frequency": "1.780848",
+  "cpm": "R$2,09 BRL",
+  "cpp": "R$3,72 BRL",
+  "clicks": "1486",
+  "ctr": "0,54%",
+  "website_ctr": "0.132761",
+  "actions:link_click": "362",
+  "cost_per_link_click": "R$1,57 BRL",
+  "outbound_clicks": null,
+  "outbound_clicks_ctr": null,
+  "landing_page_view": "8",
+  "results": {
+   "indicator": "actions:post_engagement",
+   "values": [
+    {
+     "attribution_windows": [
+      "default"
+     ],
+     "value": "110813"
+    }
+   ]
+  },
+  "cost_per_result": {
+   "value": "R$0,01 BRL (Post engagements)"
+  },
+  "actions:omni_purchase": null,
+  "omni_purchase_values": null,
+  "purchase_roas": null,
+  "omni_add_to_cart": null,
+  "omni_initiated_checkout": null,
+  "omni_view_content": null,
+  "post_engagement": "110813",
+  "video_thruplay_watched_actions": "67872"
+ },
+ {
+  "id": "120245515017160690",
+  "name": "[MP][Conversão] - Ge Week [Maio.26] — [12.05]",
+  "objective": "OUTCOME_SALES",
+  "status": "PAUSED",
+  "effective_status": "PAUSED",
+  "delivery": {
+   "status": "off",
+   "substatuses": [
+    "off"
+   ]
+  },
+  "buying_type": "AUCTION",
+  "bid_strategy": "Highest volume",
+  "lifetime_budget": "R$700,00 BRL",
+  "start_time": "2026-05-12T15:26:06-0300",
+  "stop_time": "2026-05-31T23:30:00-0300",
+  "created_time": "2026-05-12T15:26:05-0300",
+  "updated_time": "2026-05-31T14:36:03-0300",
+  "amount_spent": "R$555,18 BRL",
+  "impressions": "68174",
+  "reach": "18697",
+  "frequency": "3.646253",
+  "cpm": "R$8,14 BRL",
+  "cpp": "R$29,69 BRL",
+  "clicks": "610",
+  "ctr": "0,89%",
+  "website_ctr": "0.536862",
+  "actions:link_click": "366",
+  "cost_per_link_click": "R$1,52 BRL",
+  "outbound_clicks": "365",
+  "outbound_clicks_ctr": "0.535395",
+  "landing_page_view": "267",
+  "results": {
+   "indicator": "actions:offsite_conversion.fb_pixel_purchase",
+   "values": [
+    {
+     "attribution_windows": [
+      "default"
+     ],
+     "value": "44"
+    }
+   ]
+  },
+  "cost_per_result": {
+   "value": "R$12,62 BRL (Website purchases)"
+  },
+  "actions:omni_purchase": "44",
+  "omni_purchase_values": "R$1.630,12 BRL",
+  "purchase_roas": "2.936201",
+  "omni_add_to_cart": "64",
+  "omni_initiated_checkout": "34",
+  "omni_view_content": "175",
+  "post_engagement": "910",
+  "video_thruplay_watched_actions": "34"
+ },
+ {
+  "id": "23854466646990689",
+  "name": "Campanha 04 -Visualição de Video - Topo de Funil",
+  "objective": "OUTCOME_ENGAGEMENT",
+  "status": "PAUSED",
+  "effective_status": "PAUSED",
+  "delivery": {
+   "status": "off",
+   "substatuses": [
+    "off"
+   ]
+  },
+  "buying_type": "AUCTION",
+  "start_time": "2023-06-01T23:19:45-0300",
+  "created_time": "2023-06-01T23:19:44-0300",
+  "updated_time": "2023-09-13T09:09:50-0300",
+  "amount_spent": "R$533,30 BRL",
+  "impressions": "211760",
+  "reach": "92172",
+  "frequency": "2.297444",
+  "cpm": "R$2,52 BRL",
+  "cpp": "R$5,79 BRL",
+  "clicks": "1368",
+  "ctr": "0,65%",
+  "website_ctr": "0.069418",
+  "actions:link_click": "147",
+  "cost_per_link_click": "R$3,63 BRL",
+  "outbound_clicks": "56",
+  "outbound_clicks_ctr": "0.026445",
+  "landing_page_view": "1",
+  "results": {
+   "indicator": "video_thruplay_watched_actions",
+   "values": [
+    {
+     "attribution_windows": [
+      "default"
+     ],
+     "value": "16362"
+    }
+   ]
+  },
+  "cost_per_result": {
+   "value": "R$0,03 BRL (video_thruplay_watched_actions)"
+  },
+  "actions:omni_purchase": null,
+  "omni_purchase_values": null,
+  "purchase_roas": null,
+  "omni_add_to_cart": null,
+  "omni_initiated_checkout": null,
+  "omni_view_content": null,
+  "post_engagement": "51949",
+  "video_thruplay_watched_actions": "16362"
+ },
+ {
+  "id": "23854061175490689",
+  "name": "Campanha 03 - Engajamento - Topo de Funil",
+  "objective": "OUTCOME_ENGAGEMENT",
+  "status": "PAUSED",
+  "effective_status": "PAUSED",
+  "delivery": {
+   "status": "off",
+   "substatuses": [
+    "off"
+   ]
+  },
+  "buying_type": "AUCTION",
+  "start_time": "2023-05-17T23:43:26-0300",
+  "created_time": "2023-05-17T23:43:26-0300",
+  "updated_time": "2023-09-13T09:09:57-0300",
+  "amount_spent": "R$531,76 BRL",
+  "impressions": "257633",
+  "reach": "109552",
+  "frequency": "2.351696",
+  "cpm": "R$2,06 BRL",
+  "cpp": "R$4,85 BRL",
+  "clicks": "1184",
+  "ctr": "0,46%",
+  "website_ctr": "0.003493",
+  "actions:link_click": "9",
+  "cost_per_link_click": "R$59,08 BRL",
+  "outbound_clicks": "1",
+  "outbound_clicks_ctr": "0.000388",
+  "landing_page_view": null,
+  "results": {
+   "indicator": "actions:post_engagement",
+   "values": [
+    {
+     "attribution_windows": [
+      "default"
+     ],
+     "value": "111883"
+    }
+   ]
+  },
+  "cost_per_result": {
+   "value": "R$0,00 BRL (Post engagements)"
+  },
+  "actions:omni_purchase": null,
+  "omni_purchase_values": null,
+  "purchase_roas": null,
+  "omni_add_to_cart": null,
+  "omni_initiated_checkout": null,
+  "omni_view_content": null,
+  "post_engagement": "111883",
+  "video_thruplay_watched_actions": "26710"
+ },
+ {
+  "id": "120224532621730690",
+  "name": "[MP][CBO] - Vendas — Whats OK",
+  "objective": "OUTCOME_SALES",
+  "status": "PAUSED",
+  "effective_status": "PAUSED",
+  "delivery": {
+   "status": "off",
+   "substatuses": [
+    "off"
+   ]
+  },
+  "buying_type": "AUCTION",
+  "bid_strategy": "Highest volume",
+  "lifetime_budget": "R$500,00 BRL",
+  "start_time": "2025-05-23T20:16:07-0300",
+  "stop_time": "2025-05-31T23:00:00-0300",
+  "created_time": "2025-05-23T20:16:06-0300",
+  "updated_time": "2025-06-01T22:28:46-0300",
+  "amount_spent": "R$500,00 BRL",
+  "impressions": "32412",
+  "reach": "20749",
+  "frequency": "1.562099",
+  "cpm": "R$15,43 BRL",
+  "cpp": "R$24,10 BRL",
+  "clicks": "507",
+  "ctr": "1,56%",
+  "website_ctr": "0.644823",
+  "actions:link_click": "209",
+  "cost_per_link_click": "R$2,39 BRL",
+  "outbound_clicks": "141",
+  "outbound_clicks_ctr": "0.435024",
+  "landing_page_view": "39",
+  "results": {
+   "indicator": "actions:onsite_conversion.messaging_conversation_started_7d",
+   "values": [
+    {
+     "attribution_windows": [
+      "default"
+     ],
+     "value": "117"
+    }
+   ]
+  },
+  "cost_per_result": {
+   "value": "R$4,27 BRL (Messaging conversations started)"
+  },
+  "actions:omni_purchase": "7",
+  "omni_purchase_values": "R$27.302,00 BRL",
+  "purchase_roas": "54.604",
+  "omni_add_to_cart": null,
+  "omni_initiated_checkout": "39",
+  "omni_view_content": "6",
+  "post_engagement": "6696",
+  "video_thruplay_watched_actions": "897"
+ },
+ {
+  "id": "120243462107720690",
+  "name": "[MP][Conversão][Site] - Promos da Semana [14.04]",
+  "objective": "OUTCOME_SALES",
+  "status": "PAUSED",
+  "effective_status": "PAUSED",
+  "delivery": {
+   "status": "off",
+   "substatuses": [
+    "off"
+   ]
+  },
+  "buying_type": "AUCTION",
+  "bid_strategy": "Highest volume",
+  "lifetime_budget": "R$500,00 BRL",
+  "start_time": "2026-04-13T19:55:56-0300",
+  "stop_time": "2026-05-01T23:45:00-0300",
+  "created_time": "2026-04-13T19:55:56-0300",
+  "updated_time": "2026-05-06T16:44:46-0300",
+  "amount_spent": "R$499,98 BRL",
+  "impressions": "71892",
+  "reach": "28641",
+  "frequency": "2.510108",
+  "cpm": "R$6,95 BRL",
+  "cpp": "R$17,46 BRL",
+  "clicks": "852",
+  "ctr": "1,19%",
+  "website_ctr": "0.631503",
+  "actions:link_click": "454",
+  "cost_per_link_click": "R$1,10 BRL",
+  "outbound_clicks": "454",
+  "outbound_clicks_ctr": "0.631503",
+  "landing_page_view": "379",
+  "results": {
+   "indicator": "actions:offsite_conversion.fb_pixel_purchase",
+   "values": [
+    {
+     "attribution_windows": [
+      "default"
+     ],
+     "value": "53"
+    }
+   ]
+  },
+  "cost_per_result": {
+   "value": "R$9,43 BRL (Website purchases)"
+  },
+  "actions:omni_purchase": "53",
+  "omni_purchase_values": "R$2.003,18 BRL",
+  "purchase_roas": "4.00652",
+  "omni_add_to_cart": "132",
+  "omni_initiated_checkout": "59",
+  "omni_view_content": "296",
+  "post_engagement": "703",
+  "video_thruplay_watched_actions": "11"
+ },
+ {
+  "id": "120246128159740690",
+  "name": "[MP][Conversão] - Criativos Campeões",
+  "objective": "OUTCOME_SALES",
+  "status": "PAUSED",
+  "effective_status": "PAUSED",
+  "delivery": {
+   "status": "off",
+   "substatuses": [
+    "off"
+   ]
+  },
+  "buying_type": "AUCTION",
+  "bid_strategy": "Highest volume",
+  "lifetime_budget": "R$550,00 BRL",
+  "start_time": "2026-05-20T20:25:10-0300",
+  "stop_time": "2026-06-07T23:21:00-0300",
+  "created_time": "2026-05-20T20:25:10-0300",
+  "updated_time": "2026-06-06T23:34:35-0300",
+  "amount_spent": "R$496,53 BRL",
+  "impressions": "62282",
+  "reach": "19856",
+  "frequency": "3.136684",
+  "cpm": "R$7,97 BRL",
+  "cpp": "R$25,01 BRL",
+  "clicks": "603",
+  "ctr": "0,97%",
+  "website_ctr": "0.475258",
+  "actions:link_click": "296",
+  "cost_per_link_click": "R$1,68 BRL",
+  "outbound_clicks": "296",
+  "outbound_clicks_ctr": "0.475258",
+  "landing_page_view": "227",
+  "results": {
+   "indicator": "actions:offsite_conversion.fb_pixel_purchase",
+   "values": [
+    {
+     "attribution_windows": [
+      "default"
+     ],
+     "value": "38"
+    }
+   ]
+  },
+  "cost_per_result": {
+   "value": "R$13,07 BRL (Website purchases)"
+  },
+  "actions:omni_purchase": "38",
+  "omni_purchase_values": "R$1.925,92 BRL",
+  "purchase_roas": "3.878759",
+  "omni_add_to_cart": "79",
+  "omni_initiated_checkout": "38",
+  "omni_view_content": "212",
+  "post_engagement": "5034",
+  "video_thruplay_watched_actions": "736"
+ },
+ {
+  "id": "120249304744400690",
+  "name": "[MP][Engajamento] - Aquecimento de Público [01.07]",
+  "objective": "OUTCOME_ENGAGEMENT",
+  "status": "PAUSED",
+  "effective_status": "PAUSED",
+  "delivery": {
+   "status": "off",
+   "substatuses": [
+    "off"
+   ]
+  },
+  "buying_type": "AUCTION",
+  "bid_strategy": "Highest volume",
+  "daily_budget": "R$6,00 BRL",
+  "start_time": "2026-07-01T19:14:22-0300",
+  "created_time": "2026-07-01T19:14:21-0300",
+  "updated_time": "2026-08-15T09:32:24-0300",
+  "amount_spent": "R$474,03 BRL",
+  "impressions": "218586",
+  "reach": "145253",
+  "frequency": "1.504864",
+  "cpm": "R$2,17 BRL",
+  "cpp": "R$3,26 BRL",
+  "clicks": "650",
+  "ctr": "0,30%",
+  "website_ctr": "0.112542",
+  "actions:link_click": "246",
+  "cost_per_link_click": "R$1,93 BRL",
+  "outbound_clicks": null,
+  "outbound_clicks_ctr": null,
+  "landing_page_view": null,
+  "results": {
+   "indicator": "actions:post_engagement",
+   "values": [
+    {
+     "attribution_windows": [
+      "default"
+     ],
+     "value": "131996"
+    }
+   ]
+  },
+  "cost_per_result": {
+   "value": "R$0,00 BRL (Post engagements)"
+  },
+  "actions:omni_purchase": null,
+  "omni_purchase_values": null,
+  "purchase_roas": null,
+  "omni_add_to_cart": "4",
+  "omni_initiated_checkout": "1",
+  "omni_view_content": "6",
+  "post_engagement": "131996",
+  "video_thruplay_watched_actions": "79005"
+ },
+ {
+  "id": "120224443839790690",
+  "name": "[MP][ABO] - Vendas",
+  "objective": "OUTCOME_SALES",
+  "status": "PAUSED",
+  "effective_status": "PAUSED",
+  "delivery": {
+   "status": "off",
+   "substatuses": [
+    "off"
+   ]
+  },
+  "buying_type": "AUCTION",
+  "start_time": "2025-05-22T18:34:30-0300",
+  "stop_time": "2025-05-31T23:00:00-0300",
+  "created_time": "2025-05-22T18:34:29-0300",
+  "updated_time": "2025-05-31T09:12:22-0300",
+  "amount_spent": "R$418,77 BRL",
+  "impressions": "44122",
+  "reach": "20587",
+  "frequency": "2.143197",
+  "cpm": "R$9,49 BRL",
+  "cpp": "R$20,34 BRL",
+  "clicks": "657",
+  "ctr": "1,49%",
+  "website_ctr": "0.632338",
+  "actions:link_click": "279",
+  "cost_per_link_click": "R$1,50 BRL",
+  "outbound_clicks": "278",
+  "outbound_clicks_ctr": "0.630071",
+  "landing_page_view": "232",
+  "results": {
+   "indicator": "actions:offsite_conversion.fb_pixel_purchase",
+   "values": [
+    {
+     "attribution_windows": [
+      "default"
+     ],
+     "value": "19"
+    }
+   ]
+  },
+  "cost_per_result": {
+   "value": "R$22,04 BRL (Website purchases)"
+  },
+  "actions:omni_purchase": "19",
+  "omni_purchase_values": "R$65.323,80 BRL",
+  "purchase_roas": "155.989684",
+  "omni_add_to_cart": null,
+  "omni_initiated_checkout": "66",
+  "omni_view_content": null,
+  "post_engagement": "7977",
+  "video_thruplay_watched_actions": "1126"
+ },
+ {
+  "id": "23861403164910689",
+  "name": "[MAGOS-MP][VENDAS][CARDÁPIO][TESTE]",
+  "objective": "OUTCOME_SALES",
+  "status": "PAUSED",
+  "effective_status": "PAUSED",
+  "delivery": {
+   "status": "off",
+   "substatuses": [
+    "off"
+   ]
+  },
+  "buying_type": "AUCTION",
+  "start_time": "2023-10-05T00:22:17-0300",
+  "stop_time": "2023-11-12T23:00:00-0300",
+  "created_time": "2023-10-05T00:22:16-0300",
+  "updated_time": "2023-11-03T15:53:11-0300",
+  "amount_spent": "R$398,84 BRL",
+  "impressions": "115914",
+  "reach": "49510",
+  "frequency": "2.341224",
+  "cpm": "R$3,44 BRL",
+  "cpp": "R$8,06 BRL",
+  "clicks": "1430",
+  "ctr": "1,23%",
+  "website_ctr": "0.367514",
+  "actions:link_click": "426",
+  "cost_per_link_click": "R$0,94 BRL",
+  "outbound_clicks": "416",
+  "outbound_clicks_ctr": "0.358887",
+  "landing_page_view": "297",
+  "results": {
+   "indicator": "actions:offsite_conversion.fb_pixel_purchase",
+   "values": [
+    {
+     "attribution_windows": [
+      "default"
+     ],
+     "value": "21"
+    }
+   ]
+  },
+  "cost_per_result": {
+   "value": "R$18,99 BRL (Website purchases)"
+  },
+  "actions:omni_purchase": "21",
+  "omni_purchase_values": "R$664,04 BRL",
+  "purchase_roas": "1.664928",
+  "omni_add_to_cart": null,
+  "omni_initiated_checkout": "55",
+  "omni_view_content": null,
+  "post_engagement": "849",
+  "video_thruplay_watched_actions": "6"
+ },
+ {
+  "id": "120244310302440690",
+  "name": "[MP][Reconhecimento] - Divulgação [25.04]",
+  "objective": "OUTCOME_AWARENESS",
+  "status": "PAUSED",
+  "effective_status": "PAUSED",
+  "delivery": {
+   "status": "off",
+   "substatuses": [
+    "off"
+   ]
+  },
+  "buying_type": "AUCTION",
+  "bid_strategy": "Highest volume",
+  "daily_budget": "R$25,00 BRL",
+  "start_time": "2026-04-25T16:21:50-0300",
+  "created_time": "2026-04-25T16:21:49-0300",
+  "updated_time": "2026-05-10T09:40:17-0300",
+  "amount_spent": "R$363,44 BRL",
+  "impressions": "312530",
+  "reach": "135247",
+  "frequency": "2.310809",
+  "cpm": "R$1,16 BRL",
+  "cpp": "R$2,69 BRL",
+  "clicks": "384",
+  "ctr": "0,12%",
+  "website_ctr": "0.045756",
+  "actions:link_click": "143",
+  "cost_per_link_click": "R$2,54 BRL",
+  "outbound_clicks": null,
+  "outbound_clicks_ctr": null,
+  "landing_page_view": null,
+  "results": {
+   "indicator": "reach",
+   "values": [
+    {
+     "attribution_windows": [
+      "default"
+     ],
+     "value": "135247"
+    }
+   ]
+  },
+  "cost_per_result": {
+   "value": "R$2,69 BRL (Reach)"
+  },
+  "actions:omni_purchase": "2",
+  "omni_purchase_values": "R$108,00 BRL",
+  "purchase_roas": "0.29716",
+  "omni_add_to_cart": "3",
+  "omni_initiated_checkout": "1",
+  "omni_view_content": "12",
+  "post_engagement": "13569",
+  "video_thruplay_watched_actions": "1772"
+ },
+ {
+  "id": "23856812927060689",
+  "name": "Tráfego - Mensagem - Whatsapp",
+  "objective": "OUTCOME_TRAFFIC",
+  "status": "PAUSED",
+  "effective_status": "PAUSED",
+  "delivery": {
+   "status": "off",
+   "substatuses": [
+    "off"
+   ]
+  },
+  "buying_type": "AUCTION",
+  "start_time": "2023-07-29T19:02:19-0300",
+  "stop_time": "2023-08-31T18:52:36-0300",
+  "created_time": "2023-07-29T19:02:19-0300",
+  "updated_time": "2023-08-15T19:45:36-0300",
+  "amount_spent": "R$298,45 BRL",
+  "impressions": "42473",
+  "reach": "21113",
+  "frequency": "2.011699",
+  "cpm": "R$7,03 BRL",
+  "cpp": "R$14,14 BRL",
+  "clicks": "431",
+  "ctr": "1,01%",
+  "website_ctr": "0.428508",
+  "actions:link_click": "182",
+  "cost_per_link_click": "R$1,64 BRL",
+  "outbound_clicks": "23",
+  "outbound_clicks_ctr": "0.054152",
+  "landing_page_view": "12",
+  "results": {
+   "indicator": "actions:onsite_conversion.messaging_conversation_started_7d",
+   "values": [
+    {
+     "attribution_windows": [
+      "default"
+     ],
+     "value": "57"
+    }
+   ]
+  },
+  "cost_per_result": {
+   "value": "R$5,24 BRL (Messaging conversations started)"
+  },
+  "actions:omni_purchase": "3",
+  "omni_purchase_values": null,
+  "purchase_roas": null,
+  "omni_add_to_cart": null,
+  "omni_initiated_checkout": "13",
+  "omni_view_content": null,
+  "post_engagement": "281",
+  "video_thruplay_watched_actions": null
+ },
+ {
+  "id": "120200344064960690",
+  "name": "[MAGOS-MP][RECONHECIMENTO][ALCANCE][WAR]",
+  "objective": "OUTCOME_AWARENESS",
+  "status": "PAUSED",
+  "effective_status": "PAUSED",
+  "delivery": {
+   "status": "off",
+   "substatuses": [
+    "off"
+   ]
+  },
+  "buying_type": "AUCTION",
+  "start_time": "2023-11-03T20:13:38-0300",
+  "stop_time": "2023-12-31T23:00:22-0300",
+  "created_time": "2023-11-03T20:13:38-0300",
+  "updated_time": "2023-12-06T16:20:46-0300",
+  "amount_spent": "R$269,64 BRL",
+  "impressions": "82377",
+  "reach": "49988",
+  "frequency": "1.647936",
+  "cpm": "R$3,27 BRL",
+  "cpp": "R$5,39 BRL",
+  "clicks": "760",
+  "ctr": "0,92%",
+  "website_ctr": "0.111682",
+  "actions:link_click": "92",
+  "cost_per_link_click": "R$2,93 BRL",
+  "outbound_clicks": "5",
+  "outbound_clicks_ctr": "0.00607",
+  "landing_page_view": null,
+  "results": {
+   "indicator": "reach",
+   "values": [
+    {
+     "attribution_windows": [
+      "default"
+     ],
+     "value": "49988"
+    }
+   ]
+  },
+  "cost_per_result": {
+   "value": "R$5,39 BRL (Reach)"
+  },
+  "actions:omni_purchase": null,
+  "omni_purchase_values": null,
+  "purchase_roas": null,
+  "omni_add_to_cart": null,
+  "omni_initiated_checkout": "4",
+  "omni_view_content": null,
+  "post_engagement": "12107",
+  "video_thruplay_watched_actions": "3644"
+ },
+ {
+  "id": "120245517578580690",
+  "name": "Post do Instagram: Quem é o @ que sempre fala...",
+  "objective": "LINK_CLICKS",
+  "status": "PAUSED",
+  "effective_status": "PAUSED",
+  "delivery": {
+   "status": "off",
+   "substatuses": [
+    "off"
+   ]
+  },
+  "buying_type": "AUCTION",
+  "bid_strategy": "Highest volume",
+  "daily_budget": "R$52,02 BRL",
+  "start_time": "2026-05-12T15:18:58-0300",
+  "stop_time": "2026-05-17T15:18:58-0300",
+  "created_time": "2026-05-12T15:18:31-0300",
+  "updated_time": "2026-06-01T18:52:09-0300",
+  "amount_spent": "R$260,05 BRL",
+  "impressions": "68588",
+  "reach": "45674",
+  "frequency": "1.501686",
+  "cpm": "R$3,79 BRL",
+  "cpp": "R$5,69 BRL",
+  "clicks": "667",
+  "ctr": "0,97%",
+  "website_ctr": "0.976847",
+  "actions:link_click": "670",
+  "cost_per_link_click": "R$0,39 BRL",
+  "outbound_clicks": null,
+  "outbound_clicks_ctr": null,
+  "landing_page_view": "3",
+  "results": {
+   "indicator": "profile_visit_view",
+   "values": [
+    {
+     "attribution_windows": [
+      "default"
+     ],
+     "value": "665"
+    }
+   ]
+  },
+  "cost_per_result": {
+   "value": "R$0,39 BRL (Instagram profile visits)"
+  },
+  "actions:omni_purchase": null,
+  "omni_purchase_values": null,
+  "purchase_roas": null,
+  "omni_add_to_cart": null,
+  "omni_initiated_checkout": null,
+  "omni_view_content": null,
+  "post_engagement": "839",
+  "video_thruplay_watched_actions": null
+ },
+ {
+  "id": "120227026383680690",
+  "name": "[MAGOS-MP][VENDAS][CBO] — Teste",
+  "objective": "OUTCOME_SALES",
+  "status": "PAUSED",
+  "effective_status": "PAUSED",
+  "delivery": {
+   "status": "off",
+   "substatuses": [
+    "off"
+   ]
+  },
+  "buying_type": "AUCTION",
+  "bid_strategy": "Highest volume",
+  "lifetime_budget": "R$800,00 BRL",
+  "start_time": "2025-06-28T17:00:00-0300",
+  "stop_time": "2025-07-28T23:51:00-0300",
+  "created_time": "2025-06-27T20:57:24-0300",
+  "updated_time": "2025-07-08T12:41:51-0300",
+  "amount_spent": "R$254,65 BRL",
+  "impressions": "48732",
+  "reach": "16650",
+  "frequency": "2.926847",
+  "cpm": "R$5,23 BRL",
+  "cpp": "R$15,29 BRL",
+  "clicks": "503",
+  "ctr": "1,03%",
+  "website_ctr": "0.350899",
+  "actions:link_click": "171",
+  "cost_per_link_click": "R$1,49 BRL",
+  "outbound_clicks": "171",
+  "outbound_clicks_ctr": "0.350899",
+  "landing_page_view": "121",
+  "results": {
+   "indicator": "actions:offsite_conversion.fb_pixel_purchase",
+   "values": [
+    {
+     "attribution_windows": [
+      "default"
+     ],
+     "value": "19"
+    }
+   ]
+  },
+  "cost_per_result": {
+   "value": "R$13,40 BRL (Website purchases)"
+  },
+  "actions:omni_purchase": "19",
+  "omni_purchase_values": "R$1.667,20 BRL",
+  "purchase_roas": "6.547025",
+  "omni_add_to_cart": "65",
+  "omni_initiated_checkout": "20",
+  "omni_view_content": "241",
+  "post_engagement": "4106",
+  "video_thruplay_watched_actions": "539"
+ },
+ {
+  "id": "120234828770560690",
+  "name": "Anúncio de Visitas ao perfil do Instagram: A GeBurger vai mudar o seu dia\nEstamos te...",
+  "objective": "LINK_CLICKS",
+  "status": "PAUSED",
+  "effective_status": "PAUSED",
+  "delivery": {
+   "status": "off",
+   "substatuses": [
+    "off"
+   ]
+  },
+  "buying_type": "AUCTION",
+  "bid_strategy": "Highest volume",
+  "daily_budget": "R$15,49 BRL",
+  "start_time": "2025-10-27T18:13:22-0300",
+  "created_time": "2025-10-27T18:12:54-0300",
+  "updated_time": "2025-11-12T17:18:02-0300",
+  "amount_spent": "R$245,75 BRL",
+  "impressions": "16324",
+  "reach": "10070",
+  "frequency": "1.621053",
+  "cpm": "R$15,05 BRL",
+  "cpp": "R$24,40 BRL",
+  "clicks": "273",
+  "ctr": "1,67%",
+  "website_ctr": "1.727518",
+  "actions:link_click": "282",
+  "cost_per_link_click": "R$0,87 BRL",
+  "outbound_clicks": null,
+  "outbound_clicks_ctr": null,
+  "landing_page_view": "11",
+  "results": {
+   "indicator": "profile_visit_view",
+   "values": [
+    {
+     "attribution_windows": [
+      "default"
+     ],
+     "value": "284"
+    }
+   ]
+  },
+  "cost_per_result": {
+   "value": "R$0,87 BRL (Instagram profile visits)"
+  },
+  "actions:omni_purchase": null,
+  "omni_purchase_values": null,
+  "purchase_roas": null,
+  "omni_add_to_cart": null,
+  "omni_initiated_checkout": null,
+  "omni_view_content": null,
+  "post_engagement": "4744",
+  "video_thruplay_watched_actions": "947"
+ },
+ {
+  "id": "120231518006910690",
+  "name": "Post do Instagram: Quando o marketing não pode...",
+  "objective": "LINK_CLICKS",
+  "status": "PAUSED",
+  "effective_status": "PAUSED",
+  "delivery": {
+   "status": "off",
+   "substatuses": [
+    "off"
+   ]
+  },
+  "buying_type": "AUCTION",
+  "bid_strategy": "Highest volume",
+  "daily_budget": "R$20,53 BRL",
+  "start_time": "2025-09-02T21:05:01-0300",
+  "stop_time": "2025-09-14T21:05:01-0300",
+  "created_time": "2025-09-02T21:04:31-0300",
+  "updated_time": "2025-09-15T15:41:16-0300",
+  "amount_spent": "R$245,78 BRL",
+  "impressions": "38545",
+  "reach": "17665",
+  "frequency": "2.181998",
+  "cpm": "R$6,38 BRL",
+  "cpp": "R$13,91 BRL",
+  "clicks": "287",
+  "ctr": "0,74%",
+  "website_ctr": "0.752367",
+  "actions:link_click": "290",
+  "cost_per_link_click": "R$0,85 BRL",
+  "outbound_clicks": null,
+  "outbound_clicks_ctr": null,
+  "landing_page_view": "4",
+  "results": {
+   "indicator": "actions:link_click",
+   "values": [
+    {
+     "attribution_windows": [
+      "default"
+     ],
+     "value": "290"
+    }
+   ]
+  },
+  "cost_per_result": {
+   "value": "R$0,85 BRL (Link clicks)"
+  },
+  "actions:omni_purchase": null,
+  "omni_purchase_values": null,
+  "purchase_roas": null,
+  "omni_add_to_cart": null,
+  "omni_initiated_checkout": null,
+  "omni_view_content": null,
+  "post_engagement": "5450",
+  "video_thruplay_watched_actions": "1826"
+ },
+ {
+  "id": "120248478388460690",
+  "name": "Post do Instagram: Esse é o GeBurger te chamando...",
+  "objective": "LINK_CLICKS",
+  "status": "PAUSED",
+  "effective_status": "PAUSED",
+  "delivery": {
+   "status": "off",
+   "substatuses": [
+    "off"
+   ]
+  },
+  "buying_type": "AUCTION",
+  "bid_strategy": "Highest volume",
+  "daily_budget": "R$35,14 BRL",
+  "start_time": "2026-06-19T10:12:22-0300",
+  "stop_time": "2026-06-26T10:12:22-0300",
+  "created_time": "2026-06-19T10:11:54-0300",
+  "updated_time": "2026-07-19T19:36:31-0300",
+  "amount_spent": "R$245,57 BRL",
+  "impressions": "18812",
+  "reach": "11895",
+  "frequency": "1.581505",
+  "cpm": "R$13,05 BRL",
+  "cpp": "R$20,64 BRL",
+  "clicks": "240",
+  "ctr": "1,28%",
+  "website_ctr": "1.254518",
+  "actions:link_click": "236",
+  "cost_per_link_click": "R$1,04 BRL",
+  "outbound_clicks": null,
+  "outbound_clicks_ctr": null,
+  "landing_page_view": "1",
+  "results": {
+   "indicator": "profile_visit_view",
+   "values": [
+    {
+     "attribution_windows": [
+      "default"
+     ],
+     "value": "229"
+    }
+   ]
+  },
+  "cost_per_result": {
+   "value": "R$1,07 BRL (Instagram profile visits)"
+  },
+  "actions:omni_purchase": null,
+  "omni_purchase_values": null,
+  "purchase_roas": null,
+  "omni_add_to_cart": null,
+  "omni_initiated_checkout": null,
+  "omni_view_content": null,
+  "post_engagement": "3495",
+  "video_thruplay_watched_actions": "378"
+ },
+ {
+  "id": "120235750598550690",
+  "name": "[MP][CBO][Vendas] - Teste de Criativos",
+  "objective": "OUTCOME_SALES",
+  "status": "PAUSED",
+  "effective_status": "PAUSED",
+  "delivery": {
+   "status": "off",
+   "substatuses": [
+    "off"
+   ]
+  },
+  "buying_type": "AUCTION",
+  "bid_strategy": "Highest volume",
+  "lifetime_budget": "R$500,00 BRL",
+  "start_time": "2025-11-11T16:36:11-0300",
+  "stop_time": "2025-12-11T16:07:44-0300",
+  "created_time": "2025-11-11T16:36:10-0300",
+  "updated_time": "2025-11-23T21:52:03-0300",
+  "amount_spent": "R$227,92 BRL",
+  "impressions": "32107",
+  "reach": "11192",
+  "frequency": "2.868746",
+  "cpm": "R$7,10 BRL",
+  "cpp": "R$20,36 BRL",
+  "clicks": "216",
+  "ctr": "0,67%",
+  "website_ctr": "0.432927",
+  "actions:link_click": "139",
+  "cost_per_link_click": "R$1,64 BRL",
+  "outbound_clicks": "139",
+  "outbound_clicks_ctr": "0.432927",
+  "landing_page_view": "104",
+  "results": {
+   "indicator": "actions:offsite_conversion.fb_pixel_purchase",
+   "values": [
+    {
+     "attribution_windows": [
+      "default"
+     ],
+     "value": "10"
+    }
+   ]
+  },
+  "cost_per_result": {
+   "value": "R$22,79 BRL (Website purchases)"
+  },
+  "actions:omni_purchase": "10",
+  "omni_purchase_values": "R$392,10 BRL",
+  "purchase_roas": "1.72034",
+  "omni_add_to_cart": "34",
+  "omni_initiated_checkout": "8",
+  "omni_view_content": "88",
+  "post_engagement": "198",
+  "video_thruplay_watched_actions": "2"
+ },
+ {
+  "id": "120250075360630690",
+  "name": "[MP][Conversão] - [Site] [31.07]",
+  "objective": "OUTCOME_SALES",
+  "status": "PAUSED",
+  "effective_status": "PAUSED",
+  "delivery": {
+   "status": "off",
+   "substatuses": [
+    "off"
+   ]
+  },
+  "buying_type": "AUCTION",
+  "bid_strategy": "Highest volume",
+  "lifetime_budget": "R$230,00 BRL",
+  "start_time": "2026-07-31T20:37:26-0300",
+  "stop_time": "2026-08-09T23:35:00-0300",
+  "created_time": "2026-07-31T20:36:50-0300",
+  "updated_time": "2026-08-11T11:52:35-0300",
+  "amount_spent": "R$223,44 BRL",
+  "impressions": "20990",
+  "reach": "7235",
+  "frequency": "2.901175",
+  "cpm": "R$10,65 BRL",
+  "cpp": "R$30,88 BRL",
+  "clicks": "202",
+  "ctr": "0,96%",
+  "website_ctr": "0.709862",
+  "actions:link_click": "149",
+  "cost_per_link_click": "R$1,50 BRL",
+  "outbound_clicks": "149",
+  "outbound_clicks_ctr": "0.709862",
+  "landing_page_view": "109",
+  "results": {
+   "indicator": "actions:offsite_conversion.fb_pixel_purchase",
+   "values": [
+    {
+     "attribution_windows": [
+      "default"
+     ],
+     "value": "11"
+    }
+   ]
+  },
+  "cost_per_result": {
+   "value": "R$20,31 BRL (Website purchases)"
+  },
+  "actions:omni_purchase": "11",
+  "omni_purchase_values": "R$508,90 BRL",
+  "purchase_roas": "2.277569",
+  "omni_add_to_cart": "11",
+  "omni_initiated_checkout": "6",
+  "omni_view_content": "28",
+  "post_engagement": "2380",
+  "video_thruplay_watched_actions": "481"
+ },
+ {
+  "id": "120212331118100690",
+  "name": "01 - GÊ BURGER - CAPTAÇÃO - 04/10 - 11/10",
+  "objective": "OUTCOME_ENGAGEMENT",
+  "status": "PAUSED",
+  "effective_status": "PAUSED",
+  "delivery": {
+   "status": "off",
+   "substatuses": [
+    "off"
+   ]
+  },
+  "buying_type": "AUCTION",
+  "bid_strategy": "Highest volume",
+  "lifetime_budget": "R$228,00 BRL",
+  "start_time": "2024-10-04T17:49:37-0300",
+  "stop_time": "2024-10-27T16:39:00-0300",
+  "created_time": "2024-10-04T17:49:36-0300",
+  "updated_time": "2024-10-15T17:03:41-0300",
+  "amount_spent": "R$198,88 BRL",
+  "impressions": "22922",
+  "reach": "11975",
+  "frequency": "1.914154",
+  "cpm": "R$8,68 BRL",
+  "cpp": "R$16,61 BRL",
+  "clicks": "366",
+  "ctr": "1,60%",
+  "website_ctr": "0.580229",
+  "actions:link_click": "133",
+  "cost_per_link_click": "R$1,50 BRL",
+  "outbound_clicks": "64",
+  "outbound_clicks_ctr": "0.279208",
+  "landing_page_view": "32",
+  "results": {
+   "indicator": "actions:onsite_conversion.messaging_conversation_started_7d",
+   "values": [
+    {
+     "attribution_windows": [
+      "default"
+     ],
+     "value": "71"
+    }
+   ]
+  },
+  "cost_per_result": {
+   "value": "R$2,80 BRL (Messaging conversations started)"
+  },
+  "actions:omni_purchase": "15",
+  "omni_purchase_values": "R$38.458,30 BRL",
+  "purchase_roas": "193.374397",
+  "omni_add_to_cart": null,
+  "omni_initiated_checkout": "43",
+  "omni_view_content": null,
+  "post_engagement": "5501",
+  "video_thruplay_watched_actions": "1140"
+ },
+ {
+  "id": "23859395383330689",
+  "name": "[MAGOS-MP][VENDAS][CARDÁPIO]",
+  "objective": "OUTCOME_SALES",
+  "status": "PAUSED",
+  "effective_status": "PAUSED",
+  "delivery": {
+   "status": "off",
+   "substatuses": [
+    "off"
+   ]
+  },
+  "buying_type": "AUCTION",
+  "start_time": "2023-09-27T15:01:50-0300",
+  "stop_time": "2023-10-27T14:21:50-0300",
+  "created_time": "2023-09-27T15:01:49-0300",
+  "updated_time": "2023-10-06T19:32:33-0300",
+  "amount_spent": "R$181,47 BRL",
+  "impressions": "29769",
+  "reach": "10575",
+  "frequency": "2.815035",
+  "cpm": "R$6,10 BRL",
+  "cpp": "R$17,16 BRL",
+  "clicks": "466",
+  "ctr": "1,57%",
+  "website_ctr": "0.372871",
+  "actions:link_click": "111",
+  "cost_per_link_click": "R$1,63 BRL",
+  "outbound_clicks": "107",
+  "outbound_clicks_ctr": "0.359434",
+  "landing_page_view": "79",
+  "results": {
+   "indicator": "actions:offsite_conversion.fb_pixel_purchase",
+   "values": [
+    {
+     "attribution_windows": [
+      "default"
+     ],
+     "value": "10"
+    }
+   ]
+  },
+  "cost_per_result": {
+   "value": "R$18,15 BRL (Website purchases)"
+  },
+  "actions:omni_purchase": "10",
+  "omni_purchase_values": "R$306,08 BRL",
+  "purchase_roas": "1.68667",
+  "omni_add_to_cart": null,
+  "omni_initiated_checkout": "18",
+  "omni_view_content": null,
+  "post_engagement": "291",
+  "video_thruplay_watched_actions": null
+ },
+ {
+  "id": "120236955293860690",
+  "name": "Post do Instagram: Para finalizar seu dia...",
+  "objective": "LINK_CLICKS",
+  "status": "PAUSED",
+  "effective_status": "PAUSED",
+  "delivery": {
+   "status": "off",
+   "substatuses": [
+    "off"
+   ]
+  },
+  "buying_type": "AUCTION",
+  "bid_strategy": "Highest volume",
+  "daily_budget": "R$25,39 BRL",
+  "start_time": "2025-12-03T08:20:56-0300",
+  "stop_time": "2025-12-10T08:20:56-0300",
+  "created_time": "2025-12-02T23:50:39-0300",
+  "updated_time": "2026-01-02T17:52:36-0300",
+  "amount_spent": "R$177,47 BRL",
+  "impressions": "21485",
+  "reach": "17122",
+  "frequency": "1.254818",
+  "cpm": "R$8,26 BRL",
+  "cpp": "R$10,37 BRL",
+  "clicks": "446",
+  "ctr": "2,08%",
+  "website_ctr": "2.04794",
+  "actions:link_click": "440",
+  "cost_per_link_click": "R$0,40 BRL",
+  "outbound_clicks": null,
+  "outbound_clicks_ctr": null,
+  "landing_page_view": "9",
+  "results": {
+   "indicator": "profile_visit_view",
+   "values": [
+    {
+     "attribution_windows": [
+      "default"
+     ],
+     "value": "428"
+    }
+   ]
+  },
+  "cost_per_result": {
+   "value": "R$0,41 BRL (Instagram profile visits)"
+  },
+  "actions:omni_purchase": null,
+  "omni_purchase_values": null,
+  "purchase_roas": null,
+  "omni_add_to_cart": null,
+  "omni_initiated_checkout": null,
+  "omni_view_content": null,
+  "post_engagement": "7268",
+  "video_thruplay_watched_actions": "2201"
+ },
+ {
+  "id": "120209000223500690",
+  "name": "Publicação do Instagram: Todo dia uma promo...",
+  "objective": "LINK_CLICKS",
+  "status": "PAUSED",
+  "effective_status": "PAUSED",
+  "delivery": {
+   "status": "off",
+   "substatuses": [
+    "off"
+   ]
+  },
+  "buying_type": "AUCTION",
+  "bid_strategy": "Highest volume",
+  "daily_budget": "R$25,14 BRL",
+  "start_time": "2024-05-09T20:54:00-0300",
+  "stop_time": "2024-05-16T20:54:00-0300",
+  "created_time": "2024-05-09T20:53:30-0300",
+  "updated_time": "2024-05-17T16:45:10-0300",
+  "amount_spent": "R$175,97 BRL",
+  "impressions": "42235",
+  "reach": "18888",
+  "frequency": "2.236076",
+  "cpm": "R$4,17 BRL",
+  "cpp": "R$9,32 BRL",
+  "clicks": "283",
+  "ctr": "0,67%",
+  "website_ctr": "0.679531",
+  "actions:link_click": "287",
+  "cost_per_link_click": "R$0,61 BRL",
+  "outbound_clicks": null,
+  "outbound_clicks_ctr": null,
+  "landing_page_view": "5",
+  "results": {
+   "indicator": "actions:link_click",
+   "values": [
+    {
+     "attribution_windows": [
+      "default"
+     ],
+     "value": "287"
+    }
+   ]
+  },
+  "cost_per_result": {
+   "value": "R$0,61 BRL (Link clicks)"
+  },
+  "actions:omni_purchase": null,
+  "omni_purchase_values": null,
+  "purchase_roas": null,
+  "omni_add_to_cart": null,
+  "omni_initiated_checkout": null,
+  "omni_view_content": null,
+  "post_engagement": "429",
+  "video_thruplay_watched_actions": null
+ },
+ {
+  "id": "120212328880460690",
+  "name": "00 - GÊ BURGER - PÚBLICO - VÍDEOS",
+  "objective": "OUTCOME_ENGAGEMENT",
+  "status": "PAUSED",
+  "effective_status": "PAUSED",
+  "delivery": {
+   "status": "off",
+   "substatuses": [
+    "off"
+   ]
+  },
+  "buying_type": "AUCTION",
+  "start_time": "2024-10-04T16:02:39-0300",
+  "created_time": "2024-10-04T16:02:38-0300",
+  "updated_time": "2024-10-21T10:02:05-0300",
+  "amount_spent": "R$165,93 BRL",
+  "impressions": "105231",
+  "reach": "43800",
+  "frequency": "2.402534",
+  "cpm": "R$1,58 BRL",
+  "cpp": "R$3,79 BRL",
+  "clicks": "141",
+  "ctr": "0,13%",
+  "website_ctr": "0.050365",
+  "actions:link_click": "53",
+  "cost_per_link_click": "R$3,13 BRL",
+  "outbound_clicks": "51",
+  "outbound_clicks_ctr": "0.048465",
+  "landing_page_view": "25",
+  "results": {
+   "indicator": "video_thruplay_watched_actions",
+   "values": [
+    {
+     "attribution_windows": [
+      "default"
+     ],
+     "value": "44329"
+    }
+   ]
+  },
+  "cost_per_result": {
+   "value": "R$0,00 BRL (video_thruplay_watched_actions)"
+  },
+  "actions:omni_purchase": null,
+  "omni_purchase_values": null,
+  "purchase_roas": null,
+  "omni_add_to_cart": null,
+  "omni_initiated_checkout": null,
+  "omni_view_content": null,
+  "post_engagement": "44446",
+  "video_thruplay_watched_actions": "44329"
+ },
+ {
+  "id": "120230749744780690",
+  "name": "[MP][CBO] - Vendas [Teste] [19.08]",
+  "objective": "OUTCOME_SALES",
+  "status": "PAUSED",
+  "effective_status": "PAUSED",
+  "delivery": {
+   "status": "off",
+   "substatuses": [
+    "off"
+   ]
+  },
+  "buying_type": "AUCTION",
+  "bid_strategy": "Highest volume",
+  "lifetime_budget": "R$300,00 BRL",
+  "start_time": "2025-08-19T17:42:28-0300",
+  "stop_time": "2025-08-31T23:01:00-0300",
+  "created_time": "2025-08-19T17:42:27-0300",
+  "updated_time": "2025-08-26T10:26:14-0300",
+  "amount_spent": "R$154,99 BRL",
+  "impressions": "22736",
+  "reach": "7788",
+  "frequency": "2.919363",
+  "cpm": "R$6,82 BRL",
+  "cpp": "R$19,90 BRL",
+  "clicks": "171",
+  "ctr": "0,75%",
+  "website_ctr": "0.457424",
+  "actions:link_click": "104",
+  "cost_per_link_click": "R$1,49 BRL",
+  "outbound_clicks": "104",
+  "outbound_clicks_ctr": "0.457424",
+  "landing_page_view": "81",
+  "results": {
+   "indicator": "actions:offsite_conversion.fb_pixel_purchase",
+   "values": [
+    {
+     "attribution_windows": [
+      "default"
+     ],
+     "value": "5"
+    }
+   ]
+  },
+  "cost_per_result": {
+   "value": "R$31,00 BRL (Website purchases)"
+  },
+  "actions:omni_purchase": "5",
+  "omni_purchase_values": "R$396,80 BRL",
+  "purchase_roas": "2.560165",
+  "omni_add_to_cart": "18",
+  "omni_initiated_checkout": "12",
+  "omni_view_content": "38",
+  "post_engagement": "351",
+  "video_thruplay_watched_actions": "40"
+ },
+ {
+  "id": "120247895063570690",
+  "name": "[MP][Conversão] - [Site] Combos",
+  "objective": "OUTCOME_SALES",
+  "status": "PAUSED",
+  "effective_status": "PAUSED",
+  "delivery": {
+   "status": "off",
+   "substatuses": [
+    "off"
+   ]
+  },
+  "buying_type": "AUCTION",
+  "bid_strategy": "Highest volume",
+  "lifetime_budget": "R$900,00 BRL",
+  "start_time": "2026-06-11T21:58:43-0300",
+  "stop_time": "2026-07-05T23:57:00-0300",
+  "created_time": "2026-06-11T21:58:42-0300",
+  "updated_time": "2026-06-15T19:10:31-0300",
+  "amount_spent": "R$149,39 BRL",
+  "impressions": "27229",
+  "reach": "19311",
+  "frequency": "1.410025",
+  "cpm": "R$5,49 BRL",
+  "cpp": "R$7,74 BRL",
+  "clicks": "175",
+  "ctr": "0,64%",
+  "website_ctr": "0.367256",
+  "actions:link_click": "100",
+  "cost_per_link_click": "R$1,49 BRL",
+  "outbound_clicks": "100",
+  "outbound_clicks_ctr": "0.367256",
+  "landing_page_view": "7",
+  "results": {
+   "indicator": "actions:offsite_conversion.fb_pixel_purchase",
+   "value": "Not available"
+  },
+  "cost_per_result": {
+   "value": "Not available (Website purchases)"
+  },
+  "actions:omni_purchase": null,
+  "omni_purchase_values": null,
+  "purchase_roas": null,
+  "omni_add_to_cart": null,
+  "omni_initiated_checkout": null,
+  "omni_view_content": "6",
+  "post_engagement": "103",
+  "video_thruplay_watched_actions": null
+ },
+ {
+  "id": "120237617301260690",
+  "name": "Post do Instagram: Aqui na Ge tem tudo que você...",
+  "objective": "LINK_CLICKS",
+  "status": "PAUSED",
+  "effective_status": "PAUSED",
+  "delivery": {
+   "status": "off",
+   "substatuses": [
+    "off"
+   ]
+  },
+  "buying_type": "AUCTION",
+  "bid_strategy": "Highest volume",
+  "daily_budget": "R$21,00 BRL",
+  "start_time": "2025-12-14T05:55:45-0300",
+  "stop_time": "2025-12-21T05:55:45-0300",
+  "created_time": "2025-12-13T22:06:03-0300",
+  "updated_time": "2025-12-21T18:29:51-0300",
+  "amount_spent": "R$146,49 BRL",
+  "impressions": "7231",
+  "reach": "5437",
+  "frequency": "1.329961",
+  "cpm": "R$20,26 BRL",
+  "cpp": "R$26,94 BRL",
+  "clicks": "223",
+  "ctr": "3,08%",
+  "website_ctr": "3.332872",
+  "actions:link_click": "241",
+  "cost_per_link_click": "R$0,61 BRL",
+  "outbound_clicks": null,
+  "outbound_clicks_ctr": null,
+  "landing_page_view": "5",
+  "results": {
+   "indicator": "profile_visit_view",
+   "values": [
+    {
+     "attribution_windows": [
+      "default"
+     ],
+     "value": "248"
+    }
+   ]
+  },
+  "cost_per_result": {
+   "value": "R$0,59 BRL (Instagram profile visits)"
+  },
+  "actions:omni_purchase": null,
+  "omni_purchase_values": null,
+  "purchase_roas": null,
+  "omni_add_to_cart": null,
+  "omni_initiated_checkout": null,
+  "omni_view_content": null,
+  "post_engagement": "2130",
+  "video_thruplay_watched_actions": "1085"
+ },
+ {
+  "id": "120217906270310690",
+  "name": "00 - GÊ BURGER - CONVERSÃO - 21/03/25",
+  "objective": "OUTCOME_SALES",
+  "status": "PAUSED",
+  "effective_status": "PAUSED",
+  "delivery": {
+   "status": "off",
+   "substatuses": [
+    "off"
+   ]
+  },
+  "buying_type": "AUCTION",
+  "bid_strategy": "Highest volume",
+  "lifetime_budget": "R$1.200,00 BRL",
+  "start_time": "2025-03-21T15:00:13-0300",
+  "stop_time": "2025-05-31T14:36:00-0300",
+  "created_time": "2025-03-21T15:00:12-0300",
+  "updated_time": "2025-03-31T10:17:14-0300",
+  "amount_spent": "R$145,23 BRL",
+  "impressions": "15258",
+  "reach": "4684",
+  "frequency": "3.257472",
+  "cpm": "R$9,52 BRL",
+  "cpp": "R$31,01 BRL",
+  "clicks": "142",
+  "ctr": "0,93%",
+  "website_ctr": "0.452222",
+  "actions:link_click": "69",
+  "cost_per_link_click": "R$2,10 BRL",
+  "outbound_clicks": "69",
+  "outbound_clicks_ctr": "0.452222",
+  "landing_page_view": "30",
+  "results": {
+   "indicator": "actions:offsite_conversion.fb_pixel_purchase",
+   "values": [
+    {
+     "attribution_windows": [
+      "default"
+     ],
+     "value": "7"
+    }
+   ]
+  },
+  "cost_per_result": {
+   "value": "R$20,75 BRL (Website purchases)"
+  },
+  "actions:omni_purchase": "7",
+  "omni_purchase_values": "R$24.684,50 BRL",
+  "purchase_roas": "169.968326",
+  "omni_add_to_cart": null,
+  "omni_initiated_checkout": "31",
+  "omni_view_content": null,
+  "post_engagement": "1944",
+  "video_thruplay_watched_actions": "340"
+ },
+ {
+  "id": "120229891867760690",
+  "name": "Post do Instagram: Não gosta de hambúrguer? Sem...",
+  "objective": "LINK_CLICKS",
+  "status": "PAUSED",
+  "effective_status": "PAUSED",
+  "delivery": {
+   "status": "off",
+   "substatuses": [
+    "off"
+   ]
+  },
+  "buying_type": "AUCTION",
+  "bid_strategy": "Highest volume",
+  "daily_budget": "R$20,53 BRL",
+  "start_time": "2025-08-06T11:40:31-0300",
+  "stop_time": "2025-08-13T11:40:31-0300",
+  "created_time": "2025-08-06T11:40:01-0300",
+  "updated_time": "2025-08-13T16:14:08-0300",
+  "amount_spent": "R$143,53 BRL",
+  "impressions": "16812",
+  "reach": "10090",
+  "frequency": "1.666204",
+  "cpm": "R$8,54 BRL",
+  "cpp": "R$14,22 BRL",
+  "clicks": "212",
+  "ctr": "1,26%",
+  "website_ctr": "1.290745",
+  "actions:link_click": "217",
+  "cost_per_link_click": "R$0,66 BRL",
+  "outbound_clicks": null,
+  "outbound_clicks_ctr": null,
+  "landing_page_view": "2",
+  "results": {
+   "indicator": "actions:link_click",
+   "values": [
+    {
+     "attribution_windows": [
+      "default"
+     ],
+     "value": "217"
+    }
+   ]
+  },
+  "cost_per_result": {
+   "value": "R$0,66 BRL (Link clicks)"
+  },
+  "actions:omni_purchase": null,
+  "omni_purchase_values": null,
+  "purchase_roas": null,
+  "omni_add_to_cart": null,
+  "omni_initiated_checkout": null,
+  "omni_view_content": null,
+  "post_engagement": "3329",
+  "video_thruplay_watched_actions": "1050"
+ },
+ {
+  "id": "120228304951650690",
+  "name": "Publicação do Instagram: Bateu vontade? A gente...",
+  "objective": "LINK_CLICKS",
+  "status": "PAUSED",
+  "effective_status": "PAUSED",
+  "delivery": {
+   "status": "off",
+   "substatuses": [
+    "off"
+   ]
+  },
+  "buying_type": "AUCTION",
+  "bid_strategy": "Highest volume",
+  "daily_budget": "R$20,53 BRL",
+  "start_time": "2025-07-17T11:55:36-0300",
+  "stop_time": "2025-07-24T11:55:36-0300",
+  "created_time": "2025-07-17T11:55:06-0300",
+  "updated_time": "2025-07-26T12:35:46-0300",
+  "amount_spent": "R$143,27 BRL",
+  "impressions": "20029",
+  "reach": "10906",
+  "frequency": "1.836512",
+  "cpm": "R$7,15 BRL",
+  "cpp": "R$13,14 BRL",
+  "clicks": "154",
+  "ctr": "0,77%",
+  "website_ctr": "0.773878",
+  "actions:link_click": "155",
+  "cost_per_link_click": "R$0,92 BRL",
+  "outbound_clicks": null,
+  "outbound_clicks_ctr": null,
+  "landing_page_view": "2",
+  "results": {
+   "indicator": "actions:link_click",
+   "values": [
+    {
+     "attribution_windows": [
+      "default"
+     ],
+     "value": "155"
+    }
+   ]
+  },
+  "cost_per_result": {
+   "value": "R$0,92 BRL (Link clicks)"
+  },
+  "actions:omni_purchase": null,
+  "omni_purchase_values": null,
+  "purchase_roas": null,
+  "omni_add_to_cart": null,
+  "omni_initiated_checkout": null,
+  "omni_view_content": null,
+  "post_engagement": "2959",
+  "video_thruplay_watched_actions": "749"
+ },
+ {
+  "id": "120230944807510690",
+  "name": "Post do Instagram: Algo de errado não está certo...",
+  "objective": "LINK_CLICKS",
+  "status": "PAUSED",
+  "effective_status": "PAUSED",
+  "delivery": {
+   "status": "off",
+   "substatuses": [
+    "off"
+   ]
+  },
+  "buying_type": "AUCTION",
+  "bid_strategy": "Highest volume",
+  "daily_budget": "R$20,53 BRL",
+  "start_time": "2025-08-22T12:04:09-0300",
+  "stop_time": "2025-08-29T12:04:09-0300",
+  "created_time": "2025-08-22T12:03:39-0300",
+  "updated_time": "2025-09-01T16:15:10-0300",
+  "amount_spent": "R$142,93 BRL",
+  "impressions": "24661",
+  "reach": "11724",
+  "frequency": "2.103463",
+  "cpm": "R$5,80 BRL",
+  "cpp": "R$12,19 BRL",
+  "clicks": "233",
+  "ctr": "0,94%",
+  "website_ctr": "0.948867",
+  "actions:link_click": "234",
+  "cost_per_link_click": "R$0,61 BRL",
+  "outbound_clicks": null,
+  "outbound_clicks_ctr": null,
+  "landing_page_view": "4",
+  "results": {
+   "indicator": "actions:link_click",
+   "values": [
+    {
+     "attribution_windows": [
+      "default"
+     ],
+     "value": "234"
+    }
+   ]
+  },
+  "cost_per_result": {
+   "value": "R$0,61 BRL (Link clicks)"
+  },
+  "actions:omni_purchase": null,
+  "omni_purchase_values": null,
+  "purchase_roas": null,
+  "omni_add_to_cart": null,
+  "omni_initiated_checkout": null,
+  "omni_view_content": null,
+  "post_engagement": "3216",
+  "video_thruplay_watched_actions": "744"
+ },
+ {
+  "id": "120248476524020690",
+  "name": "[MP][Conversão] - [Site] [19.06]",
+  "objective": "OUTCOME_SALES",
+  "status": "PAUSED",
+  "effective_status": "PAUSED",
+  "delivery": {
+   "status": "off",
+   "substatuses": [
+    "off"
+   ]
+  },
+  "buying_type": "AUCTION",
+  "bid_strategy": "Highest volume",
+  "lifetime_budget": "R$300,00 BRL",
+  "start_time": "2026-06-19T09:56:29-0300",
+  "stop_time": "2026-07-05T23:30:00-0300",
+  "created_time": "2026-06-19T09:56:28-0300",
+  "updated_time": "2026-06-25T11:58:56-0300",
+  "amount_spent": "R$142,75 BRL",
+  "impressions": "19785",
+  "reach": "11626",
+  "frequency": "1.701789",
+  "cpm": "R$7,22 BRL",
+  "cpp": "R$12,28 BRL",
+  "clicks": "171",
+  "ctr": "0,86%",
+  "website_ctr": "0.41951",
+  "actions:link_click": "83",
+  "cost_per_link_click": "R$1,72 BRL",
+  "outbound_clicks": "83",
+  "outbound_clicks_ctr": "0.41951",
+  "landing_page_view": "18",
+  "results": {
+   "indicator": "actions:offsite_conversion.fb_pixel_purchase",
+   "values": [
+    {
+     "attribution_windows": [
+      "default"
+     ],
+     "value": "2"
+    }
+   ]
+  },
+  "cost_per_result": {
+   "value": "R$71,38 BRL (Website purchases)"
+  },
+  "actions:omni_purchase": "2",
+  "omni_purchase_values": "R$126,00 BRL",
+  "purchase_roas": "0.882662",
+  "omni_add_to_cart": "3",
+  "omni_initiated_checkout": "2",
+  "omni_view_content": "20",
+  "post_engagement": "83",
+  "video_thruplay_watched_actions": null
+ },
+ {
+  "id": "120242342202290690",
+  "name": "Post do Instagram: Arrasta pro lado e vê o que te...",
+  "objective": "LINK_CLICKS",
+  "status": "PAUSED",
+  "effective_status": "PAUSED",
+  "delivery": {
+   "status": "off",
+   "substatuses": [
+    "off"
+   ]
+  },
+  "buying_type": "AUCTION",
+  "bid_strategy": "Highest volume",
+  "daily_budget": "R$20,25 BRL",
+  "start_time": "2026-03-23T00:09:23-0300",
+  "stop_time": "2026-03-30T00:09:23-0300",
+  "created_time": "2026-03-22T19:10:14-0300",
+  "updated_time": "2026-05-05T10:11:27-0300",
+  "amount_spent": "R$141,58 BRL",
+  "impressions": "17368",
+  "reach": "12047",
+  "frequency": "1.441687",
+  "cpm": "R$8,15 BRL",
+  "cpp": "R$11,75 BRL",
+  "clicks": "251",
+  "ctr": "1,45%",
+  "website_ctr": "1.427913",
+  "actions:link_click": "248",
+  "cost_per_link_click": "R$0,57 BRL",
+  "outbound_clicks": null,
+  "outbound_clicks_ctr": null,
+  "landing_page_view": "11",
+  "results": {
+   "indicator": "profile_visit_view",
+   "values": [
+    {
+     "attribution_windows": [
+      "default"
+     ],
+     "value": "255"
+    }
+   ]
+  },
+  "cost_per_result": {
+   "value": "R$0,56 BRL (Instagram profile visits)"
+  },
+  "actions:omni_purchase": null,
+  "omni_purchase_values": null,
+  "purchase_roas": null,
+  "omni_add_to_cart": null,
+  "omni_initiated_checkout": null,
+  "omni_view_content": null,
+  "post_engagement": "406",
+  "video_thruplay_watched_actions": null
+ },
+ {
+  "id": "120241579267830690",
+  "name": "Post do Instagram: O nome dele é Clássico, e você...",
+  "objective": "LINK_CLICKS",
+  "status": "PAUSED",
+  "effective_status": "PAUSED",
+  "delivery": {
+   "status": "off",
+   "substatuses": [
+    "off"
+   ]
+  },
+  "buying_type": "AUCTION",
+  "bid_strategy": "Highest volume",
+  "daily_budget": "R$20,25 BRL",
+  "start_time": "2026-03-04T12:52:17-0300",
+  "stop_time": "2026-03-11T12:52:17-0300",
+  "created_time": "2026-03-04T12:51:54-0300",
+  "updated_time": "2026-03-17T11:38:13-0300",
+  "amount_spent": "R$141,39 BRL",
+  "impressions": "23155",
+  "reach": "12962",
+  "frequency": "1.786376",
+  "cpm": "R$6,11 BRL",
+  "cpp": "R$10,91 BRL",
+  "clicks": "339",
+  "ctr": "1,46%",
+  "website_ctr": "1.494278",
+  "actions:link_click": "346",
+  "cost_per_link_click": "R$0,41 BRL",
+  "outbound_clicks": null,
+  "outbound_clicks_ctr": null,
+  "landing_page_view": "17",
+  "results": {
+   "indicator": "profile_visit_view",
+   "values": [
+    {
+     "attribution_windows": [
+      "default"
+     ],
+     "value": "355"
+    }
+   ]
+  },
+  "cost_per_result": {
+   "value": "R$0,40 BRL (Instagram profile visits)"
+  },
+  "actions:omni_purchase": null,
+  "omni_purchase_values": null,
+  "purchase_roas": null,
+  "omni_add_to_cart": null,
+  "omni_initiated_checkout": null,
+  "omni_view_content": null,
+  "post_engagement": "669",
+  "video_thruplay_watched_actions": "2"
+ },
+ {
+  "id": "120245078887450690",
+  "name": "[MP][Conversão] - Ge Week [Maio.26]",
+  "objective": "OUTCOME_SALES",
+  "status": "PAUSED",
+  "effective_status": "PAUSED",
+  "delivery": {
+   "status": "off",
+   "substatuses": [
+    "off"
+   ]
+  },
+  "buying_type": "AUCTION",
+  "bid_strategy": "Highest volume",
+  "lifetime_budget": "R$750,00 BRL",
+  "start_time": "2026-05-06T17:04:50-0300",
+  "stop_time": "2026-05-31T23:30:00-0300",
+  "created_time": "2026-05-06T17:04:49-0300",
+  "updated_time": "2026-05-24T21:00:05-0300",
+  "amount_spent": "R$137,42 BRL",
+  "impressions": "20685",
+  "reach": "11552",
+  "frequency": "1.790599",
+  "cpm": "R$6,64 BRL",
+  "cpp": "R$11,90 BRL",
+  "clicks": "248",
+  "ctr": "1,20%",
+  "website_ctr": "0.696157",
+  "actions:link_click": "144",
+  "cost_per_link_click": "R$0,95 BRL",
+  "outbound_clicks": "144",
+  "outbound_clicks_ctr": "0.696157",
+  "landing_page_view": "115",
+  "results": {
+   "indicator": "actions:offsite_conversion.fb_pixel_purchase",
+   "values": [
+    {
+     "attribution_windows": [
+      "default"
+     ],
+     "value": "10"
+    }
+   ]
+  },
+  "cost_per_result": {
+   "value": "R$13,74 BRL (Website purchases)"
+  },
+  "actions:omni_purchase": "10",
+  "omni_purchase_values": "R$373,10 BRL",
+  "purchase_roas": "2.715034",
+  "omni_add_to_cart": "26",
+  "omni_initiated_checkout": "15",
+  "omni_view_content": "97",
+  "post_engagement": "516",
+  "video_thruplay_watched_actions": "43"
+ },
+ {
+  "id": "120226897894620690",
+  "name": "[MAGOS-MP][VENDAS][ABO]",
+  "objective": "OUTCOME_SALES",
+  "status": "PAUSED",
+  "effective_status": "PAUSED",
+  "delivery": {
+   "status": "off",
+   "substatuses": [
+    "off"
+   ]
+  },
+  "buying_type": "AUCTION",
+  "start_time": "2025-06-25T15:09:46-0300",
+  "stop_time": "2025-07-06T23:30:00-0300",
+  "created_time": "2025-06-25T15:09:45-0300",
+  "updated_time": "2025-06-29T11:10:51-0300",
+  "amount_spent": "R$135,54 BRL",
+  "impressions": "20182",
+  "reach": "15016",
+  "frequency": "1.344033",
+  "cpm": "R$6,72 BRL",
+  "cpp": "R$9,03 BRL",
+  "clicks": "362",
+  "ctr": "1,79%",
+  "website_ctr": "0.589634",
+  "actions:link_click": "119",
+  "cost_per_link_click": "R$1,14 BRL",
+  "outbound_clicks": "119",
+  "outbound_clicks_ctr": "0.589634",
+  "landing_page_view": "96",
+  "results": {
+   "indicator": "actions:offsite_conversion.fb_pixel_purchase",
+   "values": [
+    {
+     "attribution_windows": [
+      "default"
+     ],
+     "value": "5"
+    }
+   ]
+  },
+  "cost_per_result": {
+   "value": "R$27,11 BRL (Website purchases)"
+  },
+  "actions:omni_purchase": "5",
+  "omni_purchase_values": "R$441,80 BRL",
+  "purchase_roas": "3.259554",
+  "omni_add_to_cart": "19",
+  "omni_initiated_checkout": "4",
+  "omni_view_content": "90",
+  "post_engagement": "5112",
+  "video_thruplay_watched_actions": "670"
+ },
+ {
+  "id": "120227735215460690",
+  "name": "Publicação do Instagram: Aquela vozinha que fica...",
+  "objective": "LINK_CLICKS",
+  "status": "PAUSED",
+  "effective_status": "PAUSED",
+  "delivery": {
+   "status": "off",
+   "substatuses": [
+    "off"
+   ]
+  },
+  "buying_type": "AUCTION",
+  "bid_strategy": "Highest volume",
+  "daily_budget": "R$15,53 BRL",
+  "start_time": "2025-07-08T12:44:35-0300",
+  "stop_time": "2025-07-15T12:44:35-0300",
+  "created_time": "2025-07-08T12:44:05-0300",
+  "updated_time": "2025-07-17T11:45:36-0300",
+  "amount_spent": "R$108,51 BRL",
+  "impressions": "18799",
+  "reach": "11158",
+  "frequency": "1.6848",
+  "cpm": "R$5,77 BRL",
+  "cpp": "R$9,72 BRL",
+  "clicks": "198",
+  "ctr": "1,05%",
+  "website_ctr": "1.069206",
+  "actions:link_click": "201",
+  "cost_per_link_click": "R$0,54 BRL",
+  "outbound_clicks": null,
+  "outbound_clicks_ctr": null,
+  "landing_page_view": "6",
+  "results": {
+   "indicator": "actions:link_click",
+   "values": [
+    {
+     "attribution_windows": [
+      "default"
+     ],
+     "value": "201"
+    }
+   ]
+  },
+  "cost_per_result": {
+   "value": "R$0,54 BRL (Link clicks)"
+  },
+  "actions:omni_purchase": null,
+  "omni_purchase_values": null,
+  "purchase_roas": null,
+  "omni_add_to_cart": null,
+  "omni_initiated_checkout": null,
+  "omni_view_content": null,
+  "post_engagement": "3828",
+  "video_thruplay_watched_actions": "1476"
+ },
+ {
+  "id": "120227808335820690",
+  "name": "Publicação do Instagram: Essa é a nossa GeBurger…...",
+  "objective": "LINK_CLICKS",
+  "status": "PAUSED",
+  "effective_status": "PAUSED",
+  "delivery": {
+   "status": "off",
+   "substatuses": [
+    "off"
+   ]
+  },
+  "buying_type": "AUCTION",
+  "bid_strategy": "Highest volume",
+  "daily_budget": "R$15,53 BRL",
+  "start_time": "2025-07-09T13:28:48-0300",
+  "stop_time": "2025-07-16T13:28:48-0300",
+  "created_time": "2025-07-09T13:28:18-0300",
+  "updated_time": "2025-07-17T11:45:40-0300",
+  "amount_spent": "R$108,50 BRL",
+  "impressions": "21422",
+  "reach": "10321",
+  "frequency": "2.075574",
+  "cpm": "R$5,06 BRL",
+  "cpp": "R$10,51 BRL",
+  "clicks": "91",
+  "ctr": "0,42%",
+  "website_ctr": "0.424797",
+  "actions:link_click": "91",
+  "cost_per_link_click": "R$1,19 BRL",
+  "outbound_clicks": null,
+  "outbound_clicks_ctr": null,
+  "landing_page_view": "1",
+  "results": {
+   "indicator": "actions:link_click",
+   "values": [
+    {
+     "attribution_windows": [
+      "default"
+     ],
+     "value": "91"
+    }
+   ]
+  },
+  "cost_per_result": {
+   "value": "R$1,19 BRL (Link clicks)"
+  },
+  "actions:omni_purchase": null,
+  "omni_purchase_values": null,
+  "purchase_roas": null,
+  "omni_add_to_cart": null,
+  "omni_initiated_checkout": null,
+  "omni_view_content": null,
+  "post_engagement": "2385",
+  "video_thruplay_watched_actions": "547"
+ },
+ {
+  "id": "120210099318520690",
+  "name": "Publicação do Instagram: Se reunir para comer...",
+  "objective": "LINK_CLICKS",
+  "status": "PAUSED",
+  "effective_status": "PAUSED",
+  "delivery": {
+   "status": "off",
+   "substatuses": [
+    "off"
+   ]
+  },
+  "buying_type": "AUCTION",
+  "bid_strategy": "Highest volume",
+  "daily_budget": "R$15,41 BRL",
+  "start_time": "2024-06-22T11:24:25-0300",
+  "stop_time": "2024-06-29T11:24:25-0300",
+  "created_time": "2024-06-22T11:23:55-0300",
+  "updated_time": "2024-07-06T11:04:24-0300",
+  "amount_spent": "R$107,85 BRL",
+  "impressions": "20518",
+  "reach": "11563",
+  "frequency": "1.774453",
+  "cpm": "R$5,26 BRL",
+  "cpp": "R$9,33 BRL",
+  "clicks": "151",
+  "ctr": "0,74%",
+  "website_ctr": "0.735939",
+  "actions:link_click": "151",
+  "cost_per_link_click": "R$0,71 BRL",
+  "outbound_clicks": null,
+  "outbound_clicks_ctr": null,
+  "landing_page_view": "4",
+  "results": {
+   "indicator": "actions:link_click",
+   "values": [
+    {
+     "attribution_windows": [
+      "default"
+     ],
+     "value": "151"
+    }
+   ]
+  },
+  "cost_per_result": {
+   "value": "R$0,71 BRL (Link clicks)"
+  },
+  "actions:omni_purchase": null,
+  "omni_purchase_values": null,
+  "purchase_roas": null,
+  "omni_add_to_cart": null,
+  "omni_initiated_checkout": null,
+  "omni_view_content": null,
+  "post_engagement": "235",
+  "video_thruplay_watched_actions": null
+ },
+ {
+  "id": "120228486963620690",
+  "name": "[MP][Vendas] - Promoções",
+  "objective": "OUTCOME_SALES",
+  "status": "PAUSED",
+  "effective_status": "PAUSED",
+  "delivery": {
+   "status": "off",
+   "substatuses": [
+    "off"
+   ]
+  },
+  "buying_type": "AUCTION",
+  "start_time": "2025-07-21T11:58:48-0300",
+  "stop_time": "2025-08-21T23:32:00-0300",
+  "created_time": "2025-07-21T11:58:47-0300",
+  "updated_time": "2025-08-13T16:16:26-0300",
+  "amount_spent": "R$105,00 BRL",
+  "impressions": "15217",
+  "reach": "10188",
+  "frequency": "1.49362",
+  "cpm": "R$6,90 BRL",
+  "cpp": "R$10,31 BRL",
+  "clicks": "170",
+  "ctr": "1,12%",
+  "website_ctr": "0.368009",
+  "actions:link_click": "56",
+  "cost_per_link_click": "R$1,88 BRL",
+  "outbound_clicks": "56",
+  "outbound_clicks_ctr": "0.368009",
+  "landing_page_view": "46",
+  "results": {
+   "indicator": "actions:offsite_conversion.fb_pixel_purchase",
+   "values": [
+    {
+     "attribution_windows": [
+      "default"
+     ],
+     "value": "1"
+    }
+   ]
+  },
+  "cost_per_result": {
+   "value": "R$105,00 BRL (Website purchases)"
+  },
+  "actions:omni_purchase": "1",
+  "omni_purchase_values": "R$143,90 BRL",
+  "purchase_roas": "1.370476",
+  "omni_add_to_cart": "20",
+  "omni_initiated_checkout": "4",
+  "omni_view_content": "35",
+  "post_engagement": "131",
+  "video_thruplay_watched_actions": null
+ },
+ {
+  "id": "120250340145410690",
+  "name": "[MP][Conversão] - [Site] [11.08]",
+  "objective": "OUTCOME_SALES",
+  "status": "PAUSED",
+  "effective_status": "PAUSED",
+  "delivery": {
+   "status": "off",
+   "substatuses": [
+    "off"
+   ]
+  },
+  "buying_type": "AUCTION",
+  "bid_strategy": "Highest volume",
+  "lifetime_budget": "R$180,00 BRL",
+  "start_time": "2026-08-11T11:54:40-0300",
+  "stop_time": "2026-08-23T14:50:00-0300",
+  "created_time": "2026-08-11T11:54:39-0300",
+  "updated_time": "2026-08-17T14:19:22-0300",
+  "amount_spent": "R$102,38 BRL",
+  "impressions": "11960",
+  "reach": "3455",
+  "frequency": "3.46165",
+  "cpm": "R$8,56 BRL",
+  "cpp": "R$29,63 BRL",
+  "clicks": "64",
+  "ctr": "0,54%",
+  "website_ctr": "0.317726",
+  "actions:link_click": "38",
+  "cost_per_link_click": "R$2,69 BRL",
+  "outbound_clicks": "38",
+  "outbound_clicks_ctr": "0.317726",
+  "landing_page_view": "16",
+  "results": {
+   "indicator": "actions:offsite_conversion.fb_pixel_purchase",
+   "values": [
+    {
+     "attribution_windows": [
+      "default"
+     ],
+     "value": "2"
+    }
+   ]
+  },
+  "cost_per_result": {
+   "value": "R$51,19 BRL (Website purchases)"
+  },
+  "actions:omni_purchase": "2",
+  "omni_purchase_values": "R$115,90 BRL",
+  "purchase_roas": "1.132057",
+  "omni_add_to_cart": "3",
+  "omni_initiated_checkout": "6",
+  "omni_view_content": "17",
+  "post_engagement": "541",
+  "video_thruplay_watched_actions": "217"
+ },
+ {
+  "id": "120248922999800690",
+  "name": "[MP][Conversão] - Promo Festival [26,06]",
+  "objective": "OUTCOME_SALES",
+  "status": "PAUSED",
+  "effective_status": "PAUSED",
+  "delivery": {
+   "status": "off",
+   "substatuses": [
+    "off"
+   ]
+  },
+  "buying_type": "AUCTION",
+  "bid_strategy": "Highest volume",
+  "lifetime_budget": "R$100,00 BRL",
+  "start_time": "2026-06-26T17:00:00-0300",
+  "stop_time": "2026-06-29T00:01:00-0300",
+  "created_time": "2026-06-25T22:31:56-0300",
+  "updated_time": "2026-07-01T13:51:22-0300",
+  "amount_spent": "R$97,28 BRL",
+  "impressions": "10827",
+  "reach": "4135",
+  "frequency": "2.61838",
+  "cpm": "R$8,98 BRL",
+  "cpp": "R$23,53 BRL",
+  "clicks": "107",
+  "ctr": "0,99%",
+  "website_ctr": "0.591115",
+  "actions:link_click": "64",
+  "cost_per_link_click": "R$1,52 BRL",
+  "outbound_clicks": "64",
+  "outbound_clicks_ctr": "0.591115",
+  "landing_page_view": "46",
+  "results": {
+   "indicator": "actions:offsite_conversion.fb_pixel_purchase",
+   "values": [
+    {
+     "attribution_windows": [
+      "default"
+     ],
+     "value": "6"
+    }
+   ]
+  },
+  "cost_per_result": {
+   "value": "R$16,21 BRL (Website purchases)"
+  },
+  "actions:omni_purchase": "6",
+  "omni_purchase_values": "R$303,00 BRL",
+  "purchase_roas": "3.11472",
+  "omni_add_to_cart": "13",
+  "omni_initiated_checkout": "7",
+  "omni_view_content": "54",
+  "post_engagement": "177",
+  "video_thruplay_watched_actions": "5"
+ },
+ {
+  "id": "120239805472460690",
+  "name": "[MP][Conversão] - [Site] [GêWeek]",
+  "objective": "OUTCOME_SALES",
+  "status": "PAUSED",
+  "effective_status": "PAUSED",
+  "delivery": {
+   "status": "off",
+   "substatuses": [
+    "off"
+   ]
+  },
+  "buying_type": "AUCTION",
+  "bid_strategy": "Highest volume",
+  "lifetime_budget": "R$90,00 BRL",
+  "start_time": "2026-01-26T12:23:26-0300",
+  "stop_time": "2026-01-29T23:45:00-0300",
+  "created_time": "2026-01-26T12:23:25-0300",
+  "updated_time": "2026-02-01T20:37:53-0300",
+  "amount_spent": "R$89,93 BRL",
+  "impressions": "15636",
+  "reach": "9429",
+  "frequency": "1.658288",
+  "cpm": "R$5,75 BRL",
+  "cpp": "R$9,54 BRL",
+  "clicks": "94",
+  "ctr": "0,60%",
+  "website_ctr": "0.358148",
+  "actions:link_click": "56",
+  "cost_per_link_click": "R$1,61 BRL",
+  "outbound_clicks": "56",
+  "outbound_clicks_ctr": "0.358148",
+  "landing_page_view": "30",
+  "results": {
+   "indicator": "actions:offsite_conversion.fb_pixel_purchase",
+   "values": [
+    {
+     "attribution_windows": [
+      "default"
+     ],
+     "value": "8"
+    }
+   ]
+  },
+  "cost_per_result": {
+   "value": "R$11,24 BRL (Website purchases)"
+  },
+  "actions:omni_purchase": "8",
+  "omni_purchase_values": "R$273,90 BRL",
+  "purchase_roas": "3.045702",
+  "omni_add_to_cart": "13",
+  "omni_initiated_checkout": "5",
+  "omni_view_content": "28",
+  "post_engagement": "122",
+  "video_thruplay_watched_actions": "3"
+ },
+ {
+  "id": "120201750879600690",
+  "name": "[MAGOS-MP][REC IMPRESSÕES][CUPOM DESCONTO]",
+  "objective": "OUTCOME_AWARENESS",
+  "status": "PAUSED",
+  "effective_status": "PAUSED",
+  "delivery": {
+   "status": "off",
+   "substatuses": [
+    "off"
+   ]
+  },
+  "buying_type": "AUCTION",
+  "start_time": "2023-12-06T15:55:52-0300",
+  "stop_time": "2023-12-17T23:40:03-0300",
+  "created_time": "2023-12-06T15:55:52-0300",
+  "updated_time": "2024-01-19T12:11:42-0300",
+  "amount_spent": "R$89,34 BRL",
+  "impressions": "86319",
+  "reach": "23755",
+  "frequency": "3.633719",
+  "cpm": "R$1,03 BRL",
+  "cpp": "R$3,76 BRL",
+  "clicks": "94",
+  "ctr": "0,11%",
+  "website_ctr": "0.074144",
+  "actions:link_click": "64",
+  "cost_per_link_click": "R$1,40 BRL",
+  "outbound_clicks": "60",
+  "outbound_clicks_ctr": "0.06951",
+  "landing_page_view": "21",
+  "results": {
+   "indicator": "reach",
+   "values": [
+    {
+     "attribution_windows": [
+      "default"
+     ],
+     "value": "23755"
+    }
+   ]
+  },
+  "cost_per_result": {
+   "value": "R$3,76 BRL (Reach)"
+  },
+  "actions:omni_purchase": "2",
+  "omni_purchase_values": "R$143,20 BRL",
+  "purchase_roas": "1.602865",
+  "omni_add_to_cart": null,
+  "omni_initiated_checkout": "6",
+  "omni_view_content": null,
+  "post_engagement": "82",
+  "video_thruplay_watched_actions": null
+ },
+ {
+  "id": "120250172812560690",
+  "name": "[MP][Conversão] - [Site] [04.08] — GeBox Prime",
+  "objective": "OUTCOME_SALES",
+  "status": "PAUSED",
+  "effective_status": "PAUSED",
+  "delivery": {
+   "status": "off",
+   "substatuses": [
+    "off"
+   ]
+  },
+  "buying_type": "AUCTION",
+  "bid_strategy": "Highest volume",
+  "lifetime_budget": "R$80,00 BRL",
+  "start_time": "2026-08-04T22:50:13-0300",
+  "stop_time": "2026-08-09T23:35:00-0300",
+  "created_time": "2026-08-04T22:50:12-0300",
+  "updated_time": "2026-08-11T11:47:58-0300",
+  "amount_spent": "R$77,22 BRL",
+  "impressions": "8583",
+  "reach": "3808",
+  "frequency": "2.253939",
+  "cpm": "R$9,00 BRL",
+  "cpp": "R$20,28 BRL",
+  "clicks": "86",
+  "ctr": "1,00%",
+  "website_ctr": "0.640802",
+  "actions:link_click": "55",
+  "cost_per_link_click": "R$1,40 BRL",
+  "outbound_clicks": "55",
+  "outbound_clicks_ctr": "0.640802",
+  "landing_page_view": "33",
+  "results": {
+   "indicator": "actions:offsite_conversion.fb_pixel_purchase",
+   "values": [
+    {
+     "attribution_windows": [
+      "default"
+     ],
+     "value": "3"
+    }
+   ]
+  },
+  "cost_per_result": {
+   "value": "R$25,74 BRL (Website purchases)"
+  },
+  "actions:omni_purchase": "3",
+  "omni_purchase_values": "R$93,10 BRL",
+  "purchase_roas": "1.205646",
+  "omni_add_to_cart": "3",
+  "omni_initiated_checkout": "3",
+  "omni_view_content": "16",
+  "post_engagement": "109",
+  "video_thruplay_watched_actions": "4"
+ },
+ {
+  "id": "120201753065600690",
+  "name": "[MAGOS-MP][VENDAS][CUPOM]",
+  "objective": "OUTCOME_SALES",
+  "status": "PAUSED",
+  "effective_status": "PAUSED",
+  "delivery": {
+   "status": "off",
+   "substatuses": [
+    "off"
+   ]
+  },
+  "buying_type": "AUCTION",
+  "start_time": "2023-12-06T16:09:54-0300",
+  "stop_time": "2023-12-10T23:30:56-0300",
+  "created_time": "2023-12-06T16:09:53-0300",
+  "updated_time": "2023-12-14T00:02:34-0300",
+  "amount_spent": "R$75,00 BRL",
+  "impressions": "15604",
+  "reach": "5564",
+  "frequency": "2.804457",
+  "cpm": "R$4,81 BRL",
+  "cpp": "R$13,48 BRL",
+  "clicks": "119",
+  "ctr": "0,76%",
+  "website_ctr": "0.320431",
+  "actions:link_click": "50",
+  "cost_per_link_click": "R$1,50 BRL",
+  "outbound_clicks": "50",
+  "outbound_clicks_ctr": "0.320431",
+  "landing_page_view": "33",
+  "results": {
+   "indicator": "actions:offsite_conversion.fb_pixel_purchase",
+   "values": [
+    {
+     "attribution_windows": [
+      "default"
+     ],
+     "value": "4"
+    }
+   ]
+  },
+  "cost_per_result": {
+   "value": "R$18,75 BRL (Website purchases)"
+  },
+  "actions:omni_purchase": "4",
+  "omni_purchase_values": "R$57,56 BRL",
+  "purchase_roas": "0.767467",
+  "omni_add_to_cart": null,
+  "omni_initiated_checkout": "15",
+  "omni_view_content": null,
+  "post_engagement": "68",
+  "video_thruplay_watched_actions": null
+ },
+ {
+  "id": "120225488163370690",
+  "name": "[MP][CBO] - Compras [Teste]",
+  "objective": "OUTCOME_SALES",
+  "status": "PAUSED",
+  "effective_status": "PAUSED",
+  "delivery": {
+   "status": "off",
+   "substatuses": [
+    "off"
+   ]
+  },
+  "buying_type": "AUCTION",
+  "bid_strategy": "Highest volume",
+  "lifetime_budget": "R$800,00 BRL",
+  "start_time": "2025-06-07T23:08:13-0300",
+  "stop_time": "2025-07-07T23:04:12-0300",
+  "created_time": "2025-06-07T23:08:12-0300",
+  "updated_time": "2025-06-11T13:29:28-0300",
+  "amount_spent": "R$65,77 BRL",
+  "impressions": "8983",
+  "reach": "6750",
+  "frequency": "1.330815",
+  "cpm": "R$7,32 BRL",
+  "cpp": "R$9,74 BRL",
+  "clicks": "118",
+  "ctr": "1,31%",
+  "website_ctr": "0.578871",
+  "actions:link_click": "52",
+  "cost_per_link_click": "R$1,26 BRL",
+  "outbound_clicks": "52",
+  "outbound_clicks_ctr": "0.578871",
+  "landing_page_view": "38",
+  "results": {
+   "indicator": "actions:offsite_conversion.fb_pixel_purchase",
+   "values": [
+    {
+     "attribution_windows": [
+      "default"
+     ],
+     "value": "4"
+    }
+   ]
+  },
+  "cost_per_result": {
+   "value": "R$16,44 BRL (Website purchases)"
+  },
+  "actions:omni_purchase": "4",
+  "omni_purchase_values": "R$237,20 BRL",
+  "purchase_roas": "3.606508",
+  "omni_add_to_cart": "8",
+  "omni_initiated_checkout": "2",
+  "omni_view_content": "26",
+  "post_engagement": "1141",
+  "video_thruplay_watched_actions": "112"
+ },
+ {
+  "id": "120249693070200690",
+  "name": "[MP][Conversão] - Raio 1km",
+  "objective": "OUTCOME_SALES",
+  "status": "PAUSED",
+  "effective_status": "PAUSED",
+  "delivery": {
+   "status": "off",
+   "substatuses": [
+    "off"
+   ]
+  },
+  "buying_type": "AUCTION",
+  "bid_strategy": "Highest volume",
+  "lifetime_budget": "R$70,00 BRL",
+  "start_time": "2026-07-14T17:21:30-0300",
+  "stop_time": "2026-07-19T23:12:00-0300",
+  "created_time": "2026-07-14T17:21:29-0300",
+  "updated_time": "2026-07-19T19:36:07-0300",
+  "amount_spent": "R$64,71 BRL",
+  "impressions": "8188",
+  "reach": "3672",
+  "frequency": "2.229847",
+  "cpm": "R$7,90 BRL",
+  "cpp": "R$17,62 BRL",
+  "clicks": "83",
+  "ctr": "1,01%",
+  "website_ctr": "0.561798",
+  "actions:link_click": "46",
+  "cost_per_link_click": "R$1,41 BRL",
+  "outbound_clicks": "46",
+  "outbound_clicks_ctr": "0.561798",
+  "landing_page_view": "26",
+  "results": {
+   "indicator": "actions:offsite_conversion.fb_pixel_purchase",
+   "values": [
+    {
+     "attribution_windows": [
+      "default"
+     ],
+     "value": "2"
+    }
+   ]
+  },
+  "cost_per_result": {
+   "value": "R$32,36 BRL (Website purchases)"
+  },
+  "actions:omni_purchase": "2",
+  "omni_purchase_values": "R$91,90 BRL",
+  "purchase_roas": "1.420182",
+  "omni_add_to_cart": "6",
+  "omni_initiated_checkout": "1",
+  "omni_view_content": "8",
+  "post_engagement": "1467",
+  "video_thruplay_watched_actions": "178"
+ },
+ {
+  "id": "120201261144000690",
+  "name": "[MAGOS-MP][VENDAS][OFERTA]",
+  "objective": "OUTCOME_SALES",
+  "status": "PAUSED",
+  "effective_status": "PAUSED",
+  "delivery": {
+   "status": "off",
+   "substatuses": [
+    "off"
+   ]
+  },
+  "buying_type": "AUCTION",
+  "start_time": "2023-11-28T20:31:04-0300",
+  "stop_time": "2023-12-28T20:13:56-0300",
+  "created_time": "2023-11-28T20:31:04-0300",
+  "updated_time": "2023-12-02T17:05:14-0300",
+  "amount_spent": "R$62,38 BRL",
+  "impressions": "10424",
+  "reach": "6124",
+  "frequency": "1.702155",
+  "cpm": "R$5,98 BRL",
+  "cpp": "R$10,19 BRL",
+  "clicks": "63",
+  "ctr": "0,60%",
+  "website_ctr": "0.201458",
+  "actions:link_click": "21",
+  "cost_per_link_click": "R$2,97 BRL",
+  "outbound_clicks": "21",
+  "outbound_clicks_ctr": "0.201458",
+  "landing_page_view": "11",
+  "results": {
+   "indicator": "actions:offsite_conversion.fb_pixel_purchase",
+   "values": [
+    {
+     "attribution_windows": [
+      "default"
+     ],
+     "value": "4"
+    }
+   ]
+  },
+  "cost_per_result": {
+   "value": "R$15,60 BRL (Website purchases)"
+  },
+  "actions:omni_purchase": "4",
+  "omni_purchase_values": "R$91,20 BRL",
+  "purchase_roas": "1.462007",
+  "omni_add_to_cart": null,
+  "omni_initiated_checkout": "9",
+  "omni_view_content": null,
+  "post_engagement": "999",
+  "video_thruplay_watched_actions": "184"
+ },
+ {
+  "id": "120225343780620690",
+  "name": "Publicação do Instagram: Um ASMR de respeito da...",
+  "objective": "LINK_CLICKS",
+  "status": "PAUSED",
+  "effective_status": "PAUSED",
+  "delivery": {
+   "status": "off",
+   "substatuses": [
+    "off"
+   ]
+  },
+  "buying_type": "AUCTION",
+  "bid_strategy": "Highest volume",
+  "daily_budget": "R$15,00 BRL",
+  "start_time": "2025-06-05T20:14:17-0300",
+  "stop_time": "2025-06-09T20:14:17-0300",
+  "created_time": "2025-06-05T20:13:47-0300",
+  "updated_time": "2025-06-10T13:37:46-0300",
+  "amount_spent": "R$59,73 BRL",
+  "impressions": "9025",
+  "reach": "6577",
+  "frequency": "1.372206",
+  "cpm": "R$6,62 BRL",
+  "cpp": "R$9,08 BRL",
+  "clicks": "172",
+  "ctr": "1,91%",
+  "website_ctr": "1.916898",
+  "actions:link_click": "173",
+  "cost_per_link_click": "R$0,35 BRL",
+  "outbound_clicks": null,
+  "outbound_clicks_ctr": null,
+  "landing_page_view": "16",
+  "results": {
+   "indicator": "actions:link_click",
+   "values": [
+    {
+     "attribution_windows": [
+      "default"
+     ],
+     "value": "173"
+    }
+   ]
+  },
+  "cost_per_result": {
+   "value": "R$0,35 BRL (Link clicks)"
+  },
+  "actions:omni_purchase": null,
+  "omni_purchase_values": null,
+  "purchase_roas": null,
+  "omni_add_to_cart": null,
+  "omni_initiated_checkout": null,
+  "omni_view_content": null,
+  "post_engagement": "3160",
+  "video_thruplay_watched_actions": "801"
+ },
+ {
+  "id": "120234831306800690",
+  "name": "Anúncio de Visitas ao perfil do Instagram: A GE WEEK chegou com tudo! \n\nO Ultra Egg Bacon...",
+  "objective": "LINK_CLICKS",
+  "status": "PAUSED",
+  "effective_status": "PAUSED",
+  "delivery": {
+   "status": "off",
+   "substatuses": [
+    "off"
+   ]
+  },
+  "buying_type": "AUCTION",
+  "bid_strategy": "Highest volume",
+  "daily_budget": "R$19,49 BRL",
+  "start_time": "2025-10-28T00:01:32-0300",
+  "stop_time": "2025-10-31T00:01:32-0300",
+  "created_time": "2025-10-27T19:22:30-0300",
+  "updated_time": "2025-10-30T23:30:27-0300",
+  "amount_spent": "R$56,87 BRL",
+  "impressions": "5873",
+  "reach": "4969",
+  "frequency": "1.181928",
+  "cpm": "R$9,68 BRL",
+  "cpp": "R$11,44 BRL",
+  "clicks": "102",
+  "ctr": "1,74%",
+  "website_ctr": "1.80487",
+  "actions:link_click": "106",
+  "cost_per_link_click": "R$0,54 BRL",
+  "outbound_clicks": null,
+  "outbound_clicks_ctr": null,
+  "landing_page_view": "4",
+  "results": {
+   "indicator": "profile_visit_view",
+   "values": [
+    {
+     "attribution_windows": [
+      "default"
+     ],
+     "value": "109"
+    }
+   ]
+  },
+  "cost_per_result": {
+   "value": "R$0,52 BRL (Instagram profile visits)"
+  },
+  "actions:omni_purchase": null,
+  "omni_purchase_values": null,
+  "purchase_roas": null,
+  "omni_add_to_cart": null,
+  "omni_initiated_checkout": null,
+  "omni_view_content": null,
+  "post_engagement": "1352",
+  "video_thruplay_watched_actions": "310"
+ },
+ {
+  "id": "120226196734670690",
+  "name": "[MP][ABO] - Teste Público",
+  "objective": "OUTCOME_SALES",
+  "status": "PAUSED",
+  "effective_status": "PAUSED",
+  "delivery": {
+   "status": "off",
+   "substatuses": [
+    "off"
+   ]
+  },
+  "buying_type": "AUCTION",
+  "start_time": "2025-06-15T18:24:02-0300",
+  "stop_time": "2025-06-22T23:15:00-0300",
+  "created_time": "2025-06-15T18:24:01-0300",
+  "updated_time": "2025-06-19T13:28:57-0300",
+  "amount_spent": "R$51,90 BRL",
+  "impressions": "7943",
+  "reach": "7065",
+  "frequency": "1.124275",
+  "cpm": "R$6,53 BRL",
+  "cpp": "R$7,35 BRL",
+  "clicks": "69",
+  "ctr": "0,87%",
+  "website_ctr": "0.41546",
+  "actions:link_click": "33",
+  "cost_per_link_click": "R$1,57 BRL",
+  "outbound_clicks": "33",
+  "outbound_clicks_ctr": "0.41546",
+  "landing_page_view": "24",
+  "results": {
+   "indicator": "actions:offsite_conversion.fb_pixel_purchase",
+   "values": [
+    {
+     "attribution_windows": [
+      "default"
+     ],
+     "value": "1"
+    }
+   ]
+  },
+  "cost_per_result": {
+   "value": "R$51,90 BRL (Website purchases)"
+  },
+  "actions:omni_purchase": "1",
+  "omni_purchase_values": "R$90,00 BRL",
+  "purchase_roas": "1.734104",
+  "omni_add_to_cart": "2",
+  "omni_initiated_checkout": "1",
+  "omni_view_content": "10",
+  "post_engagement": "946",
+  "video_thruplay_watched_actions": "110"
+ },
+ {
+  "id": "120234829085020690",
+  "name": "Anúncio de Visitas ao perfil do Instagram: O momento mais esperado do dia chegou: HAPPY...",
+  "objective": "LINK_CLICKS",
+  "status": "PAUSED",
+  "effective_status": "PAUSED",
+  "delivery": {
+   "status": "off",
+   "substatuses": [
+    "off"
+   ]
+  },
+  "buying_type": "AUCTION",
+  "bid_strategy": "Highest volume",
+  "daily_budget": "R$25,49 BRL",
+  "start_time": "2025-10-30T07:00:45-0300",
+  "stop_time": "2025-11-01T07:00:45-0300",
+  "created_time": "2025-10-27T18:29:51-0300",
+  "updated_time": "2025-11-01T20:49:57-0300",
+  "amount_spent": "R$50,98 BRL",
+  "impressions": "3594",
+  "reach": "2976",
+  "frequency": "1.207661",
+  "cpm": "R$14,18 BRL",
+  "cpp": "R$17,13 BRL",
+  "clicks": "40",
+  "ctr": "1,11%",
+  "website_ctr": "1.112966",
+  "actions:link_click": "40",
+  "cost_per_link_click": "R$1,27 BRL",
+  "outbound_clicks": null,
+  "outbound_clicks_ctr": null,
+  "landing_page_view": null,
+  "results": {
+   "indicator": "profile_visit_view",
+   "values": [
+    {
+     "attribution_windows": [
+      "default"
+     ],
+     "value": "42"
+    }
+   ]
+  },
+  "cost_per_result": {
+   "value": "R$1,21 BRL (Instagram profile visits)"
+  },
+  "actions:omni_purchase": null,
+  "omni_purchase_values": null,
+  "purchase_roas": null,
+  "omni_add_to_cart": null,
+  "omni_initiated_checkout": null,
+  "omni_view_content": null,
+  "post_engagement": "672",
+  "video_thruplay_watched_actions": "114"
+ },
+ {
+  "id": "120225786853640690",
+  "name": "[MP][ABO] - Dia dos Namorados",
+  "objective": "OUTCOME_SALES",
+  "status": "PAUSED",
+  "effective_status": "PAUSED",
+  "delivery": {
+   "status": "off",
+   "substatuses": [
+    "off"
+   ]
+  },
+  "buying_type": "AUCTION",
+  "start_time": "2025-06-12T17:29:00-0300",
+  "stop_time": "2025-06-13T23:30:00-0300",
+  "created_time": "2025-06-11T13:36:23-0300",
+  "updated_time": "2025-06-14T11:22:48-0300",
+  "amount_spent": "R$50,00 BRL",
+  "impressions": "9585",
+  "reach": "6184",
+  "frequency": "1.549968",
+  "cpm": "R$5,22 BRL",
+  "cpp": "R$8,09 BRL",
+  "clicks": "69",
+  "ctr": "0,72%",
+  "website_ctr": "0.271257",
+  "actions:link_click": "26",
+  "cost_per_link_click": "R$1,92 BRL",
+  "outbound_clicks": "26",
+  "outbound_clicks_ctr": "0.271257",
+  "landing_page_view": "21",
+  "results": {
+   "indicator": "actions:offsite_conversion.fb_pixel_purchase",
+   "values": [
+    {
+     "attribution_windows": [
+      "default"
+     ],
+     "value": "2"
+    }
+   ]
+  },
+  "cost_per_result": {
+   "value": "R$25,00 BRL (Website purchases)"
+  },
+  "actions:omni_purchase": "2",
+  "omni_purchase_values": "R$207,00 BRL",
+  "purchase_roas": "4.14",
+  "omni_add_to_cart": "3",
+  "omni_initiated_checkout": "1",
+  "omni_view_content": "13",
+  "post_engagement": "87",
+  "video_thruplay_watched_actions": "2"
+ },
+ {
+  "id": "23862496957760689",
+  "name": "[MAGOS-MP][ENGAJAMENTO][MENSAGEM][GE WEEK]",
+  "objective": "OUTCOME_ENGAGEMENT",
+  "status": "PAUSED",
+  "effective_status": "PAUSED",
+  "delivery": {
+   "status": "off",
+   "substatuses": [
+    "off"
+   ]
+  },
+  "buying_type": "AUCTION",
+  "start_time": "2023-10-24T21:46:11-0300",
+  "stop_time": "2023-10-26T23:00:18-0300",
+  "created_time": "2023-10-24T21:46:11-0300",
+  "updated_time": "2023-10-27T21:08:18-0300",
+  "amount_spent": "R$50,00 BRL",
+  "impressions": "4595",
+  "reach": "3117",
+  "frequency": "1.474174",
+  "cpm": "R$10,88 BRL",
+  "cpp": "R$16,04 BRL",
+  "clicks": "33",
+  "ctr": "0,72%",
+  "website_ctr": "0.348205",
+  "actions:link_click": "16",
+  "cost_per_link_click": "R$3,13 BRL",
+  "outbound_clicks": "10",
+  "outbound_clicks_ctr": "0.217628",
+  "landing_page_view": "1",
+  "results": {
+   "indicator": "actions:onsite_conversion.messaging_conversation_started_7d",
+   "values": [
+    {
+     "attribution_windows": [
+      "default"
+     ],
+     "value": "3"
+    }
+   ]
+  },
+  "cost_per_result": {
+   "value": "R$16,67 BRL (Messaging conversations started)"
+  },
+  "actions:omni_purchase": null,
+  "omni_purchase_values": null,
+  "purchase_roas": null,
+  "omni_add_to_cart": null,
+  "omni_initiated_checkout": null,
+  "omni_view_content": null,
+  "post_engagement": "321",
+  "video_thruplay_watched_actions": "45"
+ },
+ {
+  "id": "120241991749200690",
+  "name": "[MP][Dia do Consumidor]",
+  "objective": "OUTCOME_AWARENESS",
+  "status": "PAUSED",
+  "effective_status": "PAUSED",
+  "delivery": {
+   "status": "off",
+   "substatuses": [
+    "off"
+   ]
+  },
+  "buying_type": "AUCTION",
+  "bid_strategy": "Highest volume",
+  "daily_budget": "R$25,00 BRL",
+  "start_time": "2026-03-14T00:01:00-0300",
+  "stop_time": "2026-03-15T23:00:00-0300",
+  "created_time": "2026-03-13T23:33:20-0300",
+  "updated_time": "2026-03-17T11:38:18-0300",
+  "amount_spent": "R$48,87 BRL",
+  "impressions": "32647",
+  "reach": "20810",
+  "frequency": "1.568813",
+  "cpm": "R$1,50 BRL",
+  "cpp": "R$2,35 BRL",
+  "clicks": "7",
+  "ctr": "0,0214%",
+  "website_ctr": "0.003063",
+  "actions:link_click": "1",
+  "cost_per_link_click": "R$48,87 BRL",
+  "outbound_clicks": "1",
+  "outbound_clicks_ctr": "0.003063",
+  "landing_page_view": null,
+  "results": {
+   "indicator": "estimated_ad_recallers",
+   "values": [
+    {
+     "attribution_windows": [
+      "default"
+     ],
+     "value": "1520"
+    }
+   ]
+  },
+  "cost_per_result": {
+   "value": "R$0,03 BRL (Ad recall lift)"
+  },
+  "actions:omni_purchase": null,
+  "omni_purchase_values": null,
+  "purchase_roas": null,
+  "omni_add_to_cart": null,
+  "omni_initiated_checkout": null,
+  "omni_view_content": "2",
+  "post_engagement": "930",
+  "video_thruplay_watched_actions": "201"
+ },
+ {
+  "id": "120249993377400690",
+  "name": "[MP][Conversão] - Desconto GeSalad",
+  "objective": "OUTCOME_SALES",
+  "status": "PAUSED",
+  "effective_status": "PAUSED",
+  "delivery": {
+   "status": "off",
+   "substatuses": [
+    "off"
+   ]
+  },
+  "buying_type": "AUCTION",
+  "bid_strategy": "Highest volume",
+  "lifetime_budget": "R$50,00 BRL",
+  "start_time": "2026-07-28T16:35:06-0300",
+  "stop_time": "2026-07-30T23:25:00-0300",
+  "created_time": "2026-07-28T16:35:06-0300",
+  "updated_time": "2026-07-31T19:20:25-0300",
+  "amount_spent": "R$48,31 BRL",
+  "impressions": "5408",
+  "reach": "2392",
+  "frequency": "2.26087",
+  "cpm": "R$8,93 BRL",
+  "cpp": "R$20,20 BRL",
+  "clicks": "48",
+  "ctr": "0,89%",
+  "website_ctr": "0.425296",
+  "actions:link_click": "23",
+  "cost_per_link_click": "R$2,10 BRL",
+  "outbound_clicks": "23",
+  "outbound_clicks_ctr": "0.425296",
+  "landing_page_view": "11",
+  "results": {
+   "indicator": "actions:offsite_conversion.fb_pixel_purchase",
+   "value": "Not available"
+  },
+  "cost_per_result": {
+   "value": "Not available (Website purchases)"
+  },
+  "actions:omni_purchase": null,
+  "omni_purchase_values": null,
+  "purchase_roas": null,
+  "omni_add_to_cart": "2",
+  "omni_initiated_checkout": null,
+  "omni_view_content": "14",
+  "post_engagement": "36",
+  "video_thruplay_watched_actions": null
+ },
+ {
+  "id": "120203536202810690",
+  "name": "[MAGOS-MP][ENGAJAMENTO][MENSAGEM][GE WEEK]",
+  "objective": "OUTCOME_ENGAGEMENT",
+  "status": "PAUSED",
+  "effective_status": "PAUSED",
+  "delivery": {
+   "status": "off",
+   "substatuses": [
+    "off"
+   ]
+  },
+  "buying_type": "AUCTION",
+  "start_time": "2023-12-26T17:00:02-0300",
+  "stop_time": "2023-12-28T23:00:09-0300",
+  "created_time": "2023-12-26T10:27:25-0300",
+  "updated_time": "2024-01-19T12:11:44-0300",
+  "amount_spent": "R$45,00 BRL",
+  "impressions": "7092",
+  "reach": "5260",
+  "frequency": "1.348289",
+  "cpm": "R$6,35 BRL",
+  "cpp": "R$8,56 BRL",
+  "clicks": "93",
+  "ctr": "1,31%",
+  "website_ctr": "0.437112",
+  "actions:link_click": "31",
+  "cost_per_link_click": "R$1,45 BRL",
+  "outbound_clicks": "22",
+  "outbound_clicks_ctr": "0.310209",
+  "landing_page_view": "2",
+  "results": {
+   "indicator": "actions:onsite_conversion.messaging_conversation_started_7d",
+   "values": [
+    {
+     "attribution_windows": [
+      "default"
+     ],
+     "value": "15"
+    }
+   ]
+  },
+  "cost_per_result": {
+   "value": "R$3,00 BRL (Messaging conversations started)"
+  },
+  "actions:omni_purchase": "6",
+  "omni_purchase_values": "R$131,00 BRL",
+  "purchase_roas": "2.911111",
+  "omni_add_to_cart": null,
+  "omni_initiated_checkout": "16",
+  "omni_view_content": null,
+  "post_engagement": "64",
+  "video_thruplay_watched_actions": null
+ },
+ {
+  "id": "120205859088470690",
+  "name": "Publicação do Instagram: Sexta-feira tem Ge Salad...",
+  "objective": "LINK_CLICKS",
+  "status": "PAUSED",
+  "effective_status": "PAUSED",
+  "delivery": {
+   "status": "off",
+   "substatuses": [
+    "off"
+   ]
+  },
+  "buying_type": "AUCTION",
+  "bid_strategy": "Highest volume",
+  "daily_budget": "R$8,01 BRL",
+  "start_time": "2024-02-23T11:56:13-0300",
+  "stop_time": "2024-03-01T11:56:13-0300",
+  "created_time": "2024-02-23T11:55:43-0300",
+  "updated_time": "2024-02-28T21:44:12-0300",
+  "amount_spent": "R$44,86 BRL",
+  "impressions": "12442",
+  "reach": "10261",
+  "frequency": "1.212552",
+  "cpm": "R$3,61 BRL",
+  "cpp": "R$4,37 BRL",
+  "clicks": "280",
+  "ctr": "2,25%",
+  "website_ctr": "2.073622",
+  "actions:link_click": "258",
+  "cost_per_link_click": "R$0,17 BRL",
+  "outbound_clicks": "257",
+  "outbound_clicks_ctr": "2.065584",
+  "landing_page_view": null,
+  "results": {
+   "indicator": "actions:link_click",
+   "values": [
+    {
+     "attribution_windows": [
+      "default"
+     ],
+     "value": "258"
+    }
+   ]
+  },
+  "cost_per_result": {
+   "value": "R$0,17 BRL (Link clicks)"
+  },
+  "actions:omni_purchase": null,
+  "omni_purchase_values": null,
+  "purchase_roas": null,
+  "omni_add_to_cart": null,
+  "omni_initiated_checkout": null,
+  "omni_view_content": null,
+  "post_engagement": "309",
+  "video_thruplay_watched_actions": null
+ },
+ {
+  "id": "120250462199560690",
+  "name": "Post do Instagram: Ge Classic chega conquistando...",
+  "objective": "LINK_CLICKS",
+  "status": "ACTIVE",
+  "effective_status": "ACTIVE",
+  "delivery": {
+   "status": "active",
+   "substatuses": [
+    "active"
+   ]
+  },
+  "buying_type": "AUCTION",
+  "bid_strategy": "Highest volume",
+  "daily_budget": "R$6,14 BRL",
+  "start_time": "2026-08-15T09:53:15-0300",
+  "created_time": "2026-08-15T09:52:46-0300",
+  "updated_time": "2026-08-15T09:52:46-0300",
+  "amount_spent": "R$41,74 BRL",
+  "impressions": "4366",
+  "reach": "3624",
+  "frequency": "1.204746",
+  "cpm": "R$9,56 BRL",
+  "cpp": "R$11,52 BRL",
+  "clicks": "116",
+  "ctr": "2,66%",
+  "website_ctr": "2.198809",
+  "actions:link_click": "96",
+  "cost_per_link_click": "R$0,43 BRL",
+  "outbound_clicks": null,
+  "outbound_clicks_ctr": null,
+  "landing_page_view": "2",
+  "results": {
+   "indicator": "profile_visit_view",
+   "values": [
+    {
+     "attribution_windows": [
+      "default"
+     ],
+     "value": "97"
+    }
+   ]
+  },
+  "cost_per_result": {
+   "value": "R$0,43 BRL (Instagram profile visits)"
+  },
+  "actions:omni_purchase": null,
+  "omni_purchase_values": null,
+  "purchase_roas": null,
+  "omni_add_to_cart": null,
+  "omni_initiated_checkout": null,
+  "omni_view_content": null,
+  "post_engagement": "1041",
+  "video_thruplay_watched_actions": "228"
+ },
+ {
+  "id": "23859406726360689",
+  "name": "[MAGOS-MP][ENGAJAMENTO][MENSAGEM][VIDEO LOC]",
+  "objective": "OUTCOME_ENGAGEMENT",
+  "status": "PAUSED",
+  "effective_status": "PAUSED",
+  "delivery": {
+   "status": "off",
+   "substatuses": [
+    "off"
+   ]
+  },
+  "buying_type": "AUCTION",
+  "start_time": "2023-09-27T16:54:54-0300",
+  "stop_time": "2023-10-27T15:04:41-0300",
+  "created_time": "2023-09-27T16:54:53-0300",
+  "updated_time": "2023-10-03T21:56:35-0300",
+  "amount_spent": "R$41,61 BRL",
+  "impressions": "4132",
+  "reach": "1772",
+  "frequency": "2.331828",
+  "cpm": "R$10,07 BRL",
+  "cpp": "R$23,48 BRL",
+  "clicks": "87",
+  "ctr": "2,11%",
+  "website_ctr": "0.314618",
+  "actions:link_click": "13",
+  "cost_per_link_click": "R$3,20 BRL",
+  "outbound_clicks": "11",
+  "outbound_clicks_ctr": "0.266215",
+  "landing_page_view": "1",
+  "results": {
+   "indicator": "actions:onsite_conversion.messaging_conversation_started_7d",
+   "values": [
+    {
+     "attribution_windows": [
+      "default"
+     ],
+     "value": "3"
+    }
+   ]
+  },
+  "cost_per_result": {
+   "value": "R$13,87 BRL (Messaging conversations started)"
+  },
+  "actions:omni_purchase": null,
+  "omni_purchase_values": null,
+  "purchase_roas": null,
+  "omni_add_to_cart": null,
+  "omni_initiated_checkout": null,
+  "omni_view_content": null,
+  "post_engagement": "773",
+  "video_thruplay_watched_actions": "222"
+ },
+ {
+  "id": "120210801228280690",
+  "name": "Publicação do Instagram: Essa é a emoção que toda...",
+  "objective": "LINK_CLICKS",
+  "status": "PAUSED",
+  "effective_status": "PAUSED",
+  "delivery": {
+   "status": "off",
+   "substatuses": [
+    "off"
+   ]
+  },
+  "buying_type": "AUCTION",
+  "bid_strategy": "Highest volume",
+  "daily_budget": "R$10,70 BRL",
+  "start_time": "2024-07-31T17:46:16-0300",
+  "stop_time": "2024-08-05T17:46:16-0300",
+  "created_time": "2024-07-31T17:45:46-0300",
+  "updated_time": "2024-08-04T10:31:27-0300",
+  "amount_spent": "R$37,38 BRL",
+  "impressions": "8857",
+  "reach": "5971",
+  "frequency": "1.483336",
+  "cpm": "R$4,22 BRL",
+  "cpp": "R$6,26 BRL",
+  "clicks": "27",
+  "ctr": "0,30%",
+  "website_ctr": "0.304844",
+  "actions:link_click": "27",
+  "cost_per_link_click": "R$1,38 BRL",
+  "outbound_clicks": null,
+  "outbound_clicks_ctr": null,
+  "landing_page_view": null,
+  "results": {
+   "indicator": "actions:link_click",
+   "values": [
+    {
+     "attribution_windows": [
+      "default"
+     ],
+     "value": "27"
+    }
+   ]
+  },
+  "cost_per_result": {
+   "value": "R$1,38 BRL (Link clicks)"
+  },
+  "actions:omni_purchase": null,
+  "omni_purchase_values": null,
+  "purchase_roas": null,
+  "omni_add_to_cart": null,
+  "omni_initiated_checkout": null,
+  "omni_view_content": null,
+  "post_engagement": "1101",
+  "video_thruplay_watched_actions": "255"
+ },
+ {
+  "id": "23856757631680689",
+  "name": "Engajamento - Mensagem - Whatsapp",
+  "objective": "OUTCOME_ENGAGEMENT",
+  "status": "PAUSED",
+  "effective_status": "PAUSED",
+  "delivery": {
+   "status": "off",
+   "substatuses": [
+    "off"
+   ]
+  },
+  "buying_type": "AUCTION",
+  "start_time": "2023-07-27T21:22:10-0300",
+  "stop_time": "2023-08-31T00:00:00-0300",
+  "created_time": "2023-07-27T21:22:10-0300",
+  "updated_time": "2023-07-29T19:02:50-0300",
+  "amount_spent": "R$34,00 BRL",
+  "impressions": "4008",
+  "reach": "3201",
+  "frequency": "1.252109",
+  "cpm": "R$8,48 BRL",
+  "cpp": "R$10,62 BRL",
+  "clicks": "44",
+  "ctr": "1,10%",
+  "website_ctr": "0.424152",
+  "actions:link_click": "17",
+  "cost_per_link_click": "R$2,00 BRL",
+  "outbound_clicks": "3",
+  "outbound_clicks_ctr": "0.07485",
+  "landing_page_view": "2",
+  "results": {
+   "indicator": "actions:onsite_conversion.messaging_conversation_started_7d",
+   "values": [
+    {
+     "attribution_windows": [
+      "default"
+     ],
+     "value": "8"
+    }
+   ]
+  },
+  "cost_per_result": {
+   "value": "R$4,25 BRL (Messaging conversations started)"
+  },
+  "actions:omni_purchase": null,
+  "omni_purchase_values": null,
+  "purchase_roas": null,
+  "omni_add_to_cart": null,
+  "omni_initiated_checkout": null,
+  "omni_view_content": null,
+  "post_engagement": "31",
+  "video_thruplay_watched_actions": null
+ },
+ {
+  "id": "23856442654380689",
+  "name": "Vendas - CLIENTEVIP",
+  "objective": "OUTCOME_SALES",
+  "status": "PAUSED",
+  "effective_status": "PAUSED",
+  "delivery": {
+   "status": "off",
+   "substatuses": [
+    "off"
+   ]
+  },
+  "buying_type": "AUCTION",
+  "start_time": "2023-07-15T18:21:21-0300",
+  "stop_time": "2023-08-31T17:57:54-0300",
+  "created_time": "2023-07-15T18:21:20-0300",
+  "updated_time": "2023-07-29T19:02:42-0300",
+  "amount_spent": "R$26,23 BRL",
+  "impressions": "1901",
+  "reach": "186",
+  "frequency": "10.22043",
+  "cpm": "R$13,80 BRL",
+  "cpp": "R$141,02 BRL",
+  "clicks": "14",
+  "ctr": "0,74%",
+  "website_ctr": "0.420831",
+  "actions:link_click": "8",
+  "cost_per_link_click": "R$3,28 BRL",
+  "outbound_clicks": "8",
+  "outbound_clicks_ctr": "0.420831",
+  "landing_page_view": "1",
+  "results": {
+   "indicator": "actions:offsite_conversion.fb_pixel_purchase",
+   "values": [
+    {
+     "attribution_windows": [
+      "default"
+     ],
+     "value": "2"
+    }
+   ]
+  },
+  "cost_per_result": {
+   "value": "R$13,12 BRL (Website purchases)"
+  },
+  "actions:omni_purchase": "2",
+  "omni_purchase_values": null,
+  "purchase_roas": null,
+  "omni_add_to_cart": null,
+  "omni_initiated_checkout": "6",
+  "omni_view_content": null,
+  "post_engagement": "12",
+  "video_thruplay_watched_actions": null
+ },
+ {
+  "id": "120224189639240690",
+  "name": "01 - GÊ BURGER - PERSEGUIÇÃO",
+  "objective": "OUTCOME_AWARENESS",
+  "status": "PAUSED",
+  "effective_status": "PAUSED",
+  "delivery": {
+   "status": "off",
+   "substatuses": [
+    "off"
+   ]
+  },
+  "buying_type": "AUCTION",
+  "start_time": "2025-05-19T11:22:03-0300",
+  "created_time": "2025-05-19T11:22:02-0300",
+  "updated_time": "2025-05-22T17:55:04-0300",
+  "amount_spent": "R$25,93 BRL",
+  "impressions": "25413",
+  "reach": "19892",
+  "frequency": "1.277549",
+  "cpm": "R$1,02 BRL",
+  "cpp": "R$1,30 BRL",
+  "clicks": "53",
+  "ctr": "0,21%",
+  "website_ctr": "0.06296",
+  "actions:link_click": "16",
+  "cost_per_link_click": "R$1,62 BRL",
+  "outbound_clicks": "16",
+  "outbound_clicks_ctr": "0.06296",
+  "landing_page_view": null,
+  "results": {
+   "indicator": "reach",
+   "values": [
+    {
+     "attribution_windows": [
+      "default"
+     ],
+     "value": "19892"
+    }
+   ]
+  },
+  "cost_per_result": {
+   "value": "R$1,30 BRL (Reach)"
+  },
+  "actions:omni_purchase": null,
+  "omni_purchase_values": null,
+  "purchase_roas": null,
+  "omni_add_to_cart": null,
+  "omni_initiated_checkout": null,
+  "omni_view_content": null,
+  "post_engagement": "1952",
+  "video_thruplay_watched_actions": "760"
+ },
+ {
+  "id": "120244050293630690",
+  "name": "Post do Instagram: Preço baixo, sabor absurdo! 🤩...",
+  "objective": "LINK_CLICKS",
+  "status": "PAUSED",
+  "effective_status": "PAUSED",
+  "delivery": {
+   "status": "off",
+   "substatuses": [
+    "off"
+   ]
+  },
+  "buying_type": "AUCTION",
+  "bid_strategy": "Highest volume",
+  "daily_budget": "R$25,02 BRL",
+  "start_time": "2026-04-22T15:46:07-0300",
+  "stop_time": "2026-04-23T15:46:07-0300",
+  "created_time": "2026-04-22T15:45:40-0300",
+  "updated_time": "2026-05-05T10:11:21-0300",
+  "amount_spent": "R$24,91 BRL",
+  "impressions": "7501",
+  "reach": "6572",
+  "frequency": "1.141357",
+  "cpm": "R$3,32 BRL",
+  "cpp": "R$3,79 BRL",
+  "clicks": "88",
+  "ctr": "1,17%",
+  "website_ctr": "1.213172",
+  "actions:link_click": "91",
+  "cost_per_link_click": "R$0,27 BRL",
+  "outbound_clicks": null,
+  "outbound_clicks_ctr": null,
+  "landing_page_view": "1",
+  "results": {
+   "indicator": "profile_visit_view",
+   "values": [
+    {
+     "attribution_windows": [
+      "default"
+     ],
+     "value": "87"
+    }
+   ]
+  },
+  "cost_per_result": {
+   "value": "R$0,29 BRL (Instagram profile visits)"
+  },
+  "actions:omni_purchase": null,
+  "omni_purchase_values": null,
+  "purchase_roas": null,
+  "omni_add_to_cart": null,
+  "omni_initiated_checkout": null,
+  "omni_view_content": null,
+  "post_engagement": "107",
+  "video_thruplay_watched_actions": null
+ },
+ {
+  "id": "120244058255840690",
+  "name": "Post do Instagram: R$26,91 no Ge Amazônico até...",
+  "objective": "LINK_CLICKS",
+  "status": "PAUSED",
+  "effective_status": "PAUSED",
+  "delivery": {
+   "status": "off",
+   "substatuses": [
+    "off"
+   ]
+  },
+  "buying_type": "AUCTION",
+  "bid_strategy": "Highest volume",
+  "daily_budget": "R$25,02 BRL",
+  "start_time": "2026-04-22T20:53:52-0300",
+  "stop_time": "2026-04-23T20:53:52-0300",
+  "created_time": "2026-04-22T20:53:26-0300",
+  "updated_time": "2026-05-05T10:11:15-0300",
+  "amount_spent": "R$24,56 BRL",
+  "impressions": "2532",
+  "reach": "1920",
+  "frequency": "1.31875",
+  "cpm": "R$9,70 BRL",
+  "cpp": "R$12,79 BRL",
+  "clicks": "32",
+  "ctr": "1,26%",
+  "website_ctr": "1.184834",
+  "actions:link_click": "30",
+  "cost_per_link_click": "R$0,82 BRL",
+  "outbound_clicks": null,
+  "outbound_clicks_ctr": null,
+  "landing_page_view": "1",
+  "results": {
+   "indicator": "profile_visit_view",
+   "values": [
+    {
+     "attribution_windows": [
+      "default"
+     ],
+     "value": "30"
+    }
+   ]
+  },
+  "cost_per_result": {
+   "value": "R$0,82 BRL (Instagram profile visits)"
+  },
+  "actions:omni_purchase": null,
+  "omni_purchase_values": null,
+  "purchase_roas": null,
+  "omni_add_to_cart": null,
+  "omni_initiated_checkout": null,
+  "omni_view_content": null,
+  "post_engagement": "689",
+  "video_thruplay_watched_actions": "121"
+ },
+ {
+  "id": "120224821972960690",
+  "name": "Publicação do Instagram: está chegando o… DIA DO...",
+  "objective": "LINK_CLICKS",
+  "status": "PAUSED",
+  "effective_status": "PAUSED",
+  "delivery": {
+   "status": "off",
+   "substatuses": [
+    "off"
+   ]
+  },
+  "buying_type": "AUCTION",
+  "bid_strategy": "Highest volume",
+  "daily_budget": "R$10,00 BRL",
+  "start_time": "2025-05-27T21:53:17-0300",
+  "stop_time": "2025-05-29T21:53:17-0300",
+  "created_time": "2025-05-27T21:52:47-0300",
+  "updated_time": "2025-06-01T22:28:14-0300",
+  "amount_spent": "R$19,93 BRL",
+  "impressions": "4183",
+  "reach": "2917",
+  "frequency": "1.434008",
+  "cpm": "R$4,76 BRL",
+  "cpp": "R$6,83 BRL",
+  "clicks": "85",
+  "ctr": "2,03%",
+  "website_ctr": "2.103753",
+  "actions:link_click": "88",
+  "cost_per_link_click": "R$0,23 BRL",
+  "outbound_clicks": null,
+  "outbound_clicks_ctr": null,
+  "landing_page_view": "5",
+  "results": {
+   "indicator": "actions:link_click",
+   "values": [
+    {
+     "attribution_windows": [
+      "default"
+     ],
+     "value": "88"
+    }
+   ]
+  },
+  "cost_per_result": {
+   "value": "R$0,23 BRL (Link clicks)"
+  },
+  "actions:omni_purchase": null,
+  "omni_purchase_values": null,
+  "purchase_roas": null,
+  "omni_add_to_cart": null,
+  "omni_initiated_checkout": null,
+  "omni_view_content": null,
+  "post_engagement": "104",
+  "video_thruplay_watched_actions": null
+ },
+ {
+  "id": "120250582377310690",
+  "name": "[MP][Conversão] - Teste de Criativo [21.08] [Imã 2]",
+  "objective": "OUTCOME_SALES",
+  "status": "ACTIVE",
+  "effective_status": "ACTIVE",
+  "delivery": {
+   "status": "active",
+   "substatuses": [
+    "active"
+   ]
+  },
+  "buying_type": "AUCTION",
+  "bid_strategy": "Highest volume",
+  "lifetime_budget": "R$120,00 BRL",
+  "start_time": "2026-08-21T17:00:00-0300",
+  "stop_time": "2026-08-29T23:27:00-0300",
+  "created_time": "2026-08-21T15:53:38-0300",
+  "updated_time": "2026-08-21T15:53:57-0300",
+  "amount_spent": "R$17,27 BRL",
+  "impressions": "916",
+  "reach": "716",
+  "frequency": "1.27933",
+  "cpm": "R$18,85 BRL",
+  "cpp": "R$24,12 BRL",
+  "clicks": "10",
+  "ctr": "1,09%",
+  "website_ctr": "0.655022",
+  "actions:link_click": "6",
+  "cost_per_link_click": "R$2,88 BRL",
+  "outbound_clicks": "6",
+  "outbound_clicks_ctr": "0.655022",
+  "landing_page_view": "3",
+  "results": {
+   "indicator": "actions:offsite_conversion.fb_pixel_purchase",
+   "value": "Not available"
+  },
+  "cost_per_result": {
+   "value": "Not available (Website purchases)"
+  },
+  "actions:omni_purchase": null,
+  "omni_purchase_values": null,
+  "purchase_roas": null,
+  "omni_add_to_cart": null,
+  "omni_initiated_checkout": null,
+  "omni_view_content": null,
+  "post_engagement": "112",
+  "video_thruplay_watched_actions": "13"
+ },
+ {
+  "id": "23859221136940689",
+  "name": "[MAGOS-MP][RECONHECIMENTO][ALCANCE][PROMOÇÃO]",
+  "objective": "OUTCOME_AWARENESS",
+  "status": "PAUSED",
+  "effective_status": "PAUSED",
+  "delivery": {
+   "status": "off",
+   "substatuses": [
+    "off"
+   ]
+  },
+  "buying_type": "AUCTION",
+  "start_time": "2023-09-27T14:21:06-0300",
+  "stop_time": "2023-09-28T23:00:00-0300",
+  "created_time": "2023-09-27T14:21:06-0300",
+  "updated_time": "2023-09-29T00:58:45-0300",
+  "amount_spent": "R$15,00 BRL",
+  "impressions": "10453",
+  "reach": "10446",
+  "frequency": "1.00067",
+  "cpm": "R$1,43 BRL",
+  "cpp": "R$1,44 BRL",
+  "clicks": "10",
+  "ctr": "0,0957%",
+  "website_ctr": "0.047833",
+  "actions:link_click": "5",
+  "cost_per_link_click": "R$3,00 BRL",
+  "outbound_clicks": "5",
+  "outbound_clicks_ctr": "0.047833",
+  "landing_page_view": "4",
+  "results": {
+   "indicator": "reach",
+   "values": [
+    {
+     "attribution_windows": [
+      "default"
+     ],
+     "value": "10446"
+    }
+   ]
+  },
+  "cost_per_result": {
+   "value": "R$1,44 BRL (Reach)"
+  },
+  "actions:omni_purchase": null,
+  "omni_purchase_values": null,
+  "purchase_roas": null,
+  "omni_add_to_cart": null,
+  "omni_initiated_checkout": null,
+  "omni_view_content": null,
+  "post_engagement": "406",
+  "video_thruplay_watched_actions": "46"
+ },
+ {
+  "id": "23855591099600689",
+  "name": "Companha 01 - Tráfego - Whatapp - Interesses",
+  "objective": "OUTCOME_TRAFFIC",
+  "status": "PAUSED",
+  "effective_status": "PAUSED",
+  "delivery": {
+   "status": "off",
+   "substatuses": [
+    "off"
+   ]
+  },
+  "buying_type": "AUCTION",
+  "start_time": "2023-07-01T22:26:13-0300",
+  "stop_time": "2023-07-31T00:00:00-0300",
+  "created_time": "2023-07-01T22:26:13-0300",
+  "updated_time": "2023-07-13T10:47:33-0300",
+  "amount_spent": "R$0,00 BRL",
+  "impressions": "0",
+  "reach": "0",
+  "frequency": "0",
+  "cpm": null,
+  "cpp": null,
+  "clicks": "0",
+  "ctr": null,
+  "website_ctr": null,
+  "actions:link_click": null,
+  "cost_per_link_click": null,
+  "outbound_clicks": null,
+  "outbound_clicks_ctr": null,
+  "landing_page_view": null,
+  "results": {
+   "indicator": "actions:onsite_conversion.messaging_conversation_started_7d",
+   "value": "Not available"
+  },
+  "cost_per_result": {
+   "value": "Not available (Messaging conversations started)"
+  },
+  "actions:omni_purchase": null,
+  "omni_purchase_values": null,
+  "purchase_roas": null,
+  "omni_add_to_cart": null,
+  "omni_initiated_checkout": null,
+  "omni_view_content": null,
+  "post_engagement": null,
+  "video_thruplay_watched_actions": null
+ },
+ {
+  "id": "23855178816320689",
+  "name": "Nova campanha de Vendas",
+  "objective": "OUTCOME_SALES",
+  "status": "PAUSED",
+  "effective_status": "PAUSED",
+  "delivery": {
+   "status": "off",
+   "substatuses": [
+    "off"
+   ]
+  },
+  "buying_type": "AUCTION",
+  "start_time": "2023-06-24T17:38:55-0300",
+  "stop_time": "2023-06-26T00:00:00-0300",
+  "created_time": "2023-06-24T17:38:55-0300",
+  "updated_time": "2023-06-25T00:18:03-0300",
+  "amount_spent": "R$0,00 BRL",
+  "impressions": "0",
+  "reach": "0",
+  "frequency": "0",
+  "cpm": null,
+  "cpp": null,
+  "clicks": "0",
+  "ctr": null,
+  "website_ctr": null,
+  "actions:link_click": null,
+  "cost_per_link_click": null,
+  "outbound_clicks": null,
+  "outbound_clicks_ctr": null,
+  "landing_page_view": null,
+  "results": {
+   "indicator": "actions:offsite_conversion.fb_pixel_purchase",
+   "value": "Not available"
+  },
+  "cost_per_result": {
+   "value": "Not available (Website purchases)"
+  },
+  "actions:omni_purchase": null,
+  "omni_purchase_values": null,
+  "purchase_roas": null,
+  "omni_add_to_cart": null,
+  "omni_initiated_checkout": null,
+  "omni_view_content": null,
+  "post_engagement": null,
+  "video_thruplay_watched_actions": null
+ },
+ {
+  "id": "23854852055720689",
+  "name": "Campanha 03 - VENDAS - RMKT - CARDÁPIO DIGITAL",
+  "objective": "OUTCOME_SALES",
+  "status": "PAUSED",
+  "effective_status": "PAUSED",
+  "delivery": {
+   "status": "off",
+   "substatuses": [
+    "off"
+   ]
+  },
+  "buying_type": "AUCTION",
+  "start_time": "2023-06-17T22:42:25-0300",
+  "stop_time": "2023-06-30T22:12:10-0300",
+  "created_time": "2023-06-17T22:42:25-0300",
+  "updated_time": "2023-06-24T16:39:06-0300",
+  "amount_spent": "R$0,00 BRL",
+  "impressions": "0",
+  "reach": "0",
+  "frequency": "0",
+  "cpm": null,
+  "cpp": null,
+  "clicks": "0",
+  "ctr": null,
+  "website_ctr": null,
+  "actions:link_click": null,
+  "cost_per_link_click": null,
+  "outbound_clicks": null,
+  "outbound_clicks_ctr": null,
+  "landing_page_view": null,
+  "results": {
+   "indicator": "actions:offsite_conversion.fb_pixel_purchase",
+   "value": "Not available"
+  },
+  "cost_per_result": {
+   "value": "Not available (Website purchases)"
+  },
+  "actions:omni_purchase": null,
+  "omni_purchase_values": null,
+  "purchase_roas": null,
+  "omni_add_to_cart": null,
+  "omni_initiated_checkout": null,
+  "omni_view_content": null,
+  "post_engagement": null,
+  "video_thruplay_watched_actions": null
+ },
+ {
+  "id": "23854850307390689",
+  "name": "Campanha 03 - VENDAS - RMKT - CARDÁPIO DIGITAL Campanha",
+  "objective": "OUTCOME_SALES",
+  "status": "PAUSED",
+  "effective_status": "PAUSED",
+  "delivery": {
+   "status": "off",
+   "substatuses": [
+    "off"
+   ]
+  },
+  "buying_type": "AUCTION",
+  "start_time": "2023-06-17T21:34:44-0300",
+  "stop_time": "2023-06-30T23:30:18-0300",
+  "created_time": "2023-06-17T21:34:41-0300",
+  "updated_time": "2023-06-24T16:39:04-0300",
+  "amount_spent": "R$0,00 BRL",
+  "impressions": "0",
+  "reach": "0",
+  "frequency": "0",
+  "cpm": null,
+  "cpp": null,
+  "clicks": "0",
+  "ctr": null,
+  "website_ctr": null,
+  "actions:link_click": null,
+  "cost_per_link_click": null,
+  "outbound_clicks": null,
+  "outbound_clicks_ctr": null,
+  "landing_page_view": null,
+  "results": {
+   "indicator": "actions:offsite_conversion.fb_pixel_purchase",
+   "value": "Not available"
+  },
+  "cost_per_result": {
+   "value": "Not available (Website purchases)"
+  },
+  "actions:omni_purchase": null,
+  "omni_purchase_values": null,
+  "purchase_roas": null,
+  "omni_add_to_cart": null,
+  "omni_initiated_checkout": null,
+  "omni_view_content": null,
+  "post_engagement": null,
+  "video_thruplay_watched_actions": null
+ },
+ {
+  "id": "23854509176890689",
+  "name": "Campanha 01 - Tráfego Whatsapp Por Site - Topo de Funil",
+  "objective": "OUTCOME_TRAFFIC",
+  "status": "PAUSED",
+  "effective_status": "PAUSED",
+  "delivery": {
+   "status": "off",
+   "substatuses": [
+    "off"
+   ]
+  },
+  "buying_type": "AUCTION",
+  "start_time": "2023-06-04T00:35:53-0300",
+  "stop_time": "2023-06-30T23:30:30-0300",
+  "created_time": "2023-06-04T00:35:52-0300",
+  "updated_time": "2023-06-07T11:29:55-0300",
+  "amount_spent": "R$0,00 BRL",
+  "impressions": "0",
+  "reach": "0",
+  "frequency": "0",
+  "cpm": null,
+  "cpp": null,
+  "clicks": "0",
+  "ctr": null,
+  "website_ctr": null,
+  "actions:link_click": null,
+  "cost_per_link_click": null,
+  "outbound_clicks": null,
+  "outbound_clicks_ctr": null,
+  "landing_page_view": null,
+  "results": {
+   "indicator": "actions:link_click",
+   "value": "Not available"
+  },
+  "cost_per_result": {
+   "value": "Not available (Link clicks)"
+  },
+  "actions:omni_purchase": null,
+  "omni_purchase_values": null,
+  "purchase_roas": null,
+  "omni_add_to_cart": null,
+  "omni_initiated_checkout": null,
+  "omni_view_content": null,
+  "post_engagement": null,
+  "video_thruplay_watched_actions": null
+ },
+ {
+  "id": "23854467555490689",
+  "name": "Campanha 05 - Vendas - Topo de Funil - Site",
+  "objective": "OUTCOME_SALES",
+  "status": "PAUSED",
+  "effective_status": "PAUSED",
+  "delivery": {
+   "status": "off",
+   "substatuses": [
+    "off"
+   ]
+  },
+  "buying_type": "AUCTION",
+  "start_time": "2023-06-02T00:06:33-0300",
+  "stop_time": "2023-07-31T23:44:56-0300",
+  "created_time": "2023-06-02T00:06:33-0300",
+  "updated_time": "2023-07-07T23:29:29-0300",
+  "amount_spent": "R$0,00 BRL",
+  "impressions": "0",
+  "reach": "0",
+  "frequency": "0",
+  "cpm": null,
+  "cpp": null,
+  "clicks": "0",
+  "ctr": null,
+  "website_ctr": null,
+  "actions:link_click": null,
+  "cost_per_link_click": null,
+  "outbound_clicks": null,
+  "outbound_clicks_ctr": null,
+  "landing_page_view": null,
+  "results": {
+   "indicator": "actions:offsite_conversion.fb_pixel_purchase",
+   "value": "Not available"
+  },
+  "cost_per_result": {
+   "value": "Not available (Website purchases)"
+  },
+  "actions:omni_purchase": null,
+  "omni_purchase_values": null,
+  "purchase_roas": null,
+  "omni_add_to_cart": null,
+  "omni_initiated_checkout": null,
+  "omni_view_content": null,
+  "post_engagement": null,
+  "video_thruplay_watched_actions": null
+ },
+ {
+  "id": "23854465452890689",
+  "name": "Campanha 02 - Tráfego Whatsapp - Remarketing 365 Dias Instagram/Facebook",
+  "objective": "OUTCOME_TRAFFIC",
+  "status": "PAUSED",
+  "effective_status": "PAUSED",
+  "delivery": {
+   "status": "off",
+   "substatuses": [
+    "off"
+   ]
+  },
+  "buying_type": "AUCTION",
+  "start_time": "2023-06-01T22:07:46-0300",
+  "stop_time": "2023-06-30T23:30:30-0300",
+  "created_time": "2023-06-01T22:07:46-0300",
+  "updated_time": "2023-06-10T20:37:37-0300",
+  "amount_spent": "R$0,00 BRL",
+  "impressions": "0",
+  "reach": "0",
+  "frequency": "0",
+  "cpm": null,
+  "cpp": null,
+  "clicks": "0",
+  "ctr": null,
+  "website_ctr": null,
+  "actions:link_click": null,
+  "cost_per_link_click": null,
+  "outbound_clicks": null,
+  "outbound_clicks_ctr": null,
+  "landing_page_view": null,
+  "results": {
+   "indicator": "actions:onsite_conversion.messaging_conversation_started_7d",
+   "value": "Not available"
+  },
+  "cost_per_result": {
+   "value": "Not available (Messaging conversations started)"
+  },
+  "actions:omni_purchase": null,
+  "omni_purchase_values": null,
+  "purchase_roas": null,
+  "omni_add_to_cart": null,
+  "omni_initiated_checkout": null,
+  "omni_view_content": null,
+  "post_engagement": null,
+  "video_thruplay_watched_actions": null
+ },
+ {
+  "id": "23854398236240689",
+  "name": "Campanha 01 - Tráfego Whatsapp - Topo de Funil",
+  "objective": "OUTCOME_TRAFFIC",
+  "status": "PAUSED",
+  "effective_status": "PAUSED",
+  "delivery": {
+   "status": "off",
+   "substatuses": [
+    "off"
+   ]
+  },
+  "buying_type": "AUCTION",
+  "start_time": "2023-05-30T22:29:55-0300",
+  "stop_time": "2023-06-30T23:30:30-0300",
+  "created_time": "2023-05-30T22:29:55-0300",
+  "updated_time": "2023-06-10T20:37:33-0300",
+  "amount_spent": "R$0,00 BRL",
+  "impressions": "0",
+  "reach": "0",
+  "frequency": "0",
+  "cpm": null,
+  "cpp": null,
+  "clicks": "0",
+  "ctr": null,
+  "website_ctr": null,
+  "actions:link_click": null,
+  "cost_per_link_click": null,
+  "outbound_clicks": null,
+  "outbound_clicks_ctr": null,
+  "landing_page_view": null,
+  "results": {
+   "indicator": "actions:onsite_conversion.messaging_conversation_started_7d",
+   "value": "Not available"
+  },
+  "cost_per_result": {
+   "value": "Not available (Messaging conversations started)"
+  },
+  "actions:omni_purchase": null,
+  "omni_purchase_values": null,
+  "purchase_roas": null,
+  "omni_add_to_cart": null,
+  "omni_initiated_checkout": null,
+  "omni_view_content": null,
+  "post_engagement": null,
+  "video_thruplay_watched_actions": null
+ },
+ {
+  "id": "23854059784400689",
+  "name": "Campanha 02 - Tráfego Whatsapp - Remarketing 365 Dias Instagram/Facebook",
+  "objective": "OUTCOME_TRAFFIC",
+  "status": "PAUSED",
+  "effective_status": "PAUSED",
+  "delivery": {
+   "status": "off",
+   "substatuses": [
+    "off"
+   ]
+  },
+  "buying_type": "AUCTION",
+  "start_time": "2023-05-17T23:02:45-0300",
+  "stop_time": "2023-05-29T00:00:04-0300",
+  "created_time": "2023-05-17T23:02:45-0300",
+  "updated_time": "2023-06-01T23:27:03-0300",
+  "amount_spent": "R$0,00 BRL",
+  "impressions": "0",
+  "reach": "0",
+  "frequency": "0",
+  "cpm": null,
+  "cpp": null,
+  "clicks": "0",
+  "ctr": null,
+  "website_ctr": null,
+  "actions:link_click": null,
+  "cost_per_link_click": null,
+  "outbound_clicks": null,
+  "outbound_clicks_ctr": null,
+  "landing_page_view": null,
+  "results": {
+   "indicator": "actions:onsite_conversion.messaging_conversation_started_7d",
+   "value": "Not available"
+  },
+  "cost_per_result": {
+   "value": "Not available (Messaging conversations started)"
+  },
+  "actions:omni_purchase": null,
+  "omni_purchase_values": null,
+  "purchase_roas": null,
+  "omni_add_to_cart": null,
+  "omni_initiated_checkout": null,
+  "omni_view_content": null,
+  "post_engagement": null,
+  "video_thruplay_watched_actions": null
+ },
+ {
+  "id": "23854057246350689",
+  "name": "Campanha 01 - Tráfego Whatsapp - Topo de Funil",
+  "objective": "OUTCOME_TRAFFIC",
+  "status": "PAUSED",
+  "effective_status": "PAUSED",
+  "delivery": {
+   "status": "off",
+   "substatuses": [
+    "off"
+   ]
+  },
+  "buying_type": "AUCTION",
+  "start_time": "2023-05-17T20:49:58-0300",
+  "stop_time": "2023-05-29T00:00:04-0300",
+  "created_time": "2023-05-17T20:49:58-0300",
+  "updated_time": "2023-06-01T23:03:21-0300",
+  "amount_spent": "R$0,00 BRL",
+  "impressions": "0",
+  "reach": "0",
+  "frequency": "0",
+  "cpm": null,
+  "cpp": null,
+  "clicks": "0",
+  "ctr": null,
+  "website_ctr": null,
+  "actions:link_click": null,
+  "cost_per_link_click": null,
+  "outbound_clicks": null,
+  "outbound_clicks_ctr": null,
+  "landing_page_view": null,
+  "results": {
+   "indicator": "actions:onsite_conversion.messaging_conversation_started_7d",
+   "value": "Not available"
+  },
+  "cost_per_result": {
+   "value": "Not available (Messaging conversations started)"
+  },
+  "actions:omni_purchase": null,
+  "omni_purchase_values": null,
+  "purchase_roas": null,
+  "omni_add_to_cart": null,
+  "omni_initiated_checkout": null,
+  "omni_view_content": null,
+  "post_engagement": null,
+  "video_thruplay_watched_actions": null
+ },
+ {
+  "id": "23853594221480689",
+  "name": "DLL/GE BURGER COMBO",
+  "objective": "OUTCOME_TRAFFIC",
+  "status": "PAUSED",
+  "effective_status": "PAUSED",
+  "delivery": {
+   "status": "off",
+   "substatuses": [
+    "off"
+   ]
+  },
+  "buying_type": "AUCTION",
+  "bid_strategy": "Highest volume",
+  "lifetime_budget": "R$100,00 BRL",
+  "start_time": "2023-04-18T21:28:50-0300",
+  "stop_time": "2023-04-30T01:00:55-0300",
+  "created_time": "2023-04-18T21:20:37-0300",
+  "updated_time": "2023-05-15T21:04:57-0300",
+  "amount_spent": "R$0,00 BRL",
+  "impressions": "0",
+  "reach": "0",
+  "frequency": "0",
+  "cpm": null,
+  "cpp": null,
+  "clicks": "0",
+  "ctr": null,
+  "website_ctr": null,
+  "actions:link_click": null,
+  "cost_per_link_click": null,
+  "outbound_clicks": null,
+  "outbound_clicks_ctr": null,
+  "landing_page_view": null,
+  "results": {
+   "indicator": "actions:link_click",
+   "value": "Not available"
+  },
+  "cost_per_result": {
+   "value": "Not available (Link clicks)"
+  },
+  "actions:omni_purchase": null,
+  "omni_purchase_values": null,
+  "purchase_roas": null,
+  "omni_add_to_cart": null,
+  "omni_initiated_checkout": null,
+  "omni_view_content": null,
+  "post_engagement": null,
+  "video_thruplay_watched_actions": null
+ },
+ {
+  "id": "23853547091260689",
+  "name": "DLL/GE BURGER TRAF",
+  "objective": "OUTCOME_TRAFFIC",
+  "status": "PAUSED",
+  "effective_status": "PAUSED",
+  "delivery": {
+   "status": "off",
+   "substatuses": [
+    "off"
+   ]
+  },
+  "buying_type": "AUCTION",
+  "bid_strategy": "Highest volume",
+  "lifetime_budget": "R$100,00 BRL",
+  "start_time": "2023-04-14T14:55:31-0300",
+  "stop_time": "2023-04-21T00:30:08-0300",
+  "created_time": "2023-04-14T14:55:30-0300",
+  "updated_time": "2023-05-15T21:04:57-0300",
+  "amount_spent": "R$0,00 BRL",
+  "impressions": "0",
+  "reach": "0",
+  "frequency": "0",
+  "cpm": null,
+  "cpp": null,
+  "clicks": "0",
+  "ctr": null,
+  "website_ctr": null,
+  "actions:link_click": null,
+  "cost_per_link_click": null,
+  "outbound_clicks": null,
+  "outbound_clicks_ctr": null,
+  "landing_page_view": null,
+  "results": {
+   "indicator": "actions:link_click",
+   "value": "Not available"
+  },
+  "cost_per_result": {
+   "value": "Not available (Link clicks)"
+  },
+  "actions:omni_purchase": null,
+  "omni_purchase_values": null,
+  "purchase_roas": null,
+  "omni_add_to_cart": null,
+  "omni_initiated_checkout": null,
+  "omni_view_content": null,
+  "post_engagement": null,
+  "video_thruplay_watched_actions": null
+ },
+ {
+  "id": "23853315703970689",
+  "name": "DLL/Ge Burger Conver Campanha",
+  "objective": "OUTCOME_SALES",
+  "status": "PAUSED",
+  "effective_status": "PAUSED",
+  "delivery": {
+   "status": "off",
+   "substatuses": [
+    "off"
+   ]
+  },
+  "buying_type": "AUCTION",
+  "start_time": "2023-03-28T20:47:59-0300",
+  "stop_time": "2023-03-31T20:30:19-0300",
+  "created_time": "2023-03-28T20:40:00-0300",
+  "updated_time": "2023-03-31T14:28:28-0300",
+  "amount_spent": "R$0,00 BRL",
+  "impressions": "0",
+  "reach": "0",
+  "frequency": "0",
+  "cpm": null,
+  "cpp": null,
+  "clicks": "0",
+  "ctr": null,
+  "website_ctr": null,
+  "actions:link_click": null,
+  "cost_per_link_click": null,
+  "outbound_clicks": null,
+  "outbound_clicks_ctr": null,
+  "landing_page_view": null,
+  "results": {
+   "indicator": "actions:offsite_conversion.fb_pixel_purchase",
+   "value": "Not available"
+  },
+  "cost_per_result": {
+   "value": "Not available (Website purchases)"
+  },
+  "actions:omni_purchase": null,
+  "omni_purchase_values": null,
+  "purchase_roas": null,
+  "omni_add_to_cart": null,
+  "omni_initiated_checkout": null,
+  "omni_view_content": null,
+  "post_engagement": null,
+  "video_thruplay_watched_actions": null
+ },
+ {
+  "id": "23853311967470689",
+  "name": "DLL/Ge Burger ALC",
+  "objective": "OUTCOME_AWARENESS",
+  "status": "PAUSED",
+  "effective_status": "PAUSED",
+  "delivery": {
+   "status": "off",
+   "substatuses": [
+    "off"
+   ]
+  },
+  "buying_type": "AUCTION",
+  "bid_strategy": "Highest volume",
+  "lifetime_budget": "R$50,00 BRL",
+  "start_time": "2023-03-28T14:36:42-0300",
+  "stop_time": "2023-04-06T00:30:38-0300",
+  "created_time": "2023-03-28T14:36:42-0300",
+  "updated_time": "2023-05-15T21:04:51-0300",
+  "amount_spent": "R$0,00 BRL",
+  "impressions": "0",
+  "reach": "0",
+  "frequency": "0",
+  "cpm": null,
+  "cpp": null,
+  "clicks": "0",
+  "ctr": null,
+  "website_ctr": null,
+  "actions:link_click": null,
+  "cost_per_link_click": null,
+  "outbound_clicks": null,
+  "outbound_clicks_ctr": null,
+  "landing_page_view": null,
+  "results": {
+   "indicator": "reach",
+   "value": "Not available"
+  },
+  "cost_per_result": {
+   "value": "Not available (Reach)"
+  },
+  "actions:omni_purchase": null,
+  "omni_purchase_values": null,
+  "purchase_roas": null,
+  "omni_add_to_cart": null,
+  "omni_initiated_checkout": null,
+  "omni_view_content": null,
+  "post_engagement": null,
+  "video_thruplay_watched_actions": null
+ },
+ {
+  "id": "23853152883790689",
+  "name": "DLL/Ge Burger",
+  "objective": "OUTCOME_TRAFFIC",
+  "status": "PAUSED",
+  "effective_status": "PAUSED",
+  "delivery": {
+   "status": "off",
+   "substatuses": [
+    "off"
+   ]
+  },
+  "buying_type": "AUCTION",
+  "bid_strategy": "Highest volume",
+  "lifetime_budget": "R$50,00 BRL",
+  "start_time": "2023-03-14T15:19:57-0300",
+  "stop_time": "2023-03-21T00:30:22-0300",
+  "created_time": "2023-03-14T15:19:56-0300",
+  "updated_time": "2023-05-15T21:04:57-0300",
+  "amount_spent": "R$0,00 BRL",
+  "impressions": "0",
+  "reach": "0",
+  "frequency": "0",
+  "cpm": null,
+  "cpp": null,
+  "clicks": "0",
+  "ctr": null,
+  "website_ctr": null,
+  "actions:link_click": null,
+  "cost_per_link_click": null,
+  "outbound_clicks": null,
+  "outbound_clicks_ctr": null,
+  "landing_page_view": null,
+  "results": {
+   "indicator": "actions:omni_landing_page_view",
+   "value": "Not available"
+  },
+  "cost_per_result": {
+   "value": "Not available (Landing page views)"
+  },
+  "actions:omni_purchase": null,
+  "omni_purchase_values": null,
+  "purchase_roas": null,
+  "omni_add_to_cart": null,
+  "omni_initiated_checkout": null,
+  "omni_view_content": null,
+  "post_engagement": null,
+  "video_thruplay_watched_actions": null
+ },
+ {
+  "id": "23853015680440689",
+  "name": "DLL/Ge Burger",
+  "objective": "OUTCOME_TRAFFIC",
+  "status": "PAUSED",
+  "effective_status": "PAUSED",
+  "delivery": {
+   "status": "off",
+   "substatuses": [
+    "off"
+   ]
+  },
+  "buying_type": "AUCTION",
+  "bid_strategy": "Highest volume",
+  "lifetime_budget": "R$50,00 BRL",
+  "start_time": "2023-03-01T19:34:40-0300",
+  "stop_time": "2023-03-08T00:30:16-0300",
+  "created_time": "2023-03-01T19:28:26-0300",
+  "updated_time": "2023-05-15T21:04:57-0300",
+  "amount_spent": "R$0,00 BRL",
+  "impressions": "0",
+  "reach": "0",
+  "frequency": "0",
+  "cpm": null,
+  "cpp": null,
+  "clicks": "0",
+  "ctr": null,
+  "website_ctr": null,
+  "actions:link_click": null,
+  "cost_per_link_click": null,
+  "outbound_clicks": null,
+  "outbound_clicks_ctr": null,
+  "landing_page_view": null,
+  "results": {
+   "indicator": "actions:omni_landing_page_view",
+   "value": "Not available"
+  },
+  "cost_per_result": {
+   "value": "Not available (Landing page views)"
+  },
+  "actions:omni_purchase": null,
+  "omni_purchase_values": null,
+  "purchase_roas": null,
+  "omni_add_to_cart": null,
+  "omni_initiated_checkout": null,
+  "omni_view_content": null,
+  "post_engagement": null,
+  "video_thruplay_watched_actions": null
+ },
+ {
+  "id": "23852793408530689",
+  "name": "Nova campanha de Tráfego - Promoção da Semana",
+  "objective": "OUTCOME_TRAFFIC",
+  "status": "PAUSED",
+  "effective_status": "PAUSED",
+  "delivery": {
+   "status": "off",
+   "substatuses": [
+    "off"
+   ]
+  },
+  "buying_type": "AUCTION",
+  "bid_strategy": "Highest volume",
+  "daily_budget": "R$20,00 BRL",
+  "start_time": "2023-02-08T13:44:09-0300",
+  "stop_time": "2023-02-28T00:00:00-0300",
+  "created_time": "2023-02-08T13:44:09-0300",
+  "updated_time": "2023-02-22T23:16:21-0300",
+  "amount_spent": "R$0,00 BRL",
+  "impressions": "0",
+  "reach": "0",
+  "frequency": "0",
+  "cpm": null,
+  "cpp": null,
+  "clicks": "0",
+  "ctr": null,
+  "website_ctr": null,
+  "actions:link_click": null,
+  "cost_per_link_click": null,
+  "outbound_clicks": null,
+  "outbound_clicks_ctr": null,
+  "landing_page_view": null,
+  "results": {
+   "indicator": "actions:onsite_conversion.messaging_conversation_started_7d",
+   "value": "Not available"
+  },
+  "cost_per_result": {
+   "value": "Not available (Messaging conversations started)"
+  },
+  "actions:omni_purchase": null,
+  "omni_purchase_values": null,
+  "purchase_roas": null,
+  "omni_add_to_cart": null,
+  "omni_initiated_checkout": null,
+  "omni_view_content": null,
+  "post_engagement": null,
+  "video_thruplay_watched_actions": null
+ },
+ {
+  "id": "23852769968870689",
+  "name": "Nova campanha de Tráfego - Terça",
+  "objective": "OUTCOME_TRAFFIC",
+  "status": "PAUSED",
+  "effective_status": "PAUSED",
+  "delivery": {
+   "status": "off",
+   "substatuses": [
+    "off"
+   ]
+  },
+  "buying_type": "AUCTION",
+  "bid_strategy": "Highest volume",
+  "daily_budget": "R$20,00 BRL",
+  "start_time": "2023-02-06T13:49:44-0300",
+  "stop_time": "2023-02-28T00:00:00-0300",
+  "created_time": "2023-02-06T13:49:44-0300",
+  "updated_time": "2023-02-22T23:16:24-0300",
+  "amount_spent": "R$0,00 BRL",
+  "impressions": "0",
+  "reach": "0",
+  "frequency": "0",
+  "cpm": null,
+  "cpp": null,
+  "clicks": "0",
+  "ctr": null,
+  "website_ctr": null,
+  "actions:link_click": null,
+  "cost_per_link_click": null,
+  "outbound_clicks": null,
+  "outbound_clicks_ctr": null,
+  "landing_page_view": null,
+  "results": {
+   "indicator": "actions:onsite_conversion.messaging_conversation_started_7d",
+   "value": "Not available"
+  },
+  "cost_per_result": {
+   "value": "Not available (Messaging conversations started)"
+  },
+  "actions:omni_purchase": null,
+  "omni_purchase_values": null,
+  "purchase_roas": null,
+  "omni_add_to_cart": null,
+  "omni_initiated_checkout": null,
+  "omni_view_content": null,
+  "post_engagement": null,
+  "video_thruplay_watched_actions": null
+ },
+ {
+  "id": "23852741269360689",
+  "name": "Nova campanha de Tráfego - Sexta",
+  "objective": "OUTCOME_TRAFFIC",
+  "status": "PAUSED",
+  "effective_status": "PAUSED",
+  "delivery": {
+   "status": "off",
+   "substatuses": [
+    "off"
+   ]
+  },
+  "buying_type": "AUCTION",
+  "bid_strategy": "Highest volume",
+  "daily_budget": "R$20,00 BRL",
+  "start_time": "2023-02-03T14:25:34-0300",
+  "stop_time": "2023-02-28T00:00:00-0300",
+  "created_time": "2023-02-03T14:25:34-0300",
+  "updated_time": "2023-02-22T23:16:24-0300",
+  "amount_spent": "R$0,00 BRL",
+  "impressions": "0",
+  "reach": "0",
+  "frequency": "0",
+  "cpm": null,
+  "cpp": null,
+  "clicks": "0",
+  "ctr": null,
+  "website_ctr": null,
+  "actions:link_click": null,
+  "cost_per_link_click": null,
+  "outbound_clicks": null,
+  "outbound_clicks_ctr": null,
+  "landing_page_view": null,
+  "results": {
+   "indicator": "actions:onsite_conversion.messaging_conversation_started_7d",
+   "value": "Not available"
+  },
+  "cost_per_result": {
+   "value": "Not available (Messaging conversations started)"
+  },
+  "actions:omni_purchase": null,
+  "omni_purchase_values": null,
+  "purchase_roas": null,
+  "omni_add_to_cart": null,
+  "omni_initiated_checkout": null,
+  "omni_view_content": null,
+  "post_engagement": null,
+  "video_thruplay_watched_actions": null
+ },
+ {
+  "id": "23852729545480689",
+  "name": "Nova campanha de Tráfego - Quinta",
+  "objective": "OUTCOME_TRAFFIC",
+  "status": "PAUSED",
+  "effective_status": "PAUSED",
+  "delivery": {
+   "status": "off",
+   "substatuses": [
+    "off"
+   ]
+  },
+  "buying_type": "AUCTION",
+  "bid_strategy": "Highest volume",
+  "daily_budget": "R$20,00 BRL",
+  "start_time": "2023-02-02T13:25:44-0300",
+  "stop_time": "2023-02-28T00:00:00-0300",
+  "created_time": "2023-02-02T13:25:44-0300",
+  "updated_time": "2023-02-22T23:16:25-0300",
+  "amount_spent": "R$0,00 BRL",
+  "impressions": "0",
+  "reach": "0",
+  "frequency": "0",
+  "cpm": null,
+  "cpp": null,
+  "clicks": "0",
+  "ctr": null,
+  "website_ctr": null,
+  "actions:link_click": null,
+  "cost_per_link_click": null,
+  "outbound_clicks": null,
+  "outbound_clicks_ctr": null,
+  "landing_page_view": null,
+  "results": {
+   "indicator": "actions:onsite_conversion.messaging_conversation_started_7d",
+   "value": "Not available"
+  },
+  "cost_per_result": {
+   "value": "Not available (Messaging conversations started)"
+  },
+  "actions:omni_purchase": null,
+  "omni_purchase_values": null,
+  "purchase_roas": null,
+  "omni_add_to_cart": null,
+  "omni_initiated_checkout": null,
+  "omni_view_content": null,
+  "post_engagement": null,
+  "video_thruplay_watched_actions": null
+ },
+ {
+  "id": "23852722050190689",
+  "name": "Nova campanha de Tráfego - Quarta",
+  "objective": "OUTCOME_TRAFFIC",
+  "status": "PAUSED",
+  "effective_status": "PAUSED",
+  "delivery": {
+   "status": "off",
+   "substatuses": [
+    "off"
+   ]
+  },
+  "buying_type": "AUCTION",
+  "bid_strategy": "Highest volume",
+  "daily_budget": "R$20,00 BRL",
+  "start_time": "2023-02-01T18:52:44-0300",
+  "stop_time": "2023-02-28T00:00:00-0300",
+  "created_time": "2023-02-01T18:52:43-0300",
+  "updated_time": "2023-02-22T23:16:27-0300",
+  "amount_spent": "R$0,00 BRL",
+  "impressions": "0",
+  "reach": "0",
+  "frequency": "0",
+  "cpm": null,
+  "cpp": null,
+  "clicks": "0",
+  "ctr": null,
+  "website_ctr": null,
+  "actions:link_click": null,
+  "cost_per_link_click": null,
+  "outbound_clicks": null,
+  "outbound_clicks_ctr": null,
+  "landing_page_view": null,
+  "results": {
+   "indicator": "actions:onsite_conversion.messaging_conversation_started_7d",
+   "value": "Not available"
+  },
+  "cost_per_result": {
+   "value": "Not available (Messaging conversations started)"
+  },
+  "actions:omni_purchase": null,
+  "omni_purchase_values": null,
+  "purchase_roas": null,
+  "omni_add_to_cart": null,
+  "omni_initiated_checkout": null,
+  "omni_view_content": null,
+  "post_engagement": null,
+  "video_thruplay_watched_actions": null
+ }
+]

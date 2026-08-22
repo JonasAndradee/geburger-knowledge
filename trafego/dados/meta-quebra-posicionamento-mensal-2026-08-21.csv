@@ -1,0 +1,640 @@
+date_start,date_stop,platform_position,amount_spent,impressions,cpm,clicks,ctr,website_ctr,actions:link_click,landing_page_view,actions:omni_purchase,omni_purchase_values,purchase_roas,id,name
+2023-07-22,2023-07-31,an_classic,"R$0,70 BRL",52,"R$13,46 BRL",0,"0,00%",,,,,,,708536560751820,Gê Burger -> Digital Livre
+2023-07-22,2023-07-31,facebook_reels,"R$13,96 BRL",10412,"R$1,34 BRL",77,"0,74%",0.028813,3,,,,,708536560751820,Gê Burger -> Digital Livre
+2023-07-22,2023-07-31,facebook_reels_overlay,"R$1,26 BRL",346,"R$3,64 BRL",2,"0,58%",,,,,,,708536560751820,Gê Burger -> Digital Livre
+2023-07-22,2023-07-31,facebook_stories,"R$11,79 BRL",2876,"R$4,10 BRL",10,"0,35%",0.243394,7,,,,,708536560751820,Gê Burger -> Digital Livre
+2023-07-22,2023-07-31,feed,"R$134,41 BRL",48159,"R$2,79 BRL",429,"0,89%",0.107976,52,2,1,,,708536560751820,Gê Burger -> Digital Livre
+2023-07-22,2023-07-31,instagram_explore,"R$0,62 BRL",343,"R$1,81 BRL",1,"0,29%",,,,,,,708536560751820,Gê Burger -> Digital Livre
+2023-07-22,2023-07-31,instagram_explore_grid_home,"R$0,11 BRL",11,"R$10,00 BRL",0,"0,00%",,,,,,,708536560751820,Gê Burger -> Digital Livre
+2023-07-22,2023-07-31,instagram_reels,"R$89,69 BRL",39594,"R$2,27 BRL",156,"0,39%",0.005051,2,,,,,708536560751820,Gê Burger -> Digital Livre
+2023-07-22,2023-07-31,instagram_stories,"R$28,11 BRL",4545,"R$6,18 BRL",10,"0,22%",0.132013,6,1,,,,708536560751820,Gê Burger -> Digital Livre
+2023-07-22,2023-07-31,instream_video,"R$2,54 BRL",677,"R$3,75 BRL",0,"0,00%",,,,,,,708536560751820,Gê Burger -> Digital Livre
+2023-07-22,2023-07-31,marketplace,"R$3,38 BRL",638,"R$5,30 BRL",2,"0,31%",0.31348,2,,,,,708536560751820,Gê Burger -> Digital Livre
+2023-07-22,2023-07-31,search,"R$12,59 BRL",2235,"R$5,63 BRL",15,"0,67%",0.49217,11,3,,,,708536560751820,Gê Burger -> Digital Livre
+2023-07-22,2023-07-31,unknown,"R$0,16 BRL",10,"R$16,00 BRL",0,"0,00%",,,,,,,708536560751820,Gê Burger -> Digital Livre
+2023-07-22,2023-07-31,video_feeds,"R$1,73 BRL",1144,"R$1,51 BRL",4,"0,35%",0.087413,1,,,,,708536560751820,Gê Burger -> Digital Livre
+2023-08-01,2023-08-31,an_classic,"R$13,59 BRL",1193,"R$11,39 BRL",0,"0,00%",,,,,,,708536560751820,Gê Burger -> Digital Livre
+2023-08-01,2023-08-31,facebook_reels,"R$45,77 BRL",24736,"R$1,85 BRL",238,"0,96%",0.016171,4,,,,,708536560751820,Gê Burger -> Digital Livre
+2023-08-01,2023-08-31,facebook_reels_overlay,"R$9,43 BRL",2277,"R$4,14 BRL",7,"0,31%",,,,,,,708536560751820,Gê Burger -> Digital Livre
+2023-08-01,2023-08-31,facebook_stories,"R$43,14 BRL",11142,"R$3,87 BRL",25,"0,22%",0.215401,24,1,1,,,708536560751820,Gê Burger -> Digital Livre
+2023-08-01,2023-08-31,feed,"R$340,49 BRL",134142,"R$2,54 BRL",1138,"0,85%",0.105858,142,4,2,,,708536560751820,Gê Burger -> Digital Livre
+2023-08-01,2023-08-31,instagram_explore,"R$2,87 BRL",1969,"R$1,46 BRL",2,"0,10%",,,,,,,708536560751820,Gê Burger -> Digital Livre
+2023-08-01,2023-08-31,instagram_reels,"R$215,21 BRL",95387,"R$2,26 BRL",331,"0,35%",0.007339,7,1,1,,,708536560751820,Gê Burger -> Digital Livre
+2023-08-01,2023-08-31,instagram_stories,"R$148,77 BRL",20550,"R$7,24 BRL",63,"0,31%",0.126521,26,1,,,,708536560751820,Gê Burger -> Digital Livre
+2023-08-01,2023-08-31,instream_video,"R$5,97 BRL",1634,"R$3,65 BRL",0,"0,00%",,,,,,,708536560751820,Gê Burger -> Digital Livre
+2023-08-01,2023-08-31,marketplace,"R$4,12 BRL",1167,"R$3,53 BRL",7,"0,60%",0.514139,6,,,,,708536560751820,Gê Burger -> Digital Livre
+2023-08-01,2023-08-31,search,"R$40,06 BRL",8328,"R$4,81 BRL",40,"0,48%",0.360231,30,3,,,,708536560751820,Gê Burger -> Digital Livre
+2023-08-01,2023-08-31,unknown,"R$0,24 BRL",9,"R$26,67 BRL",1,"11,11%",,,,,,,708536560751820,Gê Burger -> Digital Livre
+2023-08-01,2023-08-31,video_feeds,"R$8,34 BRL",3137,"R$2,66 BRL",27,"0,86%",0.191266,6,,,,,708536560751820,Gê Burger -> Digital Livre
+2023-09-01,2023-09-30,an_classic,"R$4,11 BRL",398,"R$10,33 BRL",3,"0,75%",0.753769,3,,,,,708536560751820,Gê Burger -> Digital Livre
+2023-09-01,2023-09-30,facebook_reels,"R$16,05 BRL",9843,"R$1,63 BRL",81,"0,82%",0.01016,1,,,,,708536560751820,Gê Burger -> Digital Livre
+2023-09-01,2023-09-30,facebook_reels_overlay,"R$2,38 BRL",591,"R$4,03 BRL",4,"0,68%",,,,,,,708536560751820,Gê Burger -> Digital Livre
+2023-09-01,2023-09-30,facebook_stories,"R$13,95 BRL",3234,"R$4,31 BRL",6,"0,19%",0.123686,4,2,,,,708536560751820,Gê Burger -> Digital Livre
+2023-09-01,2023-09-30,feed,"R$112,29 BRL",42558,"R$2,64 BRL",330,"0,78%",0.072842,31,13,,,,708536560751820,Gê Burger -> Digital Livre
+2023-09-01,2023-09-30,instagram_explore,"R$2,09 BRL",1231,"R$1,70 BRL",5,"0,41%",,,,,,,708536560751820,Gê Burger -> Digital Livre
+2023-09-01,2023-09-30,instagram_explore_grid_home,"R$0,30 BRL",136,"R$2,21 BRL",1,"0,74%",0.735294,1,1,,,,708536560751820,Gê Burger -> Digital Livre
+2023-09-01,2023-09-30,instagram_profile_feed,"R$0,28 BRL",111,"R$2,52 BRL",2,"1,80%",,,,,,,708536560751820,Gê Burger -> Digital Livre
+2023-09-01,2023-09-30,instagram_reels,"R$91,74 BRL",40992,"R$2,24 BRL",161,"0,39%",0.014637,6,3,,,,708536560751820,Gê Burger -> Digital Livre
+2023-09-01,2023-09-30,instagram_stories,"R$114,45 BRL",22761,"R$5,03 BRL",97,"0,43%",0.158165,36,10,7,"R$248,18 BRL",2.168529,708536560751820,Gê Burger -> Digital Livre
+2023-09-01,2023-09-30,instream_video,"R$2,03 BRL",608,"R$3,34 BRL",0,"0,00%",,,,,,,708536560751820,Gê Burger -> Digital Livre
+2023-09-01,2023-09-30,marketplace,"R$0,39 BRL",63,"R$6,19 BRL",0,"0,00%",,,,1,,,708536560751820,Gê Burger -> Digital Livre
+2023-09-01,2023-09-30,search,"R$4,64 BRL",2202,"R$2,11 BRL",2,"0,0908%",0.045413,1,,,,,708536560751820,Gê Burger -> Digital Livre
+2023-09-01,2023-09-30,video_feeds,"R$2,87 BRL",1089,"R$2,64 BRL",5,"0,46%",0.091827,1,,,,,708536560751820,Gê Burger -> Digital Livre
+2023-10-01,2023-10-31,facebook_reels,"R$20,74 BRL",9754,"R$2,13 BRL",72,"0,74%",0.09227,9,1,,,,708536560751820,Gê Burger -> Digital Livre
+2023-10-01,2023-10-31,facebook_reels_overlay,"R$0,10 BRL",49,"R$2,04 BRL",0,"0,00%",,,,,,,708536560751820,Gê Burger -> Digital Livre
+2023-10-01,2023-10-31,facebook_stories,"R$27,26 BRL",11906,"R$2,29 BRL",71,"0,60%",0.369562,44,28,,,,708536560751820,Gê Burger -> Digital Livre
+2023-10-01,2023-10-31,feed,"R$356,32 BRL",93582,"R$3,81 BRL",1299,"1,39%",0.371866,348,218,16,"R$565,60 BRL",1.587343,708536560751820,Gê Burger -> Digital Livre
+2023-10-01,2023-10-31,instagram_explore,"R$10,17 BRL",4321,"R$2,35 BRL",20,"0,46%",0.185142,8,2,2,"R$57,90 BRL",5.693714,708536560751820,Gê Burger -> Digital Livre
+2023-10-01,2023-10-31,instagram_explore_grid_home,"R$3,67 BRL",1932,"R$1,90 BRL",11,"0,57%",0.05176,1,,,,,708536560751820,Gê Burger -> Digital Livre
+2023-10-01,2023-10-31,instagram_profile_feed,"R$3,77 BRL",1825,"R$2,07 BRL",15,"0,82%",0.219178,4,3,,,,708536560751820,Gê Burger -> Digital Livre
+2023-10-01,2023-10-31,instagram_reels,"R$108,79 BRL",46158,"R$2,36 BRL",157,"0,34%",0.07366,34,14,,,,708536560751820,Gê Burger -> Digital Livre
+2023-10-01,2023-10-31,instagram_search,"R$0,00 BRL",3,"R$0,00 BRL",1,"33,33%",,,,,,,708536560751820,Gê Burger -> Digital Livre
+2023-10-01,2023-10-31,instagram_stories,"R$141,27 BRL",35945,"R$3,93 BRL",344,"0,96%",0.242036,87,58,5,"R$98,44 BRL",0.696833,708536560751820,Gê Burger -> Digital Livre
+2023-10-01,2023-10-31,instream_video,"R$1,16 BRL",400,"R$2,90 BRL",1,"0,25%",0.25,1,,,,,708536560751820,Gê Burger -> Digital Livre
+2023-10-01,2023-10-31,marketplace,"R$1,08 BRL",286,"R$3,78 BRL",1,"0,35%",0.34965,1,1,,,,708536560751820,Gê Burger -> Digital Livre
+2023-10-01,2023-10-31,search,"R$6,79 BRL",2738,"R$2,48 BRL",15,"0,55%",0.401753,11,8,,,,708536560751820,Gê Burger -> Digital Livre
+2023-10-01,2023-10-31,video_feeds,"R$3,55 BRL",1922,"R$1,85 BRL",12,"0,62%",0.364204,7,,,,,708536560751820,Gê Burger -> Digital Livre
+2023-11-01,2023-11-30,an_classic,"R$97,89 BRL",12140,"R$8,06 BRL",154,"1,27%",1.276771,155,101,,,,708536560751820,Gê Burger -> Digital Livre
+2023-11-01,2023-11-30,facebook_profile_feed,"R$0,00 BRL",5,"R$0,00 BRL",0,"0,00%",,,,,,,708536560751820,Gê Burger -> Digital Livre
+2023-11-01,2023-11-30,facebook_reels,"R$203,15 BRL",73992,"R$2,75 BRL",993,"1,34%",0.074332,55,5,,,,708536560751820,Gê Burger -> Digital Livre
+2023-11-01,2023-11-30,facebook_reels_overlay,"R$3,83 BRL",1169,"R$3,28 BRL",4,"0,34%",0.342173,4,1,,,,708536560751820,Gê Burger -> Digital Livre
+2023-11-01,2023-11-30,facebook_stories,"R$60,90 BRL",13752,"R$4,43 BRL",106,"0,77%",0.676265,93,49,1,"R$29,65 BRL",0.486853,708536560751820,Gê Burger -> Digital Livre
+2023-11-01,2023-11-30,feed,"R$251,56 BRL",91397,"R$2,75 BRL",990,"1,08%",0.422333,386,100,5,"R$81,45 BRL",0.323774,708536560751820,Gê Burger -> Digital Livre
+2023-11-01,2023-11-30,instagram_explore,"R$6,88 BRL",5617,"R$1,22 BRL",7,"0,12%",0.053409,3,,,,,708536560751820,Gê Burger -> Digital Livre
+2023-11-01,2023-11-30,instagram_explore_grid_home,"R$1,98 BRL",914,"R$2,17 BRL",5,"0,55%",0.109409,1,3,,,,708536560751820,Gê Burger -> Digital Livre
+2023-11-01,2023-11-30,instagram_profile_feed,"R$1,19 BRL",706,"R$1,69 BRL",1,"0,14%",0.141643,1,,,,,708536560751820,Gê Burger -> Digital Livre
+2023-11-01,2023-11-30,instagram_reels,"R$69,73 BRL",44920,"R$1,55 BRL",100,"0,22%",0.042297,19,5,,,,708536560751820,Gê Burger -> Digital Livre
+2023-11-01,2023-11-30,instagram_search,"R$0,00 BRL",1,"R$0,00 BRL",0,"0,00%",,,,,,,708536560751820,Gê Burger -> Digital Livre
+2023-11-01,2023-11-30,instagram_stories,"R$97,06 BRL",23636,"R$4,11 BRL",121,"0,51%",0.279235,66,26,4,"R$142,20 BRL",1.46513,708536560751820,Gê Burger -> Digital Livre
+2023-11-01,2023-11-30,instream_video,"R$5,70 BRL",2456,"R$2,32 BRL",16,"0,65%",0.651466,16,6,,,,708536560751820,Gê Burger -> Digital Livre
+2023-11-01,2023-11-30,marketplace,"R$13,66 BRL",3177,"R$4,30 BRL",18,"0,57%",0.535096,17,11,,,,708536560751820,Gê Burger -> Digital Livre
+2023-11-01,2023-11-30,messenger_inbox,"R$0,30 BRL",135,"R$2,22 BRL",0,"0,00%",,,,,,,708536560751820,Gê Burger -> Digital Livre
+2023-11-01,2023-11-30,right_hand_column,"R$0,03 BRL",25,"R$1,20 BRL",0,"0,00%",,,,,,,708536560751820,Gê Burger -> Digital Livre
+2023-11-01,2023-11-30,search,"R$0,97 BRL",166,"R$5,84 BRL",4,"2,41%",1.807229,3,3,,,,708536560751820,Gê Burger -> Digital Livre
+2023-11-01,2023-11-30,video_feeds,"R$29,98 BRL",6146,"R$4,88 BRL",99,"1,61%",0.976245,60,15,,,,708536560751820,Gê Burger -> Digital Livre
+2023-12-01,2023-12-31,an_classic,"R$90,69 BRL",13098,"R$6,92 BRL",188,"1,44%",1.450603,190,120,,,,708536560751820,Gê Burger -> Digital Livre
+2023-12-01,2023-12-31,facebook_profile_feed,"R$0,00 BRL",2,"R$0,00 BRL",0,"0,00%",,,,,,,708536560751820,Gê Burger -> Digital Livre
+2023-12-01,2023-12-31,facebook_reels,"R$10,87 BRL",6884,"R$1,58 BRL",23,"0,33%",0.116212,8,8,,,,708536560751820,Gê Burger -> Digital Livre
+2023-12-01,2023-12-31,facebook_reels_overlay,"R$8,55 BRL",6779,"R$1,26 BRL",9,"0,13%",0.132763,9,2,,,,708536560751820,Gê Burger -> Digital Livre
+2023-12-01,2023-12-31,facebook_stories,"R$41,77 BRL",20267,"R$2,06 BRL",89,"0,44%",0.384862,78,38,2,"R$45,80 BRL",1.096464,708536560751820,Gê Burger -> Digital Livre
+2023-12-01,2023-12-31,feed,"R$207,75 BRL",63234,"R$3,29 BRL",637,"1,01%",0.461777,292,133,12,"R$395,50 BRL",1.903721,708536560751820,Gê Burger -> Digital Livre
+2023-12-01,2023-12-31,instagram_explore,"R$5,20 BRL",3951,"R$1,32 BRL",3,"0,0759%",0.02531,1,,,,,708536560751820,Gê Burger -> Digital Livre
+2023-12-01,2023-12-31,instagram_explore_grid_home,"R$3,62 BRL",2698,"R$1,34 BRL",15,"0,56%",0.259451,7,1,,,,708536560751820,Gê Burger -> Digital Livre
+2023-12-01,2023-12-31,instagram_profile_feed,"R$1,25 BRL",689,"R$1,82 BRL",3,"0,44%",0.290276,2,2,,,,708536560751820,Gê Burger -> Digital Livre
+2023-12-01,2023-12-31,instagram_reels,"R$16,71 BRL",8996,"R$1,86 BRL",46,"0,51%",0.277901,25,23,2,"R$30,66 BRL",1.834355,708536560751820,Gê Burger -> Digital Livre
+2023-12-01,2023-12-31,instagram_search,"R$0,01 BRL",1,"R$10,11 BRL",0,"0,00%",,,,,,,708536560751820,Gê Burger -> Digital Livre
+2023-12-01,2023-12-31,instagram_stories,"R$114,81 BRL",53564,"R$2,14 BRL",175,"0,33%",0.168023,90,54,10,"R$242,75 BRL",2.114435,708536560751820,Gê Burger -> Digital Livre
+2023-12-01,2023-12-31,instream_video,"R$10,84 BRL",5093,"R$2,13 BRL",25,"0,49%",0.49087,25,9,,,,708536560751820,Gê Burger -> Digital Livre
+2023-12-01,2023-12-31,marketplace,"R$20,34 BRL",7620,"R$2,67 BRL",38,"0,50%",0.498688,38,22,,,,708536560751820,Gê Burger -> Digital Livre
+2023-12-01,2023-12-31,messenger_inbox,"R$0,26 BRL",120,"R$2,19 BRL",0,"0,00%",,,,,,,708536560751820,Gê Burger -> Digital Livre
+2023-12-01,2023-12-31,right_hand_column,"R$0,00 BRL",1,"R$0,00 BRL",0,"0,00%",,,,,,,708536560751820,Gê Burger -> Digital Livre
+2023-12-01,2023-12-31,search,"R$4,60 BRL",753,"R$6,11 BRL",7,"0,93%",0.796813,6,1,,,,708536560751820,Gê Burger -> Digital Livre
+2023-12-01,2023-12-31,video_feeds,"R$29,44 BRL",7906,"R$3,72 BRL",134,"1,69%",1.176322,93,53,,,,708536560751820,Gê Burger -> Digital Livre
+2024-01-01,2024-01-31,an_classic,"R$25,73 BRL",6629,"R$3,88 BRL",66,"1,00%",1.025796,68,40,,,,708536560751820,Gê Burger -> Digital Livre
+2024-01-01,2024-01-31,facebook_reels,"R$56,30 BRL",18242,"R$3,09 BRL",102,"0,56%",0.109637,20,7,,,,708536560751820,Gê Burger -> Digital Livre
+2024-01-01,2024-01-31,facebook_reels_overlay,"R$2,73 BRL",1375,"R$1,98 BRL",10,"0,73%",0.727273,10,5,,,,708536560751820,Gê Burger -> Digital Livre
+2024-01-01,2024-01-31,facebook_stories,"R$46,51 BRL",14605,"R$3,18 BRL",59,"0,40%",0.260185,38,12,,,,708536560751820,Gê Burger -> Digital Livre
+2024-01-01,2024-01-31,feed,"R$300,78 BRL",115528,"R$2,60 BRL",868,"0,75%",0.364414,421,130,10,"R$416,40 BRL",1.384423,708536560751820,Gê Burger -> Digital Livre
+2024-01-01,2024-01-31,instagram_explore,"R$4,86 BRL",2019,"R$2,41 BRL",1,"0,0495%",,,,,,,708536560751820,Gê Burger -> Digital Livre
+2024-01-01,2024-01-31,instagram_explore_grid_home,"R$3,36 BRL",1631,"R$2,06 BRL",6,"0,37%",0.061312,1,1,,,,708536560751820,Gê Burger -> Digital Livre
+2024-01-01,2024-01-31,instagram_profile_feed,"R$1,40 BRL",459,"R$3,05 BRL",1,"0,22%",0.217865,1,,,,,708536560751820,Gê Burger -> Digital Livre
+2024-01-01,2024-01-31,instagram_reels,"R$73,45 BRL",20596,"R$3,57 BRL",80,"0,39%",0.07283,15,3,2,"R$51,00 BRL",0.694357,708536560751820,Gê Burger -> Digital Livre
+2024-01-01,2024-01-31,instagram_stories,"R$137,60 BRL",42088,"R$3,27 BRL",130,"0,31%",0.20671,87,12,4,"R$147,00 BRL",1.068305,708536560751820,Gê Burger -> Digital Livre
+2024-01-01,2024-01-31,instream_video,"R$5,33 BRL",3866,"R$1,38 BRL",18,"0,47%",0.439731,17,2,,,,708536560751820,Gê Burger -> Digital Livre
+2024-01-01,2024-01-31,marketplace,"R$21,84 BRL",7205,"R$3,03 BRL",34,"0,47%",0.485774,35,14,2,"R$69,00 BRL",3.158785,708536560751820,Gê Burger -> Digital Livre
+2024-01-01,2024-01-31,messenger_inbox,"R$0,05 BRL",52,"R$0,96 BRL",0,"0,00%",,,,,,,708536560751820,Gê Burger -> Digital Livre
+2024-01-01,2024-01-31,right_hand_column,"R$0,00 BRL",21,"R$0,00 BRL",0,"0,00%",,,,,,,708536560751820,Gê Burger -> Digital Livre
+2024-01-01,2024-01-31,search,"R$0,92 BRL",208,"R$4,42 BRL",3,"1,44%",0.961538,2,1,,,,708536560751820,Gê Burger -> Digital Livre
+2024-01-01,2024-01-31,video_feeds,"R$28,69 BRL",9388,"R$3,06 BRL",128,"1,36%",0.958671,90,28,,,,708536560751820,Gê Burger -> Digital Livre
+2024-02-01,2024-02-29,facebook_reels,"R$20,33 BRL",5086,"R$4,00 BRL",30,"0,59%",0.157295,8,,,,,708536560751820,Gê Burger -> Digital Livre
+2024-02-01,2024-02-29,facebook_stories,"R$33,01 BRL",4841,"R$6,82 BRL",20,"0,41%",0.309853,15,,,,,708536560751820,Gê Burger -> Digital Livre
+2024-02-01,2024-02-29,feed,"R$513,92 BRL",96770,"R$5,31 BRL",1017,"1,05%",0.454686,440,,1,,,708536560751820,Gê Burger -> Digital Livre
+2024-02-01,2024-02-29,instagram_explore,"R$6,21 BRL",2375,"R$2,62 BRL",11,"0,46%",0.336842,8,,,,,708536560751820,Gê Burger -> Digital Livre
+2024-02-01,2024-02-29,instagram_explore_grid_home,"R$9,14 BRL",4610,"R$1,98 BRL",38,"0,82%",0.563991,26,,,,,708536560751820,Gê Burger -> Digital Livre
+2024-02-01,2024-02-29,instagram_profile_feed,"R$1,67 BRL",569,"R$2,93 BRL",1,"0,18%",0.175747,1,,,,,708536560751820,Gê Burger -> Digital Livre
+2024-02-01,2024-02-29,instagram_reels,"R$28,88 BRL",6295,"R$4,59 BRL",94,"1,49%",1.096108,69,,,,,708536560751820,Gê Burger -> Digital Livre
+2024-02-01,2024-02-29,instagram_stories,"R$98,25 BRL",23523,"R$4,18 BRL",140,"0,60%",0.454874,107,,5,"R$200,00 BRL",2.035637,708536560751820,Gê Burger -> Digital Livre
+2024-02-01,2024-02-29,marketplace,"R$16,04 BRL",4216,"R$3,80 BRL",12,"0,28%",0.260911,11,,,,,708536560751820,Gê Burger -> Digital Livre
+2024-02-01,2024-02-29,search,"R$2,75 BRL",213,"R$12,90 BRL",1,"0,47%",0.469484,1,,,,,708536560751820,Gê Burger -> Digital Livre
+2024-02-01,2024-02-29,video_feeds,"R$6,70 BRL",1624,"R$4,13 BRL",15,"0,92%",0.615764,10,,,,,708536560751820,Gê Burger -> Digital Livre
+2024-03-01,2024-03-31,facebook_reels,"R$31,91 BRL",8926,"R$3,57 BRL",91,"1,02%",0.302487,27,,,,,708536560751820,Gê Burger -> Digital Livre
+2024-03-01,2024-03-31,facebook_stories,"R$37,07 BRL",10452,"R$3,55 BRL",60,"0,57%",0.497512,52,,,,,708536560751820,Gê Burger -> Digital Livre
+2024-03-01,2024-03-31,feed,"R$561,72 BRL",122750,"R$4,58 BRL",1517,"1,24%",0.45947,564,1,2,"R$82,00 BRL",0.145981,708536560751820,Gê Burger -> Digital Livre
+2024-03-01,2024-03-31,instagram_explore,"R$5,75 BRL",2322,"R$2,47 BRL",4,"0,17%",0.043066,1,,,,,708536560751820,Gê Burger -> Digital Livre
+2024-03-01,2024-03-31,instagram_explore_grid_home,"R$5,02 BRL",2634,"R$1,90 BRL",5,"0,19%",0.07593,2,,,,,708536560751820,Gê Burger -> Digital Livre
+2024-03-01,2024-03-31,instagram_profile_feed,"R$2,00 BRL",611,"R$3,27 BRL",0,"0,00%",,,,,,,708536560751820,Gê Burger -> Digital Livre
+2024-03-01,2024-03-31,instagram_reels,"R$26,08 BRL",5637,"R$4,63 BRL",37,"0,66%",0.248359,14,,,,,708536560751820,Gê Burger -> Digital Livre
+2024-03-01,2024-03-31,instagram_stories,"R$78,85 BRL",20932,"R$3,77 BRL",98,"0,47%",0.229314,48,,3,"R$144,00 BRL",1.8262,708536560751820,Gê Burger -> Digital Livre
+2024-03-01,2024-03-31,marketplace,"R$11,10 BRL",3103,"R$3,58 BRL",15,"0,48%",0.418949,13,,,,,708536560751820,Gê Burger -> Digital Livre
+2024-03-01,2024-03-31,search,"R$7,96 BRL",665,"R$11,98 BRL",4,"0,60%",0.451128,3,,,,,708536560751820,Gê Burger -> Digital Livre
+2024-03-01,2024-03-31,video_feeds,"R$10,93 BRL",2956,"R$3,70 BRL",22,"0,74%",0.575101,17,,,,,708536560751820,Gê Burger -> Digital Livre
+2024-04-01,2024-04-30,facebook_profile_feed,"R$0,00 BRL",1,"R$0,00 BRL",0,"0,00%",,,,,,,708536560751820,Gê Burger -> Digital Livre
+2024-04-01,2024-04-30,facebook_reels,"R$40,17 BRL",13088,"R$3,07 BRL",81,"0,62%",0.206296,27,,,,,708536560751820,Gê Burger -> Digital Livre
+2024-04-01,2024-04-30,facebook_stories,"R$38,82 BRL",14148,"R$2,74 BRL",51,"0,36%",0.296862,42,,,,,708536560751820,Gê Burger -> Digital Livre
+2024-04-01,2024-04-30,feed,"R$501,09 BRL",140469,"R$3,57 BRL",1518,"1,08%",0.427852,601,3,2,"R$25,00 BRL",0.049891,708536560751820,Gê Burger -> Digital Livre
+2024-04-01,2024-04-30,instagram_explore,"R$7,35 BRL",3761,"R$1,95 BRL",6,"0,16%",0.026589,1,,,,,708536560751820,Gê Burger -> Digital Livre
+2024-04-01,2024-04-30,instagram_explore_grid_home,"R$8,22 BRL",5843,"R$1,41 BRL",1,"0,0171%",,,,,,,708536560751820,Gê Burger -> Digital Livre
+2024-04-01,2024-04-30,instagram_profile_feed,"R$1,82 BRL",622,"R$2,92 BRL",2,"0,32%",,,,,,,708536560751820,Gê Burger -> Digital Livre
+2024-04-01,2024-04-30,instagram_reels,"R$23,61 BRL",7592,"R$3,11 BRL",30,"0,40%",0.197576,15,,,,,708536560751820,Gê Burger -> Digital Livre
+2024-04-01,2024-04-30,instagram_stories,"R$71,58 BRL",30407,"R$2,35 BRL",85,"0,28%",0.124971,38,,,,,708536560751820,Gê Burger -> Digital Livre
+2024-04-01,2024-04-30,marketplace,"R$10,34 BRL",3696,"R$2,80 BRL",16,"0,43%",0.378788,14,,,,,708536560751820,Gê Burger -> Digital Livre
+2024-04-01,2024-04-30,search,"R$6,76 BRL",376,"R$17,99 BRL",8,"2,13%",1.861702,7,,,,,708536560751820,Gê Burger -> Digital Livre
+2024-04-01,2024-04-30,video_feeds,"R$10,07 BRL",3925,"R$2,57 BRL",35,"0,89%",0.585987,23,,,,,708536560751820,Gê Burger -> Digital Livre
+2024-05-01,2024-05-31,facebook_reels,"R$117,72 BRL",66113,"R$1,78 BRL",157,"0,24%",0.039327,26,6,,,,708536560751820,Gê Burger -> Digital Livre
+2024-05-01,2024-05-31,facebook_stories,"R$103,50 BRL",55903,"R$1,85 BRL",105,"0,19%",0.148471,83,13,,,,708536560751820,Gê Burger -> Digital Livre
+2024-05-01,2024-05-31,feed,"R$1.242,04 BRL",395871,"R$3,14 BRL",3195,"0,81%",0.336978,1334,261,51,"R$111.070,44 BRL",89.426164,708536560751820,Gê Burger -> Digital Livre
+2024-05-01,2024-05-31,instagram_explore,"R$43,29 BRL",27195,"R$1,59 BRL",40,"0,15%",0.069866,19,4,4,"R$18.351,70 BRL",423.915862,708536560751820,Gê Burger -> Digital Livre
+2024-05-01,2024-05-31,instagram_explore_grid_home,"R$32,85 BRL",27473,"R$1,20 BRL",9,"0,0328%",0.00728,2,1,,,,708536560751820,Gê Burger -> Digital Livre
+2024-05-01,2024-05-31,instagram_profile_feed,"R$6,41 BRL",2696,"R$2,38 BRL",8,"0,30%",0.074184,2,2,4,"R$23.638,04 BRL",3690.160431,708536560751820,Gê Burger -> Digital Livre
+2024-05-01,2024-05-31,instagram_profile_reels,"R$0,08 BRL",35,"R$2,28 BRL",0,"0,00%",,,,,,,708536560751820,Gê Burger -> Digital Livre
+2024-05-01,2024-05-31,instagram_reels,"R$117,66 BRL",44112,"R$2,67 BRL",230,"0,52%",0.20856,92,27,8,"R$607,60 BRL",5.163992,708536560751820,Gê Burger -> Digital Livre
+2024-05-01,2024-05-31,instagram_stories,"R$551,64 BRL",253842,"R$2,17 BRL",653,"0,26%",0.161124,409,123,26,"R$45.655,04 BRL",82.762499,708536560751820,Gê Burger -> Digital Livre
+2024-05-01,2024-05-31,marketplace,"R$31,81 BRL",19305,"R$1,65 BRL",38,"0,20%",0.17094,33,7,,,,708536560751820,Gê Burger -> Digital Livre
+2024-05-01,2024-05-31,search,"R$8,31 BRL",576,"R$14,43 BRL",11,"1,91%",0.868056,5,2,,,,708536560751820,Gê Burger -> Digital Livre
+2024-05-01,2024-05-31,video_feeds,"R$20,97 BRL",11729,"R$1,79 BRL",63,"0,54%",0.315457,37,7,2,"R$51,00 BRL",2.43252,708536560751820,Gê Burger -> Digital Livre
+2024-06-01,2024-06-30,facebook_profile_feed,"R$0,01 BRL",4,"R$2,50 BRL",0,"0,00%",,,,,,,708536560751820,Gê Burger -> Digital Livre
+2024-06-01,2024-06-30,facebook_reels,"R$107,08 BRL",63214,"R$1,69 BRL",215,"0,34%",0.102825,65,13,,,,708536560751820,Gê Burger -> Digital Livre
+2024-06-01,2024-06-30,facebook_stories,"R$108,06 BRL",66914,"R$1,61 BRL",123,"0,18%",0.143468,96,20,1,"R$6.790,00 BRL",62.83309,708536560751820,Gê Burger -> Digital Livre
+2024-06-01,2024-06-30,feed,"R$928,84 BRL",313254,"R$2,97 BRL",1836,"0,59%",0.240699,754,202,35,"R$84.175,70 BRL",90.624815,708536560751820,Gê Burger -> Digital Livre
+2024-06-01,2024-06-30,instagram_explore,"R$45,52 BRL",28513,"R$1,60 BRL",52,"0,18%",0.077158,22,3,,,,708536560751820,Gê Burger -> Digital Livre
+2024-06-01,2024-06-30,instagram_explore_grid_home,"R$34,46 BRL",31994,"R$1,08 BRL",6,"0,0188%",,,,,,,708536560751820,Gê Burger -> Digital Livre
+2024-06-01,2024-06-30,instagram_profile_feed,"R$6,96 BRL",3475,"R$2,00 BRL",8,"0,23%",0.028777,1,1,2,"R$5.847,90 BRL",840.417052,708536560751820,Gê Burger -> Digital Livre
+2024-06-01,2024-06-30,instagram_profile_reels,"R$0,01 BRL",3,"R$3,33 BRL",0,"0,00%",,,,,,,708536560751820,Gê Burger -> Digital Livre
+2024-06-01,2024-06-30,instagram_reels,"R$197,31 BRL",59247,"R$3,33 BRL",342,"0,58%",0.187351,111,38,8,"R$6.304,40 BRL",31.951318,708536560751820,Gê Burger -> Digital Livre
+2024-06-01,2024-06-30,instagram_stories,"R$689,46 BRL",297977,"R$2,31 BRL",1023,"0,34%",0.157059,468,107,36,"R$108.596,20 BRL",157.508009,708536560751820,Gê Burger -> Digital Livre
+2024-06-01,2024-06-30,marketplace,"R$25,30 BRL",19602,"R$1,29 BRL",25,"0,13%",0.122436,24,2,,,,708536560751820,Gê Burger -> Digital Livre
+2024-06-01,2024-06-30,search,"R$8,09 BRL",467,"R$17,32 BRL",19,"4,07%",3.640257,17,3,,,,708536560751820,Gê Burger -> Digital Livre
+2024-06-01,2024-06-30,video_feeds,"R$16,81 BRL",11582,"R$1,45 BRL",54,"0,47%",0.224486,26,9,,,,708536560751820,Gê Burger -> Digital Livre
+2024-07-01,2024-07-31,facebook_profile_feed,"R$0,00 BRL",2,"R$0,00 BRL",0,"0,00%",,,,,,,708536560751820,Gê Burger -> Digital Livre
+2024-07-01,2024-07-31,facebook_reels,"R$157,07 BRL",83285,"R$1,89 BRL",284,"0,34%",0.08645,72,10,8,"R$18.362,70 BRL",116.909215,708536560751820,Gê Burger -> Digital Livre
+2024-07-01,2024-07-31,facebook_stories,"R$141,57 BRL",81208,"R$1,74 BRL",135,"0,17%",0.134223,109,11,2,"R$5.948,90 BRL",42.019679,708536560751820,Gê Burger -> Digital Livre
+2024-07-01,2024-07-31,feed,"R$862,61 BRL",271423,"R$3,18 BRL",1720,"0,63%",0.222531,604,143,20,"R$32.672,50 BRL",37.876344,708536560751820,Gê Burger -> Digital Livre
+2024-07-01,2024-07-31,instagram_explore,"R$45,09 BRL",31746,"R$1,42 BRL",57,"0,18%",0.04725,15,4,4,"R$6.403,90 BRL",142.017882,708536560751820,Gê Burger -> Digital Livre
+2024-07-01,2024-07-31,instagram_explore_grid_home,"R$29,25 BRL",28911,"R$1,01 BRL",5,"0,0173%",0.003459,1,1,,,,708536560751820,Gê Burger -> Digital Livre
+2024-07-01,2024-07-31,instagram_profile_feed,"R$7,56 BRL",4724,"R$1,60 BRL",14,"0,30%",0.063506,3,,,,,708536560751820,Gê Burger -> Digital Livre
+2024-07-01,2024-07-31,instagram_reels,"R$249,28 BRL",77190,"R$3,23 BRL",483,"0,63%",0.199508,154,34,10,"R$34.845,00 BRL",139.78165,708536560751820,Gê Burger -> Digital Livre
+2024-07-01,2024-07-31,instagram_search,"R$0,00 BRL",1,"R$0,00 BRL",0,"0,00%",,,,,,,708536560751820,Gê Burger -> Digital Livre
+2024-07-01,2024-07-31,instagram_stories,"R$859,50 BRL",380456,"R$2,26 BRL",1486,"0,39%",0.190035,723,150,37,"R$101.905,20 BRL",118.563228,708536560751820,Gê Burger -> Digital Livre
+2024-07-01,2024-07-31,marketplace,"R$4,51 BRL",1735,"R$2,60 BRL",6,"0,35%",0.288184,5,1,,,,708536560751820,Gê Burger -> Digital Livre
+2024-07-01,2024-07-31,right_hand_column,"R$0,00 BRL",1,"R$0,00 BRL",0,"0,00%",,,,,,,708536560751820,Gê Burger -> Digital Livre
+2024-07-01,2024-07-31,search,"R$12,30 BRL",539,"R$22,81 BRL",16,"2,97%",1.855288,10,3,,,,708536560751820,Gê Burger -> Digital Livre
+2024-07-01,2024-07-31,video_feeds,"R$13,74 BRL",7542,"R$1,82 BRL",48,"0,64%",0.265182,20,4,,,,708536560751820,Gê Burger -> Digital Livre
+2024-08-01,2024-08-31,facebook_profile_feed,"R$0,04 BRL",76,"R$0,53 BRL",0,"0,00%",,,,,,,708536560751820,Gê Burger -> Digital Livre
+2024-08-01,2024-08-31,facebook_reels,"R$251,29 BRL",125718,"R$2,00 BRL",435,"0,35%",0.093065,117,27,9,"R$8.588,90 BRL",34.179598,708536560751820,Gê Burger -> Digital Livre
+2024-08-01,2024-08-31,facebook_stories,"R$188,83 BRL",95449,"R$1,98 BRL",193,"0,20%",0.147723,141,19,2,"R$218,00 BRL",1.154506,708536560751820,Gê Burger -> Digital Livre
+2024-08-01,2024-08-31,feed,"R$1.359,06 BRL",285637,"R$4,76 BRL",3097,"1,08%",0.335741,959,309,82,"R$174.148,80 BRL",128.139439,708536560751820,Gê Burger -> Digital Livre
+2024-08-01,2024-08-31,instagram_explore,"R$40,98 BRL",17101,"R$2,40 BRL",90,"0,53%",0.152038,26,13,6,"R$12.175,80 BRL",297.129081,708536560751820,Gê Burger -> Digital Livre
+2024-08-01,2024-08-31,instagram_explore_grid_home,"R$36,26 BRL",37186,"R$0,98 BRL",3,"0,00807%",,,,,,,708536560751820,Gê Burger -> Digital Livre
+2024-08-01,2024-08-31,instagram_profile_feed,"R$8,49 BRL",2871,"R$2,96 BRL",20,"0,70%",0.139324,4,2,2,"R$7.968,90 BRL",938.89334,708536560751820,Gê Burger -> Digital Livre
+2024-08-01,2024-08-31,instagram_profile_reels,"R$0,10 BRL",82,"R$1,22 BRL",0,"0,00%",,,,,,,708536560751820,Gê Burger -> Digital Livre
+2024-08-01,2024-08-31,instagram_reels,"R$448,55 BRL",120215,"R$3,73 BRL",1251,"1,04%",0.277836,334,168,29,"R$79.085,00 BRL",176.31245,708536560751820,Gê Burger -> Digital Livre
+2024-08-01,2024-08-31,instagram_search,"R$0,00 BRL",1,"R$0,00 BRL",0,"0,00%",,,,,,,708536560751820,Gê Burger -> Digital Livre
+2024-08-01,2024-08-31,instagram_stories,"R$1.138,19 BRL",362753,"R$3,14 BRL",1928,"0,53%",0.247,896,203,70,"R$190.014,70 BRL",166.944497,708536560751820,Gê Burger -> Digital Livre
+2024-08-01,2024-08-31,marketplace,"R$24,95 BRL",13272,"R$1,88 BRL",39,"0,29%",0.286317,38,1,,,,708536560751820,Gê Burger -> Digital Livre
+2024-08-01,2024-08-31,right_hand_column,"R$0,00 BRL",8,"R$0,00 BRL",0,"0,00%",,,,,,,708536560751820,Gê Burger -> Digital Livre
+2024-08-01,2024-08-31,search,"R$20,38 BRL",908,"R$22,45 BRL",35,"3,85%",2.312775,21,4,,,,708536560751820,Gê Burger -> Digital Livre
+2024-08-01,2024-08-31,video_feeds,"R$10,09 BRL",4776,"R$2,11 BRL",19,"0,40%",0.062814,3,,,,,708536560751820,Gê Burger -> Digital Livre
+2024-09-01,2024-09-30,facebook_profile_feed,"R$0,01 BRL",10,"R$1,00 BRL",0,"0,00%",,,,,,,708536560751820,Gê Burger -> Digital Livre
+2024-09-01,2024-09-30,facebook_reels,"R$53,33 BRL",28827,"R$1,85 BRL",141,"0,49%",0.187324,54,18,4,"R$6.175,90 BRL",115.814585,708536560751820,Gê Burger -> Digital Livre
+2024-09-01,2024-09-30,facebook_stories,"R$32,18 BRL",13468,"R$2,39 BRL",33,"0,25%",0.185625,25,4,,,,708536560751820,Gê Burger -> Digital Livre
+2024-09-01,2024-09-30,feed,"R$650,80 BRL",103235,"R$6,30 BRL",1691,"1,64%",0.615101,635,236,42,"R$120.512,57 BRL",185.175463,708536560751820,Gê Burger -> Digital Livre
+2024-09-01,2024-09-30,instagram_explore,"R$9,02 BRL",1918,"R$4,71 BRL",24,"1,25%",0.364964,7,1,2,"R$216,00 BRL",23.935628,708536560751820,Gê Burger -> Digital Livre
+2024-09-01,2024-09-30,instagram_explore_grid_home,"R$2,42 BRL",2715,"R$0,89 BRL",1,"0,0368%",,,,,,,708536560751820,Gê Burger -> Digital Livre
+2024-09-01,2024-09-30,instagram_profile_feed,"R$2,91 BRL",626,"R$4,65 BRL",3,"0,48%",0.159744,1,1,,,,708536560751820,Gê Burger -> Digital Livre
+2024-09-01,2024-09-30,instagram_profile_reels,"R$0,04 BRL",12,"R$3,33 BRL",0,"0,00%",,,,,,,708536560751820,Gê Burger -> Digital Livre
+2024-09-01,2024-09-30,instagram_reels,"R$192,46 BRL",29636,"R$6,49 BRL",586,"1,98%",0.499393,148,77,25,"R$111.794,23 BRL",580.880808,708536560751820,Gê Burger -> Digital Livre
+2024-09-01,2024-09-30,instagram_stories,"R$469,95 BRL",86116,"R$5,46 BRL",951,"1,10%",0.447071,385,119,36,"R$120.135,10 BRL",255.634774,708536560751820,Gê Burger -> Digital Livre
+2024-09-01,2024-09-30,marketplace,"R$4,91 BRL",729,"R$6,73 BRL",12,"1,65%",1.646091,12,5,,,,708536560751820,Gê Burger -> Digital Livre
+2024-09-01,2024-09-30,search,"R$12,63 BRL",454,"R$27,82 BRL",27,"5,95%",4.625551,21,2,,,,708536560751820,Gê Burger -> Digital Livre
+2024-09-01,2024-09-30,video_feeds,"R$1,89 BRL",744,"R$2,54 BRL",3,"0,40%",0.134409,1,,,,,708536560751820,Gê Burger -> Digital Livre
+2024-10-01,2024-10-31,an_classic,"R$0,46 BRL",193,"R$2,38 BRL",0,"0,00%",,,,,,,708536560751820,Gê Burger -> Digital Livre
+2024-10-01,2024-10-31,facebook_profile_feed,"R$0,35 BRL",398,"R$0,88 BRL",4,"1,01%",0.502513,2,1,,,,708536560751820,Gê Burger -> Digital Livre
+2024-10-01,2024-10-31,facebook_reels,"R$148,50 BRL",70657,"R$2,10 BRL",1045,"1,48%",0.150021,106,47,12,"R$40.080,40 BRL",269.895132,708536560751820,Gê Burger -> Digital Livre
+2024-10-01,2024-10-31,facebook_reels_overlay,"R$12,72 BRL",15545,"R$0,82 BRL",26,"0,17%",0.167256,26,3,,,,708536560751820,Gê Burger -> Digital Livre
+2024-10-01,2024-10-31,facebook_stories,"R$84,03 BRL",67419,"R$1,25 BRL",160,"0,24%",0.117178,79,15,4,"R$6.147,90 BRL",73.165965,708536560751820,Gê Burger -> Digital Livre
+2024-10-01,2024-10-31,feed,"R$1.319,40 BRL",398145,"R$3,31 BRL",8103,"2,04%",0.299137,1191,643,143,"R$476.296,30 BRL",360.994276,708536560751820,Gê Burger -> Digital Livre
+2024-10-01,2024-10-31,instagram_explore,"R$22,46 BRL",4250,"R$5,28 BRL",46,"1,08%",0.164706,7,5,2,"R$62,00 BRL",2.760654,708536560751820,Gê Burger -> Digital Livre
+2024-10-01,2024-10-31,instagram_explore_grid_home,"R$18,32 BRL",17119,"R$1,07 BRL",9,"0,0526%",,,,,,,708536560751820,Gê Burger -> Digital Livre
+2024-10-01,2024-10-31,instagram_profile_feed,"R$7,72 BRL",2117,"R$3,64 BRL",20,"0,94%",0.28342,6,4,,,,708536560751820,Gê Burger -> Digital Livre
+2024-10-01,2024-10-31,instagram_profile_reels,"R$0,02 BRL",16,"R$1,25 BRL",0,"0,00%",,,,,,,708536560751820,Gê Burger -> Digital Livre
+2024-10-01,2024-10-31,instagram_reels,"R$384,75 BRL",64386,"R$5,98 BRL",1545,"2,40%",0.655422,422,337,55,"R$152.097,60 BRL",395.313273,708536560751820,Gê Burger -> Digital Livre
+2024-10-01,2024-10-31,instagram_stories,"R$476,13 BRL",87714,"R$5,43 BRL",986,"1,12%",0.564334,495,220,74,"R$223.854,98 BRL",470.160041,708536560751820,Gê Burger -> Digital Livre
+2024-10-01,2024-10-31,instream_video,"R$0,26 BRL",152,"R$1,71 BRL",0,"0,00%",,,,,,,708536560751820,Gê Burger -> Digital Livre
+2024-10-01,2024-10-31,marketplace,"R$61,67 BRL",38284,"R$1,61 BRL",38,"0,0993%",0.086198,33,15,,,,708536560751820,Gê Burger -> Digital Livre
+2024-10-01,2024-10-31,messenger_inbox,"R$0,00 BRL",4,"R$0,00 BRL",0,"0,00%",,,,,,,708536560751820,Gê Burger -> Digital Livre
+2024-10-01,2024-10-31,rewarded_video,"R$0,03 BRL",1,"R$29,98 BRL",0,"0,00%",,,,,,,708536560751820,Gê Burger -> Digital Livre
+2024-10-01,2024-10-31,right_hand_column,"R$0,00 BRL",1,"R$0,00 BRL",0,"0,00%",,,,,,,708536560751820,Gê Burger -> Digital Livre
+2024-10-01,2024-10-31,search,"R$18,22 BRL",4798,"R$3,80 BRL",24,"0,50%",0.437682,21,9,,,,708536560751820,Gê Burger -> Digital Livre
+2024-10-01,2024-10-31,video_feeds,"R$10,88 BRL",10552,"R$1,03 BRL",93,"0,88%",0.170584,18,5,,,,708536560751820,Gê Burger -> Digital Livre
+2024-11-01,2024-11-30,an_classic,"R$0,05 BRL",3,"R$16,63 BRL",0,"0,00%",,,,,,,708536560751820,Gê Burger -> Digital Livre
+2024-11-01,2024-11-30,facebook_profile_feed,"R$0,57 BRL",362,"R$1,57 BRL",5,"1,38%",,,,,,,708536560751820,Gê Burger -> Digital Livre
+2024-11-01,2024-11-30,facebook_reels,"R$194,08 BRL",93445,"R$2,08 BRL",1203,"1,29%",0.153031,143,79,12,"R$54.378,40 BRL",280.183405,708536560751820,Gê Burger -> Digital Livre
+2024-11-01,2024-11-30,facebook_reels_overlay,"R$17,02 BRL",17612,"R$0,97 BRL",39,"0,22%",0.215762,38,7,,,,708536560751820,Gê Burger -> Digital Livre
+2024-11-01,2024-11-30,facebook_stories,"R$84,64 BRL",59170,"R$1,43 BRL",170,"0,29%",0.119993,71,23,,,,708536560751820,Gê Burger -> Digital Livre
+2024-11-01,2024-11-30,feed,"R$2.082,68 BRL",537826,"R$3,87 BRL",10706,"1,99%",0.314228,1690,874,174,"R$621.576,90 BRL",298.450227,708536560751820,Gê Burger -> Digital Livre
+2024-11-01,2024-11-30,instagram_explore,"R$33,20 BRL",6859,"R$4,84 BRL",86,"1,25%",0.46654,32,19,8,"R$22.180,20 BRL",668.081367,708536560751820,Gê Burger -> Digital Livre
+2024-11-01,2024-11-30,instagram_explore_grid_home,"R$20,32 BRL",18294,"R$1,11 BRL",8,"0,0437%",0.005466,1,1,,,,708536560751820,Gê Burger -> Digital Livre
+2024-11-01,2024-11-30,instagram_profile_feed,"R$13,57 BRL",4210,"R$3,22 BRL",39,"0,93%",0.213777,9,6,2,"R$8.625,40 BRL",635.751737,708536560751820,Gê Burger -> Digital Livre
+2024-11-01,2024-11-30,instagram_profile_reels,"R$0,26 BRL",103,"R$2,52 BRL",0,"0,00%",,,,,,,708536560751820,Gê Burger -> Digital Livre
+2024-11-01,2024-11-30,instagram_reels,"R$430,11 BRL",64569,"R$6,66 BRL",1306,"2,02%",0.53741,347,267,53,"R$178.391,00 BRL",414.755132,708536560751820,Gê Burger -> Digital Livre
+2024-11-01,2024-11-30,instagram_stories,"R$610,46 BRL",113899,"R$5,36 BRL",1218,"1,07%",0.565413,644,370,95,"R$256.234,86 BRL",419.743218,708536560751820,Gê Burger -> Digital Livre
+2024-11-01,2024-11-30,instream_video,"R$0,66 BRL",347,"R$1,90 BRL",3,"0,86%",0.576369,2,1,,,,708536560751820,Gê Burger -> Digital Livre
+2024-11-01,2024-11-30,marketplace,"R$6,38 BRL",3958,"R$1,61 BRL",13,"0,33%",0.328449,13,4,,,,708536560751820,Gê Burger -> Digital Livre
+2024-11-01,2024-11-30,messenger_inbox,"R$0,01 BRL",8,"R$1,25 BRL",0,"0,00%",,,,,,,708536560751820,Gê Burger -> Digital Livre
+2024-11-01,2024-11-30,rewarded_video,"R$0,08 BRL",6,"R$13,30 BRL",0,"0,00%",,,,,,,708536560751820,Gê Burger -> Digital Livre
+2024-11-01,2024-11-30,right_hand_column,"R$0,00 BRL",1,"R$0,00 BRL",0,"0,00%",,,,,,,708536560751820,Gê Burger -> Digital Livre
+2024-11-01,2024-11-30,search,"R$8,55 BRL",1116,"R$7,66 BRL",19,"1,70%",1.25448,14,5,,,,708536560751820,Gê Burger -> Digital Livre
+2024-11-01,2024-11-30,unknown,"R$0,00 BRL",0,,0,,,,1,,,,708536560751820,Gê Burger -> Digital Livre
+2024-11-01,2024-11-30,video_feeds,"R$9,89 BRL",7517,"R$1,32 BRL",94,"1,25%",0.239457,18,9,,,,708536560751820,Gê Burger -> Digital Livre
+2024-12-01,2024-12-31,an_classic,"R$0,00 BRL",1,"R$0,00 BRL",0,"0,00%",,,,,,,708536560751820,Gê Burger -> Digital Livre
+2024-12-01,2024-12-31,facebook_profile_feed,"R$0,74 BRL",396,"R$1,86 BRL",6,"1,52%",,,,,,,708536560751820,Gê Burger -> Digital Livre
+2024-12-01,2024-12-31,facebook_reels,"R$264,22 BRL",192115,"R$1,38 BRL",1259,"0,66%",0.066627,128,81,4,"R$12.857,30 BRL",48.661168,708536560751820,Gê Burger -> Digital Livre
+2024-12-01,2024-12-31,facebook_reels_overlay,"R$46,45 BRL",50896,"R$0,91 BRL",82,"0,16%",0.161113,82,9,,,,708536560751820,Gê Burger -> Digital Livre
+2024-12-01,2024-12-31,facebook_stories,"R$183,61 BRL",181006,"R$1,01 BRL",271,"0,15%",0.09392,170,45,4,"R$12.301,80 BRL",66.998453,708536560751820,Gê Burger -> Digital Livre
+2024-12-01,2024-12-31,feed,"R$1.906,85 BRL",488014,"R$3,91 BRL",10443,"2,14%",0.32663,1594,803,173,"R$535.797,05 BRL",280.985354,708536560751820,Gê Burger -> Digital Livre
+2024-12-01,2024-12-31,instagram_explore,"R$43,41 BRL",10609,"R$4,09 BRL",105,"0,99%",0.433594,46,24,2,"R$8.372,90 BRL",192.874764,708536560751820,Gê Burger -> Digital Livre
+2024-12-01,2024-12-31,instagram_explore_grid_home,"R$39,05 BRL",42816,"R$0,91 BRL",10,"0,0234%",0.007007,3,1,,,,708536560751820,Gê Burger -> Digital Livre
+2024-12-01,2024-12-31,instagram_profile_feed,"R$15,16 BRL",6358,"R$2,38 BRL",40,"0,63%",0.157282,10,5,,,,708536560751820,Gê Burger -> Digital Livre
+2024-12-01,2024-12-31,instagram_profile_reels,"R$0,44 BRL",278,"R$1,58 BRL",4,"1,44%",0.719424,2,1,,,,708536560751820,Gê Burger -> Digital Livre
+2024-12-01,2024-12-31,instagram_reels,"R$530,92 BRL",93618,"R$5,67 BRL",1400,"1,50%",0.469995,440,376,66,"R$221.643,10 BRL",417.468545,708536560751820,Gê Burger -> Digital Livre
+2024-12-01,2024-12-31,instagram_search,"R$0,00 BRL",3,"R$0,00 BRL",0,"0,00%",,,,,,,708536560751820,Gê Burger -> Digital Livre
+2024-12-01,2024-12-31,instagram_stories,"R$674,10 BRL",195305,"R$3,45 BRL",1201,"0,61%",0.369678,722,395,93,"R$289.452,25 BRL",429.389697,708536560751820,Gê Burger -> Digital Livre
+2024-12-01,2024-12-31,instream_video,"R$0,55 BRL",344,"R$1,59 BRL",1,"0,29%",0.290698,1,,2,"R$8.130,50 BRL",14843.657881,708536560751820,Gê Burger -> Digital Livre
+2024-12-01,2024-12-31,marketplace,"R$11,94 BRL",10042,"R$1,19 BRL",24,"0,24%",0.21908,22,3,,,,708536560751820,Gê Burger -> Digital Livre
+2024-12-01,2024-12-31,messenger_inbox,"R$0,00 BRL",1,"R$0,00 BRL",0,"0,00%",,,,,,,708536560751820,Gê Burger -> Digital Livre
+2024-12-01,2024-12-31,rewarded_video,"R$0,03 BRL",2,"R$14,94 BRL",0,"0,00%",,,,,,,708536560751820,Gê Burger -> Digital Livre
+2024-12-01,2024-12-31,right_hand_column,"R$0,00 BRL",30,"R$0,00 BRL",0,"0,00%",,,,,,,708536560751820,Gê Burger -> Digital Livre
+2024-12-01,2024-12-31,search,"R$13,22 BRL",927,"R$14,26 BRL",15,"1,62%",1.078749,10,1,,,,708536560751820,Gê Burger -> Digital Livre
+2024-12-01,2024-12-31,unknown,"R$0,00 BRL",0,,0,,,,2,,,,708536560751820,Gê Burger -> Digital Livre
+2024-12-01,2024-12-31,video_feeds,"R$20,16 BRL",19064,"R$1,06 BRL",125,"0,66%",0.146874,28,11,,,,708536560751820,Gê Burger -> Digital Livre
+2025-01-01,2025-01-31,an_classic,"R$0,02 BRL",3,"R$6,65 BRL",0,"0,00%",,,,,,,708536560751820,Gê Burger -> Digital Livre
+2025-01-01,2025-01-31,facebook_profile_feed,"R$0,61 BRL",534,"R$1,14 BRL",4,"0,75%",,,,,,,708536560751820,Gê Burger -> Digital Livre
+2025-01-01,2025-01-31,facebook_reels,"R$299,95 BRL",227793,"R$1,32 BRL",2521,"1,11%",0.087799,200,124,14,"R$37.194,00 BRL",123.999854,708536560751820,Gê Burger -> Digital Livre
+2025-01-01,2025-01-31,facebook_reels_overlay,"R$173,25 BRL",242805,"R$0,71 BRL",369,"0,15%",0.150326,365,58,,,,708536560751820,Gê Burger -> Digital Livre
+2025-01-01,2025-01-31,facebook_stories,"R$184,61 BRL",232152,"R$0,80 BRL",386,"0,17%",0.089166,207,74,,,,708536560751820,Gê Burger -> Digital Livre
+2025-01-01,2025-01-31,feed,"R$2.359,06 BRL",551734,"R$4,28 BRL",13309,"2,41%",0.337481,1862,1037,172,"R$496.362,85 BRL",210.406844,708536560751820,Gê Burger -> Digital Livre
+2025-01-01,2025-01-31,instagram_explore,"R$39,61 BRL",11298,"R$3,51 BRL",85,"0,75%",0.362896,41,23,4,"R$13.665,30 BRL",345.031514,708536560751820,Gê Burger -> Digital Livre
+2025-01-01,2025-01-31,instagram_explore_grid_home,"R$27,68 BRL",42154,"R$0,66 BRL",11,"0,0261%",0.007117,3,3,,,,708536560751820,Gê Burger -> Digital Livre
+2025-01-01,2025-01-31,instagram_profile_feed,"R$12,29 BRL",4590,"R$2,68 BRL",45,"0,98%",0.305011,14,12,,,,708536560751820,Gê Burger -> Digital Livre
+2025-01-01,2025-01-31,instagram_profile_reels,"R$0,69 BRL",277,"R$2,48 BRL",3,"1,08%",,,,,,,708536560751820,Gê Burger -> Digital Livre
+2025-01-01,2025-01-31,instagram_reels,"R$630,51 BRL",131663,"R$4,79 BRL",1676,"1,27%",0.39115,515,400,48,"R$173.741,70 BRL",275.555869,708536560751820,Gê Burger -> Digital Livre
+2025-01-01,2025-01-31,instagram_search,"R$0,01 BRL",2,"R$4,99 BRL",0,"0,00%",,,,,,,708536560751820,Gê Burger -> Digital Livre
+2025-01-01,2025-01-31,instagram_stories,"R$829,55 BRL",214930,"R$3,86 BRL",1466,"0,68%",0.365235,785,470,76,"R$237.151,45 BRL",285.879424,708536560751820,Gê Burger -> Digital Livre
+2025-01-01,2025-01-31,instream_video,"R$1,57 BRL",809,"R$1,94 BRL",5,"0,62%",0.494438,4,2,,,,708536560751820,Gê Burger -> Digital Livre
+2025-01-01,2025-01-31,marketplace,"R$14,13 BRL",15750,"R$0,90 BRL",24,"0,15%",0.15873,25,6,,,,708536560751820,Gê Burger -> Digital Livre
+2025-01-01,2025-01-31,messenger_inbox,"R$0,00 BRL",15,"R$0,00 BRL",0,"0,00%",,,,,,,708536560751820,Gê Burger -> Digital Livre
+2025-01-01,2025-01-31,rewarded_video,"R$0,00 BRL",1,"R$0,00 BRL",0,"0,00%",,,,,,,708536560751820,Gê Burger -> Digital Livre
+2025-01-01,2025-01-31,right_hand_column,"R$0,01 BRL",50,"R$0,20 BRL",0,"0,00%",,,,,,,708536560751820,Gê Burger -> Digital Livre
+2025-01-01,2025-01-31,search,"R$11,51 BRL",1001,"R$11,50 BRL",36,"3,60%",2.197802,22,8,6,"R$23.300,70 BRL",2024.429421,708536560751820,Gê Burger -> Digital Livre
+2025-01-01,2025-01-31,unknown,"R$0,00 BRL",0,,0,,,,3,,,,708536560751820,Gê Burger -> Digital Livre
+2025-01-01,2025-01-31,video_feeds,"R$20,61 BRL",23654,"R$0,87 BRL",187,"0,79%",0.114146,27,9,,,,708536560751820,Gê Burger -> Digital Livre
+2025-02-01,2025-02-28,an_classic,"R$0,14 BRL",13,"R$10,73 BRL",0,"0,00%",,,,,,,708536560751820,Gê Burger -> Digital Livre
+2025-02-01,2025-02-28,facebook_profile_feed,"R$0,76 BRL",545,"R$1,39 BRL",3,"0,55%",,,,,,,708536560751820,Gê Burger -> Digital Livre
+2025-02-01,2025-02-28,facebook_reels,"R$327,18 BRL",204404,"R$1,60 BRL",2438,"1,19%",0.03816,78,37,6,"R$33.592,60 BRL",102.672152,708536560751820,Gê Burger -> Digital Livre
+2025-02-01,2025-02-28,facebook_reels_overlay,"R$39,84 BRL",47967,"R$0,83 BRL",74,"0,15%",0.152188,73,13,,,,708536560751820,Gê Burger -> Digital Livre
+2025-02-01,2025-02-28,facebook_stories,"R$135,07 BRL",128626,"R$1,05 BRL",321,"0,25%",0.125947,162,56,4,"R$11.604,90 BRL",85.920667,708536560751820,Gê Burger -> Digital Livre
+2025-02-01,2025-02-28,feed,"R$1.843,43 BRL",470043,"R$3,92 BRL",6685,"1,42%",0.236361,1111,517,72,"R$202.959,10 BRL",110.098915,708536560751820,Gê Burger -> Digital Livre
+2025-02-01,2025-02-28,instagram_explore,"R$31,38 BRL",9804,"R$3,20 BRL",46,"0,47%",0.183599,18,4,,,,708536560751820,Gê Burger -> Digital Livre
+2025-02-01,2025-02-28,instagram_explore_grid_home,"R$36,51 BRL",39237,"R$0,93 BRL",10,"0,0255%",0.002549,1,,,,,708536560751820,Gê Burger -> Digital Livre
+2025-02-01,2025-02-28,instagram_profile_feed,"R$0,64 BRL",186,"R$3,43 BRL",0,"0,00%",,,,,,,708536560751820,Gê Burger -> Digital Livre
+2025-02-01,2025-02-28,instagram_profile_reels,"R$0,53 BRL",196,"R$2,69 BRL",0,"0,00%",,,,,,,708536560751820,Gê Burger -> Digital Livre
+2025-02-01,2025-02-28,instagram_reels,"R$442,01 BRL",93180,"R$4,74 BRL",630,"0,68%",0.167418,156,94,20,"R$47.808,35 BRL",108.162317,708536560751820,Gê Burger -> Digital Livre
+2025-02-01,2025-02-28,instagram_search,"R$0,01 BRL",5,"R$1,99 BRL",0,"0,00%",,,,,,,708536560751820,Gê Burger -> Digital Livre
+2025-02-01,2025-02-28,instagram_stories,"R$963,75 BRL",197082,"R$4,89 BRL",1242,"0,63%",0.312053,615,314,62,"R$184.510,25 BRL",191.450851,708536560751820,Gê Burger -> Digital Livre
+2025-02-01,2025-02-28,instream_video,"R$0,93 BRL",363,"R$2,55 BRL",1,"0,28%",0.275482,1,1,,,,708536560751820,Gê Burger -> Digital Livre
+2025-02-01,2025-02-28,marketplace,"R$17,79 BRL",15335,"R$1,16 BRL",14,"0,0913%",0.078252,12,2,,,,708536560751820,Gê Burger -> Digital Livre
+2025-02-01,2025-02-28,messenger_inbox,"R$0,05 BRL",48,"R$1,04 BRL",0,"0,00%",,,,,,,708536560751820,Gê Burger -> Digital Livre
+2025-02-01,2025-02-28,rewarded_video,"R$0,04 BRL",2,"R$19,92 BRL",0,"0,00%",,,,,,,708536560751820,Gê Burger -> Digital Livre
+2025-02-01,2025-02-28,right_hand_column,"R$0,04 BRL",43,"R$0,93 BRL",0,"0,00%",,,,,,,708536560751820,Gê Burger -> Digital Livre
+2025-02-01,2025-02-28,search,"R$10,04 BRL",1469,"R$6,84 BRL",21,"1,43%",1.225323,18,4,2,"R$102,00 BRL",10.157609,708536560751820,Gê Burger -> Digital Livre
+2025-02-01,2025-02-28,unknown,"R$0,00 BRL",0,,0,,,,1,,,,708536560751820,Gê Burger -> Digital Livre
+2025-02-01,2025-02-28,video_feeds,"R$17,83 BRL",17778,"R$1,00 BRL",101,"0,57%",0.112499,20,4,,,,708536560751820,Gê Burger -> Digital Livre
+2025-03-01,2025-03-31,an_classic,"R$0,02 BRL",4,"R$5,00 BRL",0,"0,00%",,,,,,,708536560751820,Gê Burger -> Digital Livre
+2025-03-01,2025-03-31,biz_disco_feed,"R$0,03 BRL",32,"R$0,94 BRL",1,"3,13%",3.125,1,1,,,,708536560751820,Gê Burger -> Digital Livre
+2025-03-01,2025-03-31,facebook_profile_feed,"R$1,13 BRL",463,"R$2,44 BRL",4,"0,86%",,,,,,,708536560751820,Gê Burger -> Digital Livre
+2025-03-01,2025-03-31,facebook_reels,"R$558,93 BRL",315745,"R$1,77 BRL",2532,"0,80%",0.022487,71,22,,,,708536560751820,Gê Burger -> Digital Livre
+2025-03-01,2025-03-31,facebook_reels_overlay,"R$10,11 BRL",2450,"R$4,13 BRL",28,"1,14%",,,,,,,708536560751820,Gê Burger -> Digital Livre
+2025-03-01,2025-03-31,facebook_stories,"R$80,99 BRL",26557,"R$3,05 BRL",100,"0,38%",0.225929,60,11,1,"R$69,90 BRL",0.863016,708536560751820,Gê Burger -> Digital Livre
+2025-03-01,2025-03-31,feed,"R$1.615,00 BRL",460126,"R$3,51 BRL",3846,"0,84%",0.143439,660,233,23,"R$86.225,10 BRL",53.390019,708536560751820,Gê Burger -> Digital Livre
+2025-03-01,2025-03-31,instagram_explore,"R$33,11 BRL",19537,"R$1,69 BRL",42,"0,21%",0.127962,25,7,1,"R$7.340,00 BRL",221.689759,708536560751820,Gê Burger -> Digital Livre
+2025-03-01,2025-03-31,instagram_explore_grid_home,"R$36,47 BRL",36677,"R$0,99 BRL",23,"0,0627%",,,,3,"R$7.480,31 BRL",205.129824,708536560751820,Gê Burger -> Digital Livre
+2025-03-01,2025-03-31,instagram_profile_feed,"R$0,33 BRL",249,"R$1,32 BRL",0,"0,00%",,,,,,,708536560751820,Gê Burger -> Digital Livre
+2025-03-01,2025-03-31,instagram_profile_reels,"R$0,10 BRL",122,"R$0,82 BRL",0,"0,00%",,,,,,,708536560751820,Gê Burger -> Digital Livre
+2025-03-01,2025-03-31,instagram_reels,"R$382,33 BRL",142895,"R$2,68 BRL",572,"0,40%",0.097974,140,66,4,"R$21.612,90 BRL",56.530048,708536560751820,Gê Burger -> Digital Livre
+2025-03-01,2025-03-31,instagram_search,"R$0,00 BRL",2,"R$0,00 BRL",0,"0,00%",,,,,,,708536560751820,Gê Burger -> Digital Livre
+2025-03-01,2025-03-31,instagram_stories,"R$1.110,07 BRL",326796,"R$3,40 BRL",1485,"0,45%",0.224605,734,348,41,"R$155.990,60 BRL",140.522982,708536560751820,Gê Burger -> Digital Livre
+2025-03-01,2025-03-31,instream_video,"R$5,34 BRL",854,"R$6,25 BRL",4,"0,47%",0.351288,3,1,1,"R$7.340,00 BRL",1375.804986,708536560751820,Gê Burger -> Digital Livre
+2025-03-01,2025-03-31,marketplace,"R$44,74 BRL",28396,"R$1,58 BRL",26,"0,0916%",0.073954,21,10,1,"R$61,00 BRL",1.363477,708536560751820,Gê Burger -> Digital Livre
+2025-03-01,2025-03-31,messenger_inbox,"R$0,12 BRL",53,"R$2,26 BRL",0,"0,00%",,,,,,,708536560751820,Gê Burger -> Digital Livre
+2025-03-01,2025-03-31,rewarded_video,"R$0,09 BRL",2,"R$44,96 BRL",0,"0,00%",,,,,,,708536560751820,Gê Burger -> Digital Livre
+2025-03-01,2025-03-31,right_hand_column,"R$0,07 BRL",57,"R$1,23 BRL",0,"0,00%",,,,,,,708536560751820,Gê Burger -> Digital Livre
+2025-03-01,2025-03-31,search,"R$17,06 BRL",3647,"R$4,68 BRL",12,"0,33%",0.191939,7,3,,,,708536560751820,Gê Burger -> Digital Livre
+2025-03-01,2025-03-31,unknown,"R$0,00 BRL",0,,0,,,,,1,"R$9.470,00 BRL",,708536560751820,Gê Burger -> Digital Livre
+2025-03-01,2025-03-31,video_feeds,"R$12,22 BRL",8699,"R$1,40 BRL",45,"0,52%",0.022991,2,,,,,708536560751820,Gê Burger -> Digital Livre
+2025-04-01,2025-04-30,an_classic,"R$0,00 BRL",2,"R$0,00 BRL",0,"0,00%",,,,,,,708536560751820,Gê Burger -> Digital Livre
+2025-04-01,2025-04-30,biz_disco_feed,"R$0,01 BRL",17,"R$0,59 BRL",0,"0,00%",,,,,,,708536560751820,Gê Burger -> Digital Livre
+2025-04-01,2025-04-30,facebook_profile_feed,"R$0,55 BRL",290,"R$1,90 BRL",1,"0,34%",,,,,,,708536560751820,Gê Burger -> Digital Livre
+2025-04-01,2025-04-30,facebook_reels,"R$415,30 BRL",242330,"R$1,71 BRL",1447,"0,60%",0.041679,101,57,,,,708536560751820,Gê Burger -> Digital Livre
+2025-04-01,2025-04-30,facebook_reels_overlay,"R$76,95 BRL",22548,"R$3,41 BRL",204,"0,90%",0.00887,2,1,,,,708536560751820,Gê Burger -> Digital Livre
+2025-04-01,2025-04-30,facebook_stories,"R$53,72 BRL",9021,"R$5,95 BRL",56,"0,62%",0.376898,34,11,2,"R$136,00 BRL",2.531656,708536560751820,Gê Burger -> Digital Livre
+2025-04-01,2025-04-30,feed,"R$1.013,92 BRL",393743,"R$2,58 BRL",3103,"0,79%",0.151876,598,332,57,"R$207.806,52 BRL",204.954434,708536560751820,Gê Burger -> Digital Livre
+2025-04-01,2025-04-30,instagram_explore,"R$12,29 BRL",5581,"R$2,20 BRL",14,"0,25%",0.179179,10,2,,,,708536560751820,Gê Burger -> Digital Livre
+2025-04-01,2025-04-30,instagram_explore_grid_home,"R$34,32 BRL",24594,"R$1,40 BRL",4,"0,0163%",0.008132,2,,,,,708536560751820,Gê Burger -> Digital Livre
+2025-04-01,2025-04-30,instagram_profile_reels,"R$0,05 BRL",69,"R$0,72 BRL",0,"0,00%",,,,,,,708536560751820,Gê Burger -> Digital Livre
+2025-04-01,2025-04-30,instagram_reels,"R$197,15 BRL",52512,"R$3,75 BRL",328,"0,62%",0.182815,96,72,14,"R$29.281,90 BRL",148.526624,708536560751820,Gê Burger -> Digital Livre
+2025-04-01,2025-04-30,instagram_stories,"R$402,91 BRL",107022,"R$3,76 BRL",480,"0,45%",0.261628,280,123,23,"R$64.938,20 BRL",161.173649,708536560751820,Gê Burger -> Digital Livre
+2025-04-01,2025-04-30,instream_video,"R$5,24 BRL",910,"R$5,76 BRL",4,"0,44%",0.32967,3,3,,,,708536560751820,Gê Burger -> Digital Livre
+2025-04-01,2025-04-30,marketplace,"R$122,04 BRL",48500,"R$2,52 BRL",39,"0,0804%",0.030928,15,1,,,,708536560751820,Gê Burger -> Digital Livre
+2025-04-01,2025-04-30,messenger_inbox,"R$0,01 BRL",1,"R$10,00 BRL",0,"0,00%",,,,,,,708536560751820,Gê Burger -> Digital Livre
+2025-04-01,2025-04-30,rewarded_video,"R$0,01 BRL",2,"R$5,00 BRL",0,"0,00%",,,,,,,708536560751820,Gê Burger -> Digital Livre
+2025-04-01,2025-04-30,search,"R$26,18 BRL",4646,"R$5,63 BRL",17,"0,37%",0.322858,15,3,,,,708536560751820,Gê Burger -> Digital Livre
+2025-04-01,2025-04-30,video_feeds,"R$1,81 BRL",1270,"R$1,43 BRL",7,"0,55%",0.07874,1,,,,,708536560751820,Gê Burger -> Digital Livre
+2025-05-01,2025-05-31,an_classic,"R$0,02 BRL",3,"R$6,67 BRL",0,"0,00%",,,,,,,708536560751820,Gê Burger -> Digital Livre
+2025-05-01,2025-05-31,biz_disco_feed,"R$0,02 BRL",9,"R$2,22 BRL",0,"0,00%",,,,,,,708536560751820,Gê Burger -> Digital Livre
+2025-05-01,2025-05-31,facebook_profile_feed,"R$0,39 BRL",155,"R$2,52 BRL",1,"0,65%",,,,,,,708536560751820,Gê Burger -> Digital Livre
+2025-05-01,2025-05-31,facebook_reels,"R$151,98 BRL",55303,"R$2,75 BRL",572,"1,03%",0.155507,86,46,,,,708536560751820,Gê Burger -> Digital Livre
+2025-05-01,2025-05-31,facebook_reels_overlay,"R$8,64 BRL",4731,"R$1,83 BRL",23,"0,49%",0.190235,9,5,,,,708536560751820,Gê Burger -> Digital Livre
+2025-05-01,2025-05-31,facebook_stories,"R$43,87 BRL",3145,"R$13,95 BRL",41,"1,30%",1.176471,37,15,,,,708536560751820,Gê Burger -> Digital Livre
+2025-05-01,2025-05-31,feed,"R$1.434,54 BRL",283073,"R$5,07 BRL",4240,"1,50%",0.310167,878,536,74,"R$282.534,32 BRL",196.950602,708536560751820,Gê Burger -> Digital Livre
+2025-05-01,2025-05-31,instagram_explore,"R$17,43 BRL",4900,"R$3,56 BRL",28,"0,57%",0.244898,12,8,,,,708536560751820,Gê Burger -> Digital Livre
+2025-05-01,2025-05-31,instagram_explore_grid_home,"R$18,10 BRL",13089,"R$1,38 BRL",2,"0,0153%",,,,,,,708536560751820,Gê Burger -> Digital Livre
+2025-05-01,2025-05-31,instagram_profile_reels,"R$0,03 BRL",22,"R$1,36 BRL",0,"0,00%",,,,,,,708536560751820,Gê Burger -> Digital Livre
+2025-05-01,2025-05-31,instagram_reels,"R$394,99 BRL",83971,"R$4,70 BRL",755,"0,90%",0.326303,274,222,18,"R$39.248,80 BRL",99.366466,708536560751820,Gê Burger -> Digital Livre
+2025-05-01,2025-05-31,instagram_stories,"R$603,92 BRL",113227,"R$5,33 BRL",855,"0,76%",0.44689,506,236,38,"R$118.306,18 BRL",195.89672,708536560751820,Gê Burger -> Digital Livre
+2025-05-01,2025-05-31,instream_video,"R$1,48 BRL",529,"R$2,80 BRL",0,"0,00%",,,,,,,708536560751820,Gê Burger -> Digital Livre
+2025-05-01,2025-05-31,marketplace,"R$22,03 BRL",11024,"R$2,00 BRL",6,"0,0544%",0.027213,3,,,,,708536560751820,Gê Burger -> Digital Livre
+2025-05-01,2025-05-31,messenger_inbox,"R$0,00 BRL",2,"R$0,00 BRL",0,"0,00%",,,,,,,708536560751820,Gê Burger -> Digital Livre
+2025-05-01,2025-05-31,rewarded_video,"R$0,11 BRL",5,"R$22,00 BRL",0,"0,00%",,,,,,,708536560751820,Gê Burger -> Digital Livre
+2025-05-01,2025-05-31,search,"R$13,20 BRL",1937,"R$6,82 BRL",17,"0,88%",0.619515,12,2,,,,708536560751820,Gê Burger -> Digital Livre
+2025-05-01,2025-05-31,unknown,"R$0,00 BRL",0,,0,,,,2,,,,708536560751820,Gê Burger -> Digital Livre
+2025-05-01,2025-05-31,video_feeds,"R$0,24 BRL",92,"R$2,61 BRL",2,"2,17%",1.086957,1,1,,,,708536560751820,Gê Burger -> Digital Livre
+2025-06-01,2025-06-30,facebook_notification,"R$0,00 BRL",2,"R$0,00 BRL",0,"0,00%",,,,,,,708536560751820,Gê Burger -> Digital Livre
+2025-06-01,2025-06-30,facebook_profile_feed,"R$0,97 BRL",147,"R$6,60 BRL",1,"0,68%",,,,1,"R$144,40 BRL",148.848123,708536560751820,Gê Burger -> Digital Livre
+2025-06-01,2025-06-30,facebook_reels,"R$92,05 BRL",15897,"R$5,79 BRL",154,"0,97%",0.301944,48,10,,,,708536560751820,Gê Burger -> Digital Livre
+2025-06-01,2025-06-30,facebook_reels_overlay,"R$64,32 BRL",56611,"R$1,14 BRL",112,"0,20%",0.192542,109,14,,,,708536560751820,Gê Burger -> Digital Livre
+2025-06-01,2025-06-30,facebook_stories,"R$42,69 BRL",4734,"R$9,02 BRL",44,"0,93%",0.823828,39,5,,,,708536560751820,Gê Burger -> Digital Livre
+2025-06-01,2025-06-30,feed,"R$1.634,96 BRL",186130,"R$8,78 BRL",1903,"1,02%",0.404556,753,336,32,"R$2.760,02 BRL",1.688131,708536560751820,Gê Burger -> Digital Livre
+2025-06-01,2025-06-30,instagram_explore,"R$14,77 BRL",2465,"R$5,99 BRL",24,"0,97%",0.608519,15,11,1,"R$124,40 BRL",8.421468,708536560751820,Gê Burger -> Digital Livre
+2025-06-01,2025-06-30,instagram_explore_grid_home,"R$3,82 BRL",1296,"R$2,95 BRL",1,"0,0772%",,,,,,,708536560751820,Gê Burger -> Digital Livre
+2025-06-01,2025-06-30,instagram_reels,"R$314,06 BRL",46506,"R$6,75 BRL",598,"1,29%",0.528964,246,115,9,"R$843,30 BRL",2.685176,708536560751820,Gê Burger -> Digital Livre
+2025-06-01,2025-06-30,instagram_stories,"R$641,32 BRL",112248,"R$5,71 BRL",900,"0,80%",0.429406,482,221,31,"R$2.382,70 BRL",3.715324,708536560751820,Gê Burger -> Digital Livre
+2025-06-01,2025-06-30,instream_video,"R$1,16 BRL",359,"R$3,23 BRL",2,"0,56%",0.557103,2,1,2,"R$232,90 BRL",200.751779,708536560751820,Gê Burger -> Digital Livre
+2025-06-01,2025-06-30,marketplace,"R$13,33 BRL",6906,"R$1,93 BRL",9,"0,13%",0.101361,7,2,,,,708536560751820,Gê Burger -> Digital Livre
+2025-06-01,2025-06-30,messenger_inbox,"R$0,00 BRL",1,"R$0,00 BRL",0,"0,00%",,,,,,,708536560751820,Gê Burger -> Digital Livre
+2025-06-01,2025-06-30,right_hand_column,"R$0,00 BRL",7,"R$0,00 BRL",0,"0,00%",,,,,,,708536560751820,Gê Burger -> Digital Livre
+2025-06-01,2025-06-30,search,"R$10,97 BRL",333,"R$32,95 BRL",6,"1,80%",1.201201,4,,,,,708536560751820,Gê Burger -> Digital Livre
+2025-06-01,2025-06-30,unknown,"R$0,00 BRL",0,,0,,,,,1,"R$112,40 BRL",,708536560751820,Gê Burger -> Digital Livre
+2025-06-01,2025-06-30,video_feeds,"R$0,13 BRL",27,"R$4,82 BRL",0,"0,00%",,,,,,,708536560751820,Gê Burger -> Digital Livre
+2025-07-01,2025-07-31,biz_disco_feed,"R$0,00 BRL",1,"R$0,00 BRL",0,"0,00%",,,,,,,708536560751820,Gê Burger -> Digital Livre
+2025-07-01,2025-07-31,facebook_notification,"R$0,01 BRL",2,"R$5,00 BRL",0,"0,00%",,,,,,,708536560751820,Gê Burger -> Digital Livre
+2025-07-01,2025-07-31,facebook_profile_feed,"R$0,87 BRL",238,"R$3,66 BRL",2,"0,84%",0.840336,2,2,,,,708536560751820,Gê Burger -> Digital Livre
+2025-07-01,2025-07-31,facebook_reels,"R$129,16 BRL",28838,"R$4,48 BRL",203,"0,70%",0.242735,70,11,3,"R$699,80 BRL",5.418212,708536560751820,Gê Burger -> Digital Livre
+2025-07-01,2025-07-31,facebook_reels_overlay,"R$68,31 BRL",59729,"R$1,14 BRL",115,"0,19%",0.192536,115,19,,,,708536560751820,Gê Burger -> Digital Livre
+2025-07-01,2025-07-31,facebook_stories,"R$57,27 BRL",8351,"R$6,86 BRL",40,"0,48%",0.371213,31,8,1,"R$62,90 BRL",1.098247,708536560751820,Gê Burger -> Digital Livre
+2025-07-01,2025-07-31,feed,"R$1.965,70 BRL",307214,"R$6,40 BRL",2496,"0,81%",0.292955,900,324,29,"R$2.491,70 BRL",1.267592,708536560751820,Gê Burger -> Digital Livre
+2025-07-01,2025-07-31,instagram_explore,"R$22,50 BRL",5088,"R$4,42 BRL",56,"1,10%",0.569969,29,12,1,"R$76,70 BRL",3.408704,708536560751820,Gê Burger -> Digital Livre
+2025-07-01,2025-07-31,instagram_explore_grid_home,"R$2,56 BRL",1102,"R$2,32 BRL",2,"0,18%",0.090744,1,,,,,708536560751820,Gê Burger -> Digital Livre
+2025-07-01,2025-07-31,instagram_reels,"R$552,72 BRL",92827,"R$5,95 BRL",968,"1,04%",0.399668,371,160,13,"R$986,90 BRL",1.785534,708536560751820,Gê Burger -> Digital Livre
+2025-07-01,2025-07-31,instagram_stories,"R$1.038,52 BRL",219095,"R$4,74 BRL",2118,"0,97%",0.493393,1081,610,34,"R$2.902,90 BRL",2.795238,708536560751820,Gê Burger -> Digital Livre
+2025-07-01,2025-07-31,instream_video,"R$0,12 BRL",41,"R$2,93 BRL",0,"0,00%",,,,,,,708536560751820,Gê Burger -> Digital Livre
+2025-07-01,2025-07-31,marketplace,"R$25,92 BRL",15690,"R$1,65 BRL",23,"0,15%",0.14659,23,10,,,,708536560751820,Gê Burger -> Digital Livre
+2025-07-01,2025-07-31,messenger_inbox,"R$0,01 BRL",7,"R$1,43 BRL",0,"0,00%",,,,,,,708536560751820,Gê Burger -> Digital Livre
+2025-07-01,2025-07-31,right_hand_column,"R$0,16 BRL",56,"R$2,86 BRL",0,"0,00%",,,,,,,708536560751820,Gê Burger -> Digital Livre
+2025-07-01,2025-07-31,search,"R$17,00 BRL",630,"R$26,99 BRL",11,"1,75%",1.428571,9,,,,,708536560751820,Gê Burger -> Digital Livre
+2025-07-01,2025-07-31,unknown,"R$0,00 BRL",1,"R$0,00 BRL",0,"0,00%",,,2,1,"R$104,40 BRL",,708536560751820,Gê Burger -> Digital Livre
+2025-07-01,2025-07-31,video_feeds,"R$0,11 BRL",27,"R$4,07 BRL",1,"3,70%",,,,,,,708536560751820,Gê Burger -> Digital Livre
+2025-08-01,2025-08-31,facebook_profile_feed,"R$0,74 BRL",141,"R$5,25 BRL",0,"0,00%",,,,,,,708536560751820,Gê Burger -> Digital Livre
+2025-08-01,2025-08-31,facebook_reels,"R$132,69 BRL",34803,"R$3,81 BRL",194,"0,56%",0.172399,60,11,2,"R$194,80 BRL",1.468053,708536560751820,Gê Burger -> Digital Livre
+2025-08-01,2025-08-31,facebook_reels_overlay,"R$35,08 BRL",31525,"R$1,11 BRL",72,"0,23%",0.231562,73,15,,,,708536560751820,Gê Burger -> Digital Livre
+2025-08-01,2025-08-31,facebook_stories,"R$50,20 BRL",10634,"R$4,72 BRL",47,"0,44%",0.39496,42,9,1,"R$72,90 BRL",1.452271,708536560751820,Gê Burger -> Digital Livre
+2025-08-01,2025-08-31,feed,"R$1.564,47 BRL",274628,"R$5,70 BRL",2104,"0,77%",0.33427,918,322,27,"R$2.098,01 BRL",1.341032,708536560751820,Gê Burger -> Digital Livre
+2025-08-01,2025-08-31,instagram_explore,"R$19,57 BRL",4168,"R$4,70 BRL",30,"0,72%",0.431862,18,4,,,,708536560751820,Gê Burger -> Digital Livre
+2025-08-01,2025-08-31,instagram_explore_grid_home,"R$3,20 BRL",640,"R$5,00 BRL",2,"0,31%",0.3125,2,2,,,,708536560751820,Gê Burger -> Digital Livre
+2025-08-01,2025-08-31,instagram_reels,"R$855,95 BRL",171506,"R$4,99 BRL",1402,"0,82%",0.256551,440,185,19,"R$1.414,80 BRL",1.652894,708536560751820,Gê Burger -> Digital Livre
+2025-08-01,2025-08-31,instagram_stories,"R$952,71 BRL",181108,"R$5,26 BRL",1752,"0,97%",0.602403,1091,566,43,"R$3.063,70 BRL",3.215782,708536560751820,Gê Burger -> Digital Livre
+2025-08-01,2025-08-31,instream_video,"R$0,08 BRL",14,"R$5,71 BRL",0,"0,00%",,,,,,,708536560751820,Gê Burger -> Digital Livre
+2025-08-01,2025-08-31,marketplace,"R$27,52 BRL",15987,"R$1,72 BRL",15,"0,0938%",0.081316,13,8,,,,708536560751820,Gê Burger -> Digital Livre
+2025-08-01,2025-08-31,right_hand_column,"R$0,25 BRL",212,"R$1,18 BRL",0,"0,00%",,,,,,,708536560751820,Gê Burger -> Digital Livre
+2025-08-01,2025-08-31,search,"R$3,42 BRL",117,"R$29,23 BRL",2,"1,71%",1.709402,2,,,,,708536560751820,Gê Burger -> Digital Livre
+2025-08-01,2025-08-31,unknown,"R$0,00 BRL",2,"R$0,00 BRL",0,"0,00%",,,3,,,,708536560751820,Gê Burger -> Digital Livre
+2025-08-01,2025-08-31,video_feeds,"R$0,10 BRL",17,"R$5,88 BRL",0,"0,00%",,,,,,,708536560751820,Gê Burger -> Digital Livre
+2025-09-01,2025-09-30,facebook_profile_feed,"R$1,50 BRL",228,"R$6,56 BRL",3,"1,32%",0.877193,2,1,,,,708536560751820,Gê Burger -> Digital Livre
+2025-09-01,2025-09-30,facebook_reels,"R$288,88 BRL",48137,"R$6,00 BRL",442,"0,92%",0.26383,127,13,2,"R$160,30 BRL",0.554903,708536560751820,Gê Burger -> Digital Livre
+2025-09-01,2025-09-30,facebook_reels_overlay,"R$19,57 BRL",16830,"R$1,16 BRL",45,"0,27%",0.26738,45,10,,,,708536560751820,Gê Burger -> Digital Livre
+2025-09-01,2025-09-30,facebook_stories,"R$126,81 BRL",12439,"R$10,19 BRL",103,"0,83%",0.747649,93,13,1,"R$92,90 BRL",0.732591,708536560751820,Gê Burger -> Digital Livre
+2025-09-01,2025-09-30,feed,"R$1.916,46 BRL",286571,"R$6,69 BRL",2424,"0,85%",0.328016,940,315,19,"R$1.510,30 BRL",0.788068,708536560751820,Gê Burger -> Digital Livre
+2025-09-01,2025-09-30,instagram_explore,"R$13,23 BRL",2865,"R$4,62 BRL",25,"0,87%",0.418848,12,5,,,,708536560751820,Gê Burger -> Digital Livre
+2025-09-01,2025-09-30,instagram_explore_grid_home,"R$0,92 BRL",335,"R$2,74 BRL",0,"0,00%",,,,,,,708536560751820,Gê Burger -> Digital Livre
+2025-09-01,2025-09-30,instagram_reels,"R$747,48 BRL",155887,"R$4,80 BRL",1061,"0,68%",0.187957,293,97,6,"R$659,40 BRL",0.88216,708536560751820,Gê Burger -> Digital Livre
+2025-09-01,2025-09-30,instagram_stories,"R$952,69 BRL",163910,"R$5,81 BRL",1564,"0,95%",0.629004,1031,314,26,"R$2.237,40 BRL",2.348516,708536560751820,Gê Burger -> Digital Livre
+2025-09-01,2025-09-30,instream_video,"R$0,04 BRL",13,"R$3,07 BRL",0,"0,00%",,,,,,,708536560751820,Gê Burger -> Digital Livre
+2025-09-01,2025-09-30,marketplace,"R$42,15 BRL",24413,"R$1,73 BRL",25,"0,10%",0.090116,22,5,1,"R$114,00 BRL",2.70481,708536560751820,Gê Burger -> Digital Livre
+2025-09-01,2025-09-30,right_hand_column,"R$0,48 BRL",421,"R$1,14 BRL",1,"0,24%",0.23753,1,1,,,,708536560751820,Gê Burger -> Digital Livre
+2025-09-01,2025-09-30,search,"R$10,23 BRL",299,"R$34,21 BRL",3,"1,00%",1.003344,3,,,,,708536560751820,Gê Burger -> Digital Livre
+2025-09-01,2025-09-30,unknown,"R$0,00 BRL",0,,0,,,,2,,,,708536560751820,Gê Burger -> Digital Livre
+2025-09-01,2025-09-30,video_feeds,"R$0,34 BRL",26,"R$13,04 BRL",1,"3,85%",,,,,,,708536560751820,Gê Burger -> Digital Livre
+2025-10-01,2025-10-31,an_classic,"R$0,10 BRL",14,"R$7,14 BRL",2,"14,29%",21.428571,3,,,,,708536560751820,Gê Burger -> Digital Livre
+2025-10-01,2025-10-31,biz_disco_feed,"R$0,00 BRL",1,"R$0,00 BRL",0,"0,00%",,,,,,,708536560751820,Gê Burger -> Digital Livre
+2025-10-01,2025-10-31,facebook_notification,"R$0,02 BRL",16,"R$1,25 BRL",0,"0,00%",,,,,,,708536560751820,Gê Burger -> Digital Livre
+2025-10-01,2025-10-31,facebook_profile_feed,"R$1,15 BRL",145,"R$7,93 BRL",7,"4,83%",2.758621,4,1,,,,708536560751820,Gê Burger -> Digital Livre
+2025-10-01,2025-10-31,facebook_reels,"R$322,05 BRL",41882,"R$7,69 BRL",441,"1,05%",0.379638,159,12,,,,708536560751820,Gê Burger -> Digital Livre
+2025-10-01,2025-10-31,facebook_reels_overlay,"R$29,20 BRL",29345,"R$1,00 BRL",56,"0,19%",0.190833,56,4,,,,708536560751820,Gê Burger -> Digital Livre
+2025-10-01,2025-10-31,facebook_stories,"R$100,14 BRL",7260,"R$13,79 BRL",65,"0,90%",0.674931,49,3,2,"R$48,00 BRL",0.479326,708536560751820,Gê Burger -> Digital Livre
+2025-10-01,2025-10-31,feed,"R$2.479,54 BRL",302106,"R$8,21 BRL",3245,"1,07%",0.434616,1313,228,41,"R$1.629,30 BRL",0.657096,708536560751820,Gê Burger -> Digital Livre
+2025-10-01,2025-10-31,instagram_explore,"R$2,57 BRL",502,"R$5,12 BRL",5,"1,00%",0.398406,2,1,,,,708536560751820,Gê Burger -> Digital Livre
+2025-10-01,2025-10-31,instagram_explore_grid_home,"R$2,68 BRL",679,"R$3,95 BRL",0,"0,00%",,,,,,,708536560751820,Gê Burger -> Digital Livre
+2025-10-01,2025-10-31,instagram_reels,"R$964,69 BRL",172352,"R$5,60 BRL",1374,"0,80%",0.292425,504,111,13,"R$536,50 BRL",0.55614,708536560751820,Gê Burger -> Digital Livre
+2025-10-01,2025-10-31,instagram_stories,"R$1.117,22 BRL",150984,"R$7,40 BRL",1215,"0,80%",0.485482,733,181,42,"R$1.805,20 BRL",1.615801,708536560751820,Gê Burger -> Digital Livre
+2025-10-01,2025-10-31,instream_video,"R$0,87 BRL",157,"R$5,54 BRL",3,"1,91%",1.273885,2,,2,"R$63,40 BRL",72.873134,708536560751820,Gê Burger -> Digital Livre
+2025-10-01,2025-10-31,marketplace,"R$45,24 BRL",15559,"R$2,91 BRL",63,"0,40%",0.379202,59,8,,,,708536560751820,Gê Burger -> Digital Livre
+2025-10-01,2025-10-31,messenger_inbox,"R$0,00 BRL",2,"R$0,00 BRL",0,"0,00%",,,,,,,708536560751820,Gê Burger -> Digital Livre
+2025-10-01,2025-10-31,rewarded_video,"R$0,19 BRL",15,"R$12,67 BRL",7,"46,67%",53.333333,8,,,,,708536560751820,Gê Burger -> Digital Livre
+2025-10-01,2025-10-31,search,"R$33,56 BRL",1444,"R$23,24 BRL",38,"2,63%",2.493075,36,3,,,,708536560751820,Gê Burger -> Digital Livre
+2025-10-01,2025-10-31,unknown,"R$0,00 BRL",1,"R$0,00 BRL",0,"0,00%",,,2,,,,708536560751820,Gê Burger -> Digital Livre
+2025-10-01,2025-10-31,video_feeds,"R$0,00 BRL",3,"R$0,00 BRL",0,"0,00%",,,,,,,708536560751820,Gê Burger -> Digital Livre
+2025-11-01,2025-11-30,an_classic,"R$2,97 BRL",260,"R$11,42 BRL",6,"2,31%",2.307692,6,2,,,,708536560751820,Gê Burger -> Digital Livre
+2025-11-01,2025-11-30,biz_disco_feed,"R$0,00 BRL",1,"R$0,00 BRL",0,"0,00%",,,,,,,708536560751820,Gê Burger -> Digital Livre
+2025-11-01,2025-11-30,facebook_notification,"R$0,22 BRL",54,"R$4,07 BRL",0,"0,00%",,,,,,,708536560751820,Gê Burger -> Digital Livre
+2025-11-01,2025-11-30,facebook_profile_feed,"R$1,65 BRL",327,"R$5,05 BRL",5,"1,53%",0.30581,1,,,,,708536560751820,Gê Burger -> Digital Livre
+2025-11-01,2025-11-30,facebook_reels,"R$179,20 BRL",28968,"R$6,19 BRL",298,"1,03%",0.407346,118,32,6,"R$441,40 BRL",2.463113,708536560751820,Gê Burger -> Digital Livre
+2025-11-01,2025-11-30,facebook_reels_overlay,"R$31,01 BRL",31165,"R$1,00 BRL",89,"0,29%",0.285577,89,13,,,,708536560751820,Gê Burger -> Digital Livre
+2025-11-01,2025-11-30,facebook_stories,"R$63,44 BRL",4779,"R$13,28 BRL",68,"1,42%",1.213643,58,6,2,"R$49,00 BRL",0.772366,708536560751820,Gê Burger -> Digital Livre
+2025-11-01,2025-11-30,feed,"R$1.963,55 BRL",279187,"R$7,03 BRL",2639,"0,95%",0.421223,1176,383,62,"R$3.349,76 BRL",1.705976,708536560751820,Gê Burger -> Digital Livre
+2025-11-01,2025-11-30,instagram_explore,"R$2,92 BRL",577,"R$5,06 BRL",1,"0,17%",0.17331,1,,,,,708536560751820,Gê Burger -> Digital Livre
+2025-11-01,2025-11-30,instagram_explore_grid_home,"R$4,38 BRL",1193,"R$3,67 BRL",2,"0,17%",,,,,,,708536560751820,Gê Burger -> Digital Livre
+2025-11-01,2025-11-30,instagram_reels,"R$734,81 BRL",107779,"R$6,82 BRL",939,"0,87%",0.347934,375,148,28,"R$1.318,60 BRL",1.794485,708536560751820,Gê Burger -> Digital Livre
+2025-11-01,2025-11-30,instagram_stories,"R$1.273,17 BRL",168044,"R$7,58 BRL",1207,"0,72%",0.420128,706,383,62,"R$2.453,36 BRL",1.926971,708536560751820,Gê Burger -> Digital Livre
+2025-11-01,2025-11-30,instream_video,"R$5,09 BRL",1261,"R$4,04 BRL",10,"0,79%",0.793021,10,2,,,,708536560751820,Gê Burger -> Digital Livre
+2025-11-01,2025-11-30,marketplace,"R$48,10 BRL",12090,"R$3,98 BRL",45,"0,37%",0.339123,41,2,,,,708536560751820,Gê Burger -> Digital Livre
+2025-11-01,2025-11-30,messenger_inbox,"R$0,00 BRL",2,"R$0,00 BRL",0,"0,00%",,,,,,,708536560751820,Gê Burger -> Digital Livre
+2025-11-01,2025-11-30,rewarded_video,"R$1,93 BRL",103,"R$18,74 BRL",12,"11,65%",13.592233,14,1,,,,708536560751820,Gê Burger -> Digital Livre
+2025-11-01,2025-11-30,right_hand_column,"R$0,14 BRL",79,"R$1,77 BRL",0,"0,00%",,,,,,,708536560751820,Gê Burger -> Digital Livre
+2025-11-01,2025-11-30,search,"R$43,17 BRL",2565,"R$16,83 BRL",35,"1,36%",1.208577,31,6,,,,708536560751820,Gê Burger -> Digital Livre
+2025-11-01,2025-11-30,unknown,"R$0,00 BRL",0,,0,,,,2,,,,708536560751820,Gê Burger -> Digital Livre
+2025-12-01,2025-12-31,an_classic,"R$1,06 BRL",190,"R$5,58 BRL",6,"3,16%",3.157895,6,2,2,"R$108,00 BRL",101.877459,708536560751820,Gê Burger -> Digital Livre
+2025-12-01,2025-12-31,biz_disco_feed,"R$0,00 BRL",1,"R$0,00 BRL",0,"0,00%",,,,,,,708536560751820,Gê Burger -> Digital Livre
+2025-12-01,2025-12-31,facebook_notification,"R$0,11 BRL",30,"R$3,67 BRL",0,"0,00%",,,,,,,708536560751820,Gê Burger -> Digital Livre
+2025-12-01,2025-12-31,facebook_profile_feed,"R$1,02 BRL",142,"R$7,18 BRL",1,"0,70%",,,,,,,708536560751820,Gê Burger -> Digital Livre
+2025-12-01,2025-12-31,facebook_reels,"R$182,54 BRL",38917,"R$4,69 BRL",367,"0,94%",0.370018,144,34,,,,708536560751820,Gê Burger -> Digital Livre
+2025-12-01,2025-12-31,facebook_reels_overlay,"R$48,63 BRL",38535,"R$1,26 BRL",110,"0,29%",0.290645,112,21,2,"R$80,00 BRL",1.644924,708536560751820,Gê Burger -> Digital Livre
+2025-12-01,2025-12-31,facebook_stories,"R$73,29 BRL",7559,"R$9,70 BRL",92,"1,22%",1.045112,79,18,,,,708536560751820,Gê Burger -> Digital Livre
+2025-12-01,2025-12-31,feed,"R$1.774,55 BRL",323344,"R$5,49 BRL",2997,"0,93%",0.464211,1501,361,64,"R$2.553,70 BRL",1.439067,708536560751820,Gê Burger -> Digital Livre
+2025-12-01,2025-12-31,instagram_explore,"R$2,14 BRL",430,"R$4,98 BRL",0,"0,00%",,,,,,,708536560751820,Gê Burger -> Digital Livre
+2025-12-01,2025-12-31,instagram_explore_grid_home,"R$3,25 BRL",1025,"R$3,17 BRL",3,"0,29%",0.097561,1,1,,,,708536560751820,Gê Burger -> Digital Livre
+2025-12-01,2025-12-31,instagram_reels,"R$751,35 BRL",121128,"R$6,20 BRL",1332,"1,10%",0.468925,568,165,20,"R$699,40 BRL",0.930859,708536560751820,Gê Burger -> Digital Livre
+2025-12-01,2025-12-31,instagram_stories,"R$1.034,38 BRL",211113,"R$4,90 BRL",1613,"0,76%",0.500206,1056,378,49,"R$2.048,80 BRL",1.980694,708536560751820,Gê Burger -> Digital Livre
+2025-12-01,2025-12-31,instream_video,"R$1,06 BRL",472,"R$2,25 BRL",2,"0,42%",0.423729,2,,,,,708536560751820,Gê Burger -> Digital Livre
+2025-12-01,2025-12-31,marketplace,"R$26,97 BRL",8068,"R$3,34 BRL",43,"0,53%",0.50818,41,3,,,,708536560751820,Gê Burger -> Digital Livre
+2025-12-01,2025-12-31,rewarded_video,"R$0,84 BRL",37,"R$22,70 BRL",8,"21,62%",32.432432,12,3,,,,708536560751820,Gê Burger -> Digital Livre
+2025-12-01,2025-12-31,right_hand_column,"R$0,08 BRL",76,"R$1,05 BRL",0,"0,00%",,,,,,,708536560751820,Gê Burger -> Digital Livre
+2025-12-01,2025-12-31,search,"R$28,78 BRL",1344,"R$21,42 BRL",41,"3,05%",2.455357,33,9,,,,708536560751820,Gê Burger -> Digital Livre
+2025-12-01,2025-12-31,unknown,"R$0,00 BRL",0,,0,,,,1,,,,708536560751820,Gê Burger -> Digital Livre
+2026-01-01,2026-01-31,an_classic,"R$2,26 BRL",194,"R$11,65 BRL",35,"18,04%",18.556701,36,15,2,"R$163,00 BRL",72.12147,708536560751820,Gê Burger -> Digital Livre
+2026-01-01,2026-01-31,facebook_notification,"R$0,07 BRL",33,"R$2,12 BRL",0,"0,00%",,,,,,,708536560751820,Gê Burger -> Digital Livre
+2026-01-01,2026-01-31,facebook_profile_feed,"R$0,99 BRL",235,"R$4,21 BRL",5,"2,13%",0.851064,2,1,,,,708536560751820,Gê Burger -> Digital Livre
+2026-01-01,2026-01-31,facebook_reels,"R$131,52 BRL",39334,"R$3,34 BRL",285,"0,72%",0.307622,121,26,,,,708536560751820,Gê Burger -> Digital Livre
+2026-01-01,2026-01-31,facebook_reels_overlay,"R$64,83 BRL",52550,"R$1,23 BRL",160,"0,30%",0.306375,161,23,,,,708536560751820,Gê Burger -> Digital Livre
+2026-01-01,2026-01-31,facebook_stories,"R$54,33 BRL",8932,"R$6,08 BRL",75,"0,84%",0.682938,61,11,2,"R$89,90 BRL",1.654647,708536560751820,Gê Burger -> Digital Livre
+2026-01-01,2026-01-31,feed,"R$1.559,61 BRL",364642,"R$4,28 BRL",3608,"0,99%",0.457709,1669,561,56,"R$2.414,50 BRL",1.548141,708536560751820,Gê Burger -> Digital Livre
+2026-01-01,2026-01-31,instagram_explore,"R$1,74 BRL",479,"R$3,63 BRL",2,"0,42%",0.208768,1,,2,"R$134,00 BRL",77.008907,708536560751820,Gê Burger -> Digital Livre
+2026-01-01,2026-01-31,instagram_explore_grid_home,"R$2,96 BRL",1497,"R$1,98 BRL",6,"0,40%",0.133601,2,1,,,,708536560751820,Gê Burger -> Digital Livre
+2026-01-01,2026-01-31,instagram_reels,"R$484,26 BRL",117010,"R$4,14 BRL",1058,"0,90%",0.368345,431,210,29,"R$1.208,70 BRL",2.495992,708536560751820,Gê Burger -> Digital Livre
+2026-01-01,2026-01-31,instagram_search,"R$0,01 BRL",1,"R$10,00 BRL",0,"0,00%",,,,,,,708536560751820,Gê Burger -> Digital Livre
+2026-01-01,2026-01-31,instagram_stories,"R$625,89 BRL",184128,"R$3,40 BRL",1011,"0,55%",0.326946,602,372,29,"R$1.430,30 BRL",2.285222,708536560751820,Gê Burger -> Digital Livre
+2026-01-01,2026-01-31,instream_video,"R$1,29 BRL",654,"R$1,97 BRL",6,"0,92%",0.611621,4,,,,,708536560751820,Gê Burger -> Digital Livre
+2026-01-01,2026-01-31,marketplace,"R$32,69 BRL",19741,"R$1,66 BRL",53,"0,27%",0.268477,53,7,,,,708536560751820,Gê Burger -> Digital Livre
+2026-01-01,2026-01-31,rewarded_video,"R$4,00 BRL",170,"R$23,53 BRL",45,"26,47%",31.176471,53,26,,,,708536560751820,Gê Burger -> Digital Livre
+2026-01-01,2026-01-31,right_hand_column,"R$0,02 BRL",9,"R$2,22 BRL",0,"0,00%",,,,,,,708536560751820,Gê Burger -> Digital Livre
+2026-01-01,2026-01-31,search,"R$9,33 BRL",774,"R$12,05 BRL",9,"1,16%",0.904393,7,2,,,,708536560751820,Gê Burger -> Digital Livre
+2026-01-01,2026-01-31,threads_feed,"R$0,21 BRL",50,"R$4,20 BRL",0,"0,00%",,,,,,,708536560751820,Gê Burger -> Digital Livre
+2026-01-01,2026-01-31,unknown,"R$0,00 BRL",0,,0,,,,1,,,,708536560751820,Gê Burger -> Digital Livre
+2026-02-01,2026-02-28,an_classic,"R$9,69 BRL",463,"R$20,93 BRL",80,"17,28%",17.926566,83,19,,,,708536560751820,Gê Burger -> Digital Livre
+2026-02-01,2026-02-28,facebook_notification,"R$0,20 BRL",42,"R$4,76 BRL",0,"0,00%",,,,,,,708536560751820,Gê Burger -> Digital Livre
+2026-02-01,2026-02-28,facebook_profile_feed,"R$2,89 BRL",335,"R$8,63 BRL",8,"2,39%",1.19403,4,,,,,708536560751820,Gê Burger -> Digital Livre
+2026-02-01,2026-02-28,facebook_reels,"R$178,49 BRL",34810,"R$5,13 BRL",301,"0,86%",0.36771,128,8,,,,708536560751820,Gê Burger -> Digital Livre
+2026-02-01,2026-02-28,facebook_reels_overlay,"R$68,43 BRL",39220,"R$1,74 BRL",150,"0,38%",0.382458,150,17,2,"R$93,50 BRL",1.366317,708536560751820,Gê Burger -> Digital Livre
+2026-02-01,2026-02-28,facebook_stories,"R$67,19 BRL",7885,"R$8,52 BRL",63,"0,80%",0.722892,57,2,,,,708536560751820,Gê Burger -> Digital Livre
+2026-02-01,2026-02-28,feed,"R$1.921,78 BRL",414791,"R$4,63 BRL",3844,"0,93%",0.398273,1652,455,87,"R$3.928,41 BRL",2.044152,708536560751820,Gê Burger -> Digital Livre
+2026-02-01,2026-02-28,instagram_explore,"R$0,96 BRL",247,"R$3,89 BRL",2,"0,81%",0.404858,1,,,,,708536560751820,Gê Burger -> Digital Livre
+2026-02-01,2026-02-28,instagram_explore_grid_home,"R$4,01 BRL",2268,"R$1,77 BRL",4,"0,18%",0.088183,2,,,,,708536560751820,Gê Burger -> Digital Livre
+2026-02-01,2026-02-28,instagram_reels,"R$549,99 BRL",120361,"R$4,57 BRL",1041,"0,86%",0.427049,514,142,26,"R$1.392,30 BRL",2.531514,708536560751820,Gê Burger -> Digital Livre
+2026-02-01,2026-02-28,instagram_search,"R$0,00 BRL",2,"R$0,00 BRL",0,"0,00%",,,,,,,708536560751820,Gê Burger -> Digital Livre
+2026-02-01,2026-02-28,instagram_stories,"R$659,21 BRL",167293,"R$3,94 BRL",944,"0,56%",0.315016,527,245,46,"R$2.121,60 BRL",3.218395,708536560751820,Gê Burger -> Digital Livre
+2026-02-01,2026-02-28,instream_video,"R$2,05 BRL",504,"R$4,07 BRL",6,"1,19%",0.793651,4,,,,,708536560751820,Gê Burger -> Digital Livre
+2026-02-01,2026-02-28,marketplace,"R$36,31 BRL",12862,"R$2,82 BRL",59,"0,46%",0.48204,62,,,,,708536560751820,Gê Burger -> Digital Livre
+2026-02-01,2026-02-28,messenger_stories,"R$0,00 BRL",1,"R$0,00 BRL",0,"0,00%",,,,,,,708536560751820,Gê Burger -> Digital Livre
+2026-02-01,2026-02-28,rewarded_video,"R$9,04 BRL",400,"R$22,60 BRL",122,"30,50%",35,140,46,,,,708536560751820,Gê Burger -> Digital Livre
+2026-02-01,2026-02-28,search,"R$10,54 BRL",945,"R$11,15 BRL",16,"1,69%",1.587302,15,1,,,,708536560751820,Gê Burger -> Digital Livre
+2026-02-01,2026-02-28,status,"R$3,42 BRL",616,"R$5,55 BRL",14,"2,27%",0.324675,2,,,,,708536560751820,Gê Burger -> Digital Livre
+2026-02-01,2026-02-28,threads_feed,"R$1,21 BRL",413,"R$2,93 BRL",1,"0,24%",0.242131,1,1,,,,708536560751820,Gê Burger -> Digital Livre
+2026-03-01,2026-03-31,an_classic,"R$1,59 BRL",69,"R$23,04 BRL",20,"28,99%",36.231884,25,10,,,,708536560751820,Gê Burger -> Digital Livre
+2026-03-01,2026-03-31,biz_disco_feed,"R$0,00 BRL",2,"R$0,00 BRL",0,"0,00%",,,,,,,708536560751820,Gê Burger -> Digital Livre
+2026-03-01,2026-03-31,facebook_notification,"R$0,13 BRL",50,"R$2,60 BRL",0,"0,00%",,,,,,,708536560751820,Gê Burger -> Digital Livre
+2026-03-01,2026-03-31,facebook_profile_feed,"R$1,11 BRL",171,"R$6,49 BRL",5,"2,92%",0.584795,1,,,,,708536560751820,Gê Burger -> Digital Livre
+2026-03-01,2026-03-31,facebook_reels,"R$169,86 BRL",95360,"R$1,78 BRL",342,"0,36%",0.084941,81,16,,,,708536560751820,Gê Burger -> Digital Livre
+2026-03-01,2026-03-31,facebook_reels_overlay,"R$26,30 BRL",30018,"R$0,88 BRL",59,"0,20%",0.19988,60,14,,,,708536560751820,Gê Burger -> Digital Livre
+2026-03-01,2026-03-31,facebook_stories,"R$30,45 BRL",4837,"R$6,30 BRL",39,"0,81%",0.640893,31,11,2,"R$130,90 BRL",4.298851,708536560751820,Gê Burger -> Digital Livre
+2026-03-01,2026-03-31,feed,"R$1.926,54 BRL",636735,"R$3,03 BRL",4117,"0,65%",0.269343,1715,510,69,"R$3.251,90 BRL",1.687948,708536560751820,Gê Burger -> Digital Livre
+2026-03-01,2026-03-31,instagram_explore,"R$0,85 BRL",223,"R$3,81 BRL",2,"0,90%",0.44843,1,1,,,,708536560751820,Gê Burger -> Digital Livre
+2026-03-01,2026-03-31,instagram_explore_grid_home,"R$39,28 BRL",32944,"R$1,19 BRL",10,"0,0304%",0.006071,2,,,,,708536560751820,Gê Burger -> Digital Livre
+2026-03-01,2026-03-31,instagram_reels,"R$620,21 BRL",237481,"R$2,61 BRL",1075,"0,45%",0.22107,525,212,26,"R$1.061,20 BRL",1.711033,708536560751820,Gê Burger -> Digital Livre
+2026-03-01,2026-03-31,instagram_search,"R$0,00 BRL",1,"R$0,00 BRL",0,"0,00%",,,,,,,708536560751820,Gê Burger -> Digital Livre
+2026-03-01,2026-03-31,instagram_stories,"R$625,37 BRL",217826,"R$2,87 BRL",952,"0,44%",0.271777,592,315,38,"R$1.915,00 BRL",3.062187,708536560751820,Gê Burger -> Digital Livre
+2026-03-01,2026-03-31,instream_video,"R$1,97 BRL",810,"R$2,43 BRL",4,"0,49%",0.246914,2,1,,,,708536560751820,Gê Burger -> Digital Livre
+2026-03-01,2026-03-31,marketplace,"R$52,66 BRL",35911,"R$1,47 BRL",55,"0,15%",0.130879,47,2,,,,708536560751820,Gê Burger -> Digital Livre
+2026-03-01,2026-03-31,rewarded_video,"R$1,28 BRL",45,"R$28,44 BRL",6,"13,33%",13.333333,6,1,,,,708536560751820,Gê Burger -> Digital Livre
+2026-03-01,2026-03-31,right_hand_column,"R$0,00 BRL",1,"R$0,00 BRL",0,"0,00%",,,,,,,708536560751820,Gê Burger -> Digital Livre
+2026-03-01,2026-03-31,search,"R$16,99 BRL",2221,"R$7,65 BRL",22,"0,99%",0.810446,18,,,,,708536560751820,Gê Burger -> Digital Livre
+2026-03-01,2026-03-31,status,"R$13,43 BRL",2190,"R$6,13 BRL",32,"1,46%",0.547945,12,,,,,708536560751820,Gê Burger -> Digital Livre
+2026-03-01,2026-03-31,threads_feed,"R$1,32 BRL",539,"R$2,45 BRL",1,"0,19%",0.185529,1,1,,,,708536560751820,Gê Burger -> Digital Livre
+2026-04-01,2026-04-30,an_classic,"R$2,59 BRL",121,"R$21,41 BRL",14,"11,57%",11.570248,14,4,,,,708536560751820,Gê Burger -> Digital Livre
+2026-04-01,2026-04-30,biz_disco_feed,"R$0,03 BRL",2,"R$15,00 BRL",0,"0,00%",,,,,,,708536560751820,Gê Burger -> Digital Livre
+2026-04-01,2026-04-30,facebook_notification,"R$0,20 BRL",42,"R$4,76 BRL",0,"0,00%",,,,,,,708536560751820,Gê Burger -> Digital Livre
+2026-04-01,2026-04-30,facebook_profile_feed,"R$1,29 BRL",236,"R$5,47 BRL",1,"0,42%",,,,,,,708536560751820,Gê Burger -> Digital Livre
+2026-04-01,2026-04-30,facebook_reels,"R$223,15 BRL",101312,"R$2,20 BRL",395,"0,39%",0.106601,108,11,,,,708536560751820,Gê Burger -> Digital Livre
+2026-04-01,2026-04-30,facebook_reels_overlay,"R$29,28 BRL",26989,"R$1,08 BRL",65,"0,24%",0.244544,66,11,,,,708536560751820,Gê Burger -> Digital Livre
+2026-04-01,2026-04-30,facebook_stories,"R$48,79 BRL",6204,"R$7,86 BRL",50,"0,81%",0.70922,44,9,,,,708536560751820,Gê Burger -> Digital Livre
+2026-04-01,2026-04-30,feed,"R$2.093,12 BRL",583349,"R$3,59 BRL",4267,"0,73%",0.281135,1640,531,94,"R$3.577,84 BRL",1.709336,708536560751820,Gê Burger -> Digital Livre
+2026-04-01,2026-04-30,instagram_explore,"R$0,16 BRL",39,"R$4,10 BRL",0,"0,00%",,,,,,,708536560751820,Gê Burger -> Digital Livre
+2026-04-01,2026-04-30,instagram_explore_grid_home,"R$26,97 BRL",26510,"R$1,02 BRL",9,"0,0339%",0.003772,1,1,,,,708536560751820,Gê Burger -> Digital Livre
+2026-04-01,2026-04-30,instagram_reels,"R$665,56 BRL",229360,"R$2,90 BRL",1103,"0,48%",0.262469,602,244,27,"R$1.053,74 BRL",1.583227,708536560751820,Gê Burger -> Digital Livre
+2026-04-01,2026-04-30,instagram_stories,"R$871,47 BRL",224485,"R$3,88 BRL",1333,"0,59%",0.353253,793,466,58,"R$2.285,86 BRL",2.622995,708536560751820,Gê Burger -> Digital Livre
+2026-04-01,2026-04-30,instream_video,"R$2,20 BRL",576,"R$3,82 BRL",3,"0,52%",0.520833,3,1,,,,708536560751820,Gê Burger -> Digital Livre
+2026-04-01,2026-04-30,marketplace,"R$44,10 BRL",23446,"R$1,88 BRL",57,"0,24%",0.221786,52,4,,,,708536560751820,Gê Burger -> Digital Livre
+2026-04-01,2026-04-30,rewarded_video,"R$3,04 BRL",117,"R$25,98 BRL",27,"23,08%",23.931624,28,6,,,,708536560751820,Gê Burger -> Digital Livre
+2026-04-01,2026-04-30,right_hand_column,"R$0,00 BRL",25,"R$0,00 BRL",0,"0,00%",,,,,,,708536560751820,Gê Burger -> Digital Livre
+2026-04-01,2026-04-30,search,"R$28,71 BRL",2505,"R$11,46 BRL",53,"2,12%",1.916168,48,7,6,"R$248,80 BRL",8.665777,708536560751820,Gê Burger -> Digital Livre
+2026-04-01,2026-04-30,threads_feed,"R$3,59 BRL",1256,"R$2,86 BRL",3,"0,24%",0.238854,3,1,,,,708536560751820,Gê Burger -> Digital Livre
+2026-04-01,2026-04-30,unknown,"R$0,00 BRL",0,,0,,,,3,,,,708536560751820,Gê Burger -> Digital Livre
+2026-05-01,2026-05-31,an_classic,"R$3,75 BRL",188,"R$19,95 BRL",26,"13,83%",16.489362,31,19,,,,708536560751820,Gê Burger -> Digital Livre
+2026-05-01,2026-05-31,facebook_notification,"R$0,24 BRL",44,"R$5,45 BRL",0,"0,00%",,,,,,,708536560751820,Gê Burger -> Digital Livre
+2026-05-01,2026-05-31,facebook_profile_feed,"R$1,06 BRL",192,"R$5,52 BRL",9,"4,69%",1.041667,2,,,,,708536560751820,Gê Burger -> Digital Livre
+2026-05-01,2026-05-31,facebook_reels,"R$369,30 BRL",169461,"R$2,18 BRL",550,"0,32%",0.099138,168,13,2,"R$73,40 BRL",0.198752,708536560751820,Gê Burger -> Digital Livre
+2026-05-01,2026-05-31,facebook_reels_overlay,"R$95,53 BRL",80806,"R$1,18 BRL",193,"0,24%",0.240081,194,,,,,708536560751820,Gê Burger -> Digital Livre
+2026-05-01,2026-05-31,facebook_stories,"R$113,27 BRL",17657,"R$6,41 BRL",102,"0,58%",0.515376,91,2,,,,708536560751820,Gê Burger -> Digital Livre
+2026-05-01,2026-05-31,feed,"R$2.478,28 BRL",665993,"R$3,72 BRL",4196,"0,63%",0.30721,2046,338,71,"R$3.008,58 BRL",1.213978,708536560751820,Gê Burger -> Digital Livre
+2026-05-01,2026-05-31,instagram_explore,"R$0,16 BRL",18,"R$8,89 BRL",0,"0,00%",,,,,,,708536560751820,Gê Burger -> Digital Livre
+2026-05-01,2026-05-31,instagram_explore_grid_home,"R$10,14 BRL",8242,"R$1,23 BRL",7,"0,0849%",0.024266,2,,,,,708536560751820,Gê Burger -> Digital Livre
+2026-05-01,2026-05-31,instagram_reels,"R$988,65 BRL",358511,"R$2,76 BRL",1505,"0,42%",0.307104,1101,131,23,"R$901,28 BRL",0.911631,708536560751820,Gê Burger -> Digital Livre
+2026-05-01,2026-05-31,instagram_search,"R$0,01 BRL",2,"R$5,00 BRL",0,"0,00%",,,,,,,708536560751820,Gê Burger -> Digital Livre
+2026-05-01,2026-05-31,instagram_stories,"R$1.172,25 BRL",296506,"R$3,95 BRL",1279,"0,43%",0.312304,926,290,37,"R$1.595,09 BRL",1.360705,708536560751820,Gê Burger -> Digital Livre
+2026-05-01,2026-05-31,instream_video,"R$41,31 BRL",32813,"R$1,26 BRL",101,"0,31%",0.307805,101,,,,,708536560751820,Gê Burger -> Digital Livre
+2026-05-01,2026-05-31,marketplace,"R$50,00 BRL",29013,"R$1,72 BRL",79,"0,27%",0.272292,79,8,,,,708536560751820,Gê Burger -> Digital Livre
+2026-05-01,2026-05-31,rewarded_video,"R$4,72 BRL",82,"R$57,56 BRL",27,"32,93%",43.902439,36,13,,,,708536560751820,Gê Burger -> Digital Livre
+2026-05-01,2026-05-31,right_hand_column,"R$0,04 BRL",32,"R$1,25 BRL",0,"0,00%",,,,,,,708536560751820,Gê Burger -> Digital Livre
+2026-05-01,2026-05-31,search,"R$24,16 BRL",2241,"R$10,78 BRL",49,"2,19%",2.052655,46,3,,,,708536560751820,Gê Burger -> Digital Livre
+2026-05-01,2026-05-31,threads_feed,"R$1,80 BRL",446,"R$4,04 BRL",2,"0,45%",0.44843,2,1,,,,708536560751820,Gê Burger -> Digital Livre
+2026-06-01,2026-06-30,an_classic,"R$6,38 BRL",605,"R$10,55 BRL",15,"2,48%",3.636364,22,9,,,,708536560751820,Gê Burger -> Digital Livre
+2026-06-01,2026-06-30,facebook_notification,"R$0,27 BRL",45,"R$6,00 BRL",0,"0,00%",,,,,,,708536560751820,Gê Burger -> Digital Livre
+2026-06-01,2026-06-30,facebook_profile_feed,"R$0,91 BRL",291,"R$3,13 BRL",4,"1,37%",1.030928,3,1,,,,708536560751820,Gê Burger -> Digital Livre
+2026-06-01,2026-06-30,facebook_reels,"R$154,26 BRL",31927,"R$4,83 BRL",209,"0,65%",0.1754,56,6,,,,708536560751820,Gê Burger -> Digital Livre
+2026-06-01,2026-06-30,facebook_reels_overlay,"R$51,11 BRL",48773,"R$1,05 BRL",106,"0,22%",0.217333,106,3,2,"R$32,50 BRL",0.635896,708536560751820,Gê Burger -> Digital Livre
+2026-06-01,2026-06-30,facebook_stories,"R$69,48 BRL",6399,"R$10,86 BRL",60,"0,94%",0.859509,55,12,3,"R$126,00 BRL",1.813509,708536560751820,Gê Burger -> Digital Livre
+2026-06-01,2026-06-30,feed,"R$1.710,54 BRL",332770,"R$5,14 BRL",2390,"0,72%",0.284881,948,196,55,"R$2.147,90 BRL",1.255689,708536560751820,Gê Burger -> Digital Livre
+2026-06-01,2026-06-30,instagram_explore_grid_home,"R$4,96 BRL",2279,"R$2,18 BRL",0,"0,00%",,,,,,,708536560751820,Gê Burger -> Digital Livre
+2026-06-01,2026-06-30,instagram_reels,"R$397,42 BRL",51908,"R$7,66 BRL",266,"0,51%",0.244664,127,48,14,"R$627,02 BRL",1.577719,708536560751820,Gê Burger -> Digital Livre
+2026-06-01,2026-06-30,instagram_search,"R$0,01 BRL",1,"R$10,00 BRL",0,"0,00%",,,,,,,708536560751820,Gê Burger -> Digital Livre
+2026-06-01,2026-06-30,instagram_stories,"R$467,85 BRL",69160,"R$6,76 BRL",388,"0,56%",0.374494,259,100,21,"R$1.073,90 BRL",2.295392,708536560751820,Gê Burger -> Digital Livre
+2026-06-01,2026-06-30,instream_video,"R$6,12 BRL",2786,"R$2,20 BRL",14,"0,50%",0.394831,11,,,,,708536560751820,Gê Burger -> Digital Livre
+2026-06-01,2026-06-30,marketplace,"R$25,78 BRL",13121,"R$1,96 BRL",24,"0,18%",0.160049,21,1,,,,708536560751820,Gê Burger -> Digital Livre
+2026-06-01,2026-06-30,rewarded_video,"R$7,25 BRL",90,"R$80,55 BRL",26,"28,89%",36.666667,33,21,2,"R$96,00 BRL",13.24165,708536560751820,Gê Burger -> Digital Livre
+2026-06-01,2026-06-30,right_hand_column,"R$0,02 BRL",10,"R$2,00 BRL",0,"0,00%",,,,,,,708536560751820,Gê Burger -> Digital Livre
+2026-06-01,2026-06-30,search,"R$18,37 BRL",2587,"R$7,10 BRL",34,"1,31%",1.275609,33,1,,,,708536560751820,Gê Burger -> Digital Livre
+2026-06-01,2026-06-30,status,"R$11,46 BRL",1896,"R$6,04 BRL",9,"0,47%",0.369198,7,1,,,,708536560751820,Gê Burger -> Digital Livre
+2026-06-01,2026-06-30,threads_feed,"R$1,21 BRL",229,"R$5,28 BRL",0,"0,00%",,,,,,,708536560751820,Gê Burger -> Digital Livre
+2026-06-01,2026-06-30,unknown,"R$0,00 BRL",0,,0,,,,1,,,,708536560751820,Gê Burger -> Digital Livre
+2026-07-01,2026-07-31,an_classic,"R$4,81 BRL",198,"R$24,29 BRL",14,"7,07%",7.575758,15,11,,,,708536560751820,Gê Burger -> Digital Livre
+2026-07-01,2026-07-31,facebook_notification,"R$0,34 BRL",38,"R$8,95 BRL",1,"2,63%",2.631579,1,,,,,708536560751820,Gê Burger -> Digital Livre
+2026-07-01,2026-07-31,facebook_profile_feed,"R$0,85 BRL",96,"R$8,85 BRL",0,"0,00%",,,,,,,708536560751820,Gê Burger -> Digital Livre
+2026-07-01,2026-07-31,facebook_reels,"R$189,23 BRL",45755,"R$4,14 BRL",335,"0,73%",0.198885,91,4,,,,708536560751820,Gê Burger -> Digital Livre
+2026-07-01,2026-07-31,facebook_reels_overlay,"R$3,80 BRL",1065,"R$3,57 BRL",9,"0,85%",0.84507,9,1,,,,708536560751820,Gê Burger -> Digital Livre
+2026-07-01,2026-07-31,facebook_stories,"R$27,91 BRL",2033,"R$13,73 BRL",37,"1,82%",1.623217,33,7,,,,708536560751820,Gê Burger -> Digital Livre
+2026-07-01,2026-07-31,feed,"R$861,51 BRL",162934,"R$5,29 BRL",1455,"0,89%",0.426553,695,97,11,"R$581,30 BRL",0.674747,708536560751820,Gê Burger -> Digital Livre
+2026-07-01,2026-07-31,instagram_explore_grid_home,"R$12,27 BRL",6579,"R$1,86 BRL",0,"0,00%",,,,,,,708536560751820,Gê Burger -> Digital Livre
+2026-07-01,2026-07-31,instagram_reels,"R$232,27 BRL",57125,"R$4,07 BRL",162,"0,28%",0.124289,71,13,10,"R$484,90 BRL",2.087701,708536560751820,Gê Burger -> Digital Livre
+2026-07-01,2026-07-31,instagram_stories,"R$207,42 BRL",31321,"R$6,62 BRL",180,"0,57%",0.36078,113,51,18,"R$816,80 BRL",3.937946,708536560751820,Gê Burger -> Digital Livre
+2026-07-01,2026-07-31,instream_video,"R$1,99 BRL",723,"R$2,75 BRL",9,"1,24%",0.968188,7,,,,,708536560751820,Gê Burger -> Digital Livre
+2026-07-01,2026-07-31,marketplace,"R$13,35 BRL",2695,"R$4,95 BRL",23,"0,85%",0.927644,25,1,,,,708536560751820,Gê Burger -> Digital Livre
+2026-07-01,2026-07-31,rewarded_video,"R$8,09 BRL",201,"R$40,24 BRL",29,"14,43%",16.915423,34,24,2,"R$208,00 BRL",25.713511,708536560751820,Gê Burger -> Digital Livre
+2026-07-01,2026-07-31,right_hand_column,"R$0,01 BRL",11,"R$0,91 BRL",0,"0,00%",,,,,,,708536560751820,Gê Burger -> Digital Livre
+2026-07-01,2026-07-31,search,"R$20,27 BRL",1452,"R$13,96 BRL",39,"2,69%",2.548209,37,3,,,,708536560751820,Gê Burger -> Digital Livre
+2026-07-01,2026-07-31,status,"R$88,21 BRL",25490,"R$3,46 BRL",230,"0,90%",0.678698,173,2,,,,708536560751820,Gê Burger -> Digital Livre
+2026-07-01,2026-07-31,threads_feed,"R$6,55 BRL",3199,"R$2,05 BRL",0,"0,00%",,,,,,,708536560751820,Gê Burger -> Digital Livre
+2026-08-01,2026-08-21,an_classic,"R$3,62 BRL",184,"R$19,67 BRL",24,"13,04%",14.673913,27,16,,,,708536560751820,Gê Burger -> Digital Livre
+2026-08-01,2026-08-21,facebook_notification,"R$0,13 BRL",31,"R$4,19 BRL",0,"0,00%",,,,,,,708536560751820,Gê Burger -> Digital Livre
+2026-08-01,2026-08-21,facebook_profile_feed,"R$0,34 BRL",42,"R$8,10 BRL",2,"4,76%",4.761905,2,,,,,708536560751820,Gê Burger -> Digital Livre
+2026-08-01,2026-08-21,facebook_reels,"R$72,11 BRL",6266,"R$11,51 BRL",109,"1,74%",1.021385,64,8,,,,708536560751820,Gê Burger -> Digital Livre
+2026-08-01,2026-08-21,facebook_reels_overlay,"R$4,02 BRL",1148,"R$3,50 BRL",9,"0,78%",0.783972,9,,,,,708536560751820,Gê Burger -> Digital Livre
+2026-08-01,2026-08-21,facebook_stories,"R$15,74 BRL",1153,"R$13,65 BRL",18,"1,56%",1.474415,17,1,,,,708536560751820,Gê Burger -> Digital Livre
+2026-08-01,2026-08-21,feed,"R$649,48 BRL",70927,"R$9,16 BRL",820,"1,16%",0.544222,386,94,21,"R$792,90 BRL",1.220831,708536560751820,Gê Burger -> Digital Livre
+2026-08-01,2026-08-21,instagram_explore_grid_home,"R$3,80 BRL",1611,"R$2,36 BRL",0,"0,00%",,,,,,,708536560751820,Gê Burger -> Digital Livre
+2026-08-01,2026-08-21,instagram_reels,"R$207,42 BRL",28314,"R$7,33 BRL",194,"0,69%",0.324928,92,18,4,"R$247,00 BRL",1.190849,708536560751820,Gê Burger -> Digital Livre
+2026-08-01,2026-08-21,instagram_search,"R$0,00 BRL",2,"R$0,00 BRL",0,"0,00%",,,,,,,708536560751820,Gê Burger -> Digital Livre
+2026-08-01,2026-08-21,instagram_stories,"R$192,27 BRL",24828,"R$7,74 BRL",197,"0,79%",0.547769,136,41,13,"R$468,30 BRL",2.435578,708536560751820,Gê Burger -> Digital Livre
+2026-08-01,2026-08-21,instream_video,"R$0,85 BRL",131,"R$6,49 BRL",5,"3,82%",3.053435,4,2,,,,708536560751820,Gê Burger -> Digital Livre
+2026-08-01,2026-08-21,marketplace,"R$8,53 BRL",1808,"R$4,72 BRL",15,"0,83%",0.829646,15,,,,,708536560751820,Gê Burger -> Digital Livre
+2026-08-01,2026-08-21,rewarded_video,"R$5,49 BRL",208,"R$26,39 BRL",69,"33,17%",44.711538,93,73,,,,708536560751820,Gê Burger -> Digital Livre
+2026-08-01,2026-08-21,right_hand_column,"R$0,05 BRL",40,"R$1,25 BRL",1,"2,50%",,,,,,,708536560751820,Gê Burger -> Digital Livre
+2026-08-01,2026-08-21,search,"R$11,14 BRL",973,"R$11,45 BRL",26,"2,67%",2.466598,24,3,,,,708536560751820,Gê Burger -> Digital Livre
+2026-08-01,2026-08-21,status,"R$60,54 BRL",21923,"R$2,76 BRL",168,"0,77%",0.551932,121,2,,,,708536560751820,Gê Burger -> Digital Livre
+2026-08-01,2026-08-21,threads_feed,"R$2,21 BRL",766,"R$2,89 BRL",0,"0,00%",,,,,,,708536560751820,Gê Burger -> Digital Livre

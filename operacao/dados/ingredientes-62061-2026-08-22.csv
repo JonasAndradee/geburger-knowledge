@@ -1,0 +1,219 @@
+id,nome,tipo,grupo_id,categoria_financeira_id,unidade_id,estoque_atual,custo_medio,controla_estoque,compoe_cmv,yield
+3811842,Pepsi Black 350ml,ingredient,352014,945363,1,6,2.96,Y,Y,0
+3811844,Pepsi Black 1L,ingredient,352014,945363,1,-13,4.11,Y,Y,0
+3811852,Guaraná Antártica 350ml,ingredient,352014,945363,1,-143,3.06,Y,Y,0
+3811854,Guaraná Antártica Zero 350ml,ingredient,352014,945363,1,-92,3.06,Y,Y,0
+3811855,Guaraná Antártica 1L,ingredient,352014,945363,1,-29,4.11,Y,Y,0
+3811859,Coca Cola Original KS,ingredient,352014,945363,1,-36,2.93,Y,Y,0
+3811860,Sprite Sem Açúcar 350ml,ingredient,352014,945363,1,-126,2.93,Y,Y,0
+3811862,"Fanta Uva 1,5L",ingredient,352014,945363,1,-2,5.77,Y,Y,0
+3811864,Fanta Uva 350ml,ingredient,352014,945363,1,-116,2.98,Y,Y,0
+3811865,Schweppes Citrus 350ml,ingredient,352014,945363,1,-101,3.48,Y,Y,0
+3811867,"Coca-Cola Sem Açúcar 1,5L",ingredient,352014,945363,1,-112,6.77,Y,Y,0
+3811868,Água Sem Gás 500ml,ingredient,352014,945363,1,-124,1.39,Y,Y,0
+3811879,Água Com Gás,ingredient,352014,945363,1,-22,1.68,Y,Y,0
+3811880,Coca-Cola 350ml,ingredient,352014,945363,1,-437,3.48,Y,Y,0
+3811897,Coca-Cola Zero 350ml,ingredient,352014,945363,1,-471,3.4,Y,Y,0
+3811899,Coca-Cola 1L,ingredient,352014,945363,1,-275,5.77,Y,Y,0
+3811900,Coca Cola Sem Açúcar KS,ingredient,352014,945363,1,-55,2.85,Y,Y,0
+3811903,Morango Congelado,ingredient,352014,945363,4,1.846,21.56,Y,Y,0
+3811904,Maracujá Polpa,ingredient,352014,945363,4,0.821,31,Y,Y,0
+3811905,Bacon Fatiado,ingredient,352015,945362,4,-58.388,50,Y,Y,0
+3811906,Costela Bovina,ingredient,352015,945362,4,-1.369,66.49,Y,N,0
+3811907,Bacon em cubos,ingredient,352015,945362,4,-17.667,45,Y,Y,0
+3811911,Peito de Frango,ingredient,352015,945362,4,-0.819,20,Y,Y,0
+3811914,Ovo,ingredient,352015,945362,1,-251.583,0.8,Y,Y,0
+3811916,Acém,ingredient,352015,945362,4,-0.298,33.99,Y,N,0
+3811918,Peito,ingredient,352015,945362,4,-0.298,33.99,Y,N,0
+3811922,Gordura de Peito,ingredient,352015,945362,4,0.105,33.99,Y,N,0
+3811923,Batata Palito,ingredient,352016,945361,4,-304.67,18.9,Y,Y,0
+3811925,Batata de Carinhas,ingredient,352016,945361,4,0.8,24.97,Y,Y,0
+3811926,Onion Rings,ingredient,352016,945361,4,-0.48,25,Y,Y,0
+3811929,Garrafa 300ml,ingredient,352017,945366,1,50,0,Y,Y,0
+3811931,Copo Descartável 300ml,ingredient,352017,945367,1,1450,0,Y,N,0
+3811941,Lacre de Segurança,ingredient,352017,945366,1,7000,0.05,Y,N,0
+3811942,Copo Milkshake,ingredient,352017,945366,1,0,0.5,Y,N,0
+3811943,Embalagem Fritas P,ingredient,352017,945366,1,1400,0.4,Y,Y,0
+3811944,Embalagem Fritas G,ingredient,352017,945366,1,900,0.55,Y,Y,0
+3811946,Caixa Box,ingredient,352017,945366,1,-1051,2.7,Y,Y,0
+3811947,Cebola Branca,ingredient,352018,945364,4,-0.943,6.99,Y,Y,0
+3811951,Alface,ingredient,352018,945364,1,317.5,0.12,Y,Y,0
+3811955,Tomate,ingredient,352018,945364,4,-42.086,11.99,Y,Y,0
+3811959,Cebola Roxa,ingredient,352018,945364,4,-17.722,8.99,Y,Y,0
+3811960,Cebolinha (Cheiro Verde),ingredient,352018,945362,1,0.824,4.99,Y,Y,0
+3811963,Limão,ingredient,352018,945364,4,13.595,5.99,Y,Y,0
+3811966,Cupuaçu,ingredient,352018,945362,4,1.849,20,Y,N,0
+3811972,Catupiry Sabor Cheddar,ingredient,352019,945362,4,-10.587,50.89,Y,Y,0
+3811973,Queijo Coalho,ingredient,352019,945362,4,-18.423,55,Y,Y,0
+3811975,Queijo Mussarela,ingredient,352019,945362,4,-19.694,49,Y,Y,0
+3811976,Queijo Cheddar Vigor,ingredient,352019,945362,110,-4170.144,0.83,Y,Y,0
+3811978,Leite Integral,ingredient,352019,945362,5,-4.579,7,Y,Y,0
+3811980,Catupiry Original,ingredient,352019,,4,-0.675,45.26,Y,Y,0
+3811981,Margarina,ingredient,352019,945323,4,4,15,Y,N,0
+3811982,Açúcar,ingredient,352020,945362,4,3.839,4.39,Y,Y,0
+3811985,Oléo de Palma,ingredient,352020,945362,1,4,190,Y,Y,0
+3811986,Shoyu,ingredient,352020,945362,5,1.15,15,Y,Y,0
+3811992,Oléo Soja,ingredient,352020,945362,4,1.71,9.86,Y,Y,0
+3811995,Maionese Vigor,ingredient,352020,945362,4,7.274,12.82,Y,Y,0
+3812001,Mostarda Cepera,ingredient,352020,945362,4,-0.915,10.6,Y,Y,0
+3812011,Sal,ingredient,352020,,4,2.703,2.99,Y,N,0
+3812016,Ketchup Cepera,ingredient,352020,945362,4,-1.557,11.85,Y,Y,0
+3812018,Páprica Picante,ingredient,352020,945362,4,0.684,39.8,Y,Y,0
+3812023,Mel,ingredient,352020,945362,4,-0.157,49.85,Y,Y,0
+3812024,Brioche 70g,ingredient,352021,945362,1,-4094,2,Y,Y,0
+3812025,Trigo,ingredient,352022,945362,4,-0.133,4.59,Y,Y,0
+3812030,Farinha Panko,ingredient,352022,945362,4,0.868,25,Y,Y,0
+3812034,Brioche 20g,ingredient,352021,945362,1,-2280,1,Y,Y,0
+3812037,Açúcar (consumo interno),ingredient,352022,945323,4,2,4.39,Y,N,0
+3812042,Nutella,ingredient,352023,945362,4,-0.716,74,Y,Y,0
+3812046,Ovomaltine,ingredient,352023,945362,4,-0.44,53.32,Y,Y,0
+3812048,Sorvete de Creme,ingredient,352023,945362,4,-16.14,26,Y,Y,0
+3812051,Calda de Chocolate,ingredient,352023,945362,4,-0.154,15.38,Y,Y,0
+3812055,Água Mineral 20L,ingredient,352014,945323,5,-76.014,0.55,Y,Y,0
+3812057,Barbecue,ingredient,352020,945362,4,1.305,13.4,Y,Y,0
+3812074,Pepsi 350ml,ingredient,352014,945363,1,-51,2.96,Y,Y,0
+3825272,Cebola Caramelizada,benefited,352020,,4,-32.509,12.33,Y,Y,1.17
+3825282,Molho Maionese Caseira,benefited,352020,,4,-42.293,8.20422222222222,Y,Y,1.8
+3825287,Catupiry Empanado,benefited,352019,,1,-1,5.32,Y,Y,18
+3825294,Batata Frita,datasheet,352016,,1,0,4.3469999999999995,N,N,1
+3825297,Onion Rings,datasheet,,,1,-3,2.625,N,N,1
+3825318,FRANGO EMPANADO,benefited,352015,,1,-134,2.73,Y,Y,12
+3825321,Molho Rosé,benefited,352020,,4,-56.915,12.55,Y,Y,1.5
+3825324,Molho Honey Mustard,benefited,352020,,4,-10.613,14.38,Y,Y,1.21
+3825328,Blend 130g,benefited,352015,,1,-2988.5,4.41,Y,Y,1
+3825331,Blend 100g,benefited,352015,,1,-1058.5,3.4,Y,Y,1
+3825333,Blend 40g,benefited,352015,,1,-2327,1.36,Y,Y,1
+3825341,Creme de Cheddar,benefited,352020,,4,-58.001,31.24,Y,Y,1
+3825342,Costela Desfiada,benefited,352015,,1,-499,2.05,Y,Y,65
+3825348,Pimenta Malagueta,ingredient,352020,945362,4,-0.172,70,Y,Y,0
+3825349,Geleia de Cupuaçu,benefited,352020,,4,-13.476,14.33,Y,Y,1.8
+3825352,Gê Kids,datasheet,,,1,0,4.800078888888889,N,N,1
+3825359,Ge Burger,datasheet,,,1,-4,7.411967777777778,N,N,1
+3825364,Milk-Shake Ovomaltine,datasheet,,,1,0,8.03468,N,N,1
+3825370,Ge Bacon,datasheet,,,1,-3,9.869492653810836,N,N,1
+3825376,Ge Chicken,datasheet,,,1,-2,6.306866433333333,N,N,1
+3825379,Ultra Egg Bacon,datasheet,,,1,-1,8.8913331,N,N,1
+3825381,Ge Salad,datasheet,,,1,-2,8.026517777777778,N,N,1
+3825382,Ge Cream,datasheet,,,1,0,13.174534211111112,N,N,1
+3825384,Ge Onion,datasheet,,,1,-3,10.22477777777778,N,N,1
+3825385,Ge Rib,datasheet,,,1,-2,9.953470416239316,N,N,1
+3825386,Ultra Burger,datasheet,,,1,-4,6.32,N,N,1
+3825392,Ge Box,datasheet,,,1,-1,17.834863645263827,N,N,1
+3825398,Detergente,ingredient,353184,945328,1,74,1.79,Y,N,0
+3825399,Esponja,ingredient,353184,945328,1,0,1,Y,N,0
+3825401,Sabão em Pó 1KG,ingredient,353184,945328,4,0,5.98,Y,N,0
+3825403,Alcool,ingredient,353184,945328,5,6,8.99,Y,N,0
+3825443,Suco Morango,datasheet,,,1,-1,1.8919266666666663,N,N,1
+3825789,Ge Balls,datasheet,,,1,6,0,N,N,1
+3825791,Ultra Salad,datasheet,,,1,-1,6.93885,N,N,1
+3825792,Batata de Carinhas,datasheet,352016,,1,0.8,2.87,N,N,1
+3825795,Fristas Melted,datasheet,,,1,-1,6.1625,N,N,1
+3825815,Gê Classic,datasheet,,,1,-3,9.433937316239318,N,N,1
+3825824,Ge Amazonico,datasheet,,,1,-1,11.130225877777779,N,N,1
+3831315,Milk-Shake Sabor,datasheet,,,1,0,0,N,N,1
+3831330,Milk-Shake Sabor,datasheet,,,1,0,0,N,N,1
+3831690,Oreo,ingredient,352023,945362,4,-0.828,55.55,Y,Y,0
+3831974,Disco de Catupiry Empanado,datasheet,352019,,1,4,5.32,N,N,1
+3831991,Molheira,ingredient,352017,945366,1,269,0.17,Y,N,0
+3831993,Rosé,datasheet,,,111,0,0.37638000000000005,N,N,1
+3832000,Honey Mustard,datasheet,,,111,0,0,N,N,1
+3832010,Maionese Caseira,datasheet,,,111,-7,0,N,N,1
+3832087,Blend 65g,datasheet,352015,,1,0,2.0793500000000003,N,N,1
+3832135,Porção Cebola Caramelizada,datasheet,,,111,0,0.22196953846153847,N,N,1
+3832212,Porção Adc Costela Desfiada,datasheet,,,111,58,2.6,N,N,1
+3832266,Porção Salada,datasheet,,,111,0,0.61455,N,N,1
+3832341,Adicional Queijo Mussarela,datasheet,,,1,-2,1.225,N,N,1
+3832343,Adicional Queijo Coalho,datasheet,,,1,0,0,N,N,1
+3832378,Molho Barbecue,datasheet,,,1,0,0.20099999999999998,N,N,1
+3832634,Ketchup Heinz 7g,ingredient,352020,945362,1,340,0.2,Y,Y,0
+3832637,Mostarda Heinz 7g,ingredient,352020,945362,1,308,0.24,Y,Y,0
+3832648,Colherzinha,ingredient,352017,945367,1,3613,0.04,Y,N,0
+3832673,Kit Sachê Ketchup,datasheet,,,1,0,0.4,N,N,1
+3832679,Kit Sachê Mostarda,datasheet,,,1,0,0,N,N,1
+3832789,Suco Maracujá,datasheet,,,1,-0.5,32.1,N,N,1
+3832893,Adicional Bacon Fatia,datasheet,,,1,-1,1.8,N,N,1
+3841089,Fanta Laranja Sem Açúcar 350ml,ingredient,352014,945363,1,-2,2.57,Y,Y,0
+3841113,Cerveja Long Neck Eisenbahn,ingredient,352014,945363,1,0,6.59,Y,Y,0
+3841122,Cerveja Long Neck Heineken,ingredient,352014,945363,1,-16,6.59,Y,Y,0
+3841133,Cerveja Long Neck Corona,ingredient,352014,945363,1,2,6.59,Y,Y,0
+3844695,Fini,ingredient,352023,968728,1,343,0.75,Y,N,0
+3844733,Desinfetante,ingredient,353184,945328,5,10,3.52,Y,N,0
+3844734,Saco de Lixo 15L,ingredient,353184,945328,1,4,6.99,Y,N,0
+3844755,Saco de Lixo 30L,ingredient,353184,945328,1,2,8.99,Y,N,0
+3844761,Saco de Lixo 50L,ingredient,353184,945328,1,2,10.99,Y,N,0
+3844764,Saco de Lixo 100L,ingredient,353184,945328,1,7,11.99,Y,N,0
+3844769,Papel Higiênico,ingredient,353184,945328,59,16,1.99,Y,N,0
+3844796,Papel Interfolhado,ingredient,353184,945328,1,1.5,21,Y,N,0
+3844805,Cif,ingredient,353184,945328,1,1,11.9,Y,N,0
+3844816,Luva Látex (uso interno),ingredient,353184,945328,1,4,8.99,Y,N,0
+3844820,Papel Toalha Rolão Bromélia,ingredient,353184,945328,1,17,12.81,Y,N,0
+3844835,Esponja Amarela,ingredient,353184,945328,1,7,1,Y,N,0
+3844842,Pedra Sanitária,ingredient,353184,945328,1,7,2.49,Y,N,0
+3844854,Esponja Azul,ingredient,353184,945328,1,5,1.89,Y,N,0
+3844872,Luva Produção (Nitrilíca),ingredient,352017,945329,1,100,0,Y,Y,0
+3844874,Sorvete Sensação (Morango),ingredient,352023,945362,4,9,26,Y,Y,0
+3844877,Saco PP,ingredient,352017,945366,1,492,1.05,Y,Y,0
+3844888,Saco P,ingredient,352017,945366,1,600,1.25,Y,Y,0
+3844918,Saco M,ingredient,352017,945366,1,200,1.45,Y,Y,0
+3844933,Saco 1kg,ingredient,352017,945366,1,115,3.14,Y,N,0
+3844985,Saco 2kg,ingredient,352017,945366,1,262,4.5,Y,N,0
+3844993,Saco 3kg,ingredient,352017,945367,1,202,5.01,Y,N,0
+3845004,Saco 5kg,ingredient,352017,945367,1,300,7,Y,N,0
+3845008,Saco 500g (meio kg),ingredient,352017,945367,1,3,1.67,Y,N,0
+3845012,Pote 145ml,ingredient,352017,945366,1,75,0.4,Y,N,0
+3845026,Canudo Suco (Fino),ingredient,352017,945367,1,300,0.05,Y,N,0
+3845034,Canudo Milk-Shake (Grosso),ingredient,352017,945367,1,300,0.11,Y,N,0
+3845040,Papel Manteiga,ingredient,352017,945366,1,800,0.35,Y,N,0
+3845056,Papel Térmico,ingredient,352017,945366,1,1992,0.48,Y,N,0
+3845062,Palito Ge Box,ingredient,352017,945367,1,3800,0.02,Y,N,0
+3845084,Guardanapo Junior Salão,ingredient,352017,945367,1,3200,0.12,Y,N,0
+3845095,Filme PVC (Insufilm),ingredient,352017,945367,46,1000,0.12,Y,N,0
+3845117,Papel Alumínio,ingredient,352017,945367,46,315,0.65,Y,N,0
+3845129,Gordura Vegetal Doratta,ingredient,352020,945362,12,1.5,213,Y,N,0
+3845140,Molho Inglês,ingredient,352020,945362,5,0.4,8.39,Y,Y,0
+3845148,Maionese Hemmer,ingredient,352020,945362,4,5,21.9,Y,Y,0
+3845153,Açúcar Sachet,ingredient,352020,945362,1,1372,0.06,Y,N,0
+3845160,Sal Sachet,ingredient,352020,945362,1,700,0.01,Y,N,0
+3845222,Papel Kraft Delivery,ingredient,352017,945366,1,250,0.04,Y,N,0
+3845223,Orégano,ingredient,352020,945366,4,-0.031,90,Y,Y,0
+3845246,Pimenta do Reino,ingredient,352020,945362,4,0.3,93.8,Y,N,0
+3845247,Bobina,ingredient,352017,945326,1,26,5,Y,N,0
+3861891,Ge Balls Receita,benefited,352015,,111,-148,4.05,Y,Y,36
+3861913,Suco de Maracujá Receita,benefited,352014,,5,-44.3,8.92,Y,N,3.6
+3861922,Suco de Morango Receita,benefited,352014,,5,-55.9,6.761333333333334,Y,N,0.3
+3881594,"Coca Cola Original 1,5L",ingredient,352014,945363,1,-44,6.97,Y,Y,0
+3893886,Combo Ge da Galera,datasheet,,,1,0,45.73524999999999,N,N,1
+3893911,Combo Ge Família,datasheet,,,1,0,33.2781,N,N,1
+3912412,Carne Bovina Moída,ingredient,352015,945362,4,-72.387,33.99,Y,N,0
+3912438,Blend 50g,datasheet,352015,,1,0,0,N,N,1
+3928422,Suco Kapo de Morango,ingredient,352014,945363,1,0,2.19,Y,Y,0
+4037284,Frango Empanado -,datasheet,,,1,0,2.73,N,N,1
+4037301,Geleia de Cupuaçu -,datasheet,,,111,0,0.45856,N,N,1
+4139989,Sprite Original 350ml,ingredient,352014,945363,1,3,2.98,Y,Y,0
+4142520,Fanta Laranja 1L,ingredient,352014,945363,1,-27,4.09,Y,N,0
+4220132,Biscoff,ingredient,352023,945362,4,0.623,116,Y,Y,0
+4220136,Milk-Shake Sabor,datasheet,,,1,0,0,N,N,1
+4321722,Oklahoma,datasheet,,,1,0,4.3697,N,N,1
+4321723,Pão Brioche de Forma,ingredient,352021,945362,1,-4,4.5,Y,Y,0
+4323760,Suco Dell Valle Uva,ingredient,352014,945363,1,1,5.97,Y,Y,0
+4588766,Linguiça Toscana,ingredient,352015,945362,4,0,30,Y,N,0
+4588774,Banana Pacovã,ingredient,352018,945364,4,-12.73,9.99,Y,N,0
+4588977,Manga,ingredient,352018,945364,4,0,8.99,Y,N,0
+4589343,Ge Tropical,datasheet,,,1,0,10.953800000000001,N,N,1
+4589454,Toscana,datasheet,,,1,0,8.0257,N,N,1
+4589465,Vinagrete de Manga,benefited,352018,,1,0,0.24575,Y,N,1
+5068384,Picles,ingredient,352020,945362,4,1.08,100,Y,N,0
+5068391,Ge American,datasheet,,,1,0,10.975100000000001,N,N,1
+5259862,Q. Coalho com Cupuaçu,datasheet,,,111,0,5.0732,N,N,0
+5563575,Ge Box - Encomendas,datasheet,,,1,0,0,N,N,1
+6167518,Tuchaua Boi,ingredient,352014,945363,1,24,2.79,Y,Y,0
+6204826,Queijo Cheddar Schreiber,ingredient,352019,945362,110,0,0.55,Y,Y,0
+6215030,Guaraná Zero 1L,ingredient,352014,945363,1,0,3.99,Y,Y,0
+6215037,Coca Zero 1L,ingredient,352014,945363,1,-34,5.97,Y,Y,0
+6218382,Hot Dog Prensado,datasheet,,,1,0,3.76825,N,N,1
+6240431,Salsicha,ingredient,352015,945362,1,-32,0.7,Y,Y,0
+6240435,Batata Palha,ingredient,352022,945362,4,-0.24,16,Y,Y,0
+6240438,Molho de Tomate,ingredient,352020,945362,4,-0.32,8.33,Y,Y,0
+6240442,Pão Hot Dog,ingredient,352021,945362,1,-16,2.5,Y,Y,0
+6420952,Ge Box Prime,datasheet,,,1,0,7.991999999999999,N,N,1
+6541531,Ge balls-Box Prime,datasheet,,,111,0,3.24,N,N,1

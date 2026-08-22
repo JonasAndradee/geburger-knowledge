@@ -14,13 +14,20 @@ o dado é do Oka e que precisa ser validado no Geburger antes de virar decisão.
 
 Geburger, hamburgueria em Manaus/AM.
 
-Unidades: [preencher, quantas e quais]
+Unidades: 1 confirmada até 22/08/2026, "Ge Burger", ID 62061 no Saipos.
+Não confirmado se existe mais alguma unidade.
 
 Endereços: [preencher]
 
-WhatsApp de atendimento: [preencher]. Site de pedido: [preencher]
+WhatsApp de atendimento: [preencher]. Site de pedido: [preencher, delivery
+próprio aparece como canal "Site Delivery (SAIPOS)" nos relatórios]
 
-Canais de venda: [preencher: balcão, salão, WhatsApp, iFood, 99food, site próprio]
+Canais de venda confirmados (jan a 22/08/2026): iFood (1.134 pedidos,
+R$ 70.937,61), site/delivery próprio via Saipos (822 pedidos,
+R$ 74.266,70), telefone (285 pedidos, R$ 22.571,11), 99Food (66 pedidos,
+R$ 4.283,92, só a partir de abril/2026), além de balcão, mesa e ficha
+vendidos direto no PDV. Facebook e WhatsApp como canal de venda registrado:
+0 pedidos no período. Ver `operacao/unidades/ge-burger.md`.
 
 Sócios e papéis: [preencher]
 
@@ -28,19 +35,27 @@ Atendimento de WhatsApp: [preencher, quem faz]
 
 Estrutura societária: [preencher: CNPJs, contas bancárias, modelo de compras]
 
-Ticket médio: [preencher, por canal e com período do dado]
+Ticket médio: [preencher por canal. Dado bruto de vendas já está em
+`operacao/dados/vendas-por-periodo-62061-2026-01-a-08.md`, falta calcular
+por canal especificamente]
 
-Margem de contribuição por lanche: [preencher, com CMV médio]
+Margem de contribuição por lanche: [preencher. Fichas técnicas e custo
+médio de insumo já levantados em `operacao/06-estoque-ingredientes-e-fichas.md`,
+mas custo médio pode estar distorcido: 44% dos itens de estoque estão com
+saldo negativo, ver o mesmo arquivo antes de usar o número]
 
 ## Ferramentas
 
-[preencher. Listar cada uma com o que ela resolve, no formato abaixo]
-
-- PDV e financeiro: [preencher]
-- Plataforma do delivery próprio: [preencher]
+- PDV e financeiro: Saipos (mesmo sistema do Oka Guaraná)
+- Plataforma do delivery próprio: aparece como "Site Delivery (SAIPOS)" nos
+  relatórios de venda. Não confirmado se é o Cardápio Web do Saipos ou outra
+  plataforma integrada
 - Fidelidade e CRM: [preencher]
-- Marketplaces: [preencher]
+- Marketplaces: iFood e 99Food confirmados
 - Automação: [preencher]
+- Tráfego pago: Meta Ads, conta de anúncios `708536560751820` ("Gê Burger ->
+  Digital Livre"), na mesma BM ("Ge burger") que hospeda a conta do Oka
+  Guaraná. Ver `trafego/`
 
 ## Como eu quero que você fale
 

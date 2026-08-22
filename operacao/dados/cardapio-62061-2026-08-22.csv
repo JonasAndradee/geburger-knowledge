@@ -1,0 +1,184 @@
+id;nome;categoria;ativo;tipo;delivery;site;digital_menu;variacoes;descricao
+23625655;Diversos;Diversos;Y;other;Y;Y;Y;Diversos:0;
+23677364;Gê Fritas;Entradas;Y;other;Y;Y;Y;Único:16;Porção de 230g (peso in natura) de batata crocante com nosso tempero especial.
+23677365;Ge Amazônico;Hambúrgueres;Y;other;Y;Y;N;Único:39;Hambúrguer 130g, queijo coalho, geleia de cupuaçu, bacon em cubos, e maionese levemente apimentada no pão brioche de fermentação natural.
+23677366;Ge Onion;Hambúrgueres;N;other;Y;Y;Y;Único:38;Smash burger 130g ( duas carnes, 65g cada), queijo cheddar, onion rings, fatias de bacon e molho barbecue no pão brioche de fermentação natural.
+23677367;Ge Salad;Hambúrgueres;Y;other;Y;Y;Y;Único:32;Smash burger 130g (duas carnes, 65g cada), queijo cheddar, tomate, cebola roxa, alface e molho rosé no pão brioche de fermentação natural.
+23677368;Ge Burger;Hambúrgueres;Y;other;Y;Y;Y;Único:26;Hambúrguer 130g, queijo cheddar e molho rosé no pão brioche de fermentação natural.
+23677369;Gê Balls;Entradas;Y;other;Y;Y;Y;Único:21;Porção de 05 bolinhas empanadas de frango desfiado com Catupiry Original e toque de cebolinha verde.
+23677370;Ge Bacon;Hambúrgueres;Y;other;Y;Y;Y;Único:34;Hambúrguer 130g, queijo cheddar, fatias de bacon e molho mostarda e mel no pão brioche de fermentação natural.
+23677371;Fritas Melted- Grande;Entradas;Y;other;Y;Y;Y;Único:28;Porção de 250g (peso in natura) de batata-frita crocante, com queijo cheddar cremoso e farofa de bacon.
+23677372;Ge Chicken;Hambúrgueres;N;other;Y;Y;N;Único:27;Frango empanado crocante, creme de cheddar, alface, tomate e maionese levemente apimentada no pão brioche de fermentação natural.
+23677373;Ge Cream;Hambúrgueres;N;other;Y;Y;Y;Único:45;Smash burger de 130g (duas carnes, 65g cada), queijo cheddar, Catupiry Original empanado no panko, alface e tomate, e maionese no pão brioche de fermentação natural.
+23677374;Onion Rings;Entradas;N;other;Y;Y;Y;Único:14;Porção de 6 unidades de Anéis de cebola empanadas.
+23677375;Ge Box;Mais Pedidos;Y;other;Y;Y;Y;Único:59.9;Caixa com 6 mini burgers com smash de 40g cada nos sabores burger, classic, salad e bacon + 3 molhos para acompanhar.
+23677377;Ge Rib;Hambúrgueres;Y;other;Y;Y;Y;Único:39;Hambúrguer 130g, queijo mussarela, costela bovina desfiada, cebola caramelizada e maionese no pão brioche de fermentação natural.
+23677379;Combo Kids;Combo Kids;Y;other;Y;Y;Y;Único:40;Burger (Smash burger 65g, queijo cheddar e molho rosé no pão brioche), porção de batatas com carinhas e suco Kapo de Morango 200ml
+23677385;Ultra Egg Bacon;Ultra Smash;Y;other;Y;Y;Y;Único:31;Smash Burger de 100g ( duas carnes, 50g cada), creme de cheddar, ovo frito, fatias de bacon e maionese no pão brioche de fermentação natural.
+23677407;Ultra Salad;Ultra Smash;Y;other;Y;Y;Y;Único:28;Smash burger 100g (duas carnes, 50g cada), creme de cheddar, tomate, cebola roxa, alface e molho rosé no pão brioche de fermentação natural.
+23677426;Ultra Burger;Ultra Smash;Y;other;Y;Y;Y;Único:23;Smash burger de 100g ( duas carnes, 50g cada), creme de cheddar e molho rosê no pão brioche de fermentação natural.
+23677427;Fanta Laranja de 1l;Bebidas;N;other;Y;Y;Y;Único:11;
+23677434;Ge Classic;Hambúrgueres;Y;other;Y;Y;Y;Único:36;Smash burger de 130g, ( duas carnes 65g cada), queijo cheddar, cebola caramelizada, bacon em fatias e molho rosé no pão brioche de fermentação natural.
+23852518; S - Ge Para Dois;S - Mais Pedidos ;Y;other;N;N;N;Único:89;2 burgers à sua escolha, uma porção de fritas + Refrigerante de 1L
+23852525;Ge Para Dois;Mais Pedidos;Y;other;N;Y;N;Único:94;2 hambúrgueres à sua escolha, uma porção de fritas + Refrigerante de 1L
+23928311;S - Pepsi Black;S - Bebidas;Y;other;N;N;N;Único:7;
+23928312;S - Combo Ultra Burger;S - Gê Combos!;Y;other;N;N;N;Único:35;Smash burger de 100g (duas carnes, 50g cada), creme de cheddar e molho rosé no pão brioche de fermentação natural. + 1 porção de batata-frita P + Refrigerante de 350m
+23928313;S - Guaraná Antarctica Zero;S - Bebidas;Y;other;N;N;N;Único:7;
+23928314;S - Schweppes Citrus;S - Bebidas;Y;other;N;N;N;Único:7;
+23928315;S - Água com Gás;S - Bebidas;Y;other;N;N;N;Único:5;
+23928316;S - Coca Cola de 1l;S - Bebidas;Y;other;N;N;N;Único:11;
+23928317;S - Combo Ge Onion;S - Gê Combos!;N;other;N;N;N;Único:50;Smash burger de 130g (duas carnes, 65g cada), duas fatias de queijo cheddar, onion rings, fatias de bacon e molho barbecue no pão brioche de fermentação natural. + 1 porção de batata-frita P + Refrigerante de 350m
+23928323;S - Pepsi Black 1l;S - Bebidas;N;other;N;N;N;Único:11;
+23928324;S - Pepsi;S - Bebidas;Y;other;N;N;N;Único:7;
+23928325;S - Combo Ge Cream;S - Gê Combos!;N;other;N;N;N;Único:57;Smash burger de 130g (duas carnes, 65g cada), queijo cheddar, Catupiry Original empanado no panko, alface e tomate, e maionese no pão brioche de fermentação natural. + 1 porção de batata-frita P + Refrigerante de 350ml
+23928326;S - Combo Ge Bacon;S - Gê Combos!;Y;other;N;N;N;Único:46;Smash burger de 130g (duas carnes, 65g cada), duas fatias de queijo cheddar, fatias de bacon e molho mostarda com mel no pão brioche de fermentação natural. + 1 porção de batata-frita P + Refrigerante de 350m
+23928327;S - Fanta Uva;S - Bebidas;Y;other;N;N;N;Único:7;
+23928328;S - Coca Zero;S - Bebidas;Y;other;N;N;N;Único:7;
+23928329;S - Guaraná Antarctica;S - Bebidas;Y;other;N;N;N;Único:7;
+23928330;S - Sprite Zero 350ml;S - Bebidas;Y;other;N;N;N;Único:7;
+23928335;S - Combo Ge Classic;S - Gê Combos!;Y;other;N;N;N;Único:48;Smash burger de 130g (duas carnes, 65g cada), duas fatias de queijo cheddar, cebola caramelizada, bacon em fatias e molho rosé no pão brioche de fermentação natural. + 1 porção de batata-frita P + Refrigerante de 350m
+23928336;S - Combo Kids + Brinde;S - Combo Kids;Y;other;N;N;N;Único:40;Burger (Smash burger 65g, queijo cheddar e molho rosé no pão brioche), porção de batatas com carinhas e suco Kapo de Morango 200ml + Caneta Ornamentada
+23928337;S - Coca Zero 1,5l;S - Bebidas;Y;other;N;N;N;Único:13;
+23928338;S - Combo Ultra Salad;S - Gê Combos!;Y;other;N;N;N;Único:40;Smash burger de 100g (duas carnes, 50g cada) ,creme cheddar, tomate, cebola roxa, alface e molho rosé no pão brioche de fermentação natural. + 1 porção de batata-frita P + Refrigerante de 350m
+23928339;S - Fanta Uva de 1,5l;S - Bebidas;N;other;N;N;N;Único:13;
+23928340;S - Coca Cola;S - Bebidas;Y;other;N;N;N;Único:7;
+23928341;S - Combo Ge Burger;S - Gê Combos!;Y;other;N;N;N;Único:38;Smash burger de 130g (duas carnes, 65g cada), duas fatias de queijo cheddar, e molho rosé no pão brioche de fermentação natural. + 1 porção de batata-frita P + Refrigerante de 350ml
+23928342;S - Combo Ge Chicken;S - Gê Combos!;Y;other;N;N;N;Único:39;Frango empanado crocante, creme de cheddar, alface, tomate e maionese levemente apimentada no pão brioche de fermentação natural. + 1 porção de batata-frita P + Refrigerante de 350m
+23928343;S - Guaraná Antarctica de 1l;S - Bebidas;Y;other;N;N;N;Único:11;
+23928344;S - Combo Ge Salad;S - Gê Combos!;Y;other;N;N;N;Único:44;Smash burger de 130g (duas carnes, 65g cada), duas fatias de queijo cheddar, tomate, cebola roxa, alface e molho rosé no pão brioche de fermentação natural. + 1 porção de batata-frita P + Refrigerante de 350m
+23928346;S - Combo Ultra Egg Bacon;S - Gê Combos!;Y;other;N;N;N;Único:43;Smash burger de 100g (duas carnes, 50g cada), creme de cheddar, ovo frito, fatias de bacon e maionese no pão brioche de fermentação natural. + 1 porção de batata-frita P + Refrigerante de 350m
+23928347;S - Combo Ge Rib;S - Gê Combos!;Y;other;N;N;N;Único:51;Smash burger de 130g (duas carnes, 65g cada), queijo mussarela, costela bovina desfiada, cebola caramelizada e maionese no pão brioche de fermentação natural. + 1 porção de batata-frita P + Refrigerante de 350m
+23928348;S - Suco Natural;S - Bebidas;Y;other;N;N;N;Único:11;
+23928350;S - Ge Família;S - Mais Pedidos ;Y;other;N;N;N;Único:129;
+23959429;D - Ge Para Dois;Mais Pedidos;Y;other;Y;N;N;Único:89;Ge Salad e Ge Bacon, uma porção de fritas + Refrigerante de 1L
+23959596;Combo Ultra Satisfação;Mais Pedidos;Y;other;N;Y;N;Único:92.9;Ge Box (Caixa com 6 mini burgers e 3 molhos) + 1 Ultra Burger (Smash burger de 100g, creme de cheddar e molho rosé) + Refrigerante 1L
+23959641;D - Combo Ultra Satisfação;Mais Pedidos;Y;other;Y;N;N;Único:82.9;Ge Box + 1 Ultra Burger (Smash burger de 100g, creme de cheddar e molho rosé no pão brioche de fermentação natural) + Refrigerante 1L
+23959655;Ge Família;Mais Pedidos;Y;other;N;Y;N;Único:144;2 Ge Salads + 2 Ge Burgers + 2 Batatas + 1 Refrigerante 1.5L
+23959699;D - Ge Família;Mais Pedidos;Y;other;Y;N;N;Único:129;2 Ge Salads + 2 Ge Burgers + 2 Batatas + 1 Refrigerante 1.5L
+23959773;Burger + Bebida Gelada #ComDesconto;Mais Pedidos;Y;other;Y;Y;N;Único:27.5;Escolha seu hambúrguer + refri em lata
+24016970;Combo Ge Chicken;Burger + Fritas + Refri!;Y;other;Y;Y;N;Único:39;Frango empanado crocante, creme de cheddar, alface, tomate e maionese levemente apimentada no pão brioche de fermentação natural. + 1 porção de batata-frita P + Refrigerante de 350m
+24017033;Combo Ge Bacon;Burger + Fritas + Refri!;Y;other;Y;Y;N;Único:46;Hambúrguer 130g, queijo cheddar, fatias de bacon e molho mostarda com mel no pão brioche de fermentação natural. + 1 porção de batata-frita P + Refrigerante de 350m
+24017040;Combo Ge Burger;Burger + Fritas + Refri!;Y;other;Y;Y;N;Único:38;Hambúrguer 130g, queijo cheddar, e molho rosé no pão brioche de fermentação natural. + 1 porção de batata-frita P + Refrigerante de 350ml
+24017056;Combo Ge Classic;Burger + Fritas + Refri!;Y;other;Y;Y;N;Único:48;Smash burger de 130g (duas carnes, 65g cada), queijo cheddar, cebola caramelizada, bacon em fatias e molho rosé no pão brioche de fermentação natural. + 1 porção de batata-frita P + Refrigerante de 350m
+24017066;Combo Ge Cream;Burger + Fritas + Refri!;N;other;Y;Y;N;Único:57;Smash burger de 130g (duas carnes, 65g cada), queijo cheddar, Catupiry Original empanado no panko, alface e tomate, e maionese no pão brioche de fermentação natural. + 1 porção de batata-frita P + Refrigerante de 350ml
+24017072;Combo Ge Onion;Burger + Fritas + Refri!;N;other;Y;Y;N;Único:50;Smash burger de 130g (duas carnes, 65g cada), queijo cheddar, onion rings, fatias de bacon e molho barbecue no pão brioche de fermentação natural. + 1 porção de batata-frita P + Refrigerante de 350m
+24017090;Combo Ge Rib;Burger + Fritas + Refri!;Y;other;Y;Y;N;Único:51;Hambúrguer 130g, queijo mussarela, costela bovina desfiada, cebola caramelizada e maionese no pão brioche de fermentação natural. + 1 porção de batata-frita P + Refrigerante de 350m
+24017096;Combo Ge Salad;Burger + Fritas + Refri!;Y;other;Y;Y;N;Único:44;Smash burger de 130g (duas carnes, 65g cada), queijo cheddar, tomate, cebola roxa, alface e molho rosé no pão brioche de fermentação natural. + 1 porção de batata-frita P + Refrigerante de 350m
+24017107;Combo Ultra Burger;Burger + Fritas + Refri!;Y;other;Y;Y;N;Único:35;Smash burger de 100g (duas carnes, 50g cada), creme de cheddar e molho rosé no pão brioche de fermentação natural. + 1 porção de batata-frita P + Refrigerante de 350m
+24017116;Combo Ultra Egg Bacon;Burger + Fritas + Refri!;Y;other;Y;Y;N;Único:43;Smash burger de 100g (duas carnes, 50g cada), creme de cheddar, ovo frito, fatias de bacon e maionese no pão brioche de fermentação natural. + 1 porção de batata-frita P + Refrigerante de 350m
+24017125;Combo Ultra Salad;Burger + Fritas + Refri!;Y;other;Y;Y;N;Único:40;Smash burger de 100g (duas carnes, 50g cada) ,creme cheddar, tomate, cebola roxa, alface e molho rosé no pão brioche de fermentação natural. + 1 porção de batata-frita P + Refrigerante de 350m
+24017879;S - Ge Para Três;S - Mais Pedidos ;Y;other;Y;N;N;Único:132;
+24019002;S - Combo Ge Amazônico;S - Gê Combos!;Y;other;N;N;N;Único:51;A incrível combinação do nosso Smash burger 130g ( duas carnes, 65g cada), queijo coalho, geleia de cupuaçu, bacon em cubos, e maionese levemente apimentada no pão brioche de fermentação natural.
+24019011;Combo Ge Amazônico;Burger + Fritas + Refri!;Y;other;Y;Y;N;Único:51;Hambúrguer 130g, queijo coalho, geleia de cupuaçu, bacon em cubos, e maionese levemente apimentada no pão brioche de fermentação natural.
+24149882;S - Ge Burger ;S - Smash;Y;other;N;N;N;Único:26;Smash burger de 130g (duas carnes, 65g cada), duas fatias de queijo cheddar e molho rosé no pão brioche de fermentação natural.
+24149972;S - Ge Amazônico;S - Smash;Y;other;N;N;N;Único:39;A incrível combinação do nosso Smash burger 130g ( duas carnes, 65g cada), queijo coalho, geleia de cupuaçu, bacon em cubos, e maionese levemente apimentada no pão brioche de fermentação natural.
+24149980;S - Ge Chicken;S - Smash;Y;other;N;N;N;Único:27;Frango empanado crocante, creme de cheddar, alface, tomate e maionese levemente apimentada no pão brioche de fermentação natural.
+24150079;S - Batata Simples - Pequena;S - Entradas;Y;other;Y;N;N;Único:8;
+24150222;S - Ge Rib;S - Smash;Y;other;N;N;N;Único:39;Smash burger de 130g (duas carnes, 65g cada), queijo mussarela, costela bovina desfiada, cebola caramelizada e maionese no pão brioche de fermentação natural.
+24150231;S - Ge Onion;S - Smash;N;other;N;N;N;Único:38;Smash burger 130g ( duas carnes, 65g cada), duas fatias de queijo cheddar, onion rings, fatias de bacon e molho barbecue no pão brioche de fermentação natural.
+24150238;S - Ge Cream;S - Smash;N;other;N;N;N;Único:45;Smash burger de 130g (duas carnes, 65g cada), queijo cheddar, Catupiry Original empanado no panko, alface e tomate, e maionese no pão brioche de fermentação natural.
+24150249;S - Ge Classic;S - Smash;Y;other;N;N;N;Único:36;Smash burger de 130g, ( duas carnes 65g cada), duas fatias de queijo cheddar, cebola caramelizada, bacon em fatias e molho rosé no pão brioche de fermentação natural.
+24150334;S - Ge Salad;S - Smash;Y;other;N;N;N;Único:32;Smash burger 130g (duas carnes, 65g cada), duas fatias de queijo cheddar, tomate, cebola roxa, alface e molho rosé no pão brioche de fermentação natural.
+24150611;S - Ultra Burger;S - Ultra Smash;Y;other;N;N;N;Único:23;Smash burger de 100g ( duas carnes, 50g cada), creme de cheddar e molho rosê no pão brioche de fermentação natural.
+24150621;S - Ge Kids ;S - Ultra Smash;Y;other;N;N;N;Único:19;
+24150639;S - Ultra Salad;S - Ultra Smash;Y;other;N;N;N;Único:28;Smash burger 100g (duas carnes, 50g cada), creme de cheddar, tomate, cebola roxa, alface e molho rosé no pão brioche de fermentação natural.
+24150660;S - Ultra Egg Bacon;S - Ultra Smash;Y;other;N;N;N;Único:31;Smash Burger de 100g ( duas carnes, 50g cada), creme de cheddar, ovo frito, fatias de bacon e maionese no pão brioche de fermentação natural.
+24150684;S - Ge Box;S - Ge Box;Y;other;N;N;N;Único:59.9;Caixa com 6 mini burgers com smash de 40g cada nos sabores burger, classic, salad e bacon + 3 molhos para acompanhar.
+24150809;S - Fritas Melted- Grande;S - Entradas;Y;other;N;N;N;Único:28;Porção de 250g (peso in natura) de batata-frita crocante, com queijo cheddar cremoso e farofa de bacon.
+24150821;S - Gê Balls;S - Entradas;Y;other;N;N;N;Único:21;Porção de 05 bolinhas empanadas de frango desfiado com Catupiry Original e toque de cebolinha verde.
+24150825;S - Gê Fritas;S - Entradas;Y;other;N;N;N;Único:16;Porção de 230g (peso in natura) de batata crocante.
+24150863;Milkshake;S - Sobremesas;Y;other;N;N;N;Único:27;
+24151194;S - Ge Burger - GANHOU;S - Smash;Y;other;N;N;N;Único:0;
+24151330;2 Ultra Burger + Bebida #Promo;Promoções Ifood;Y;other;N;N;N;Único:56.9;
+24151333;2 Ultra Egg Bacon + Bebida #Promo;Promoções Ifood;Y;other;N;N;N;Único:69.9;
+24151336;Ge Box + Bebida #Promo;Promoções Ifood;Y;other;N;N;N;Único:69.9;
+24151352;2 Ultra Burger #Promo;Promoções Ifood;Y;other;N;N;N;Único:49.9;
+24151355;2 Smashs #Promo;Promoções Ifood;Y;other;N;N;N;Único:51.9;
+24151365;Dupla Delícia | 02 Burgers 130g #Promo;Promoções Ifood;Y;other;N;N;N;Único:56.9;
+24151375;02 Ultra Egg & Bacon + Bebida 1l;Promoções Ifood;Y;other;N;N;N;Único:79.9;
+24151384;Burger + Bebida No Precinho #Promo;Promoções Ifood;Y;other;N;N;N;Único:34.9;
+24151394;Monte Seu Gcombo | Burger + Batata + Bebida;Promoções Ifood;Y;other;N;N;N;Único:42.9;
+24151400;Compre 2 Burgers E Leve o 3º Com 25%Off;Promoções Ifood;Y;other;N;N;N;Único:59.9;
+24151403;Combo Casal | 2 Burgers 130g + 01 Batata Frita + 02 Bebidas;Promoções Ifood;Y;other;N;N;N;Único:77.9;
+24151406;Combo Casal | 2 Burgers 130g + 01 Batata Frita + 02 Bebidas - CÓPIA;Promoções Ifood;Y;other;N;N;N;Único:77.9;
+24151409;3 Smash + Entrada + Bebida;Promoções Ifood;Y;other;N;N;N;Único:88.9;
+24151412;Ultra Egg & Bacon + Batata + Bebida;Promoções Ifood;Y;other;N;N;N;Único:51.9;
+24151415; 2 Smash Ultra Burguer + 2 Bebidas #Promo;Promoções Ifood;Y;other;N;N;N;Único:62.9;
+24151451;S - Fanta Laranja de 1l;S - Bebidas;N;other;N;N;N;Único:11;
+24151454;S - Água Mineral;S - Bebidas;Y;other;N;N;N;Único:5;
+24213742;Ge Rib por R$29,90;Burger do Dia;N;other;Y;Y;N;Único:29.9;Smash burger de 130g (duas carnes, 65g cada), queijo mussarela, costela bovina desfiada, cebola caramelizada e maionese no pão brioche de fermentação natural.
+24213949;S - Ge Rib por 29,90;S - Burger do Dia;N;other;N;N;N;Único:29.9;
+24269285;Ge Amazônico por R$26,91;Burger do Dia;N;other;Y;Y;N;Único:39;A incrível combinação do nosso Smash burger 130g ( duas carnes, 65g cada), queijo coalho, geleia de cupuaçu, bacon em cubos, e maionese levemente apimentada no pão brioche de fermentação natural.
+24269446;S - Ge Amazônico por 26,91;S - Burger do Dia;N;other;N;N;N;Único:26.91;A incrível combinação do nosso Smash burger 130g ( duas carnes, 65g cada), queijo coalho, geleia de cupuaçu, bacon em cubos, e maionese levemente apimentada no pão brioche de fermentação natural.
+24275044;Batata Simples - Pequena;Entradas;Y;other;Y;N;N;Único:8;
+24305480;Ge Onion por 29,90;Burger do Dia;N;other;Y;Y;N;Único:29.9;Smash burger 130g ( duas carnes, 65g cada), duas fatias de queijo cheddar, onion rings, fatias de bacon e molho barbecue no pão brioche de fermentação natural.
+24305487;S - Ge Onion por 29,90;S - Burger do Dia;N;other;N;N;N;Único:29.9;
+24305854;Adicionais;Complementos;Y;other;Y;N;N;Único:0;
+24311684;S - Cerveja Heineken;S - Bebidas;Y;other;N;N;N;Único:12;
+24340398;HAPPY HOUR! Hambúrguer + Batata Frita Grátis;Promoção do Dia;N;other;Y;Y;N;Único:0;
+24340412;S - HAPPY HOUR! Hambúrguer + Batata Frita Grátis;Promoção do Dia;Y;other;N;N;N;Único:0;
+24522107;S - Coronita 210ml;S - Bebidas;Y;other;N;N;N;Único:10;
+24523627;Combo Ge Burger (Batata G);S - Gê Combos!;Y;other;Y;N;Y;Único:44.5;
+24557030;S - Guaraná Tuchaua 1L;S - Bebidas;N;other;N;N;N;Único:11;
+24557051;Guaraná Tuchaua 1,5L;Bebidas;N;other;Y;Y;N;Único:13;
+24636441;S - Ge Bacon;S - Smash;Y;other;N;N;N;Único:34;Smash burger 130g ( duas carnes, 65g cada), duas fatias de queijo cheddar, fatias de bacon e molho mostarda e mel no pão brioche de fermentação natural.
+24724618;S - Coca Cola KS;S - Bebidas;Y;other;N;N;N;Único:6;
+24768549;Ge Salad;GE WEEK;N;other;N;Y;N;Único:32;Smash burger 130g (duas carnes, 65g cada), queijo cheddar, tomate, cebola roxa, alface e molho rosé no pão brioche de fermentação natural.
+24768615;S - Ge Salad;GE WEEK;N;other;N;N;N;Único:24.2;
+24768651;D - Ge Salad;GE WEEK;N;other;Y;N;N;Único:24.2;
+24770561;S - Suco Kapo;S - Bebidas;N;other;N;N;Y;Único:5;
+24862816;Cerveja Eisenbahn;S - Bebidas;N;other;N;N;N;Único:12;
+25100277;Coca Zero;Bebidas;Y;other;Y;Y;Y;Único:7;
+25100289;Coca Cola;Bebidas;Y;other;Y;Y;Y;Único:7;
+25100292;Sprite Zero 350ml;Bebidas;N;other;Y;Y;Y;Único:7;
+25100295;Pepsi;Bebidas;Y;other;Y;Y;Y;Único:7;
+25100307;Água Mineral;Bebidas;Y;other;Y;Y;Y;Único:5;
+25100311;Fanta Uva de 1,5l;Bebidas;N;other;Y;Y;Y;Único:13;
+25100314;Pepsi Black 1l;Bebidas;Y;other;Y;Y;Y;Único:11;
+25100317;Água com Gás;Bebidas;Y;other;Y;Y;Y;Único:5;
+25100326;Coca Cola de 1l;Bebidas;N;other;Y;Y;Y;Único:11;
+25100335;Coca Zero 1,5l;Bebidas;Y;other;Y;Y;Y;Único:13;
+25100344;Guaraná Antarctica de 1l;Bebidas;Y;other;Y;Y;Y;Único:11;
+25100347;Guaraná Antarctica Zero;Bebidas;Y;other;Y;Y;Y;Único:7;
+25100350;Pepsi Black;Bebidas;N;other;Y;Y;Y;Único:7;
+25100360;Schweppes Citrus;Bebidas;Y;other;Y;Y;Y;Único:7;
+25100370;Fanta Uva;Bebidas;Y;other;Y;Y;Y;Único:7;
+25100375;Guaraná Antarctica;Bebidas;N;other;Y;Y;Y;Único:7;
+25101710;Suco Natural;Bebidas;Y;other;Y;Y;Y;Único:12;
+25624593;S - Coca Cola Zero KS;S - Bebidas;Y;other;N;N;Y;Único:6;
+26261529;S - Fanta Laranja Zero;S - Bebidas;N;other;N;N;N;Único:7;
+26310075;S - Pepperoni Burger;S - Smash;N;other;N;N;N;Único:29;
+26310130;S - Combo Pepperoni Burger;S - Gê Combos!;N;other;N;N;N;Único:41.5;
+28177160;Coca Cola 1,5L;Bebidas;Y;other;Y;Y;N;Único:13;
+28177172;S - Coca Cola 1,5L;S - Bebidas;Y;other;N;N;N;Único:13;
+29486566;D - Ge da Galera;Promoções Ifood;Y;other;N;N;N;Único:155;
+30112634;S - Smash + Bebida Geladinha;S - Mais Pedidos ;Y;other;N;N;N;Único:27.5;
+30289032;Sprite Original 350ML;Bebidas;N;other;Y;Y;Y;Único:7;
+30289087;S - Sprite Original 350ML;S - Bebidas;N;other;N;N;N;Único:7;
+31631114;S - Suco Del Valle Uva 1L;S - Bebidas;N;other;N;N;N;Único:11;
+31631118;Suco Del Valle Uva 1L;Bebidas;N;other;Y;Y;Y;Único:11;
+32282004;Fanta Laranja 1,5L;S - Bebidas;N;other;N;N;N;Único:13;
+32557235;Fatia Amore;S - Sobremesas;N;other;N;N;N;Único:15;Fatia de bolo de massa amanteigada, com recheio de brigadeiro gourmet (com chocolate nobre nacional) de maracujá, brigadeiro branco e geleia de morango.
+32679931;Devil's Cake;S - Sobremesas;N;other;N;N;N;Único:16;Bolo de chocolate molhadinho, recheado com ganache de chocolate nobre.
+33459809;Ge Tropical;Hambúrgueres;Y;other;Y;Y;Y;Único:37;Hambúrger 130g, queijo mussarela, banana frita, bacon, salada: tomate, cebola roxa, alface e molho levemente apimentado no pão brioche de fermentação natural.
+33459861;Combo Ge Tropical;Burger + Fritas + Refri!;Y;other;Y;Y;Y;Único:49;Burger 130g, queijo mussarela, banana frita, bacon, salada: tomate, cebola roxa, alface e molho levemente apimentado no pão brioche de fermentação natural.
+36085510;S - Ge Tropical;S - Smash;Y;other;N;N;Y;Único:37;Burger 130g, queijo mussarela, banana frita, bacon, salada: tomate, cebola roxa, alface e molho levemente apimentado no pão brioche de fermentação natural.
+36244843;S - Combo Ge Tropical;S - Gê Combos!;Y;other;N;N;Y;Único:49;Burger 130g, queijo mussarela, banana frita, bacon, salada: tomate, cebola roxa, alface e molho levemente apimentado no pão brioche de fermentação natural.
+36433006;Queijo Coalho com Geléia de Cupuaçú;S - Entradas;Y;other;Y;N;N;Único:22;Porção de queijo coalho empanado acompanhado de geléia de cupuaçú artesanal
+36433755;Ge Oklahoma;Novidades!;Y;other;Y;Y;Y;Único:35;Smash Burger de 130g (duas carnes de 65g) prensado na chapa com cebola branca, creme de cheddar e molho rosé no pão de forma de fermentação natural.
+36435054;Guaraná Antárctica Zero 1L;Bebidas;N;other;Y;Y;Y;Único:11;
+36864528;Combo Ge Oklahoma;Burger + Fritas + Refri!;Y;other;Y;Y;Y;Único:47;Smash Burger de 130g (duas carnes de 65g) prensado na chapa com cebola branca, creme de cheddar e molho rosé no pão de forma de fermentação natural + Batata Frita P + Refrigerante em lata
+36864540;S - Combo Ge Oklahoma;S - Gê Combos!;Y;other;N;N;Y;Único:47;
+38585603;Tuchaua Vermelho;Bebidas;Y;other;Y;Y;Y;Único:7;
+38585646;Tuchaua Azul;Bebidas;Y;other;Y;Y;N;Único:7;
+38690599;S - Tuchaua Azul;S - Bebidas;Y;other;N;N;Y;Único:7;
+38690602;S - Tuchaua Vermelho;S - Bebidas;Y;other;N;N;Y;Único:7;
+38882133;Coca Zero 1L;Bebidas;Y;other;Y;Y;Y;Único:11;
+39067594;Hot Dog na Chapa;Novidades!;N;other;Y;Y;N;Único:26.9;Duas salsichas com molho de tomate, requeijão cremoso e bacon em cubos, servidas no pão com maionese caseira e batata palha. Finalizado na chapa, levemente prensado, com o pão dourado e crocante.
+39219145;S - Hot Dog na Chapa;Novidades!;N;other;N;N;N;Único:26.9;Duas salsichas com molho de tomate, requeijão cremoso e bacon em cubos, servidas no pão com maionese caseira e batata palha. Finalizado na chapa, levemente prensado, com o pão dourado e crocante.
+39219161;S - Ge Oklahoma;S - Smash;Y;other;N;N;N;Único:35;Smash Burger de 130g (duas carnes de 65g) prensado na chapa com cebola branca, creme de cheddar e molho rosé no pão de forma de fermentação natural.
+39728302;Suco de Morango;Bebidas;Y;other;N;N;N;Único:5;
+39728314;Suco de Maracujá ;Bebidas;Y;other;N;N;N;Único:5;
+39730823;S - Coca Zero 1L;S - Bebidas;Y;other;N;N;Y;Único:11;
+39951538;Ge Box Prime;Novidades!;Y;other;Y;Y;Y;Único:96;2 hambúrgueres à sua escolha, acompanhados da nossa famosa Ge Balls (bolinhas de frango com catupiry) e uma Ge Fritas.
+39951641;S - Ge Box Prime;S - Mais Pedidos ;Y;other;N;N;Y;Único:96;2 hambúrgueres à sua escolha, acompanhados da nossa famosa Ge Balls (bolinhas de frango com catupiry) e uma Ge Fritas.

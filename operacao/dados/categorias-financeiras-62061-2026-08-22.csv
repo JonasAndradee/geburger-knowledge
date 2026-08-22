@@ -1,0 +1,253 @@
+id|id_parent|depth|dre_section|cashier|path
+945323|945316|0||N|/Alimentação
+1665262|945323|1||N|/Alimentação/Água
+945268|945264|0||N|/Aluguel
+945277|945275|0||N|/Assessoria financeira
+945363|945360|0||N|/Bebidas
+968728|945360|0||N|/Brindes
+945349|945347|0||N|/Capitalização dos sócios
+945265|945264|0||N|/Celular
+965890|945368|0||N|/Comissão entregadores
+968776|945357|0||N|/Comissão funcionários
+945361|945360|0||N|/Congelados
+1007993||0|3|Y|/Consumo
+945271|945264|0||N|/Contador
+945327|945275|0||N|/Controle de pragas
+945368|945356|0||N|/Custo com frete
+965890|945368|1||N|/Custo com frete/Comissão entregadores
+945369|945368|1||N|/Custo com frete/Delivery compras
+945365|945356|0||N|/Custos com embalagens
+945367|945365|1||N|/Custos com embalagens/Descartáveis
+945366|945365|1||N|/Custos com embalagens/Embalagens
+945360|945356|0||N|/Custos com produtos
+945363|945360|1||N|/Custos com produtos/Bebidas
+968728|945360|1||N|/Custos com produtos/Brindes
+945361|945360|1||N|/Custos com produtos/Congelados
+982316|945360|1||N|/Custos com produtos/Decoração
+1025587|945360|1||N|/Custos com produtos/Equipamentos de loja
+1589050|945360|1||N|/Custos com produtos/Gráfica
+945364|945360|1||N|/Custos com produtos/Hortifruti
+945362|945360|1||N|/Custos com produtos/Insumos
+1665263|945362|2||N|/Custos com produtos/Insumos/Pão
+945357|945356|0||N|/Custos tributários ou financeiros
+968776|945357|1||N|/Custos tributários ou financeiros/Comissão funcionários
+945358|945357|1||N|/Custos tributários ou financeiros/Simples nacional
+945359|945357|1||N|/Custos tributários ou financeiros/Taxas de pix
+945356||0||N|/Custos variáveis
+945368|945356|1||N|/Custos variáveis/Custo com frete
+965890|945368|2||N|/Custos variáveis/Custo com frete/Comissão entregadores
+945369|945368|2||N|/Custos variáveis/Custo com frete/Delivery compras
+945365|945356|1||N|/Custos variáveis/Custos com embalagens
+945367|945365|2||N|/Custos variáveis/Custos com embalagens/Descartáveis
+945366|945365|2||N|/Custos variáveis/Custos com embalagens/Embalagens
+945360|945356|1||N|/Custos variáveis/Custos com produtos
+945363|945360|2||N|/Custos variáveis/Custos com produtos/Bebidas
+968728|945360|2||N|/Custos variáveis/Custos com produtos/Brindes
+945361|945360|2||N|/Custos variáveis/Custos com produtos/Congelados
+982316|945360|2||N|/Custos variáveis/Custos com produtos/Decoração
+1025587|945360|2||N|/Custos variáveis/Custos com produtos/Equipamentos de loja
+1589050|945360|2||N|/Custos variáveis/Custos com produtos/Gráfica
+945364|945360|2||N|/Custos variáveis/Custos com produtos/Hortifruti
+945362|945360|2||N|/Custos variáveis/Custos com produtos/Insumos
+1665263|945362|3||N|/Custos variáveis/Custos com produtos/Insumos/Pão
+945357|945356|1||N|/Custos variáveis/Custos tributários ou financeiros
+968776|945357|2||N|/Custos variáveis/Custos tributários ou financeiros/Comissão funcionários
+945358|945357|2||N|/Custos variáveis/Custos tributários ou financeiros/Simples nacional
+945359|945357|2||N|/Custos variáveis/Custos tributários ou financeiros/Taxas de pix
+998254|945356|1||N|/Custos variáveis/Manutenção de loja
+1040044|945356|1||N|/Custos variáveis/Manutenção de Rede Elétrica
+982316|945360|0||N|/Decoração
+945369|945368|0||N|/Delivery compras
+945367|945365|0||N|/Descartáveis
+1258778|945339|0||N|/Design
+945264|945263|0||N|/Despesas administrativas
+945268|945264|1||N|/Despesas administrativas/Aluguel
+945265|945264|1||N|/Despesas administrativas/Celular
+945271|945264|1||N|/Despesas administrativas/Contador
+945267|945264|1||N|/Despesas administrativas/Energia elétrica
+968777|945264|1||N|/Despesas administrativas/Gás
+945266|945264|1||N|/Despesas administrativas/Internet
+945270|945264|1||N|/Despesas administrativas/IPTU
+945272|945264|1||N|/Despesas administrativas/Mensalidade de softwares
+968775|945264|1||N|/Despesas administrativas/Recursos Humanos
+945345|945264|1||N|/Despesas administrativas/Seguro
+945275|945264|1||N|/Despesas administrativas/Serviços
+945277|945275|2||N|/Despesas administrativas/Serviços/Assessoria financeira
+945327|945275|2||N|/Despesas administrativas/Serviços/Controle de pragas
+1142344|945275|2||N|/Despesas administrativas/Serviços/Gestor de estoque
+945276|945275|2||N|/Despesas administrativas/Serviços/Gestor de tráfego
+945278|945275|2||N|/Despesas administrativas/Serviços/Gestor ifood
+967269|945264|1||N|/Despesas administrativas/Transporte Funcionários
+945269|945264|1||N|/Despesas administrativas/Água
+945325|945263|0||N|/Despesas com materiais e equipamentos
+945331|945325|1||N|/Despesas com materiais e equipamentos/Manutenção ar condicionado
+967274|945325|1||N|/Despesas com materiais e equipamentos/Manutenção máquinas e equipamentos
+945330|945325|1||N|/Despesas com materiais e equipamentos/Manutenção móveis
+945329|945325|1||N|/Despesas com materiais e equipamentos/Materiais de Copa e Cozinha
+945326|945325|1||N|/Despesas com materiais e equipamentos/Materiais de expediente / escritório
+945328|945325|1||N|/Despesas com materiais e equipamentos/Materiais de limpeza
+945316|945263|0||N|/Despesas com pessoal
+945323|945316|1||N|/Despesas com pessoal/Alimentação
+1665262|945323|2||N|/Despesas com pessoal/Alimentação/Água
+945322|945316|1||N|/Despesas com pessoal/Diarista
+945324|945316|1||N|/Despesas com pessoal/Entregadores
+945320|945316|1||N|/Despesas com pessoal/Pró-labore
+945317|945316|1||N|/Despesas com pessoal/Salário de funcionários
+968774|945316|1||N|/Despesas com pessoal/Uniforme
+945318|945316|1||N|/Despesas com pessoal/Vale transporte
+939324||0|4|Y|/Despesas Financeiras (Taxas de cartão + Aluguel Máquinas)
+945263||0||N|/Despesas fixas
+945264|945263|1||N|/Despesas fixas/Despesas administrativas
+945268|945264|2||N|/Despesas fixas/Despesas administrativas/Aluguel
+945265|945264|2||N|/Despesas fixas/Despesas administrativas/Celular
+945271|945264|2||N|/Despesas fixas/Despesas administrativas/Contador
+945267|945264|2||N|/Despesas fixas/Despesas administrativas/Energia elétrica
+968777|945264|2||N|/Despesas fixas/Despesas administrativas/Gás
+945266|945264|2||N|/Despesas fixas/Despesas administrativas/Internet
+945270|945264|2||N|/Despesas fixas/Despesas administrativas/IPTU
+945272|945264|2||N|/Despesas fixas/Despesas administrativas/Mensalidade de softwares
+968775|945264|2||N|/Despesas fixas/Despesas administrativas/Recursos Humanos
+945345|945264|2||N|/Despesas fixas/Despesas administrativas/Seguro
+945275|945264|2||N|/Despesas fixas/Despesas administrativas/Serviços
+945277|945275|3||N|/Despesas fixas/Despesas administrativas/Serviços/Assessoria financeira
+945327|945275|3||N|/Despesas fixas/Despesas administrativas/Serviços/Controle de pragas
+1142344|945275|3||N|/Despesas fixas/Despesas administrativas/Serviços/Gestor de estoque
+945276|945275|3||N|/Despesas fixas/Despesas administrativas/Serviços/Gestor de tráfego
+945278|945275|3||N|/Despesas fixas/Despesas administrativas/Serviços/Gestor ifood
+967269|945264|2||N|/Despesas fixas/Despesas administrativas/Transporte Funcionários
+945269|945264|2||N|/Despesas fixas/Despesas administrativas/Água
+945325|945263|1||N|/Despesas fixas/Despesas com materiais e equipamentos
+945331|945325|2||N|/Despesas fixas/Despesas com materiais e equipamentos/Manutenção ar condicionado
+967274|945325|2||N|/Despesas fixas/Despesas com materiais e equipamentos/Manutenção máquinas e equipamentos
+945330|945325|2||N|/Despesas fixas/Despesas com materiais e equipamentos/Manutenção móveis
+945329|945325|2||N|/Despesas fixas/Despesas com materiais e equipamentos/Materiais de Copa e Cozinha
+945326|945325|2||N|/Despesas fixas/Despesas com materiais e equipamentos/Materiais de expediente / escritório
+945328|945325|2||N|/Despesas fixas/Despesas com materiais e equipamentos/Materiais de limpeza
+945316|945263|1||N|/Despesas fixas/Despesas com pessoal
+945323|945316|2||N|/Despesas fixas/Despesas com pessoal/Alimentação
+1665262|945323|3||N|/Despesas fixas/Despesas com pessoal/Alimentação/Água
+945322|945316|2||N|/Despesas fixas/Despesas com pessoal/Diarista
+945324|945316|2||N|/Despesas fixas/Despesas com pessoal/Entregadores
+945320|945316|2||N|/Despesas fixas/Despesas com pessoal/Pró-labore
+945317|945316|2||N|/Despesas fixas/Despesas com pessoal/Salário de funcionários
+968774|945316|2||N|/Despesas fixas/Despesas com pessoal/Uniforme
+945318|945316|2||N|/Despesas fixas/Despesas com pessoal/Vale transporte
+945322|945316|0||N|/Diarista
+939322||0|3|Y|/Diferença de caixa
+945355|945351|0||N|/Distribuição de lucros
+945366|945365|0||N|/Embalagens
+945348|945347|0||N|/Empréstimos obtidos
+945267|945264|0||N|/Energia elétrica
+945347|945346|0||N|/Entradas não operacionais
+945349|945347|1||N|/Entradas não operacionais/Capitalização dos sócios
+945348|945347|1||N|/Entradas não operacionais/Empréstimos obtidos
+945350|945347|1||N|/Entradas não operacionais/Venda de equipamentos usados
+945324|945316|0||N|/Entregadores
+1025587|945360|0||N|/Equipamentos de loja
+945341|945339|0||N|/Facebook
+939325||0||Y|/Fiado
+939307||0||Y|/Fornecedores
+939323||0||Y|/Frente de Caixa
+939316||0|3|Y|/Garçom
+1142344|945275|0||N|/Gestor de estoque
+945276|945275|0||N|/Gestor de tráfego
+945278|945275|0||N|/Gestor ifood
+945342|945339|0||N|/Google Ads
+1589050|945360|0||N|/Gráfica
+968777|945264|0||N|/Gás
+945364|945360|0||N|/Hortifruti
+945344|945339|0||N|/Ifood Ads
+945362|945360|0||N|/Insumos
+1665263|945362|1||N|/Insumos/Pão
+945266|945264|0||N|/Internet
+945338||0||N|/Investimentos
+998255|945338|1||N|/Investimentos/Investimentos em bens materiais
+998256|998255|2||N|/Investimentos/Investimentos em bens materiais/Reformas/Estrutura
+945339|945338|1||N|/Investimentos/Investimentos em marketing
+1258778|945339|2||N|/Investimentos/Investimentos em marketing/Design
+945341|945339|2||N|/Investimentos/Investimentos em marketing/Facebook
+945342|945339|2||N|/Investimentos/Investimentos em marketing/Google Ads
+945344|945339|2||N|/Investimentos/Investimentos em marketing/Ifood Ads
+945340|945339|2||N|/Investimentos/Investimentos em marketing/Mídias
+1025589|945339|2||N|/Investimentos/Investimentos em marketing/Site
+1074976|945339|2||N|/Investimentos/Investimentos em marketing/Social Meida
+1074977|945339|2||N|/Investimentos/Investimentos em marketing/Social Midia
+945343|945339|2||N|/Investimentos/Investimentos em marketing/Tik Tok Ads
+998255|945338|0||N|/Investimentos em bens materiais
+998256|998255|1||N|/Investimentos em bens materiais/Reformas/Estrutura
+945339|945338|0||N|/Investimentos em marketing
+1258778|945339|1||N|/Investimentos em marketing/Design
+945341|945339|1||N|/Investimentos em marketing/Facebook
+945342|945339|1||N|/Investimentos em marketing/Google Ads
+945344|945339|1||N|/Investimentos em marketing/Ifood Ads
+945340|945339|1||N|/Investimentos em marketing/Mídias
+1025589|945339|1||N|/Investimentos em marketing/Site
+1074976|945339|1||N|/Investimentos em marketing/Social Meida
+1074977|945339|1||N|/Investimentos em marketing/Social Midia
+945343|945339|1||N|/Investimentos em marketing/Tik Tok Ads
+945270|945264|0||N|/IPTU
+945353|945351|0||N|/Juros bancários e por atraso
+945331|945325|0||N|/Manutenção ar condicionado
+998254|945356|0||N|/Manutenção de loja
+1040044|945356|0||N|/Manutenção de Rede Elétrica
+967274|945325|0||N|/Manutenção máquinas e equipamentos
+945330|945325|0||N|/Manutenção móveis
+945329|945325|0||N|/Materiais de Copa e Cozinha
+945326|945325|0||N|/Materiais de expediente / escritório
+945328|945325|0||N|/Materiais de limpeza
+945272|945264|0||N|/Mensalidade de softwares
+939315||0|2|Y|/Motoboy
+945346||0||N|/Movimentações não operacionais
+945347|945346|1||N|/Movimentações não operacionais/Entradas não operacionais
+945349|945347|2||N|/Movimentações não operacionais/Entradas não operacionais/Capitalização dos sócios
+945348|945347|2||N|/Movimentações não operacionais/Entradas não operacionais/Empréstimos obtidos
+945350|945347|2||N|/Movimentações não operacionais/Entradas não operacionais/Venda de equipamentos usados
+945351|945346|1||N|/Movimentações não operacionais/Saídas não operacionais
+945355|945351|2||N|/Movimentações não operacionais/Saídas não operacionais/Distribuição de lucros
+945353|945351|2||N|/Movimentações não operacionais/Saídas não operacionais/Juros bancários e por atraso
+945354|945351|2||N|/Movimentações não operacionais/Saídas não operacionais/Pagamento de dívidas passadas
+945352|945351|2||N|/Movimentações não operacionais/Saídas não operacionais/Pagamento de empréstimos
+945340|945339|0||N|/Mídias
+945354|945351|0||N|/Pagamento de dívidas passadas
+945352|945351|0||N|/Pagamento de empréstimos
+945320|945316|0||N|/Pró-labore
+1665263|945362|0||N|/Pão
+964541||0||N|/Receita de Vendas
+964543|964541|1||N|/Receita de Vendas/Receita em crédito
+1027402|964541|1||N|/Receita de Vendas/Receita em dinheiro
+964545|964541|1||N|/Receita de Vendas/Receita em débito
+964576|964541|1||N|/Receita de Vendas/Receita em Ifood Online
+964542|964541|1||N|/Receita de Vendas/Receita em pix
+964543|964541|0||N|/Receita em crédito
+1027402|964541|0||N|/Receita em dinheiro
+964545|964541|0||N|/Receita em débito
+964576|964541|0||N|/Receita em Ifood Online
+964542|964541|0||N|/Receita em pix
+968775|945264|0||N|/Recursos Humanos
+998256|998255|0||N|/Reformas/Estrutura
+939326||0|5|Y|/Saldo Inicial
+945317|945316|0||N|/Salário de funcionários
+945351|945346|0||N|/Saídas não operacionais
+945355|945351|1||N|/Saídas não operacionais/Distribuição de lucros
+945353|945351|1||N|/Saídas não operacionais/Juros bancários e por atraso
+945354|945351|1||N|/Saídas não operacionais/Pagamento de dívidas passadas
+945352|945351|1||N|/Saídas não operacionais/Pagamento de empréstimos
+945345|945264|0||N|/Seguro
+945275|945264|0||N|/Serviços
+945277|945275|1||N|/Serviços/Assessoria financeira
+945327|945275|1||N|/Serviços/Controle de pragas
+1142344|945275|1||N|/Serviços/Gestor de estoque
+945276|945275|1||N|/Serviços/Gestor de tráfego
+945278|945275|1||N|/Serviços/Gestor ifood
+945358|945357|0||N|/Simples nacional
+1025589|945339|0||N|/Site
+1074976|945339|0||N|/Social Meida
+1074977|945339|0||N|/Social Midia
+945359|945357|0||N|/Taxas de pix
+945343|945339|0||N|/Tik Tok Ads
+967269|945264|0||N|/Transporte Funcionários
+968774|945316|0||N|/Uniforme
+945318|945316|0||N|/Vale transporte
+945350|945347|0||N|/Venda de equipamentos usados
+945269|945264|0||N|/Água
+1665262|945323|0||N|/Água
