@@ -85,7 +85,10 @@ categoria já existe.
 │   ├── 2.1.06 Entregadores (diária fixa)       id 945324 [R$ -6.310,00] MOVER (era "Entregadores", raiz solta).
 │   │                                            CONFIRMADO: taxa fixa de R$30/dia paga ao entregador, diferente
 │   │                                            da comissão por pedido que vai pro "Motoboy"
-│   └── Garçom [P]                                já existe id 939316, sem uso hoje, ver pendência em aberto 4
+│   ├── 2.1.07 Recrutamento (vagas, anúncios)   id 968775 [R$ -107,27] MOVER (era "Recursos Humanos", filha direta
+│   │                                            de "Despesas administrativas"). CONFIRMADO: anúncio de vaga tipo OLX
+│   └── Garçom [P]                                já existe id 939316, MANTÉM sem uso. CONFIRMADO: tem garçom no
+│                                                  salão, mas a comissão dele não é gerenciada pelo Saipos hoje
 ├── 2.2 Estrutura Física
 │   ├── 2.2.01 Aluguel                           id 945268 [R$ -24.500,00] MOVER
 │   ├── 2.2.02 Condomínio                        NOVA (padronização)
@@ -126,7 +129,7 @@ categoria já existe.
 ├── 3.2 Serviços Profissionais
 │   ├── 3.2.01 Contabilidade                     id 945271 [R$ -3.500,00] RENOMEAR (era "Contador")
 │   ├── 3.2.02 Jurídico                          NOVA (padronização)
-│   └── 3.2.03 Consultorias                      NOVA, ver pendência em aberto 1 (pode receber "Recursos Humanos")
+│   └── 3.2.03 Consultorias                      NOVA (padronização)
 ├── 3.3 Serviços Terceirizados
 │   ├── 3.3.01 Gestão financeira                 id 945277 [R$ -2.100,00] RENOMEAR (era "Assessoria financeira")
 │   ├── 3.3.02 Gestão de tráfego                 id 945276 [R$ -5.600,00] RENOMEAR (era "Gestor de tráfego")
@@ -174,7 +177,7 @@ categoria já existe.
 ├── 6.1 Pró-labore                               id 945320 [R$0] RENOMEAR. CONFIRMADO pelo Jonas: os sócios não tiram
 │                                                pró-labore hoje, R$0 é real, não é lacuna de lançamento
 ├── 6.2 Distribuição de lucros                   id 945355 [R$ -5.355,00] RENOMEAR
-├── 6.3 Retirada extraordinária                  NOVA, ver pendência em aberto 3 (pode receber "Pagamento de dívidas passadas")
+├── 6.3 Retirada extraordinária                  NOVA (padronização)
 └── 6.4 Aportes dos sócios                       id 945349 [R$0] RENOMEAR (era "Capitalização dos sócios")
 
 7 Expansão e Investimentos
@@ -195,7 +198,7 @@ Frente de Caixa [P]         já existe id 939323, MANTÉM
 Saldo Inicial [P]           já existe id 939326, MANTÉM
 ```
 
-### O que exclui (vazio, sem risco de lançamento)
+### O que exclui (vazio ou quase vazio, sem risco de lançamento)
 
 | Categoria | id | Motivo |
 |---|---|---|
@@ -203,6 +206,8 @@ Saldo Inicial [P]           já existe id 939326, MANTÉM
 | Vale transporte | 945318 | Zero lançamento, redundante com "Transporte Funcionários" |
 | Estrutura | 998256 | Zero lançamento, escopo vago |
 | Mídias | 945340 | Zero lançamento, virou redundante com as categorias específicas por plataforma |
+| Pagamento de dívidas passadas | 945354 | CONFIRMADO: é empréstimo/financiamento, mesma coisa que "Pagamento de empréstimos" (id 945352, vira `5.2.03 Empréstimos`). Zero lançamento, duplicata |
+| Receita de Vendas (raiz) e as 5 filhas: Receita em Ifood Online, Receita em crédito, Receita em dinheiro, Receita em débito, Receita em pix | 964541, 964576, 964543, 1027402, 964545, 964542 | CONFIRMADO: o Saipos já lança a receita automaticamente, tanto no relatório `Vendas por período` quanto na linha `(+) Receita Operacional Bruta` do `DRE Gerencial` (é automática, não depende de vínculo de categoria, ver `../operacao/02-plano-de-contas.md`). Essa árvore de categorias em `Lançamentos financeiros` nunca foi o lugar certo pra registrar venda, por isso só tem R$ 7,00 lançado no período inteiro (provável lançamento avulso/teste). Nenhum lançamento futuro de venda precisa passar por aqui |
 
 ### O que esvazia e some sozinho (Saipos remove pai sem filho)
 
@@ -221,7 +226,7 @@ e se não sumir sozinha, excluir na mão (sem risco, já está vazia).
 
 ## Pendências
 
-### Resolvidas pelo Jonas em 22/08/2026
+Todas as 7 pendências foram resolvidas pelo Jonas em 22/08/2026.
 
 1. ~~Comissão entregadores + Entregadores + Delivery compras~~. São três
    coisas diferentes: **Comissão entregadores** (R$ -13.456,22) é a taxa de
@@ -235,24 +240,23 @@ e se não sumir sozinha, excluir na mão (sem risco, já está vazia).
    no CMV. Não é `3.1.01 Consumo`.
 3. ~~Pró-labore zerado~~. Confirmado: os sócios não tiram pró-labore hoje.
    R$0 é o número real, não é lançamento faltando.
-
-### Em aberto, decisão do Jonas antes de eu executar
-
-1. **Recursos Humanos (R$ -107,27).** Valor pequeno, mas quero confirmar se
-   é taxa de serviço de RH/recrutamento antes de jogar em `3.2.03
-   Consultorias`.
-2. **Receita de Vendas e as 5 subcategorias** (Ifood Online, crédito,
-   dinheiro, débito, pix) têm só R$ 7,00 de lançamento no período inteiro.
-   A receita real está no relatório "Vendas por período", não em
-   lançamento financeiro. Posso excluir essa árvore inteira, ou você usa
-   isso pra algum controle manual que eu não vi?
-3. **Pagamento de dívidas passadas (R$ 0,00).** Dívida de quê? Se for
-   empréstimo, entra em `5.2.03 Empréstimos`. Se for outra coisa (fornecedor
-   em atraso, por exemplo), crio uma posição própria em `6.3 Retirada
-   extraordinária` ou mantenho separada.
-4. **Garçom [P] existe mas nunca recebeu lançamento.** A Geburger tem
-   atendimento de salão com garçom, ou essa categoria pode ficar sem uso
-   mesmo (ela é padrão do sistema, não dá pra excluir)?
+4. ~~Recursos Humanos~~ (R$ -107,27). Confirmado: anúncio de vaga tipo OLX,
+   não é serviço de consultoria de RH. Vira `2.1.07 Recrutamento (vagas,
+   anúncios)`, dentro de Equipe, não em Serviços Profissionais.
+5. ~~Receita de Vendas e as 5 subcategorias~~. Confirmado: o Saipos já
+   lança a receita de venda sozinho, tanto no relatório `Vendas por
+   período` quanto na linha automática `(+) Receita Operacional Bruta` do
+   DRE. Não existe lançamento manual de venda a fazer. A árvore inteira
+   (raiz + 5 filhas) entra na lista de exclusão, R$ 7,00 era lançamento
+   avulso/teste.
+6. ~~Pagamento de dívidas passadas~~ (R$ 0,00). Confirmado: é
+   empréstimo/financiamento, mesma coisa que "Pagamento de empréstimos".
+   Vira duplicata de `5.2.03 Empréstimos`, entra na lista de exclusão.
+7. ~~Garçom [P] sem uso~~. Confirmado: tem garçom no salão, mas a comissão
+   dele não passa pelo Saipos hoje. Categoria de sistema, mantém como está,
+   sem mudança estrutural. Se um dia decidirem lançar a comissão do
+   garçom pelo Saipos, ela já está vinculada ao DRE (seção 3, Despesas
+   administrativas).
 
 ### Fusão que precisa mover lançamento na mão
 
@@ -285,7 +289,7 @@ antes de considerar a migração concluída.
 
 ## Revisão prevista
 
-Depois que o Jonas responder as 7 pendências acima. Só então a estrutura
-proposta vira execução real no Saipos (Fase 1 do
-`../operacao/08-roadmap-implantacao.md`). Vinculação de DRE é decisão
-separada, fica pra depois desta estrutura estar fechada.
+As 7 pendências foram resolvidas em 22/08/2026. Estrutura pronta pra
+execução real no Saipos (Fase 1 do `../operacao/08-roadmap-implantacao.md`).
+Vinculação de DRE é decisão separada, fica pra depois desta estrutura
+estar fechada.
