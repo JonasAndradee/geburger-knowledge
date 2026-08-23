@@ -68,11 +68,12 @@ Definir aqui depois de montar `04-categorias-financeiras.md`.]
 
 Nunca dê orientação que quebre alguma destas.
 
-**[NOVA, 22/08/2026]** Não usar o `DRE Gerencial` do Saipos para decisão
-de negócio até vincular as categorias financeiras. Hoje só 6 de 97 estão
-vinculadas a uma seção, então o "Lucro operacional" que a tela mostra está
-subestimando o gasto real. Ver `02-plano-de-contas.md` e
-`04-categorias-financeiras.md`.
+**[ATUALIZADA, 23/08/2026]** O `DRE Gerencial` do Saipos já pode ser usado
+pra decisão: 61 das 100 categorias estão vinculadas a uma seção (era 6 de
+97). Ainda assim, checar `02-plano-de-contas.md` antes de citar um número
+de mês fechado: agosto/2026 mostra despesa administrativa quase zero,
+provável falta de lançamento até a data de corte, não erro de vínculo. Ver
+`02-plano-de-contas.md` e `04-categorias-financeiras.md`.
 
 Candidatas herdadas do Oka Guaraná, que valem para qualquer operação de
 alimentação com controle de estoque e ficha técnica. **Revalidar cada uma no

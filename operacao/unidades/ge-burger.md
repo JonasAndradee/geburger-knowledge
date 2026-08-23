@@ -30,8 +30,8 @@ alguém da equipe usando o sistema (balcão, WhatsApp) na hora.
 
 | Bloco | Estado |
 |---|---|
-| Categorias financeiras | 97 categorias raiz (252 nós contando subcategoria). PRONTO o cadastro, mas só 6 vinculadas ao DRE. Ver `../04-categorias-financeiras.md` |
-| Vinculação de DRE | CRÍTICO: 91 de 97 categorias sem seção. Ver `../02-plano-de-contas.md` |
+| Categorias financeiras | 100 categorias, padrão numérico do Oka Guaraná. Ver `../04-categorias-financeiras.md` |
+| Vinculação de DRE | 61 de 100 vinculadas, resto sem vínculo de propósito. Ver `../02-plano-de-contas.md` |
 | Conta bancária | NÃO CONFIRMADO |
 | Ingredientes | 149 cadastrados, 92 compõem CMV |
 | Beneficiados | 16 (blends, molhos, empanados, sucos) |
@@ -55,17 +55,18 @@ cada (limite da tela). Ver `../dados/vendas-por-periodo-62061-2026-01-a-08.md`.
 
 ## Particularidade da leitura do DRE
 
-Diferente do Oka Guaraná (onde o problema era qual unidade paga a camada
-central), aqui o problema é estrutural: o DRE Gerencial do Saipos mostra
-"Despesas administrativas" perto de zero porque quase nenhuma categoria
-financeira está vinculada à seção certa. O lucro líquido que a tela mostra
-(R$ 77.130,40 em jun-ago/2026) não desconta o grosso do custo fixo e
-variável real da operação. Não usar esse número para decisão sem antes
-vincular as categorias.
+**Resolvido em 23/08/2026.** O problema era estrutural: quase nenhuma
+categoria financeira estava vinculada à seção certa do DRE. Depois da
+vinculação (61 de 100 categorias, ver `../02-plano-de-contas.md`), o lucro
+operacional real do trimestre jun-ago caiu de R$ 77.130,40 (fake) pra
+R$ 28.750,49. Ressalva: agosto ainda mostra despesa administrativa quase
+zero, provável falta de lançamento até a data de corte, checar antes de
+fechar o mês.
 
 ## Pendências
 
-- Vincular as 91 categorias financeiras sem seção do DRE
+- Investigar despesa administrativa quase zero em agosto/2026, provável
+  falta de lançamento até a data de corte
 - Entender por que quase metade do estoque está negativo (falta de compra
   com nota lançada? falta de contagem física?)
 

@@ -1,6 +1,6 @@
 # 08, Roadmap de implantação
 
-**Versão 2, 22/08/2026.** Fase 0 100% concluída para a loja Ge Burger (62061).
+**Versão 3, 23/08/2026.** Fase 0 e Fase 1 concluídas para a loja Ge Burger (62061).
 
 Onde estamos e o que falta. Este é o arquivo que responde "por onde eu continuo".
 
@@ -52,14 +52,21 @@ Onde estamos e o que falta. Este é o arquivo que responde "por onde eu continuo
       relatório (que são por id, não por posição na árvore), é só estética.
       Arrastar pra posição final se o Jonas quiser a árvore idêntica à do
       Oka
-- [ ] **Puxar novo extrato de `04-categorias-financeiras.md`** pós-migração
-      (o arquivo hoje ainda mostra a árvore de antes)
-- [ ] **Vincular as categorias que faltam ao DRE.** Isso vem depois da
-      migração estrutural, é trabalho de tela: entrar em `DRE Gerencial >
-      Vincular` e escolher a seção de cada categoria com lançamento
-- [ ] Decidir se `Fiado`, `Frente de Caixa`, `Fornecedores` e `Saldo Inicial`
-      ficam propositalmente sem vínculo (como no Oka) ou se o Geburger quer
-      outro critério
+- [x] **Puxar novo extrato de `04-categorias-financeiras.md`** pós-migração,
+      feito em 23/08/2026 (100 categorias, 18 raízes)
+- [x] **Vincular as categorias ao DRE**, feito em 23/08/2026. 61 de 100
+      vinculadas, reaproveitando o critério do Oka (raiz decide a seção,
+      categoria-pai nunca recebe vínculo direto pra não cascatear seção
+      errada). 2 correções em cima do que já estava configurado (`Despesas
+      Financeiras` e `Garçom` foram pra `Custo com vendas`, não `Despesas
+      administrativas`/`financeiras`) e 1 desvínculo (`Saldo Inicial`, pra
+      não inflar o lucro do mês de corte). Detalhe completo em
+      `../decisoes/2026-08-23-vincular-categorias-ao-dre.md`. Efeito real:
+      lucro operacional do trimestre jun-ago caiu de R$ 77.130,40 (número
+      fake, quase nada vinculado) pra R$ 28.750,49 (número real)
+- [x] Decidir se `Fiado`, `Frente de Caixa`, `Fornecedores` e `Saldo Inicial`
+      ficam propositalmente sem vínculo: sim, mesmo critério do Oka. Ver
+      decisão acima
 
 ## Fase 2: cadastro de estoque e fichas
 
@@ -77,21 +84,28 @@ Onde estamos e o que falta. Este é o arquivo que responde "por onde eu continuo
 
 ## Fase 4: DRE fechando
 
-- [ ] Bloqueado pela Fase 1 (vinculação de categorias). O `DRE Gerencial`
-      de hoje mostra lucro líquido de R$ 77.130,40 em jun-ago/2026, mas esse
-      número está incompleto porque quase nenhum custo real está
-      classificado numa seção. Não é o resultado real do negócio
+- [x] Desbloqueado pela Fase 1. O `DRE Gerencial` já mostra número real:
+      lucro operacional de R$ 28.750,49 em jun-ago/2026 (era R$ 77.130,40
+      antes da vinculação)
+- [ ] **Investigar agosto/2026.** `Despesas administrativas` do mês
+      aparece perto de zero, destoando de junho/julho. Provável falta de
+      lançamento (aluguel, salário) até a data de corte, não erro de
+      vínculo, mas precisa confirmar antes de fechar o mês
+- [ ] Ainda falta: conciliar financeiro (lançamentos manuais) com comercial
+      (vendas do PDV) num relatório só, e decidir se marketing entra como
+      despesa operacional ou fica separado (ver `04-categorias-financeiras.md`)
 
 ## Onde paramos
 
-22/08/2026: primeiro levantamento completo da loja Ge Burger (62061) feito
-via API do Saipos. Dados brutos salvos em `dados/`. Documentos 02, 04 e 06
-atualizados com número real. Achado mais importante da sessão: **o DRE
-Gerencial do Saipos não pode ser usado para decisão ainda**, porque 91 das
-97 categorias financeiras não estão vinculadas a nenhuma seção. **Fase 0
-fechada**: Jonas confirmou loja única, passou CNPJ/endereço/horário, e
-confirmou que os canais de venda batem com a percepção dele. Próximo passo
-natural: montar a árvore de categorias numerada (Fase 1, decisão já tomada
-de reaproveitar o padrão de codificação do Oka Guaraná adaptado à estrutura
-que já existe aqui), e investigar a causa do estoque negativo generalizado
-antes de confiar no CMV calculado (Fase 2).
+23/08/2026: **Fase 1 fechada.** Categorias migradas pro padrão numérico do
+Oka Guaraná (22/08) e vinculadas ao DRE (23/08), 61 de 100. O `DRE
+Gerencial` já pode ser lido com número real: lucro operacional de
+R$ 28.750,49 no trimestre jun-ago, contra o R$ 77.130,40 fake de antes.
+Documentos 02 e 04 atualizados. Pendência aberta em agosto (despesa
+administrativa quase zero, provável falta de lançamento) e a Fase 1c
+(reorganização física, opcional, só estética) seguem em aberto.
+
+Próximo passo natural: **Fase 2**, investigar por que 44% do estoque está
+com saldo negativo, antes de confiar no CMV que o DRE já mostra
+automaticamente. Sem isso, o número de CMV do próprio DRE pode estar
+distorcido mesmo com a vinculação certa.
