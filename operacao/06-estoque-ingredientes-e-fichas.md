@@ -22,10 +22,13 @@ interno que não entra na conta de custo do prato.
 ## Achado crítico: quase metade dos itens está com estoque negativo
 
 **96 dos 218 itens (44%) estão com saldo de estoque negativo no sistema.**
-Estoque negativo significa que o Saipos baixou mais do que tinha registrado
-como entrada, ou seja, ou a compra não foi lançada, ou a entrada manual não
-aconteceu, ou não há contagem física corrigindo o saldo periodicamente. Os
-15 piores casos:
+
+**Causa confirmada com o Jonas em 23/08/2026: hoje não existe controle de
+estoque nenhum.** Não se lança entrada de compra (com ou sem nota) nem se
+faz contagem física. O Saipos só baixa estoque na venda, nunca reabastece,
+então o saldo fica cada vez mais negativo com o tempo. Não é um bug pontual
+nem falta de disciplina ocasional, é ausência total de rotina. Os 15 piores
+casos:
 
 | Item | Estoque atual | Tipo |
 |---|---|---|
@@ -47,12 +50,13 @@ aconteceu, ou não há contagem física corrigindo o saldo periodicamente. Os
 
 **Isso é grave porque os piores casos são exatamente os ingredientes-base de
 quase todo hambúrguer do cardápio** (queijo cheddar, brioche 70g, blend
-130g, o próprio pão). Se o custo médio depende do histórico de entrada, um
-estoque cronicamente negativo distorce o `average_cost` calculado, e por
-consequência o CMV de cada ficha técnica. Antes de confiar em qualquer
-número de CMV deste documento ou do DRE, vale confirmar com o Bahia (ou
-quem for o gerente de operação da Geburger) se existe rotina de compra com
-nota e de contagem física, e com que frequência.
+130g, o próprio pão). Sem entrada de estoque nunca acontecendo, o
+`average_cost` que o Saipos calcula fica travado no preço de cadastro
+original, não reflete nenhuma compra real feita depois disso. **O CMV que
+aparece automaticamente no `DRE Gerencial` (28-29% no trimestre jun-ago,
+ver `02-plano-de-contas.md`) não é confiável até existir alguma rotina de
+entrada.** Não dá pra saber se está sub ou superestimado sem comparar com o
+custo de compra real.
 
 ## Fichas técnicas: as 53 do cardápio
 
@@ -116,11 +120,10 @@ cardápio. É o mesmo padrão do Oka Guaraná.
 
 ## Divergências e pendências
 
-- Não foi confirmado ainda qual ingrediente carrega o custo real de compra
-  (preço de nota) vs. o `average_cost` que o Saipos mostra, dado o volume de
-  estoque negativo acima
-- Não há registro de contagem física no repositório ainda. Ver
-  `08-roadmap-implantacao.md`
+- **Confirmado, 23/08/2026:** não existe rotina de compra lançada (com ou
+  sem nota) nem contagem física. `average_cost` do Saipos reflete só o
+  cadastro inicial, nunca foi atualizado por compra real. Ver
+  `08-roadmap-implantacao.md` pra próximos passos
 - `Milk-Shake Sabor` aparece cadastrado 4 vezes com IDs diferentes
   (3831315, 3831330, 4220136, e outro), cada um com composição de sabor
   diferente (chocolate, oreo, biscoff). Provavelmente 1 ficha por sabor de

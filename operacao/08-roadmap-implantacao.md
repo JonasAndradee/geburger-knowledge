@@ -71,11 +71,16 @@ Onde estamos e o que falta. Este é o arquivo que responde "por onde eu continuo
 ## Fase 2: cadastro de estoque e fichas
 
 - [x] Estoque e fichas já estão cadastrados no Saipos (218 itens, 53 fichas)
-- [ ] **Investigar por que 44% dos itens (96 de 218) estão com saldo
-      negativo**, incluindo os ingredientes-base de quase todo hambúrguer
-      (queijo cheddar, brioche, blend). Ver `06-estoque-ingredientes-e-fichas.md`
-- [ ] Confirmar se existe rotina de lançamento de compra com nota e entrada
-      manual de estoque sem nota
+- [x] **Investigar por que 44% dos itens (96 de 218) estão com saldo
+      negativo.** Causa confirmada com o Jonas em 23/08/2026: não existe
+      controle de estoque nenhum hoje, nem lançamento de compra nem
+      contagem física. Ver `06-estoque-ingredientes-e-fichas.md`
+- [x] Confirmar se existe rotina de lançamento de compra com nota e entrada
+      manual de estoque sem nota: não existe, confirmado acima
+- [ ] **Decidir e implantar a rotina mínima de entrada de estoque.**
+      Bloqueia o CMV automático do DRE (hoje mostra 28-29%, mas não é
+      confiável sem nenhuma entrada real acontecendo). Ver
+      `06-estoque-ingredientes-e-fichas.md` pra opções
 
 ## Fase 3: conferência física
 
