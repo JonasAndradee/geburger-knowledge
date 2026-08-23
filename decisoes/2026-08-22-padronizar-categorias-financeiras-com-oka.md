@@ -364,7 +364,26 @@ operacionais` dentro), `Custos com produtos`, `Custo com frete`.
 
 ### Conferência de integridade
 
-97 categorias antes, 101 depois (líquido: +12 criadas, -6 da árvore Receita
-de Vendas, -3 duplicatas/vazias, +2 no ajuste de Comissão entregadores que
-não se fundiu). Nenhuma categoria com saldo real foi excluída sem passar
-pelo fluxo de transferência de lançamento do próprio Saipos.
+97 categorias antes, 101 logo depois da migração. Nenhuma categoria com
+saldo real foi excluída sem passar pelo fluxo de transferência de
+lançamento do próprio Saipos.
+
+### Auditoria de lixo e duplicata, 22/08/2026 (pedido do Jonas)
+
+Varri as 101 categorias pela API procurando duas coisas: categoria vazia
+sem propósito (o Saipos avisa que remove pai sem filho sozinho, mas isso
+não é garantido em toda situação) e nome duplicado.
+
+- **Nomes duplicados: nenhum.** As duas categorias chamadas "Água"
+  (`2.1.05.01.01 Água`, item específico dentro de Alimentação, e `2.2.04
+  Água`, conta de água do imóvel) são conceitos diferentes, não duplicata
+- **1 categoria lixo encontrada e excluída:** `Custos com embalagens`, um
+  wrapper antigo que ficou sem nenhum filho depois que Embalagens e
+  Descartáveis migraram pra `Fornecedores`, e não foi removido sozinho
+  pelo Saipos. Excluída sem lançamento pra transferir (zero uso)
+
+**101 categorias antes desta auditoria, 100 depois.** Nenhuma outra
+categoria vazia sobrou. As categorias "NOVA (padronização)" do plano
+original (ex: `1.1.01 Comissão sobre vendas`, `2.2.02 Condomínio`) continuam
+existindo mesmo sem lançamento: são posições reservadas do padrão do Oka,
+não lixo, ficam prontas pra quando a Geburger precisar.
