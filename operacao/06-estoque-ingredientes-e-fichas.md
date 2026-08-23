@@ -1,6 +1,6 @@
 # 06, Estoque, ingredientes e fichas técnicas
 
-**Versão 1, 22/08/2026.** Levantado da tela `Ingredientes e Insumos` e
+**Versão 2, 23/08/2026.** Levantado da tela `Ingredientes e Insumos` e
 `Fichas técnicas` da loja Ge Burger (62061), via API do Saipos.
 
 Fonte bruta: `dados/ingredientes-fichas-62061-2026-08-22.json` (e `.csv`) e
@@ -57,6 +57,44 @@ aparece automaticamente no `DRE Gerencial` (28-29% no trimestre jun-ago,
 ver `02-plano-de-contas.md`) não é confiável até existir alguma rotina de
 entrada.** Não dá pra saber se está sub ou superestimado sem comparar com o
 custo de compra real.
+
+## Lista pra contagem física, extrato de 23/08/2026
+
+Lista completa dos 96 itens negativos em
+`dados/estoque-negativo-contagem-62061-2026-08-23.csv`, já com a unidade de
+consumo cadastrada no Saipos (a mesma unidade em que o item deve ser
+contado). **77 são ingrediente/beneficiado de verdade, que dá pra contar
+fisicamente.** Os outros 19 são produto final de cardápio (Ge Burger,
+Ultra Burger, Onion Rings, etc.) aparecendo negativo também, mas isso não é
+estoque físico contável, é efeito colateral de como o Saipos rastreia
+produção de item com ficha própria. Ignorar esses 19 na contagem.
+
+Como usar a lista: contar fisicamente o que tem hoje na loja de cada um dos
+77 itens, na mesma unidade da coluna `unidade` (fatia, KG, litro, unidade,
+porção), e lançar o valor real em `Menu > Estoque > Posição e contagem de
+estoque` no Saipos. Isso zera a distorção acumulada de uma vez. Sem isso, o
+próximo passo (lançar toda entrada de compra) não resolve sozinho, porque o
+ponto de partida já está errado.
+
+| Item | Estoque no Saipos | Unidade | Tipo |
+|---|---|---|---|
+| Queijo Cheddar Vigor | -4.202,14 | Fatia | ingrediente |
+| Brioche 70g | -4.126 | Unidade | ingrediente |
+| Blend 130g | -3.016,5 | Unidade | beneficiado |
+| Blend 40g | -2.357 | Unidade | beneficiado |
+| Brioche 20g | -2.310 | Unidade | ingrediente |
+| Blend 100g | -1.063,5 | Unidade | beneficiado |
+| Caixa Box | -1.056 | Unidade | ingrediente |
+| Costela Desfiada | -504 | Unidade | beneficiado |
+| Coca-Cola Zero 350ml | -473 | Unidade | ingrediente |
+| Coca-Cola 350ml | -438 | Unidade | ingrediente |
+| Batata Palito | -307,71 | KG | ingrediente |
+| Coca-Cola 1L | -277 | Unidade | ingrediente |
+| Ovo | -252,58 | Unidade | ingrediente |
+| Ge Balls Receita | -149 | Porção | beneficiado |
+| Guaraná Antártica 350ml | -144 | Unidade | ingrediente |
+
+Lista completa (as outras 62) no CSV.
 
 ## Fichas técnicas: as 53 do cardápio
 

@@ -77,15 +77,21 @@ Onde estamos e o que falta. Este é o arquivo que responde "por onde eu continuo
       contagem física. Ver `06-estoque-ingredientes-e-fichas.md`
 - [x] Confirmar se existe rotina de lançamento de compra com nota e entrada
       manual de estoque sem nota: não existe, confirmado acima
-- [ ] **Decidir e implantar a rotina mínima de entrada de estoque.**
+- [ ] **Decidir e implantar a rotina mínima de entrada de estoque**, pra
+      não voltar a acumular erro depois da contagem física da Fase 3.
       Bloqueia o CMV automático do DRE (hoje mostra 28-29%, mas não é
       confiável sem nenhuma entrada real acontecendo). Ver
-      `06-estoque-ingredientes-e-fichas.md` pra opções
+      `06-estoque-ingredientes-e-fichas.md`
 
 ## Fase 3: conferência física
 
-- [ ] Nenhuma conferência física registrada ainda. Primeira conferência
-      destrava a correção do estoque negativo acima
+- [x] **Lista dos 77 itens que precisam de contagem física, gerada em
+      23/08/2026.** `operacao/dados/estoque-negativo-contagem-62061-2026-08-23.csv`,
+      com nome, unidade de consumo e saldo negativo de cada um. Ver
+      `06-estoque-ingredientes-e-fichas.md`
+- [ ] Nenhuma conferência física feita ainda. Fazer a contagem da lista
+      acima e lançar em `Menu > Estoque > Posição e contagem de estoque`
+      zera a distorção acumulada de uma vez
 
 ## Fase 4: DRE fechando
 
