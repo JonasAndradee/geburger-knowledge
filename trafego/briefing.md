@@ -22,9 +22,9 @@ hora de usar isso, confira de novo antes de decidir em cima do número.
 | 7 | Capacidade da cozinha no pico | FALTANDO | | |
 | 8 | Raio de entrega por unidade | FALTANDO | | |
 | 9 | Instagram e página do Facebook | ACHADO, com ressalva | `00-descoberta.md` | 22/08/2026 |
-| 10 | Domínio e plataforma do cardápio | PARCIAL (canal "Site Delivery (SAIPOS)" confirmado nas vendas, plataforma exata não confirmada) | | |
+| 10 | Domínio e plataforma do cardápio | **Migrando em 23/08/2026 pro Cardápio Web** (`cardapioweb.com`, plataforma separada, não é produto do Saipos). Site novo já no ar em `app.cardapioweb.com/geburger`, domínio próprio `geburger.com.br` sendo configurado essa semana | `02-migracao-cardapio-web.md` | 23/08/2026 |
 | 11 | Pixel e eventos | ACHADO | `00-descoberta.md` | 22/08/2026 |
-| 12 | CAPI | FALTANDO | | |
+| 12 | CAPI | ACHADO: **ativa**, via Signals Gateway, configuração incompleta | `01-fundacao.md` | 22/08/2026 |
 | 13 | EMQ por evento | ACHADO: nota 3, só por user_agent | `00-descoberta.md` | 22/08/2026 |
 | 14 | Catálogo | FALTANDO | | |
 | 15 | Conta de anúncios | ACHADO: `708536560751820` | `00-descoberta.md` | 22/08/2026 |
@@ -56,6 +56,10 @@ com a operação. Ver `../operacao/06-estoque-ingredientes-e-fichas.md`.
 **DRE:** o DRE Gerencial do Saipos não reflete o resultado real hoje (91 de
 97 categorias financeiras sem vínculo de seção). Não usar pra calcular
 margem de contribuição ainda. Ver `../operacao/02-plano-de-contas.md`.
+
+**Endereço físico da loja:** aparece diferente em três sistemas
+(`CLAUDE.md`, iFood, Meta Business). Ver `01-fundacao.md`, seção 2.
+Pendente de confirmação do Jonas.
 
 ## Ativos digitais
 
